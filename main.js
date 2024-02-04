@@ -13,7 +13,7 @@ try {
   logData = [];
 }
 console.log(logData);
-if (logData.length === jsonData.length) {
+if (logData.length >= jsonData.length) {
   logData = [];
 }
 logData.sort((a, b) => b - a);
