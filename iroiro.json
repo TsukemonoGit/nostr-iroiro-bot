@@ -352,5 +352,10 @@
     "title":"Welcome to Nostr! ～ Nostrをはじめよう！ ～",
     "url": "https://welcome.nostr-jp.org/",
     "description": "ようこそ Nostr へ！なサイト"
+  },
+  { "category":"WebSite",
+    "title":"崇德のフリーイラスト置き場🐉",
+    "url": "https://stok33.github.io/freeillusts/",
+    "description": "アイコン・ヘッダー等に使用可！"
   }
 ]
