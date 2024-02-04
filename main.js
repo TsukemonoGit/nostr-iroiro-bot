@@ -3,7 +3,7 @@ import 'websocket-polyfill'
 import { readFile, writeFile } from 'fs/promises'
 import { SimplePool, finalizeEvent, getPublicKey } from 'nostr-tools'
 
-let relays = ['wss://yabu.me', "wss://r.kojira.io/", "nos.lol", "wss://relay-jp.nostr.moctane.com/"]
+let relays = ['wss://yabu.me', "wss://r.kojira.io/", "wss://nos.lol", "wss://relay-jp.nostr.moctane.com/", "wss://relay.nostr.band"]
 
 const jsonData = JSON.parse(await readFile(`${process.argv[3]}/iroiro.json`));
 
