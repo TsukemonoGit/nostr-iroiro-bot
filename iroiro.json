@@ -218,11 +218,6 @@
     "url": "https://nostatus.vercel.app/",
     "description": "ユーザステータスの閲覧に特化したNostrウェブクライアント(NIP-38)"
   },
-  { "category":"client",
-    "title":"nostatus",
-    "url": "https://nostatus.vercel.app/",
-    "description": "ユーザステータスの閲覧に特化したNostrウェブクライアント(NIP-38)"
-  },
   { "category":"browser",
     "title":"spring",
     "url": "https://spring.site/",
