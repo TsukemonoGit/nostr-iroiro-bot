@@ -19,7 +19,7 @@
   { "category":"BOT",
     "title":"もの画像",
     "url": "https://tsukemonogit.github.io/nostr-monoGazo-bot/",
-    "description": "もの画像BOT:nostr:npub1lxrlhyrfdl9sjdvx9xhwhag4d6s95sz3q8z09kgzp0cz73l2ffys9p726u"
+    "description": "もの画像BOT: nostr:npub1lxrlhyrfdl9sjdvx9xhwhag4d6s95sz3q8z09kgzp0cz73l2ffys9p726u "
   },
   { "category":"",
     "title":"dmviewer",
@@ -111,7 +111,7 @@
   { "category":"",
     "title":"野州田川水系定点観測所",
     "url": "https://nostr-hotter-site.vercel.app/",
-    "description": "Nostr 日本リレーの流速をグラフ表示化。流速ちゃん(nostr:npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv)"
+    "description": "Nostr 日本リレーの流速をグラフ表示化。流速ちゃん( nostr:npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv )"
   },
   { "category":"extention",
     "title":"AKA Profiles",
@@ -251,12 +251,12 @@
   { "category":"BOT",
     "title":"ぬるぽ・ｶﾞｯ",
     "url": "https://image-bot.mattn-jp.workers.dev/",
-    "description": "ぬるぽ を許さない(nostr:npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc)"
+    "description": "ぬるぽ を許さない( nostr:npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc )"
   },
   { "category":"relay",
     "title":"しりとリレー",
     "url": "https://srtrelay.c-stellar.net/",
-    "description": "しりとリレーの番人りとりん（nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58）"
+    "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）"
   },
   { "category":"",
     "title":"今日からビットコ",
