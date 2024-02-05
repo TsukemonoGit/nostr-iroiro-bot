@@ -117,7 +117,7 @@
     "category": "BOT",
     "title": "search",
     "url": "nostr:npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26",
-    "description": "サーチさんにリプライすると、検索結果が返ってくる。kindとかfromとかtoとかtagとか指定できる"
+    "description": "サーチさんにメンションすると、検索結果が返ってくる。kindとかfromとかtoとかtagとか指定できる"
   },
   "20": {
     "category": "BOT",
@@ -424,5 +424,29 @@
     "title": "崇德のフリーイラスト置き場🐉",
     "url": "https://stok33.github.io/freeillusts/",
     "description": "アイコン・ヘッダー等に使用可！"
+  },
+  "71": {
+    "category": "tool",
+    "title": "nostr-zap",
+    "url": "https://github.com/SamSamskies/nostr-zap",
+    "description": "自分のサイトに簡単にzapボタンが設置できる！"
+  },
+  "72": {
+    "category": "",
+    "title": "nak (nostr army knife)",
+    "url": "https://nak.nostr.com/",
+    "description": "hexなidをnote~~の形にしたりnpub~~の形にしたりその逆をしたりいろいろできるサイト（CLIツールもある）"
+  },
+  "73": {
+    "category": "BOT",
+    "title": "やぶみちゃん",
+    "url": "nostr:npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r",
+    "description": "やぶみリレー(wss://yabu.me)の情報を伝えたりいろいろするよ！やぶみリレーに繋いでやっぶみーん！っていうと出てくるかも。helpってメンションすると何ができるか教えてくれるよ"
+  },
+  "74": {
+    "category": "BOT",
+    "title": "うにゅう",
+    "url": "nostr:npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t",
+    "description": "えんいー 詳しくはこちら→ https://github.com/nikolat/nostr-unyu"
   }
 }

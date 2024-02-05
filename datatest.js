@@ -21,7 +21,6 @@ function checkForDuplicateTitles(data) {
 
 // テストの実行
 const hasDuplicates = checkForDuplicateTitles(testData);
-
 // 結果の出力
 if (hasDuplicates) {
   console.log(`Error! Duplicate title [ ${hasDuplicates} ]`);
