@@ -18,8 +18,8 @@ $NODE_PATH "$SCRIPTPATH/main.js" "$NSEC" "$SCRIPTPATH" &
 # 実行中のプロセスのIDを取得
 PID=$!
 
-# 5秒間待つ
-sleep 5
+# 15秒間待つ
+sleep 15
 
 # 実行中のプロセスをチェックし、まだ実行中なら強制終了させる
 if ps -p $PID > /dev/null; then
