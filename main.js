@@ -39,12 +39,13 @@ let newEvent = {
 
 const signedEvent = finalizeEvent(newEvent, nsec)
 
-
-await Promise.any(pool.publish(relays, signedEvent))
-
 //log保存
 logData.push(index);
 // ファイルに出力する
 await writeFile(`${process.argv[3]}/postlog.json`, JSON.stringify(logData));
+
+//allsettledがちゃんとおわるかわかんないから先にファイルに出力しちゃう
+await Promise.allSettled(pool.publish(relays, signedEvent))
+
 
 process.exit()
