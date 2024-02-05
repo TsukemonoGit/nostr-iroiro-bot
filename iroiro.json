@@ -448,5 +448,23 @@
     "title": "うにゅう",
     "url": "nostr:npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t",
     "description": "えんいー 詳しくはこちら→ https://github.com/nikolat/nostr-unyu"
+  },
+  "75": {
+    "category": "",
+    "title": "MEGAMOJI",
+    "url": "https://zk-phi.github.io/MEGAMOJI/",
+    "description": "カスタム絵文字をサクッと作れる🐱"
+  },
+  "76": {
+    "category": "",
+    "title": "それ、1個のアカウントで全部できるよ。そう、Nostrならね。",
+    "url": "https://yakihonne.com/article/naddr1qq25kumc2vuryj2nd4r4vvmddye52vjjdfs5zq3q6lrdq99ng2q4hg5ufre5f8j0qpealp8544vq4ctn2wqyrf4tk6uqxpqqqp65wzpqg78",
+    "description": "秘密鍵 (nsec) さえ一つあれば、Nostrプロトコルに準じた様々な種類のクライアントにアクセスすることができます。"
+  },
+  "77": {
+    "category": "",
+    "title": "あいさつは忘れないダチョウ",
+    "url": "https://store.line.me/stickershop/product/25628277/ja",
+    "description": "ひたすら忘れる生き物だって、あいさつは欠かさない。（Lineスタンプ）"
   }
 }
