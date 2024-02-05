@@ -204,19 +204,19 @@
     "description": "世界のリレーが見れるサイト"
   },
   "34": {
-    "category": "Client",
+    "category": "WebClient",
     "title": "うにゅうハウス",
     "url": "https://unyu-house.vercel.app/",
     "description": "パブリックチャットクライアント"
   },
   "35": {
-    "category": "Client",
+    "category": "WebClient",
     "title": "nostter",
     "url": "https://nostter.app/",
     "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる"
   },
   "36": {
-    "category": "Client",
+    "category": "WebClient",
     "title": "rabbit",
     "url": "https://rabbit.syusui.net/",
     "description": "日本製マルチカラムクライアント。エゴサがはかどる"
@@ -252,7 +252,7 @@
     "description": "g tag 付きの kind 1が地図に表示されるサイト"
   },
   "42": {
-    "category": "Client",
+    "category": "WebClient",
     "title": "nostatus",
     "url": "https://nostatus.vercel.app/",
     "description": "ユーザステータスの閲覧に特化したNostrウェブクライアント(NIP-38)"
@@ -264,7 +264,7 @@
     "description": "スマホ用Nostr専用ブラウザ（拡張機能いらず）"
   },
   "44": {
-    "category": "Client",
+    "category": "WebClient",
     "title": "I'm here, Nostr!",
     "url": "https://penpenpng.github.io/imhere-nostr/",
     "description": "geohash をつけて投稿できるクライアント"
