@@ -135,7 +135,7 @@
     "category": "Extention",
     "title": "AKA Profiles",
     "url": "https://chrome.google.com/webstore/detail/aka-profiles/ncmflpbbagcnakkolfpcpogheckolnad/related",
-    "description": "複垢可能なnip-07拡張機能"
+    "description": "複垢可能なログイン拡張機能(nip-07)\n(ログイン拡張機能 (NIP-07)を使ってみよう: https://welcome.nostr-jp.org/tutorial/nip-07.html )"
   },
   "23": {
     "category": "WebSite",
@@ -186,7 +186,7 @@
     "description": "簡単にWebSiteを公開できる。Nostr上の分散型ウェブホスティングソリューション"
   },
   "31": {
-    "category": "Vscode extension",
+    "category": "VScodeExtension",
     "title": "vscode-nostr-client",
     "url": "https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client",
     "description": "A Nostr client in VSCode!"
@@ -472,5 +472,29 @@
     "title": "823API",
     "url": "https://api.yabu.me/",
     "description": "やぶみリレー（wss://yabu.me）のAPI"
+  },
+  "79": {
+    "category": "Extention",
+    "title": "nos2x",
+    "url": "https://chromewebstore.google.com/detail/nos2x/kpgefcfmnafjgpblomihpgmejjdanjjp",
+    "description": "nos2x (Firefox の場合は nos2x-fox) は PC 版 Microsoft Edge/Chrome/Firefox および Android 版 Firefox/Kiwi Browser 向けの拡張機能\n(ログイン拡張機能 (NIP-07)を使ってみよう: https://welcome.nostr-jp.org/tutorial/nip-07.html )"
+  },
+  "80": {
+    "category": "Extention",
+    "title": "nostore",
+    "url": "https://apps.apple.com/jp/app/nostore/id1666553677",
+    "description": "iOS Safari 向けの拡張機能\n( https://welcome.nostr-jp.org/tutorial/nip-07.html#nostore-ios )"
+  },
+  "81": {
+    "category": "WebApp",
+    "title": "nostr-post-checker",
+    "url": "https://koteitan.github.io/nostr-post-checker/",
+    "description": "イベントがどのリレーに存在し、どのリレーに存在していないかを確認するサイト"
+  },
+  "82": {
+    "category": "WebApp",
+    "title": "yakihonne",
+    "url": "https://yakihonne.com/",
+    "description": "ブログ系クライアント\n(長文投稿に対応したクライアント(NIP-23))"
   }
 }
