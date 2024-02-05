@@ -6,23 +6,30 @@ let relays = ['wss://yabu.me', "wss://r.kojira.io/", "wss://nos.lol", "wss://rel
 
 const jsonData = JSON.parse(await readFile(`${process.argv[3]}/iroiro.json`));
 
+const jsonDataIds = Object.keys(jsonData);
+
 let logData;
+
 try {
   logData = JSON.parse(await readFile(`${process.argv[3]}/postlog.json`));
 } catch (error) {
   logData = [];
 }
-console.log(logData);
-if (logData.length >= jsonData.length) {
+//console.log(logData);
+if (logData.length >= Object.keys(jsonData).length) {
   logData = [];
 }
-logData.sort((a, b) => b - a);
-const filteredData = jsonData.filter((item, index) => !logData.includes(index));
-console.log(filteredData);
+//logData.sort((a, b) => b - a);
+const filteredIds = jsonDataIds.filter((id) => !logData.includes(id));
+//console.log(filteredData);
 
-const index = Math.floor(Math.random() * (filteredData.length - 1));
 
-const data = jsonData[index];
+const randomIndex = Math.floor(Math.random() * filteredIds.length);
+//console.log(randomIndex)
+const randomId = filteredIds[randomIndex];
+//console.log(randomId);
+const data = jsonData[randomId];
+//console.log(data);
 
 const content = `${data.title}\n${data.url}\n${data.description}\ncategory: ${(data.category && data.category !== "") ? data.category : 'Uncategorized'}`;
 
@@ -40,7 +47,7 @@ let newEvent = {
 const signedEvent = finalizeEvent(newEvent, nsec)
 
 //log保存
-logData.push(index);
+logData.push(randomId);
 // ファイルに出力する
 await writeFile(`${process.argv[3]}/postlog.json`, JSON.stringify(logData));
 

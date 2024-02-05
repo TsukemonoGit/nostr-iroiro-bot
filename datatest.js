@@ -1,3 +1,4 @@
+//node datatest.js
 import { readFile, writeFile } from 'fs/promises'
 
 const testData = JSON.parse(await readFile(`./iroiro.json`));
@@ -6,12 +7,14 @@ const testData = JSON.parse(await readFile(`./iroiro.json`));
 function checkForDuplicateTitles(data) {
   const titles = new Set(); // 重複をチェックするためのセット
 
-  for (const item of data) {
+  for (const key in data) {
+    const item = data[key];
     if (titles.has(item.title)) {
-      return item.title; // 重複が見つかった場合はtrueを返す
+      return item.title; // 重複が見つかった場合はtitleを返す
     }
     titles.add(item.title); // セットにタイトルを追加
   }
+
 
   return false; // 重複が見つからなかった場合はfalseを返す
 }
