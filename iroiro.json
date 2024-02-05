@@ -466,5 +466,11 @@
     "title": "あいさつは忘れないダチョウ",
     "url": "https://store.line.me/stickershop/product/25628277/ja",
     "description": "ひたすら忘れる生き物だって、あいさつは欠かさない。（Lineスタンプ）"
+  },
+  "78": {
+    "category": "",
+    "title": "823API",
+    "url": "https://api.yabu.me/",
+    "description": "やぶみリレー（wss://yabu.me）のAPI"
   }
 }
