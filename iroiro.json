@@ -1,428 +1,428 @@
-[
-  {
+{
+  "0": {
     "category": "WebApp",
     "title": "のすとびうあ",
     "url": "https://nostviewstr.vercel.app/",
     "description": "いろんなノスリストを見たり編集したりできるやつ"
   },
-  {
+  "1": {
     "category": "WebApp",
     "title": "ぶくまびうあ",
     "url": "https://nostr-bookmark-viewer3.vercel.app/",
     "description": "いろんなブックマークを見たり編集したりできるやつ"
   },
-  {
+  "2": {
     "category": "WebApp",
     "title": "Nostr Note Duplicater (Broadcast)",
     "url": "https://dupstr.vercel.app/",
     "description": "IDがわかっているイベント単体をリレーからリレーにブロードキャストするやつ"
   },
-  {
+  "3": {
     "category": "BOT",
     "title": "もの画像",
     "url": "https://tsukemonogit.github.io/nostr-monoGazo-bot/",
     "description": "もの画像BOT: nostr:npub1lxrlhyrfdl9sjdvx9xhwhag4d6s95sz3q8z09kgzp0cz73l2ffys9p726u "
   },
-  {
+  "4": {
     "category": "WebApp",
     "title": "dmviewer",
     "url": "https://rain8128.github.io/nostr-dmviewer/",
     "description": "シンプルなDMViewer"
   },
-  {
+  "5": {
     "category": "Library",
     "title": "nostr-fetch",
     "url": "https://github.com/jiftechnify/nostr-fetch",
     "description": "Nostrリレーから過去のイベントを簡単に取得できるJS/TSライブラリ"
   },
-  {
+  "6": {
     "category": "Tool",
     "title": "やぶみ通知",
     "url": "https://push.yabu.me",
     "description": "やぶみリレーにて把握したpタグ付きイベント(リプライ)を通知。自分のnpubを購読すると使えます"
   },
-  {
+  "7": {
     "category": "WebApp",
     "title": "tinycs_proto",
     "url": "https://sabowl.sakura.ne.jp/tinycs_proto/",
     "description": "めっちゃうごく（NIP-07必須）"
   },
-  {
+  "8": {
     "category": "WebApp",
     "title": "おいくらサッツ",
     "url": "https://lokuyow.github.io/sats-rate/",
     "description": "サッツ（Sats, Sat, Satoshi）、ビットコイン（bitcoin, BTC）、日本円（JPY）、米ドル（USD）、ユーロ（EUR）の相互換算ツール"
   },
-  {
+  "9": {
     "category": "WebApp",
     "title": "やぶみ検索",
     "url": "https://search.yabu.me/",
     "description": "やぶみリレーの検索ツール"
   },
-  {
+  "10": {
     "category": "WebApp",
     "title": "nosey",
     "url": "https://nosey.vercel.app/",
     "description": "検索アプリ。npub補完があったりfrom:検索ができたりする。"
   },
-  {
+  "11": {
     "category": "WebApp",
     "title": "絵文字 ジェネレーター",
     "url": "https://emoji-gen.ninja/",
     "description": "カスタム絵文字作るのに便利かも"
   },
-  {
+  "12": {
     "category": "",
     "title": "Gyazo-Termux",
     "url": "https://github.com/Lokuyow/gyazo-termux",
     "description": "Android端末で画像の共有ボタンを押してTermuxを選択するとGyazoにアップロード、拡張子付きのURLをクリップボードにコピーすることができます"
   },
-  {
+  "13": {
     "category": "Tool",
     "title": "YGIF",
     "url": "https://aidn.jp/ygif/",
     "description": "画像を読み込んでGIFアニメを生成するウェブツール"
   },
-  {
+  "14": {
     "category": "WebApp",
     "title": "Nostr Event Deletion",
     "url": "https://nostr-delete.vercel.app/",
     "description": "Nostrのイベント削除ツール"
   },
-  {
+  "15": {
     "category": "Library",
     "title": "nostr-key-value",
     "url": "https://www.npmjs.com/package/nostr-key-value",
     "description": "Nostr を Key-Value の DB として使用するためのJS/TSライブラリ（NIP-78）"
   },
-  {
+  "16": {
     "category": "Tool",
     "title": "nosdump",
     "url": "https://github.com/jiftechnify/nosdump",
     "description": "Nostrリレーに保存されたイベントをJSON-Lines形式で出力するツール"
   },
-  {
+  "17": {
     "category": "WebSite",
     "title": "やぶみ観測所",
     "url": "https://status.yabu.me/",
     "description": "やぶみんツールや日本リレー、主要なグローバルリレーの稼働状況が見れます"
   },
-  {
+  "18": {
     "category": "BOT",
     "title": "日本人ユーザー (bot)",
     "url": "nostr:npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p",
     "description": "日本人を繋げてくれるBOT"
   },
-  {
+  "19": {
     "category": "BOT",
     "title": "search",
     "url": "nostr:npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26",
     "description": "サーチさんにリプライすると、検索結果が返ってくる。kindとかfromとかtoとかtagとか指定できる"
   },
-  {
+  "20": {
     "category": "BOT",
     "title": "REQ",
     "url": "nostr:npub1x22zy06nn8h44cycdv4trxp8v0dv8qq3ayahpkrcn3rh90gp552sqs8hmv",
     "description": "@REQ <filter> でNIP-01のフィルターを渡すと結果を返してくれる"
   },
-  {
+  "21": {
     "category": "WebApp",
     "title": "野州田川水系定点観測所",
     "url": "https://nostr-hotter-site.vercel.app/",
     "description": "Nostr 日本リレーの流速をグラフ表示化。流速ちゃん( nostr:npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv )"
   },
-  {
+  "22": {
     "category": "Extention",
     "title": "AKA Profiles",
     "url": "https://chrome.google.com/webstore/detail/aka-profiles/ncmflpbbagcnakkolfpcpogheckolnad/related",
     "description": "複垢可能なnip-07拡張機能"
   },
-  {
+  "23": {
     "category": "WebSite",
     "title": "手を動かして学ぶNostrプロトコル",
     "url": "https://github.com/nostr-jp/learn-nostr-by-crafting",
     "description": "Hello Nostr! 先住民が教えるNosteの歩き方 (技術書典にて頒布) 内の記事「手を動かして学ぶ Nostrプロトコル」(pp.65-75) の演習環境を含むリポジトリ"
   },
-  {
+  "24": {
     "category": "BOT",
     "title": "mochi",
     "url": "nostr:npub19xm6kcedxef3232d222gj0sxql8vs2tutyg0fq4z6875zfs3d8ascl440n",
     "description": "もちもち"
   },
-  {
+  "25": {
     "category": "WebApp",
     "title": "Nostrends",
     "url": "https://nostrends.vercel.app/",
     "description": "グローバルと日本それぞれの人気ポストを見ることができます"
   },
-  {
+  "26": {
     "category": "BOT",
     "title": "レドメ商事",
     "url": "nostr:npub1rrp5xjlnxt7tahstuewlzs83h7ddrwlkey3jg26mftre3snk5ddskxxsaw",
     "description": "Botの輸入、イベント代行ならレドメ商事！"
   },
-  {
+  "27": {
     "category": "WebApp",
     "title": "1-2演習改「誰かの投稿を検索するやつ」",
     "url": "https://showhyuga.pages.dev/utility/nos_search",
     "description": "自分の投稿を日付とキーワードで検索するツール"
   },
-  {
+  "28": {
     "category": "WebApp",
     "title": "nostr.json generator",
     "url": "https://snowcait.github.io/nostr-json-generator",
     "description": "NIP-65またはNIP-07からnostr.jsonを生成するツール"
   },
-  {
+  "29": {
     "category": "WebApp",
     "title": "Shotr",
     "url": "https://github.com/ocknamo/shotr",
     "description": "nostrによるショートURLサービス"
   },
-  {
+  "30": {
     "category": "WebApp",
     "title": "Hostr",
     "url": "https://h.hostr.cc/p/2d417bce8c10883803bc427703e3c4c024465c88e7063ed68f9dfeecf56911ac/d/hostr-lp",
     "description": "簡単にWebSiteを公開できる。Nostr上の分散型ウェブホスティングソリューション"
   },
-  {
+  "31": {
     "category": "Vscode extension",
     "title": "vscode-nostr-client",
     "url": "https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client",
     "description": "A Nostr client in VSCode!"
   },
-  {
+  "32": {
     "category": "WebApp",
     "title": "nostrlogs",
     "url": "https://nostrlogs-relay-jp.nostr.wirednet.jp/nostrlogs.html",
     "description": "複数のNostrリレーから全投稿を収集して日付ごとに表示するtwilog的なものです。\n合わせて取得した過去ログを指定された同期先リレーサーバーに書き込んでバックアップ出来ます。"
   },
-  {
+  "33": {
     "category": "WebSite",
     "title": "nostr.watch",
     "url": "https://nostr.watch/relays/find",
     "description": "世界のリレーが見れるサイト"
   },
-  {
+  "34": {
     "category": "Client",
     "title": "うにゅうハウス",
     "url": "https://unyu-house.vercel.app/",
     "description": "パブリックチャットクライアント"
   },
-  {
+  "35": {
     "category": "Client",
     "title": "nostter",
     "url": "https://nostter.app/",
     "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる"
   },
-  {
+  "36": {
     "category": "Client",
     "title": "rabbit",
     "url": "https://rabbit.syusui.net/",
     "description": "日本製マルチカラムクライアント。エゴサがはかどる"
   },
-  {
+  "37": {
     "category": "WebApp",
     "title": "Markostr",
     "url": "https://penpenpng.github.io/markostr/",
     "description": "みんなまるこふになれる"
   },
-  {
+  "38": {
     "category": "Extention",
     "title": "nostronger",
     "url": "https://github.com/penpenpng/nostronger",
     "description": "筋肉とリングコンで署名するためのNIP-07拡張機能"
   },
-  {
+  "39": {
     "category": "WebApp",
     "title": "Nostr playground",
     "url": "https://snowcait.github.io/nostr-playground/",
     "description": "JSON-based web client written in plain JavaScript."
   },
-  {
+  "40": {
     "category": "WebApp",
     "title": "N Raw Writer",
     "url": "https://n-raw-writer.pages.dev/",
     "description": "Sign Nostr's raw JSON event with NIP-07 and propagate it to the relay."
   },
-  {
+  "41": {
     "category": "WebApp",
     "title": "mapnos",
     "url": "https://mapnos.vercel.app/",
     "description": "g tag 付きの kind 1が地図に表示されるサイト"
   },
-  {
+  "42": {
     "category": "Client",
     "title": "nostatus",
     "url": "https://nostatus.vercel.app/",
     "description": "ユーザステータスの閲覧に特化したNostrウェブクライアント(NIP-38)"
   },
-  {
+  "43": {
     "category": "Browser",
     "title": "spring",
     "url": "https://spring.site/",
     "description": "スマホ用Nostr専用ブラウザ（拡張機能いらず）"
   },
-  {
+  "44": {
     "category": "Client",
     "title": "I'm here, Nostr!",
     "url": "https://penpenpng.github.io/imhere-nostr/",
     "description": "geohash をつけて投稿できるクライアント"
   },
-  {
+  "45": {
     "category": "WebSite",
     "title": "nostr-protocol/nipsの和訳",
     "url": "https://github.com/nostr-jp/nips-ja",
     "description": ""
   },
-  {
+  "46": {
     "category": "",
     "title": "Nostr Anonymous Reply",
     "url": "https://nostr-anon-reply.vercel.app/",
     "description": "匿名で ハッシュタグなど 送るやつ"
   },
-  {
+  "47": {
     "category": "",
     "title": "NostrFlu",
     "url": "https://heguro.github.io/nostr-following-list-util/",
     "description": "Nostrのフォローリストを集めたり再送信するやつ。バッジも見れる！"
   },
-  {
+  "48": {
     "category": "BOT",
     "title": "ぬるぽ・ｶﾞｯ",
     "url": "https://image-bot.mattn-jp.workers.dev/",
     "description": "ぬるぽ を許さない( nostr:npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc )"
   },
-  {
+  "49": {
     "category": "Relay",
     "title": "しりとリレー",
     "url": "https://srtrelay.c-stellar.net/",
     "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）"
   },
-  {
+  "50": {
     "category": "WebApp",
     "title": "今日からビットコ",
     "url": "https://lokuyow.github.io/btc-dca-simulator/",
     "description": "もしあの日からビットコインを積み立てていたら..."
   },
-  {
+  "51": {
     "category": "WebApp",
     "title": "SNSいまどんな感じ？",
     "url": "https://sns.uwith.net/",
     "description": "世の中のSNSでいまどんな話題が呟かれているのか、なんとなくざっくり見るためのサイト"
   },
-  {
+  "52": {
     "category": "WebApp",
     "title": "Nekodake",
     "url": "https://nekodake.hoku.in/",
     "description": "このSNSに投稿された書き込みは全て猫工知能NI（Nyartificial Intelligence）によって猫語に自動変換されます。"
   },
-  {
+  "53": {
     "category": "WebSite",
     "title": "Nostr Advent Calendar 2023",
     "url": "https://adventar.org/calendars/8794",
     "description": "分散SNS等に活用できる、Websocketベースのプロトコル「Nostr」のアドベントカレンダー"
   },
-  {
+  "54": {
     "category": "Framework",
     "title": "strfrui",
     "url": "https://github.com/jiftechnify/strfrui",
     "description": "strfryのイベント・シフター（書き込みポリシー）プラグインをGoで書くためのフレームワーク。"
   },
-  {
+  "55": {
     "category": "",
     "title": "NostrのDMをなんかするやつ",
     "url": "https://nikolat.github.io/nostr-dm/",
     "description": "NostrのDM見たり送信したりできるやつ"
   },
-  {
+  "56": {
     "category": "",
     "title": "embed.nostr.band",
     "url": "https://embed.nostr.band/",
     "description": "Nostrの投稿やプロフィールをウェブページに埋め込むことができます！"
   },
-  {
+  "57": {
     "category": "",
     "title": "Advanced Nostr Search",
     "url": "https://advancednostrsearch.vercel.app/",
     "description": "日付指定ワード指定などができる検索ツール"
   },
-  {
+  "58": {
     "category": "",
     "title": "とにかく忘れるダチョウ",
     "url": "https://store.line.me/stickershop/product/25181618/ja",
     "description": "Lineスタンプ"
   },
-  {
+  "59": {
     "category": "",
     "title": "chronostr",
     "url": "https://chronostr.pages.dev/",
     "description": "Nostr上で動作するスケジュール調整とRSVPツール。Nostr版調整さん"
   },
-  {
+  "60": {
     "category": "WebSite",
     "title": "Fundraising for Nostr creators",
     "url": "https://github.com/kimymt/nostrfundrasinglinks/blob/main/README.md",
     "description": "ノスター・クリエイターのための募金活動"
   },
-  {
+  "61": {
     "category": "WebSite",
     "title": "Bluesky vs. Nostr",
     "url": "https://bluesky-vs-nostr.vercel.app/",
     "description": ""
   },
-  {
+  "62": {
     "category": "WebApp",
     "title": "Noseatr",
     "url": "https://mimonelu.github.io/khaos-ram/#/noseatr",
     "description": "Nostrに海の生き物を放流しましょう！"
   },
-  {
+  "63": {
     "category": "WebApp",
     "title": "emojis",
     "url": "https://ngine-emojis.vercel.app/",
     "description": "カスタム絵文字を登録したりできるサイト"
   },
-  {
+  "64": {
     "category": "WebApp",
     "title": "badges",
     "url": "https://badges.page/",
     "description": "バッジを作ったりできるサイト"
   },
-  {
+  "65": {
     "category": "",
     "title": "Nostr NIP-56 Board",
     "url": "https://nostr-kind1984-display.vercel.app/",
     "description": "NIP-56 (kind:1984)を眺めるサイト"
   },
-  {
+  "66": {
     "category": "WebApp",
     "title": "Nostr hours",
     "url": "https://snowcait.github.io/nostr-hours/",
     "description": "活動時間帯を可視化するサイト"
   },
-  {
+  "67": {
     "category": "BOT",
     "title": "NIPs 占い",
     "url": "nostr:npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0",
     "description": "今日のラッキー NIP を占うBOT"
   },
-  {
+  "68": {
     "category": "WebSite",
     "title": "nostr(scrapbox)",
     "url": "https://scrapbox.io/nostr/",
     "description": "Nostrに関する情報をみんなで集めてまとめてくださっているサイト"
   },
-  {
+  "69": {
     "category": "WebSite",
     "title": "Welcome to Nostr! ～ Nostrをはじめよう！ ～",
     "url": "https://welcome.nostr-jp.org/",
     "description": "ようこそ Nostr へ！なサイト"
   },
-  {
+  "70": {
     "category": "WebSite",
     "title": "崇德のフリーイラスト置き場🐉",
     "url": "https://stok33.github.io/freeillusts/",
     "description": "アイコン・ヘッダー等に使用可！"
   }
-]
+}
