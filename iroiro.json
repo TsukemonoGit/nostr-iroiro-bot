@@ -20,8 +20,8 @@
   "3": {
     "category": "BOT",
     "title": "もの画像",
-    "url": "https://tsukemonogit.github.io/nostr-monoGazo-bot/",
-    "description": "もの画像BOT: nostr:npub1lxrlhyrfdl9sjdvx9xhwhag4d6s95sz3q8z09kgzp0cz73l2ffys9p726u "
+    "url": "nostr:npub1lxrlhyrfdl9sjdvx9xhwhag4d6s95sz3q8z09kgzp0cz73l2ffys9p726u",
+    "description": "もの画像のサイト https://tsukemonogit.github.io/nostr-monoGazo-bot/"
   },
   "4": {
     "category": "WebApp",
@@ -502,5 +502,35 @@
     "title": "Nostrのカスタム絵文字の使い方",
     "url": "https://habla.news/u/lokuyow.github.io/xVMTZxHcV_NWKuTbDBUYs",
     "description": ""
+  },
+  "84": {
+    "category": "BOT",
+    "title": "Remind Me Bot",
+    "url": "nostr:npub1rmndme2y9d5lxun58dntu38hx5pl6jwvnpm77d0cqfnw8e6wjh8s2gzzgs",
+    "description": "リマインダボット\n!RemindMe 1 min \"message\"などと投稿しておくとその時間にリマインドしてくれるでしょう。\n海外でも利用できるように時間帯設定があります。\n!RemindMe TZ Asia/Tokyo\nと入れておけば日本時間で動くようになります。標準はUTCです。"
+  },
+  "85": {
+    "category": "WebSite",
+    "title": "Nostr Design",
+    "url": "https://nostrdesign.org/docs/resources/",
+    "description": "nostrのデザイナーや開発者にとって便利なリソースのリスト"
+  },
+  "86": {
+    "category": "Book",
+    "title": "Hello Nostr! 先住民が教えるNostrの歩き方",
+    "url": "https://nip-book.nostr-jp.org/book/1/",
+    "description": "技術書典14にて製作販売されたNostr本。電子版も有ります。"
+  },
+  "87": {
+    "category": "Book",
+    "title": "Hello Nostr! Yo Bluesky! 分散SNSの最前線",
+    "url": "https://nip-book.nostr-jp.org/book/2/",
+    "description": "技術書典15にて製作販売されたNostr&Blueskyの本。電子版も有ます。"
+  },
+  "88": {
+    "category": "Event",
+    "title": "Nostrasia",
+    "url": "https://nostr.world/capsules/capsule2.html",
+    "description": "2023/11/1-3に開催された、第2回 Nostr.world Unconference\nアジアの2つの会場が用意された（東京会場: アンカンファレンス、香港会場: ミートアップ）\nアーカイブはこちら https://www.youtube.com/@nostrasia/videos 日本人登壇者も多数！ \nちなみに第1回は Nostrica\n第3回は Nostriga で 2024/8/22-23 開催！\n（ https://nostr.world/index.html ）"
   }
 }
