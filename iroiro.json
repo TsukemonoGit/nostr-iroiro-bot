@@ -318,7 +318,7 @@
     "description": "このSNSに投稿された書き込みは全て猫工知能NI（Nyartificial Intelligence）によって猫語に自動変換されます。"
   },
   "53": {
-    "category": "WebSite",
+    "category": "Article",
     "title": "Nostr Advent Calendar 2023",
     "url": "https://adventar.org/calendars/8794",
     "description": "分散SNS等に活用できる、Websocketベースのプロトコル「Nostr」のアドベントカレンダー"
@@ -360,7 +360,7 @@
     "description": "Nostr上で動作するスケジュール調整とRSVPツール。Nostr版調整さん"
   },
   "60": {
-    "category": "WebSite",
+    "category": "Article",
     "title": "Fundraising for Nostr creators",
     "url": "https://github.com/kimymt/nostrfundrasinglinks/blob/main/README.md",
     "description": "Nostr protocol に関連する、支援金および資金調達手段のリンク集"
@@ -456,7 +456,7 @@
     "description": "カスタム絵文字をサクッと作れる🐱"
   },
   "76": {
-    "category": "",
+    "category": "Article",
     "title": "それ、1個のアカウントで全部できるよ。そう、Nostrならね。",
     "url": "https://yakihonne.com/article/naddr1qq25kumc2vuryj2nd4r4vvmddye52vjjdfs5zq3q6lrdq99ng2q4hg5ufre5f8j0qpealp8544vq4ctn2wqyrf4tk6uqxpqqqp65wzpqg78",
     "description": "秘密鍵 (nsec) さえ一つあれば、Nostrプロトコルに準じた様々な種類のクライアントにアクセスすることができます。"
@@ -496,5 +496,11 @@
     "title": "yakihonne",
     "url": "https://yakihonne.com/",
     "description": "ブログ系クライアント\n(長文投稿に対応したクライアント(NIP-23))"
+  },
+  "83": {
+    "category": "Article",
+    "title": "Nostrのカスタム絵文字の使い方",
+    "url": "https://habla.news/u/lokuyow.github.io/xVMTZxHcV_NWKuTbDBUYs",
+    "description": ""
   }
 }

@@ -31,3 +31,5 @@ Botなのかクライアントなのかなんなのかみたいなカテゴリ�
  - Tool: ツール…
 
  - Uncategorized: 未分類
+
+ - Article: よみもの
