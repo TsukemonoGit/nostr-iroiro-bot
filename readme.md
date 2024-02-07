@@ -33,3 +33,40 @@ Botなのかクライアントなのかなんなのかみたいなカテゴリ�
  - Uncategorized: 未分類
 
  - Article: よみもの
+
+
+
+ #### memo
+
+ .git/hooks/pre-commit
+ ファイルを作って
+ ```
+ #!/bin/bash
+
+# Run the data test script
+node datatest.js
+
+# Check the exit status of the data test script
+if [ $? -ne 0 ]; then
+    echo "Data test failed. Please fix the issues before committing."
+    exit 1
+fi
+
+# If the data test passed, allow the commit
+exit 0
+
+ ```
+ 
+ て書いて
+ 
+ ```
+ chmod +x .git/hooks/pre-commit
+ ```
+ 
+ ってしておくと
+
+ git commit のときにnode datatest.jsが動いて
+
+ タイトルの重複とURLの重複チェックが動いて
+ 
+ OKだったらcommitされるようになる
