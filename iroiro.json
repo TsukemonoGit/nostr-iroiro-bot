@@ -540,9 +540,9 @@
     "description": "リンクリストの作成、管理、発見などを行うNostrベースのアプリケーション。"
   },
   "90": {
-    "category": "WebApp",
-    "title": "Nostree",
-    "url": "https://nostree.me/",
-    "description": "リンクリストの作成、管理、発見などを行うNostrベースのアプリケーション。"
+    "category": "BOT",
+    "title": "I_RUN_CODE",
+    "url": "nostr:npub1runc0de8jlttarfj5zaej0qeu6v8vh7446mxc0ncs4cxj0qytkrsqskp0s",
+    "description": " \"/run\" コマンドで動きます。\nサポート言語は: \"/run help\"コマンドで確認できます"
   }
 }
