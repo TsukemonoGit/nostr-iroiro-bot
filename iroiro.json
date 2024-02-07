@@ -598,5 +598,11 @@
     "title": "rx-nostr",
     "url": "https://penpenpng.github.io/rx-nostr/",
     "description": "Nostr アプリケーションがリレーとより簡単に通信するための RxJS に基づくライブラリ"
+  },
+  "100": {
+    "category": "WebApp",
+    "title": "zap.stream",
+    "url": "https://zap.stream/",
+    "description": "Nostr Live stream"
   }
 }
