@@ -532,5 +532,11 @@
     "title": "Nostrasia",
     "url": "https://nostr.world/capsules/capsule2.html",
     "description": "2023/11/1-3に開催された、第2回 Nostr.world Unconference\nアジアの2つの会場が用意された（東京会場: アンカンファレンス、香港会場: ミートアップ）\nアーカイブはこちら https://www.youtube.com/@nostrasia/videos 日本人登壇者も多数！ \nちなみに第1回は Nostrica\n第3回は Nostriga で 2024/8/22-23 開催！\n（ https://nostr.world/index.html ）"
+  },
+  "89": {
+    "category": "WebApp",
+    "title": "Nostree",
+    "url": "https://nostree.me/",
+    "description": "リンクリストの作成、管理、発見などを行うNostrベースのアプリケーション。"
   }
 }
