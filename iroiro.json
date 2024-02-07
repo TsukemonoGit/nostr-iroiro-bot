@@ -544,5 +544,29 @@
     "title": "I_RUN_CODE",
     "url": "nostr:npub1runc0de8jlttarfj5zaej0qeu6v8vh7446mxc0ncs4cxj0qytkrsqskp0s",
     "description": " \"/run\" コマンドで動きます。\nサポート言語は: \"/run help\"コマンドで確認できます"
+  },
+  "91": {
+    "category": "BOT",
+    "title": "名言画像 bot",
+    "url": "nostr:npub1psztp4ewrnntks87ehkxeuvx5kpaspnk7hens6ycr3u7uptndsuskn58dc",
+    "description": "名言だなと思った投稿に対して#makeitquoteというリプを送ると、BOTが画像にしてくれます"
+  },
+  "92": {
+    "category": "BOT",
+    "title": "Nosli",
+    "url": "https://nosli.vercel.app/",
+    "description": "Nosli (ノスリ) 投稿まとめ作成ツール"
+  },
+  "93": {
+    "category": "",
+    "title": "Nostify",
+    "url": "https://github.com/kojira/nostify",
+    "description": "Nostrのリレーサーバーに接続して、discordに投稿するdiscord bot"
+  },
+  "94": {
+    "category": "",
+    "title": "angolmois",
+    "url": "https://github.com/nikolat/angolmois",
+    "description": "Nostrリレーから投稿を取得して表示するWebアプリ\n投稿を表示すると同時に伺か互換ベースウェア(SSTPサーバー)にSSTPを送信し、ゴースト(キャラクター)に投稿を喋らせます。"
   }
 }
