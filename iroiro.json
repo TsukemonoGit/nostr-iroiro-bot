@@ -426,7 +426,7 @@
     "description": "アイコン・ヘッダー等に使用可！"
   },
   "71": {
-    "category": "tool",
+    "category": "Tool",
     "title": "nostr-zap",
     "url": "https://github.com/SamSamskies/nostr-zap",
     "description": "自分のサイトに簡単にzapボタンが設置できる！"
@@ -586,5 +586,17 @@
     "title": "Nosaray",
     "url": "https://nosaray.vercel.app/",
     "description": "過去のタイムラインをおさらいできるツール"
+  },
+  "98": {
+    "category": "Client",
+    "title": "algia",
+    "url": "https://github.com/mattn/algia",
+    "description": "Nostrの CLI クライアント"
+  },
+  "99": {
+    "category": "Library",
+    "title": "rx-nostr",
+    "url": "https://penpenpng.github.io/rx-nostr/",
+    "description": "Nostr アプリケーションがリレーとより簡単に通信するための RxJS に基づくライブラリ"
   }
 }
