@@ -552,7 +552,7 @@
     "description": "名言だなと思った投稿に対して#makeitquoteというリプを送ると、BOTが画像にしてくれます"
   },
   "92": {
-    "category": "BOT",
+    "category": "WebApp",
     "title": "Nosli",
     "url": "https://nosli.vercel.app/",
     "description": "Nosli (ノスリ) 投稿まとめ作成ツール"
@@ -604,5 +604,11 @@
     "title": "zap.stream",
     "url": "https://zap.stream/",
     "description": "Nostr Live stream"
+  },
+  "101": {
+    "category": "WebApp",
+    "title": "Nostr井ラスト倉庫",
+    "url": "https://stok33.github.io/NostrIllustStock/",
+    "description": "公開鍵で指定したユーザーが投稿している「#illust」タグつきの投稿を100件まで表示"
   }
 }
