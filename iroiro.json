@@ -213,7 +213,7 @@
     "category": "WebClient",
     "title": "nostter",
     "url": "https://nostter.app/",
-    "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる"
+    "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる\n\nhttps://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv/2024/02/11\nみたいな感じで日付ごとの投稿が見れる\n\nhttps://nostter.app/latest\nでフォロイーの最新の投稿が見れる"
   },
   "36": {
     "category": "WebClient",
@@ -285,7 +285,7 @@
     "category": "",
     "title": "NostrFlu",
     "url": "https://heguro.github.io/nostr-following-list-util/",
-    "description": "Nostrのフォローリストを集めたり再送信するやつ。バッジも見れる！"
+    "description": "Nostrのフォローリストを集めたり再送信するやつ。フォローが飛んだときはこれで復元できるかも！\nあとバッジも見れる！"
   },
   "48": {
     "category": "BOT",
@@ -549,7 +549,7 @@
     "category": "BOT",
     "title": "名言画像 bot",
     "url": "nostr:npub1psztp4ewrnntks87ehkxeuvx5kpaspnk7hens6ycr3u7uptndsuskn58dc",
-    "description": "名言だなと思った投稿に対して#makeitquoteというリプを送ると、BOTが画像にしてくれます"
+    "description": "名言だなと思った投稿に対して#makeitquote or #goodpoem というリプを送ると、BOTが画像にしてくれます"
   },
   "92": {
     "category": "WebApp",

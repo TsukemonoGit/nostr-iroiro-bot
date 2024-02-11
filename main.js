@@ -4,6 +4,7 @@ import { SimplePool, finalizeEvent, getPublicKey } from 'nostr-tools'
 
 let relays = ['wss://yabu.me', "wss://r.kojira.io/", "wss://nos.lol", "wss://relay-jp.nostr.moctane.com/", "wss://relay.nostr.band", "wss://relay.nostr.wirednet.jp/"]
 
+const i_list = process.argv.length > 4 ? process.argv[4] : undefined;
 const jsonData = JSON.parse(await readFile(`${process.argv[3]}/iroiro.json`));
 
 const jsonDataIds = Object.keys(jsonData);
@@ -28,7 +29,7 @@ const randomIndex = Math.floor(Math.random() * filteredIds.length);
 //console.log(randomIndex)
 const randomId = filteredIds[randomIndex];
 //console.log(randomId);
-const data = jsonData[randomId];
+const data = jsonData[i_list ? i_list : randomId];
 //console.log(data);
 
 const content = `${data.title}\n${data.url}\n${data.description}\ncategory: ${(data.category && data.category !== "") ? data.category : 'Uncategorized'}`;
@@ -45,12 +46,12 @@ let newEvent = {
 }
 
 const signedEvent = finalizeEvent(newEvent, nsec)
-
-//log保存
-logData.push(randomId);
-// ファイルに出力する
-await writeFile(`${process.argv[3]}/postlog.json`, JSON.stringify(logData));
-
+if (i_list === undefined) {//引数指定して実行したときのはノーカン
+  //log保存
+  logData.push(randomId);
+  // ファイルに出力する
+  await writeFile(`${process.argv[3]}/postlog.json`, JSON.stringify(logData));
+}
 //allsettledがちゃんとおわるかわかんないから先にファイルに出力しちゃう
 await Promise.allSettled(pool.publish(relays, signedEvent))
 
