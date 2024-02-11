@@ -622,5 +622,11 @@
     "title": "Nostr Nests",
     "url": "https://nostrnests.com/",
     "description": "audio space（通話アプリ）"
+  },
+  "104": {
+    "category": "",
+    "title": "App Manager",
+    "url": "https://nostrapp.link/",
+    "description": "いろんなNostrアプリの情報がまとめられているサイト"
   }
 }
