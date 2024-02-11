@@ -223,7 +223,7 @@
     "category": "WebClient",
     "title": "rabbit",
     "url": "https://rabbit.syusui.net/",
-    "description": "日本製マルチカラムクライアント。エゴサがはかどる"
+    "description": "日本製マルチカラムクライアント。エゴサがはかどる。ハッシュタグ固定もできる。他にもいろいろできる"
   },
   "37": {
     "category": "WebApp",
@@ -601,7 +601,7 @@
     "category": "Client",
     "title": "algia",
     "url": "https://github.com/mattn/algia",
-    "description": "Nostrの CLI クライアント"
+    "description": "Nostrの CLI クライアント。Nost+algia (ノスタルジア) "
   },
   "99": {
     "category": "Library",
@@ -647,5 +647,19 @@
     "url": "https://stemstr.app/",
     "description": "音楽共有サイト？",
     "kind":1808
+  },
+  "106": {
+    "category": "WebSite",
+    "title": "ZapLife",
+    "url": "https://zaplife.lol/",
+    "description": "リアルタイムでZAPの流れを見ることができるサイト",
+    "kind":9735
+  },
+  "107": {
+    "category": "",
+    "title": "nostrbuzzs",
+    "url": "https://nostrbuzzs.deno.dev/",
+    "description": "英語・日本語のNostrのトレンドワード"
+   
   }
 }
