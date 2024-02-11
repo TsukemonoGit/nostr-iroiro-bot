@@ -2,15 +2,24 @@
 https://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv
 
 
+
+
+
 crontab
 
-15,45 * * * * bash /main.sh
+16 * * * * bash /main.sh
 
 みたいな感じで動かしてます
 
 Nostrに関するまたはNostrで便利なツールとかあれば随時追加予定
 
 Botなのかクライアントなのかなんなのかみたいなカテゴリを作りたかったけど分け方が分からな
+
+---
+番号指定して手動実行したいときは
+```bash main.sh 35```
+みたいなかんじでできる
+
 
 ### categoryについて
 
@@ -33,7 +42,6 @@ Botなのかクライアントなのかなんなのかみたいなカテゴリ�
  - Uncategorized: 未分類
 
  - Article: よみもの
-
 
 
  #### memo
@@ -71,6 +79,3 @@ exit 0
  
  OKだったらcommitされるようになる
 
-番号指定して手動実行したいときは
-```bash main.sh 35```
-みたいなかんじでできる
