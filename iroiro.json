@@ -610,5 +610,17 @@
     "title": "Nostr井ラスト倉庫",
     "url": "https://stok33.github.io/NostrIllustStock/",
     "description": "公開鍵で指定したユーザーが投稿している「#illust」タグつきの投稿を100件まで表示"
+  },
+  "102": {
+    "category": "WebApp",
+    "title": "NostrChat",
+    "url": "https://www.nostrchat.io/",
+    "description": "チャットアプリ"
+  },
+  "103": {
+    "category": "WebApp",
+    "title": "Nostr Nests",
+    "url": "https://nostrnests.com/",
+    "description": "audio space（通話アプリ）"
   }
 }
