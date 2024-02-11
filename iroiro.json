@@ -27,7 +27,8 @@
     "category": "WebApp",
     "title": "dmviewer",
     "url": "https://rain8128.github.io/nostr-dmviewer/",
-    "description": "シンプルなDMViewer"
+    "description": "シンプルなDMViewer",
+    "kind":4
   },
   "5": {
     "category": "Library",
@@ -87,13 +88,15 @@
     "category": "WebApp",
     "title": "Nostr Event Deletion",
     "url": "https://nostr-delete.vercel.app/",
-    "description": "Nostrのイベント削除ツール"
+    "description": "Nostrのイベント削除ツール",
+    "kind":5
   },
   "15": {
     "category": "Library",
     "title": "nostr-key-value",
     "url": "https://www.npmjs.com/package/nostr-key-value",
-    "description": "Nostr を Key-Value の DB として使用するためのJS/TSライブラリ（NIP-78）"
+    "description": "Nostr を Key-Value の DB として使用するためのJS/TSライブラリ（NIP-78）",
+    "kind":30078
   },
   "16": {
     "category": "Tool",
@@ -207,7 +210,8 @@
     "category": "WebClient",
     "title": "うにゅうハウス",
     "url": "https://unyu-house.vercel.app/",
-    "description": "パブリックチャットクライアント"
+    "description": "パブリックチャットクライアント",
+    "kind":42
   },
   "35": {
     "category": "WebClient",
@@ -255,7 +259,8 @@
     "category": "WebClient",
     "title": "nostatus",
     "url": "https://nostatus.vercel.app/",
-    "description": "ユーザステータスの閲覧に特化したNostrウェブクライアント(NIP-38)"
+    "description": "ユーザステータスの閲覧に特化したNostrウェブクライアント(NIP-38)",
+    "kind":30315
   },
   "43": {
     "category": "Browser",
@@ -333,7 +338,8 @@
     "category": "",
     "title": "NostrのDMをなんかするやつ",
     "url": "https://nikolat.github.io/nostr-dm/",
-    "description": "NostrのDM見たり送信したりできるやつ"
+    "description": "NostrのDM見たり送信したりできるやつ",
+    "kind":4
   },
   "56": {
     "category": "",
@@ -381,19 +387,22 @@
     "category": "WebApp",
     "title": "emojito",
     "url": "https://emojito.meme/",
-    "description": "カスタム絵文字を登録したりできるサイト"
+    "description": "カスタム絵文字を登録したりできるサイト",
+    "kind":30030
   },
   "64": {
     "category": "WebApp",
     "title": "badges",
     "url": "https://badges.page/",
-    "description": "バッジを作ったりできるサイト"
+    "description": "バッジを作ったりできるサイト",
+    "kind":30009
   },
   "65": {
     "category": "",
     "title": "Nostr NIP-56 Board",
     "url": "https://nostr-kind1984-display.vercel.app/",
-    "description": "NIP-56 (kind:1984)を眺めるサイト"
+    "description": "NIP-56 (通報)を眺めるサイト",
+    "kind":1984
   },
   "66": {
     "category": "WebApp",
@@ -555,7 +564,8 @@
     "category": "WebApp",
     "title": "Nosli",
     "url": "https://nosli.vercel.app/",
-    "description": "Nosli (ノスリ) 投稿まとめ作成ツール"
+    "description": "Nosli (ノスリ) 投稿まとめ作成ツール",
+    "kind":30023
   },
   "93": {
     "category": "",
@@ -603,7 +613,8 @@
     "category": "WebApp",
     "title": "zap.stream",
     "url": "https://zap.stream/",
-    "description": "Nostr Live stream"
+    "description": "Nostr Live stream",
+    "kind":30311
   },
   "101": {
     "category": "WebApp",
@@ -615,7 +626,7 @@
     "category": "WebApp",
     "title": "NostrChat",
     "url": "https://www.nostrchat.io/",
-    "description": "チャットアプリ"
+    "description": "DM・チャットアプリケーション"
   },
   "103": {
     "category": "WebApp",
@@ -627,6 +638,14 @@
     "category": "",
     "title": "App Manager",
     "url": "https://nostrapp.link/",
-    "description": "いろんなNostrアプリの情報がまとめられているサイト"
+    "description": "いろんなNostrアプリの情報がまとめられているサイト",
+    "kind":31989
+  },
+  "105": {
+    "category": "",
+    "title": "Stemstr",
+    "url": "https://stemstr.app/",
+    "description": "音楽共有サイト？",
+    "kind":1808
   }
 }
