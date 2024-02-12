@@ -86,12 +86,12 @@
   <table>
     <thead>
       <tr>
-        <th class="sortable" onclick="sortTable('id')">ID</th>
+        <th class="sortable" onclick="sortNumTable('id')">ID</th>
         <th class="sortable" onclick="sortTable('title')">Title</th>
         <th class="sortable" onclick="sortTable('description')">Description</th>
         <th class="sortable" onclick="sortTable('url')">URL</th>
         <th class="sortable" onclick="sortTable('category')">Category</th>
-        <th class="sortable" onclick="sortTable('kind')">Kind</th>
+        <th class="sortable" onclick="sortNumTable('kind')">Kind</th>
       </tr>
     </thead>
     <tbody id="dataBody"></tbody>
@@ -130,17 +130,48 @@
       const table = document.querySelector('table');
       const tbody = table.querySelector('tbody');
       const rows = Array.from(tbody.querySelectorAll('tr'));
+      const isAscending = rows[0].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "0" > rows[1].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "0";
+
+      rows.sort((a, b) => {
+        const aValue = a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "";
+        const bValue = b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "";
+
+        // 文字列として比較する
+        return isAscending ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
+      });
+
+      while (tbody.firstChild) {
+        tbody.removeChild(tbody.firstChild);
+      }
+
+      rows.forEach(row => {
+        tbody.appendChild(row);
+      });
+
+      // ソートされた列のヘッダーにマークを付ける
+      const headers = table.querySelectorAll('th');
+      headers.forEach(header => {
+        header.classList.remove('sorted-asc', 'sorted-desc');
+      });
+      const currentHeader = headers[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)];
+      if (isAscending) {
+        currentHeader.classList.add('sorted-asc');
+      } else {
+        currentHeader.classList.add('sorted-desc');
+      }
+    }
+
+    function sortNumTable(columnName) {
+      const table = document.querySelector('table');
+      const tbody = table.querySelector('tbody');
+      const rows = Array.from(tbody.querySelectorAll('tr'));
       const isAscending = rows[0].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0 > rows[1].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0;
 
       rows.sort((a, b) => {
-        const aValue = columnName === 'id' ? parseInt(a.querySelectorAll('td')[0].textContent ?? 0) : columnName === 'kind' ? parseInt(a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0) : a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0;
-        const bValue = columnName === 'id' ? parseInt(b.querySelectorAll('td')[0].textContent ?? 0) : columnName === 'kind' ? parseInt(b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0) : b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0;
+        const aValue = parseInt(a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "0");
+        const bValue = parseInt(b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "0");
 
-        // 数字に変換できない場合は文字列として比較する
-        if (isNaN(aValue) || isNaN(bValue)) {
-          return isAscending ? aValue.toString().localeCompare(bValue.toString()) : bValue.toString().localeCompare(aValue.toString());
-        }
-
+        // 数値として比較する
         return isAscending ? aValue - bValue : bValue - aValue;
       });
 
