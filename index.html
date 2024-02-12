@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>JSON Data Display</title>
+  <title>iroiroBot JSON Data Display</title>
   <style>
     table {
       width: 100%;
@@ -82,7 +82,7 @@
 </head>
 
 <body>
-  <h1>JSON Data Display</h1>
+  <h1>iroiroBot JSON Data Display</h1>
   <table>
     <thead>
       <tr>
@@ -130,7 +130,7 @@
       const table = document.querySelector('table');
       const tbody = table.querySelector('tbody');
       const rows = Array.from(tbody.querySelectorAll('tr'));
-      const isAscending = rows[0].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent > rows[1].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
+      const isAscending = rows[0].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0 > rows[1].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0;
 
       rows.sort((a, b) => {
         const aValue = columnName === 'id' ? parseInt(a.querySelectorAll('td')[0].textContent ?? 0) : columnName === 'kind' ? parseInt(a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0) : a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0;
