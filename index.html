@@ -139,10 +139,16 @@
             "3": {
 
               "title": "Sample Title 2",
-              "description": "Sample Description wayo",
-              "url": "https://example.com/sample2",
+              "description": "もの画像のサイト https://tsukemonogit.github.io/nostr-monoGazo-bot/",
+              "url": "nostr:npub1lxrlhyrfdl9sjdvx9xhwhag4d6s95sz3q8z09kgzp0cz73l2ffys9p726u",
               "category": "Sample Category 2",
 
+            },
+            "35": {
+              "category": "WebClient",
+              "title": "nostter",
+              "url": "https://nostter.app/",
+              "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる\n\nhttps://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv/2024/02/11\nみたいな感じで日付ごとの投稿が見れる\n\nhttps://nostter.app/latest\nでフォロイーの最新の投稿が見れる"
             },
             // 追加のテストデータを必要に応じて定義
           };
@@ -245,12 +251,19 @@
         if (Object.hasOwnProperty.call(data, key)) {
           const item = data[key];
           const row = document.createElement('tr');
-          const description = item.description.replace(/\n/g, '<br>');
+
+          const replacedDescription = item.description.replace(/^nostr:(.+)/, (_, p1) => `https://nostter.app/${p1}`);
+
+          const replacedDescription2 = replacedDescription.replace(/(https?:\/\/\S+)/g, '<a style="display: inline" href="$1" target="_blank" rel="external noreferrer">$1</a>');
+          const description = replacedDescription2.replace(/\n/g, '<br>');
+
+
+          const URL = item.url.startsWith("nostr:") ? `https://nostter.app/${item.url.slice(6)}` : item.url;
           row.innerHTML = `
                 <td>${key}</td>
                 <td>${item.title}</td>
                 <td>${description}</td>
-                <td><a href="${item.url}" target="_blank" rel="external noreferrer" >${item.url}</a></td>
+                <td><a href="${URL}" target="_blank" rel="external noreferrer" >${URL}</a></td>
                 <td>${item.category}</td>
                 <td>${item.kind ?? ''}</td>
               `;
