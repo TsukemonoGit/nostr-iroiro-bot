@@ -133,8 +133,14 @@
       const isAscending = rows[0].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent > rows[1].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
 
       rows.sort((a, b) => {
-        const aValue = columnName === 'id' ? parseInt(a.querySelectorAll('td')[0].textContent) || 0 : columnName === 'kind' ? parseInt(a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent) || 0 : a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
-        const bValue = columnName === 'id' ? parseInt(b.querySelectorAll('td')[0].textContent) || 0 : columnName === 'kind' ? parseInt(b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent) || 0 : b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
+        const aValue = columnName === 'id' ? parseInt(a.querySelectorAll('td')[0].textContent ?? 0) : columnName === 'kind' ? parseInt(a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0) : a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0;
+        const bValue = columnName === 'id' ? parseInt(b.querySelectorAll('td')[0].textContent ?? 0) : columnName === 'kind' ? parseInt(b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0) : b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0;
+
+        // 数字に変換できない場合は文字列として比較する
+        if (isNaN(aValue) || isNaN(bValue)) {
+          return isAscending ? aValue.toString().localeCompare(bValue.toString()) : bValue.toString().localeCompare(aValue.toString());
+        }
+
         return isAscending ? aValue - bValue : bValue - aValue;
       });
 
