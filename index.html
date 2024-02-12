@@ -135,8 +135,8 @@
       const isAscending = rows[0].querySelectorAll('td')[columnName === 'id' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent > rows[1].querySelectorAll('td')[columnName === 'id' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
 
       rows.sort((a, b) => {
-        const aValue = columnName === 'id' ? parseInt(a.querySelectorAll('td')[0].textContent) : a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent; // 文字列から数値に変換
-        const bValue = columnName === 'id' ? parseInt(b.querySelectorAll('td')[0].textContent) : b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent; // 文字列から数値に変換
+        const aValue = columnName === 'id' ? parseInt(a.querySelectorAll('td')[0].textContent) : columnName === 'kind' ? parseInt(a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent) : a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
+        const bValue = columnName === 'id' ? parseInt(b.querySelectorAll('td')[0].textContent) : columnName === 'kind' ? parseInt(b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent) : b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
         return isAscending ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
       });
 
