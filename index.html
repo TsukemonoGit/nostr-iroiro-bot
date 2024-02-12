@@ -130,7 +130,8 @@
       const table = document.querySelector('table');
       const tbody = table.querySelector('tbody');
       const rows = Array.from(tbody.querySelectorAll('tr'));
-      const isAscending = rows[0].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "0" > rows[1].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "0";
+      const isAscending = rows[0].querySelectorAll('td')[columnIndex].textContent > rows[1].querySelectorAll('td')[columnIndex].textContent;
+
 
       rows.sort((a, b) => {
         const aValue = a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "";
@@ -165,7 +166,8 @@
       const table = document.querySelector('table');
       const tbody = table.querySelector('tbody');
       const rows = Array.from(tbody.querySelectorAll('tr'));
-      const isAscending = rows[0].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0 > rows[1].querySelectorAll('td')[columnName === 'id' || columnName === 'kind' ? 0 : Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? 0;
+      const isAscending = rows[0].querySelectorAll('td')[columnIndex].textContent > rows[1].querySelectorAll('td')[columnIndex].textContent;
+
 
       rows.sort((a, b) => {
         const aValue = parseInt(a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent ?? "0");
