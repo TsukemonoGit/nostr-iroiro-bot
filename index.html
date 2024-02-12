@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +9,11 @@
     table {
       width: 100%;
       border-collapse: collapse;
-   
+
     }
-    th, td {
+
+    th,
+    td {
       padding: 8px;
       text-align: left;
       border-bottom: 1px solid #ddd;
@@ -18,37 +21,51 @@
       word-break: break-all;
       overflow-wrap: break-word;
     }
+
     th {
       background-color: #f2f2f2;
     }
+
     /* 各列の幅を調整 */
     td:nth-child(1),
     th:nth-child(1) {
-      width: 20%; /* タイトル列 */
+      width: 20%;
+      /* タイトル列 */
     }
+
     td:nth-child(2),
     th:nth-child(2) {
-      width: 40%; /* 説明列 */
+      width: 40%;
+      /* 説明列 */
     }
+
     td:nth-child(3),
     th:nth-child(3) {
-      width: 20%; /* URL列 */
+      width: 20%;
+      /* URL列 */
 
     }
+
     td:nth-child(4),
     th:nth-child(4) {
-      width: 12%; /* カテゴリ列 */
-    }  
+      width: 12%;
+      /* カテゴリ列 */
+    }
+
     td:nth-child(5),
     th:nth-child(5) {
-      width: 8%; /* kind */
+      width: 8%;
+      /* kind */
     }
-    .a{
-        max-height:3em;
-        overflow-y:auto;
-      }
+
+    .a {
+      display: block;
+      max-height: 3em;
+      overflow-y: auto;
+    }
   </style>
 </head>
+
 <body>
   <h1>JSON Data Display</h1>
   <table>
@@ -80,7 +97,7 @@
                 <td>${description}</td>
                 <td><a href="${item.url}" target="_blank" rel="external noreferrer" >${item.url}</a></td>
                 <td>${item.category}</td>
-                <td>${item.kind??''}</td>
+                <td>${item.kind ?? ''}</td>
               `;
               dataBody.appendChild(row);
             }
@@ -92,4 +109,5 @@
     window.onload = fetchData;
   </script>
 </body>
+
 </html>
