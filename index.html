@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 
 <head>
   <meta charset="UTF-8">
@@ -85,7 +85,9 @@
 
 <body>
   <h1>iroiroBot JSON Data Display</h1>
-  <table>
+  <div>検索：<input type="text" id="searchInput" onkeyup="searchData()" placeholder="Search...">
+  </div>
+  <table style="margin-top:5px">
     <thead>
       <tr>
         <th class="sortable" onclick="sortNumTable('id')">ID</th>
@@ -98,6 +100,15 @@
     </thead>
     <tbody id="dataBody"></tbody>
   </table>
+  <p id="noResultsMessage" style="display: none;">No matching data found.</p>
+
+  <footer style="margin-top:5px">
+    source: <a rel="external noreferrer" target="_blank" href="https://github.com/TsukemonoGit/nostr-iroiro-bot">
+      https://github.com/TsukemonoGit/nostr-iroiro-bot
+    </a>
+  </footer>
+
+
   <script>
     function fetchData() {
       fetch('iroiro.json')
@@ -110,15 +121,15 @@
           const testData = {
             "1": {
 
-              "title": "Sample Title 1",
+              "title": "Sample Title moge",
               "description": "Sample Description 1",
-              "url": "https://example.com/sample1",
+              "url": "https://example.example.example.example.example.example.example.example.example.example.example.example.example.example.example.example.com/sample1",
               "category": "Sample Category 1",
 
             },
             "2": {
 
-              "title": "Sample Title 2",
+              "title": "Sample Title powa",
               "description": "Sample Description 2",
               "url": "https://example.com/sample2",
               "category": "Sample Category 2",
@@ -128,7 +139,7 @@
             "3": {
 
               "title": "Sample Title 2",
-              "description": "Sample Description 2",
+              "description": "Sample Description wayo",
               "url": "https://example.com/sample2",
               "category": "Sample Category 2",
 
@@ -248,12 +259,46 @@
         }
       }
     }
+
+    function searchData() {
+      const input = document.getElementById('searchInput');
+      const filter = input.value.toUpperCase();
+      const rows = document.querySelectorAll('tbody tr');
+      const noResultsMessage = document.getElementById('noResultsMessage');
+
+      let found = false;
+
+      rows.forEach(row => {
+        const cells = row.getElementsByTagName('td');
+        let rowMatch = false;
+
+        for (let i = 0; i < cells.length && !rowMatch; i++) {
+          const cell = cells[i];
+          if (cell) {
+            const textValue = cell.textContent || cell.innerText;
+            if (textValue.toUpperCase().indexOf(filter) > -1) {
+              rowMatch = true;
+              found = true;
+            }
+          }
+        }
+
+        if (rowMatch) {
+          row.style.display = '';
+        } else {
+          row.style.display = 'none';
+        }
+      });
+
+      if (found) {
+        noResultsMessage.style.display = 'none';
+      } else {
+        noResultsMessage.style.display = '';
+      }
+    }
+
   </script>
 </body>
-<footer>
-  <a rel="external noreferrer" target="_blank" href="https://github.com/TsukemonoGit/nostr-iroiro-bot">
-    https://github.com/TsukemonoGit/nostr-iroiro-bot
-  </a>
-</footer>
+
 
 </html>
