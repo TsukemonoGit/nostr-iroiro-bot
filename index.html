@@ -86,12 +86,12 @@
   <table>
     <thead>
       <tr>
-        <th onclick="sortTable(0)">ID</th>
-        <th onclick="sortTable(1)">Title</th>
-        <th>Description</th>
-        <th>URL</th>
-        <th>Category</th>
-        <th>Kind</th>
+        <th class="sortable" onclick="sortTable('id')">ID</th>
+        <th class="sortable" onclick="sortTable('title')">Title</th>
+        <th class="sortable" onclick="sortTable('description')">Description</th>
+        <th class="sortable" onclick="sortTable('url')">URL</th>
+        <th class="sortable" onclick="sortTable('category')">Category</th>
+        <th class="sortable" onclick="sortTable('kind')">Kind</th>
       </tr>
     </thead>
     <tbody id="dataBody"></tbody>
@@ -135,8 +135,8 @@
       const isAscending = rows[0].querySelectorAll('td')[columnIndex].textContent > rows[1].querySelectorAll('td')[columnIndex].textContent;
 
       rows.sort((a, b) => {
-        const aValue = a.querySelectorAll('td')[columnIndex].textContent.toLowerCase();
-        const bValue = b.querySelectorAll('td')[columnIndex].textContent.toLowerCase();
+        const aValue = columnName === 'id' ? parseInt(a.querySelectorAll('td')[0].textContent) : a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent; // 文字列から数値に変換
+        const bValue = columnName === 'id' ? parseInt(b.querySelectorAll('td')[0].textContent) : b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent; // 文字列から数値に変換
         return isAscending ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
       });
 
