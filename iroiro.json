@@ -3,7 +3,7 @@
     "category": "WebApp",
     "title": "のすとびうあ",
     "url": "https://nostviewstr.vercel.app/",
-    "description": "いろんなノスリストを見たり編集したりできるやつ"
+    "description": "いろんなノスリストを見たり編集したりできるやつ（プロフィール、ミュートリスト、ブックマークリストなど）"
   },
   "1": {
     "category": "WebApp",
@@ -150,7 +150,7 @@
     "category": "BOT",
     "title": "mochi",
     "url": "nostr:npub19xm6kcedxef3232d222gj0sxql8vs2tutyg0fq4z6875zfs3d8ascl440n",
-    "description": "もちもち たまに すやすや"
+    "description": "もちもち たまに すやすや すやすや"
   },
   "25": {
     "category": "WebApp",
@@ -235,7 +235,7 @@
     "category": "Extention",
     "title": "nostronger",
     "url": "https://github.com/penpenpng/nostronger",
-    "description": "筋肉とリングコンで署名するためのNIP-07拡張機能"
+    "description": "筋肉とリングコンで署名するためのNIP-07拡張機能💪"
   },
   "39": {
     "category": "WebApp",
@@ -278,7 +278,7 @@
     "category": "WebSite",
     "title": "nostr-protocol/nipsの和訳",
     "url": "https://github.com/nostr-jp/nips-ja",
-    "description": ""
+    "description": "Nostrプロトコル説明書(?) をみんなで和訳しているリポジトリ。\nあなたもコントリビューションしてみてはいかが"
   },
   "46": {
     "category": "",
@@ -295,14 +295,14 @@
   "48": {
     "category": "BOT",
     "title": "ぬるぽ・ｶﾞｯ",
-    "url": "https://image-bot.mattn-jp.workers.dev/",
-    "description": "ぬるぽ を許さない( nostr:npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc )"
+    "url": "nostr:npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc",
+    "description": "ぬるぽ を許さないらしい\nhttps://image-bot.mattn-jp.workers.dev/\nこのサイトを元に、〇〇画像って投稿すると画像が返ってくる。my_new_gear…画像 とか カレー画像とか\nあとねこ画像とかもある\n他にもいろいろな機能があるよ\n内臓→ https://github.com/mattn/cloudflare-nostr-nullpoga/blob/main/src/index.ts"
   },
   "49": {
     "category": "Relay",
     "title": "しりとリレー",
     "url": "https://srtrelay.c-stellar.net/",
-    "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）"
+    "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）\nしりとりになるイベントしか受け付けないリレー\nOne of the most wired relay in the world"
   },
   "50": {
     "category": "WebApp",
@@ -420,7 +420,7 @@
     "category": "WebSite",
     "title": "nostr(scrapbox)",
     "url": "https://scrapbox.io/nostr/",
-    "description": "Nostrに関する情報をみんなで集めてまとめてくださっているサイト"
+    "description": "Nostrに関する情報をみんなで集めているサイト"
   },
   "69": {
     "category": "WebSite",
@@ -510,7 +510,7 @@
     "category": "Article",
     "title": "Nostrのカスタム絵文字の使い方",
     "url": "https://habla.news/u/lokuyow.github.io/xVMTZxHcV_NWKuTbDBUYs",
-    "description": ""
+    "description": "みんなもカスタム絵文字を使おう"
   },
   "84": {
     "category": "BOT",
@@ -595,13 +595,13 @@
     "category": "WebApp",
     "title": "Nosaray",
     "url": "https://nosaray.vercel.app/",
-    "description": "過去のタイムラインをおさらいできるツール"
+    "description": "過去のタイムラインをおさらいできるツール\n見てなかったあのときのTLを確認できるお役立ち"
   },
   "98": {
     "category": "Client",
     "title": "algia",
     "url": "https://github.com/mattn/algia",
-    "description": "Nostrの CLI クライアント。Nost+algia (ノスタルジア) "
+    "description": "Nostrの CLI クライアント。Nost+algia (ノスタルジア) \nぽわ～ とか (((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙかのコマンドもあるよ"
   },
   "99": {
     "category": "Library",
