@@ -14,18 +14,18 @@
 
     th,
     td {
-      padding: 8px;
+      padding: 8px 4px;
       text-align: left;
       border-bottom: 1px solid #ddd;
       white-space: normal;
       word-break: break-all;
       overflow-wrap: break-word;
 
-      a {
+      /* a {
         display: block;
         max-height: 4.5em;
         overflow-y: auto;
-      }
+      } */
     }
 
     th {
@@ -35,36 +35,37 @@
     /* 各列の幅を調整 */
     td:nth-child(1),
     th:nth-child(1) {
+      word-break: keep-all;
       width: fit;
       /* ID列 */
     }
 
     td:nth-child(2),
     th:nth-child(2) {
-      width: 20%;
+      width: 25%;
       /* Title列 */
     }
 
     td:nth-child(3),
     th:nth-child(3) {
-      width: 30%;
+      width: 40%;
       /* Description列 */
     }
 
-    td:nth-child(4),
+    /* td:nth-child(4),
     th:nth-child(4) {
       width: 20%;
-      /* URL列 */
+     URL列 
+    } */
+
+    td:nth-child(4),
+    th:nth-child(4) {
+      width: 15%;
+      /* Category列 */
     }
 
     td:nth-child(5),
     th:nth-child(5) {
-      width: 12%;
-      /* Category列 */
-    }
-
-    td:nth-child(6),
-    th:nth-child(6) {
       width: auto;
       /* Kind列 */
     }
@@ -93,7 +94,7 @@
         <th class="sortable" onclick="sortNumTable('id')">ID</th>
         <th class="sortable" onclick="sortTable('title')">Title</th>
         <th class="sortable" onclick="sortTable('description')">Description</th>
-        <th class="sortable" onclick="sortTable('url')">URL</th>
+        <!-- <th class="sortable" onclick="sortTable('url')">URL</th> -->
         <th class="sortable" onclick="sortTable('category')">Category</th>
         <th class="sortable" onclick="sortNumTable('kind')">Kind</th>
       </tr>
@@ -133,7 +134,7 @@
               "description": "Sample Description 2",
               "url": "https://example.com/sample2",
               "category": "Sample Category 2",
-              "kind": 1
+              "kind": 111111
             },
 
             "3": {
@@ -268,9 +269,9 @@
           const URL = item.url.startsWith("nostr:") ? `https://nostter.app/${item.url.slice(6)}` : item.url;
           row.innerHTML = `
                 <td>${key}</td>
-                <td>${item.title}</td>
+                <td><a href="${URL}" target="_blank" rel="external noreferrer" >${item.title}</a></td>
                 <td>${description}</td>
-                <td><a href="${URL}" target="_blank" rel="external noreferrer" >${URL}</a></td>
+              
                 <td>${item.category}</td>
                 <td>${item.kind ?? ''}</td>
               `;
