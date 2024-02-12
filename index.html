@@ -16,6 +16,9 @@
       white-space: normal;
       word-break: break-all;
       overflow-wrap: break-word;
+      overflow: hidden; /* 要素内でのテキストの表示を制御 */
+      text-overflow: ellipsis; /* 最大の行数を超えた場合に省略記号で表示 */
+      max-height:3em;
     }
     th {
       background-color: #f2f2f2;
@@ -57,7 +60,6 @@
     </thead>
     <tbody id="dataBody"></tbody>
   </table>
-
   <script>
     function fetchData() {
       fetch('iroiro.json')
@@ -68,9 +70,11 @@
             if (Object.hasOwnProperty.call(data, key)) {
               const item = data[key];
               const row = document.createElement('tr');
+              // 改行を <br> タグに変換して表示
+              const description = item.description.replace(/\n/g, '<br>');
               row.innerHTML = `
                 <td>${item.title}</td>
-                <td>${item.description}</td>
+                <td>${description}</td>
                 <td><a href="${item.url}" target="_blank">${item.url}</a></td>
                 <td>${item.category}</td>
                 <td>${item.kind??''}</td>
