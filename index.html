@@ -107,20 +107,29 @@
           // テストデータを直接定義
           const testData = {
             "1": {
-              "id": 1,
+
               "title": "Sample Title 1",
               "description": "Sample Description 1",
               "url": "https://example.com/sample1",
               "category": "Sample Category 1",
-              "kind": "2"
+
             },
             "2": {
-              "id": 2,
+
               "title": "Sample Title 2",
               "description": "Sample Description 2",
               "url": "https://example.com/sample2",
               "category": "Sample Category 2",
-              "kind": "1"
+              "kind": 1
+            },
+
+            "3": {
+
+              "title": "Sample Title 2",
+              "description": "Sample Description 2",
+              "url": "https://example.com/sample2",
+              "category": "Sample Category 2",
+
             },
             // 追加のテストデータを必要に応じて定義
           };
@@ -163,11 +172,19 @@
       const isAscending = !currentHeader.classList.contains('sorted-asc');
 
       rows.sort((a, b) => {
-        const aValue = parseFloat(a.querySelectorAll('td')[columnIndex].textContent ?? "0");
-        const bValue = parseFloat(b.querySelectorAll('td')[columnIndex].textContent ?? "0");
+        const aValue = parseFloat(a.querySelectorAll('td')[columnIndex].textContent);
+        const bValue = parseFloat(b.querySelectorAll('td')[columnIndex].textContent);
 
         // 数値として比較する
-        return isAscending ? aValue - bValue : bValue - aValue;
+        if (!isNaN(aValue) && !isNaN(bValue)) {
+          return isAscending ? aValue - bValue : bValue - aValue;
+        } else if (!isNaN(aValue)) {
+          return isAscending ? -1 : 1; // aValue は数値で bValue は数値ではない場合
+        } else if (!isNaN(bValue)) {
+          return isAscending ? 1 : -1; // aValue は数値ではなく bValue は数値の場合
+        } else {
+          return 0; // どちらも数値ではない場合
+        }
       });
 
       rearrangeRows(table, tbody, rows, columnName, isAscending);
