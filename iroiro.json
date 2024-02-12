@@ -456,7 +456,7 @@
     "category": "BOT",
     "title": "うにゅう",
     "url": "nostr:npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t",
-    "description": "えんいー 詳しくはこちら→ https://github.com/nikolat/nostr-unyu"
+    "description": "えんいー \nデスクトップマスコット「伺か」のキャラクター\n〇〇を燃やしてていうと燃やしてくれたり 〇〇を出してって言ったら出してくれたりする\n他にもいろいろできる\n中身→ https://github.com/nikolat/nostr-unyu"
   },
   "75": {
     "category": "",
@@ -534,7 +534,7 @@
     "category": "Book",
     "title": "Hello Nostr! Yo Bluesky! 分散SNSの最前線",
     "url": "https://nip-book.nostr-jp.org/book/2/",
-    "description": "技術書典15にて製作販売されたNostr&Blueskyの本。電子版も有ます。"
+    "description": "技術書典15にて製作販売されたNostr&Blueskyの本。電子版も有ります。"
   },
   "88": {
     "category": "Event",
