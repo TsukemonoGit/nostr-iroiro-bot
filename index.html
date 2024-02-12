@@ -150,6 +150,12 @@
               "url": "https://nostter.app/",
               "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる\n\nhttps://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv/2024/02/11\nみたいな感じで日付ごとの投稿が見れる\n\nhttps://nostter.app/latest\nでフォロイーの最新の投稿が見れる"
             },
+            "21": {
+              "category": "WebApp",
+              "title": "野州田川水系定点観測所",
+              "url": "https://nostr-hotter-site.vercel.app/",
+              "description": "Nostr 日本リレーの流速をグラフ表示化。流速ちゃん( nostr:npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv )"
+            },
             // 追加のテストデータを必要に応じて定義
           };
           viewData(testData);
@@ -252,9 +258,10 @@
           const item = data[key];
           const row = document.createElement('tr');
 
-          const replacedDescription = item.description.replace(/^nostr:(.+)/, (_, p1) => `https://nostter.app/${p1}`);
+          const replacedDescription = item.description.replace(/nostr:([^\s]+)/g, "https://nostter.app/$1");
 
           const replacedDescription2 = replacedDescription.replace(/(https?:\/\/\S+)/g, '<a style="display: inline" href="$1" target="_blank" rel="external noreferrer">$1</a>');
+
           const description = replacedDescription2.replace(/\n/g, '<br>');
 
 
