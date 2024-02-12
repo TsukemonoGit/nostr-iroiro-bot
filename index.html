@@ -29,33 +29,38 @@
     /* 各列の幅を調整 */
     td:nth-child(1),
     th:nth-child(1) {
-      width: 20%;
-      /* タイトル列 */
+      width: fit-content%;
+      /* ID列 */
     }
 
     td:nth-child(2),
     th:nth-child(2) {
-      width: 40%;
-      /* 説明列 */
+      width: 20%;
+      /* Title列 */
     }
 
     td:nth-child(3),
     th:nth-child(3) {
-      width: 20%;
-      /* URL列 */
-
+      width: 30%;
+      /* Description列 */
     }
 
     td:nth-child(4),
     th:nth-child(4) {
-      width: 12%;
-      /* カテゴリ列 */
+      width: 20%;
+      /* URL列 */
     }
 
     td:nth-child(5),
     th:nth-child(5) {
-      width: 8%;
-      /* kind */
+      width: 12%;
+      /* Category列 */
+    }
+
+    td:nth-child(6),
+    th:nth-child(6) {
+      width: auto;
+      /* Kind列 */
     }
 
     a {
@@ -71,6 +76,7 @@
   <table>
     <thead>
       <tr>
+        <th>ID</th>
         <th>Title</th>
         <th>Description</th>
         <th>URL,npub</th>
@@ -93,6 +99,7 @@
               // 改行を <br> タグに変換して表示
               const description = item.description.replace(/\n/g, '<br>');
               row.innerHTML = `
+              <td>${key}</td>
                 <td>${item.title}</td>
                 <td>${description}</td>
                 <td><a href="${item.url}" target="_blank" rel="external noreferrer" >${item.url}</a></td>
