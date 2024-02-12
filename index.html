@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSON Data Display</title>
+</head>
+<body>
+  <h1>JSON Data Display</h1>
+  <div id="dataDisplay"></div>
+
+  <script>
+    // JSONデータを取得する関数
+    function fetchData() {
+      fetch('iroiro.json')
+        .then(response => response.json())
+        .then(data => {
+          // JSONデータを表示する要素を取得
+          const dataDisplay = document.getElementById('dataDisplay');
+
+          // 各アイテムをループして表示
+          for (const key in data) {
+            if (Object.hasOwnProperty.call(data, key)) {
+              const item = data[key];
+              // HTMLにアイテムの情報を追加
+              const itemElement = document.createElement('div');
+              itemElement.innerHTML = `
+                <p><strong>Title:</strong> ${item.title}</p>
+                <p><strong>Category:</strong> ${item.category}</p>
+                <p><strong>Description:</strong> ${item.description}</p>
+                <p><strong>URL:</strong> <a href="${item.url}" target="_blank">${item.url}</a></p>
+              `;
+              dataDisplay.appendChild(itemElement);
+            }
+          }
+        })
+        .catch(error => console.error('Error fetching data:', error));
+    }
+
+    // ページが読み込まれた時にデータを取得
+    window.onload = fetchData;
+  </script>
+</body>
+</html>
