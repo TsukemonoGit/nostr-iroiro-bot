@@ -7,6 +7,7 @@
   <style>
     table {
       width: 100%;
+      max-width: 800px; /* テーブルの最大幅を設定 */
       border-collapse: collapse;
     }
     th, td {
@@ -16,6 +17,27 @@
     }
     th {
       background-color: #f2f2f2;
+    }
+    /* 各列の幅を調整 */
+    td:nth-child(1),
+    th:nth-child(1) {
+      width: 20%; /* タイトル列 */
+    }
+    td:nth-child(2),
+    th:nth-child(2) {
+      width: 40%; /* 説明列 */
+    }
+    td:nth-child(3),
+    th:nth-child(3) {
+      width: 20%; /* URL列 */
+    }
+    td:nth-child(4),
+    th:nth-child(4) {
+      width: 10%; /* カテゴリ列 */
+    }  
+    td:nth-child(5),
+    th:nth-child(5) {
+      width: 10%; /* カテゴリ列 */
     }
   </style>
 </head>
