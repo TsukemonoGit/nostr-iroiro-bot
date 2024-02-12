@@ -7,8 +7,8 @@
   <style>
     table {
       width: 100%;
+      max-width: 800px;
       border-collapse: collapse;
-
     }
     th, td {
       padding: 8px;
@@ -21,28 +21,36 @@
     th {
       background-color: #f2f2f2;
     }
-    /* 各列の幅を調整 */
     td:nth-child(1),
     th:nth-child(1) {
-      width: 20%; /* タイトル列 */
+      width: 20%;
     }
     td:nth-child(2),
     th:nth-child(2) {
-      width: 40%; /* 説明列 */
+      width: 30%;
     }
     td:nth-child(3),
     th:nth-child(3) {
-      width: 20%; /* URL列 */
-      text-overflow: ellipsis; /* 最大の行数を超えた場合に省略記号で表示 */
-      overflow-y:hidden;
+      width: 30%;
     }
     td:nth-child(4),
     th:nth-child(4) {
-      width: 12%; /* カテゴリ列 */
-    }  
+      width: 15%;
+    }
     td:nth-child(5),
     th:nth-child(5) {
-      width: 8%; /* kind */
+      width: 5%;
+    }
+    .url-cell {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-height: 1.5em; /* セルの高さを1.5emに制限 */
+    }
+    .url-cell a {
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
   </style>
 </head>
@@ -53,13 +61,14 @@
       <tr>
         <th>Title</th>
         <th>Description</th>
-        <th>URL,npub</th>
+        <th>URL</th>
         <th>Category</th>
         <th>Kind</th>
       </tr>
     </thead>
     <tbody id="dataBody"></tbody>
   </table>
+
   <script>
     function fetchData() {
       fetch('iroiro.json')
@@ -70,15 +79,27 @@
             if (Object.hasOwnProperty.call(data, key)) {
               const item = data[key];
               const row = document.createElement('tr');
-              // 改行を <br> タグに変換して表示
-              const description = item.description.replace(/\n/g, '<br>');
-              row.innerHTML = `
-                <td>${item.title}</td>
-                <td>${description}</td>
-                <td><a href="${item.url}" target="_blank" rel="external noreferrer" >${item.url}</a></td>
-                <td>${item.category}</td>
-                <td>${item.kind??''}</td>
-              `;
+              const title = document.createElement('td');
+              title.textContent = item.title;
+              const description = document.createElement('td');
+              description.textContent = item.description;
+              const url = document.createElement('td');
+              const link = document.createElement('a');
+              link.href = item.url;
+              link.textContent = item.url;
+              link.target = '_blank';
+              link.rel = 'external noreferrer';
+              link.classList.add('url-cell');
+              url.appendChild(link);
+              const category = document.createElement('td');
+              category.textContent = item.category;
+              const kind = document.createElement('td');
+              kind.textContent = item.kind ?? '';
+              row.appendChild(title);
+              row.appendChild(description);
+              row.appendChild(url);
+              row.appendChild(category);
+              row.appendChild(kind);
               dataBody.appendChild(row);
             }
           }
