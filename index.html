@@ -20,6 +20,12 @@
       white-space: normal;
       word-break: break-all;
       overflow-wrap: break-word;
+
+      a {
+        display: block;
+        max-height: 4.5em;
+        overflow-y: auto;
+      }
     }
 
     th {
@@ -63,11 +69,7 @@
       /* Kind列 */
     }
 
-    a {
-      display: block;
-      max-height: 4.5em;
-      overflow-y: auto;
-    }
+
 
     .sorted-asc::after {
       content: "▲";
@@ -248,5 +250,10 @@
     }
   </script>
 </body>
+<footer>
+  <a rel="external noreferrer" target="_blank" href="https://github.com/TsukemonoGit/nostr-iroiro-bot">
+    https://github.com/TsukemonoGit/nostr-iroiro-bot
+  </a>
+</footer>
 
 </html>
