@@ -137,7 +137,7 @@
       rows.sort((a, b) => {
         const aValue = columnName === 'id' ? parseInt(a.querySelectorAll('td')[0].textContent) : columnName === 'kind' ? parseInt(a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent) : a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
         const bValue = columnName === 'id' ? parseInt(b.querySelectorAll('td')[0].textContent) : columnName === 'kind' ? parseInt(b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent) : b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
-        return isAscending ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
+        return isAscending ? aValue - bValue : bValue - aValue;
       });
 
       while (tbody.firstChild) {
