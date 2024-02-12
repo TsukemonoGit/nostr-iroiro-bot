@@ -107,8 +107,6 @@
             if (Object.hasOwnProperty.call(data, key)) {
               const item = data[key];
               const row = document.createElement('tr');
-              const idCell = document.createElement('td');
-              idCell.textContent = key; // データの番号を表示
               const description = item.description.replace(/\n/g, '<br>');
               row.innerHTML = `
                 <td>${key}</td>
@@ -137,6 +135,12 @@
       rows.sort((a, b) => {
         const aValue = columnName === 'id' ? parseInt(a.querySelectorAll('td')[0].textContent) : columnName === 'kind' ? parseInt(a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent) : a.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
         const bValue = columnName === 'id' ? parseInt(b.querySelectorAll('td')[0].textContent) : columnName === 'kind' ? parseInt(b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent) : b.querySelectorAll('td')[Array.from(table.querySelectorAll('thead th')).findIndex(th => th.textContent.toLowerCase() === columnName)].textContent;
+
+        // 数字に変換できない場合は文字列として比較する
+        if (isNaN(aValue) || isNaN(bValue)) {
+          return isAscending ? aValue.toString().localeCompare(bValue.toString()) : bValue.toString().localeCompare(aValue.toString());
+        }
+
         return isAscending ? aValue - bValue : bValue - aValue;
       });
 
