@@ -68,6 +68,16 @@
       max-height: 4.5em;
       overflow-y: auto;
     }
+
+    .sorted-asc::after {
+      content: "▲";
+      /* 昇順のマーク */
+    }
+
+    .sorted-desc::after {
+      content: "▼";
+      /* 降順のマーク */
+    }
   </style>
 </head>
 
@@ -137,7 +147,20 @@
       rows.forEach(row => {
         tbody.appendChild(row);
       });
+
+      // ソートされた列のヘッダーにマークを付ける
+      const headers = table.querySelectorAll('th');
+      headers.forEach(header => {
+        header.classList.remove('sorted-asc', 'sorted-desc');
+      });
+      const currentHeader = headers[columnIndex];
+      if (isAscending) {
+        currentHeader.classList.add('sorted-asc');
+      } else {
+        currentHeader.classList.add('sorted-desc');
+      }
     }
+
   </script>
 </body>
 
