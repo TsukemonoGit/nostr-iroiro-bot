@@ -130,7 +130,7 @@
       const table = document.querySelector('table');
       const tbody = table.querySelector('tbody');
       const rows = Array.from(tbody.querySelectorAll('tr'));
-      const isAscending = rows[0].querySelectorAll('td')[columnIndex].textContent > rows[1].querySelectorAll('td')[columnIndex].textContent;
+      const isAscending = rows[0].querySelectorAll('td')[columnName].textContent > rows[1].querySelectorAll('td')[columnName].textContent;
 
 
       rows.sort((a, b) => {
@@ -166,7 +166,7 @@
       const table = document.querySelector('table');
       const tbody = table.querySelector('tbody');
       const rows = Array.from(tbody.querySelectorAll('tr'));
-      const isAscending = rows[0].querySelectorAll('td')[columnIndex].textContent > rows[1].querySelectorAll('td')[columnIndex].textContent;
+      const isAscending = rows[0].querySelectorAll('td')[columnName].textContent > rows[1].querySelectorAll('td')[columnName].textContent;
 
 
       rows.sort((a, b) => {
