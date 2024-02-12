@@ -4,40 +4,60 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>JSON Data Display</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
 </head>
 <body>
   <h1>JSON Data Display</h1>
-  <div id="dataDisplay"></div>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Description</th>
+        <th>URL</th>
+        <th>Category</th>
+        <th>Kind</th>
+      </tr>
+    </thead>
+    <tbody id="dataBody"></tbody>
+  </table>
 
   <script>
-    // JSONデータを取得する関数
     function fetchData() {
       fetch('iroiro.json')
         .then(response => response.json())
         .then(data => {
-          // JSONデータを表示する要素を取得
-          const dataDisplay = document.getElementById('dataDisplay');
-
-          // 各アイテムをループして表示
+          const dataBody = document.getElementById('dataBody');
           for (const key in data) {
             if (Object.hasOwnProperty.call(data, key)) {
               const item = data[key];
-              // HTMLにアイテムの情報を追加
-              const itemElement = document.createElement('div');
-              itemElement.innerHTML = `
-                <p><strong>Title:</strong> ${item.title}</p>
-                <p><strong>Category:</strong> ${item.category}</p>
-                <p><strong>Description:</strong> ${item.description}</p>
-                <p><strong>URL:</strong> <a href="${item.url}" target="_blank">${item.url}</a></p>
+              const row = document.createElement('tr');
+              row.innerHTML = `
+                <td>${item.title}</td>
+                <td>${item.description}</td>
+                <td><a href="${item.url}" target="_blank">${item.url}</a></td>
+                <td>${item.category}</td>
+                <td>${item.kind??''}</td>
               `;
-              dataDisplay.appendChild(itemElement);
+              dataBody.appendChild(row);
             }
           }
         })
         .catch(error => console.error('Error fetching data:', error));
     }
 
-    // ページが読み込まれた時にデータを取得
     window.onload = fetchData;
   </script>
 </body>
