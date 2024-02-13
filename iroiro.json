@@ -28,7 +28,7 @@
     "title": "dmviewer",
     "url": "https://rain8128.github.io/nostr-dmviewer/",
     "description": "シンプルなDMViewer",
-    "kind":4
+    "kind": 4
   },
   "5": {
     "category": "Library",
@@ -89,14 +89,14 @@
     "title": "Nostr Event Deletion",
     "url": "https://nostr-delete.vercel.app/",
     "description": "Nostrのイベント削除ツール",
-    "kind":5
+    "kind": 5
   },
   "15": {
     "category": "Library",
     "title": "nostr-key-value",
     "url": "https://www.npmjs.com/package/nostr-key-value",
     "description": "Nostr を Key-Value の DB として使用するためのJS/TSライブラリ（NIP-78）",
-    "kind":30078
+    "kind": 30078
   },
   "16": {
     "category": "Tool",
@@ -211,7 +211,7 @@
     "title": "うにゅうハウス",
     "url": "https://unyu-house.vercel.app/",
     "description": "パブリックチャットクライアント",
-    "kind":42
+    "kind": 42
   },
   "35": {
     "category": "WebClient",
@@ -260,7 +260,7 @@
     "title": "nostatus",
     "url": "https://nostatus.vercel.app/",
     "description": "ユーザステータスの閲覧に特化したNostrウェブクライアント(NIP-38)",
-    "kind":30315
+    "kind": 30315
   },
   "43": {
     "category": "Browser",
@@ -339,7 +339,7 @@
     "title": "NostrのDMをなんかするやつ",
     "url": "https://nikolat.github.io/nostr-dm/",
     "description": "NostrのDM見たり送信したりできるやつ",
-    "kind":4
+    "kind": 4
   },
   "56": {
     "category": "",
@@ -354,7 +354,7 @@
     "description": "日付指定ワード指定などができる検索ツール"
   },
   "58": {
-    "category": "",
+    "category": "Lineスタンプ",
     "title": "とにかく忘れるダチョウ",
     "url": "https://store.line.me/stickershop/product/25181618/ja",
     "description": "Lineスタンプ"
@@ -388,21 +388,21 @@
     "title": "emojito",
     "url": "https://emojito.meme/",
     "description": "カスタム絵文字を登録したりできるサイト",
-    "kind":30030
+    "kind": 30030
   },
   "64": {
     "category": "WebApp",
     "title": "badges",
     "url": "https://badges.page/",
     "description": "バッジを作ったりできるサイト",
-    "kind":30009
+    "kind": 30009
   },
   "65": {
     "category": "",
     "title": "Nostr NIP-56 Board",
     "url": "https://nostr-kind1984-display.vercel.app/",
     "description": "NIP-56 (通報)を眺めるサイト",
-    "kind":1984
+    "kind": 1984
   },
   "66": {
     "category": "WebApp",
@@ -471,10 +471,10 @@
     "description": "秘密鍵 (nsec) さえ一つあれば、Nostrプロトコルに準じた様々な種類のクライアントにアクセスすることができます。"
   },
   "77": {
-    "category": "",
+    "category": "Lineスタンプ",
     "title": "あいさつは忘れないダチョウ",
     "url": "https://store.line.me/stickershop/product/25628277/ja",
-    "description": "ひたすら忘れる生き物だって、あいさつは欠かさない。（Lineスタンプ）"
+    "description": "ひたすら忘れる生き物だって、あいさつは欠かさない。"
   },
   "78": {
     "category": "",
@@ -565,7 +565,7 @@
     "title": "Nosli",
     "url": "https://nosli.vercel.app/",
     "description": "Nosli (ノスリ) 投稿まとめ作成ツール",
-    "kind":30023
+    "kind": 30023
   },
   "93": {
     "category": "",
@@ -614,7 +614,7 @@
     "title": "zap.stream",
     "url": "https://zap.stream/",
     "description": "Nostr Live stream",
-    "kind":30311
+    "kind": 30311
   },
   "101": {
     "category": "WebApp",
@@ -639,34 +639,38 @@
     "title": "App Manager",
     "url": "https://nostrapp.link/",
     "description": "いろんなNostrアプリの情報がまとめられているサイト",
-    "kind":31989
+    "kind": 31989
   },
   "105": {
     "category": "",
     "title": "Stemstr",
     "url": "https://stemstr.app/",
     "description": "音楽共有サイト？",
-    "kind":1808
+    "kind": 1808
   },
   "106": {
     "category": "WebSite",
     "title": "ZapLife",
     "url": "https://zaplife.lol/",
     "description": "リアルタイムでZAPの流れを見ることができるサイト",
-    "kind":9735
+    "kind": 9735
   },
   "107": {
     "category": "",
     "title": "nostrbuzzs",
     "url": "https://nostrbuzzs.deno.dev/",
     "description": "英語・日本語のNostrのトレンドワード"
-   
   },
   "108": {
     "category": "",
     "title": "nostpic",
     "url": "https://nostpic.com/",
     "description": "Nostr用の画像アップローダ\nアップロードしたファイルのパスには投稿者の公開鍵が埋め込まれるので、誰のファイルかわかりやすい！\nWebブラウザーから画像をアップロードするには nostter を nostpic.com 用に変更したバージョンからご利用下さい。\nhttps://nostter-nostpic.vercel.app/ (運営: nostr:npub1vd9ar8jusldjze24eq2tlz8xdt8pwkq99ydxh6gtzkkrkgj8m2dsndwen9 さん) "
-   
+  },
+  "109": {
+    "category": "Lineスタンプ",
+    "title": "のすたこちゃんあらわる",
+    "url": "https://store.line.me/stickershop/product/25697090/ja",
+    "description": "Nostr に棲まう UMA こと「のすたこちゃん」が LINE に出張してきたよ！"
   }
 }
