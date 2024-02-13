@@ -46,17 +46,18 @@
       word-break: keep-all;
       width: fit;
       /* ID列 */
+      text-align: center;
     }
 
     td:nth-child(2),
     th:nth-child(2) {
-      width: 25%;
+      width: 23%;
       /* Title列 */
     }
 
     td:nth-child(3),
     th:nth-child(3) {
-      width: 45%;
+      width: 46%;
       /* Description列 */
     }
 
@@ -68,7 +69,7 @@
 
     td:nth-child(4),
     th:nth-child(4) {
-      width: 14%;
+      width: 15%;
       /* Category列 */
     }
 
@@ -76,6 +77,7 @@
     th:nth-child(5) {
       width: auto;
       /* Kind列 */
+      text-align: center;
     }
 
 
@@ -88,6 +90,18 @@
     .sorted-desc::after {
       content: "▼";
       /* 降順のマーク */
+    }
+
+
+
+    a:link,
+    a:visited {
+      /* linkは未訪問、visitedは訪問済み */
+      color: rgb(117, 117, 117);
+    }
+
+    a:hover {
+      color: rgb(56, 56, 56);
     }
   </style>
 </head>
