@@ -5,110 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>iroiroBot JSON Data Display</title>
-  <style>
-    table {
-      width: 100%;
-      border-collapse: collapse;
+  <link rel="stylesheet" href="style.css">
 
-    }
-
-    th,
-    td {
-      padding: 8px 4px;
-      text-align: left;
-      border-bottom: 1px solid #ddd;
-      white-space: normal;
-      word-break: break-all;
-      overflow-wrap: break-word;
-
-      /* a {
-        display: block;
-        max-height: 4.5em;
-        overflow-y: auto;
-      } */
-    }
-
-    th {
-      background-color: #f2f2f2;
-    }
-
-
-    thead {
-      position: sticky;
-      top: 0;
-      z-index: 1;
-      background-color: #fff;
-    }
-
-    /* 各列の幅を調整 */
-    td:nth-child(1),
-    th:nth-child(1) {
-      word-break: keep-all;
-      width: fit;
-      /* ID列 */
-      text-align: center;
-    }
-
-    td:nth-child(2),
-    th:nth-child(2) {
-      width: 23%;
-      /* Title列 */
-    }
-
-    td:nth-child(3),
-    th:nth-child(3) {
-      width: 46%;
-      /* Description列 */
-    }
-
-    /* td:nth-child(4),
-    th:nth-child(4) {
-      width: 20%;
-     URL列 
-    } */
-
-    td:nth-child(4),
-    th:nth-child(4) {
-      width: 15%;
-      /* Category列 */
-    }
-
-    td:nth-child(5),
-    th:nth-child(5) {
-      width: auto;
-      /* Kind列 */
-      text-align: center;
-    }
-
-
-
-    .sorted-asc::after {
-      content: "▲";
-      /* 昇順のマーク */
-    }
-
-    .sorted-desc::after {
-      content: "▼";
-      /* 降順のマーク */
-    }
-
-
-
-    a:link,
-    a:visited {
-      /* linkは未訪問、visitedは訪問済み */
-      color: rgb(117, 117, 117);
-    }
-
-    a:hover {
-      color: rgb(56, 56, 56);
-    }
-  </style>
 </head>
 
 <body>
   <h1>iroiroBot JSON Data Display</h1>
-  <div>検索：<input type="text" id="searchInput" onkeyup="searchData()" placeholder="Search...">
+  <div>検索：<input type="text" id="searchInput" onkeyup="searchData()" placeholder="Search..."><button on:click="shareURL"
+      style="margin-left:5px">copy share URL</button>
   </div>
   <table style="margin-top:5px">
     <thead>
@@ -134,6 +38,14 @@
 
   <script>
     function fetchData() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const searchInput = document.getElementById('searchInput');
+      const searchTerm = urlParams.get('search');
+      if (searchTerm) {
+        searchInput.value = searchTerm;
+        searchData();
+      }
+
       fetch('iroiro.json')
         .then(response => response.json())
         .then(data => {
@@ -340,6 +252,35 @@
       }
     }
 
+    function shareURL() {
+      const searchInput = document.getElementById('searchInput');
+      const searchTerm = searchInput.value.trim(); // 入力されたテキストを取得し、前後の空白をトリミングする
+      const currentURL = window.location.href; // 現在のページのURLを取得する
+
+      // 検索テキストが空でない場合、クエリパラメータとして追加
+      if (searchTerm !== '') {
+        const newURL = new URL(currentURL);
+        newURL.searchParams.set('search', searchTerm); // クエリパラメータ 'search' に検索テキストをセット
+
+        // 新しいURLをクリップボードにコピーする
+        navigator.clipboard.writeText(newURL.href)
+          .then(() => {
+            alert('Copied share URL with search term: ' + newURL.href);
+          })
+          .catch(err => {
+            console.error('Failed to copy share URL: ', err);
+          });
+      } else {
+        // 検索テキストが空の場合は、現在のURLをそのままコピー
+        navigator.clipboard.writeText(currentURL)
+          .then(() => {
+            alert('Copied share URL: ' + currentURL);
+          })
+          .catch(err => {
+            console.error('Failed to copy share URL: ', err);
+          });
+      }
+    }
   </script>
 </body>
 
