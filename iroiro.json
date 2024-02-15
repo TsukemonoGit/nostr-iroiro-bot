@@ -135,7 +135,7 @@
     "description": "Nostr 日本リレーの流速をグラフ表示化。流速ちゃん( nostr:npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv )"
   },
   "22": {
-    "category": "Extention",
+    "category": "Extension",
     "title": "AKA Profiles",
     "url": "https://chrome.google.com/webstore/detail/aka-profiles/ncmflpbbagcnakkolfpcpogheckolnad/related",
     "description": "複垢可能なログイン拡張機能(nip-07)\n(ログイン拡張機能 (NIP-07)を使ってみよう: https://welcome.nostr-jp.org/tutorial/nip-07.html )"
@@ -232,10 +232,10 @@
     "description": "みんなまるこふになれる\nお暇な時間にいかがですか"
   },
   "38": {
-    "category": "Extention",
+    "category": "Extension",
     "title": "nostronger",
     "url": "https://github.com/penpenpng/nostronger",
-    "description": "筋肉とリングコンで署名するためのNIP-07拡張機能💪\n多分Joy-Conをペアリングモードにしてパソコンと接続するとかしないといけないかも"
+    "description": "筋肉とリングコンで署名するためのNIP-07拡張機能💪\n多分Joy-Conをペアリングモードにしてパソコンと接続するとかしないといけないかも\nでどうやって使うねんを知ってる人がいたら教えてください()"
   },
   "39": {
     "category": "WebApp",
@@ -483,13 +483,13 @@
     "description": "やぶみリレー（wss://yabu.me）のAPI"
   },
   "79": {
-    "category": "Extention",
+    "category": "Extension",
     "title": "nos2x",
     "url": "https://chromewebstore.google.com/detail/nos2x/kpgefcfmnafjgpblomihpgmejjdanjjp",
     "description": "nos2x (Firefox の場合は nos2x-fox) は PC 版 Microsoft Edge/Chrome/Firefox および Android 版 Firefox/Kiwi Browser 向けの拡張機能\n(ログイン拡張機能 (NIP-07)を使ってみよう: https://welcome.nostr-jp.org/tutorial/nip-07.html )"
   },
   "80": {
-    "category": "Extention",
+    "category": "Extension",
     "title": "nostore",
     "url": "https://apps.apple.com/jp/app/nostore/id1666553677",
     "description": "iOS Safari 向けの拡張機能\n( https://welcome.nostr-jp.org/tutorial/nip-07.html#nostore-ios )"
@@ -580,7 +580,7 @@
     "description": "Nostrリレーから投稿を取得して表示するWebアプリ\n投稿を表示すると同時に伺か互換ベースウェア(SSTPサーバー)にSSTPを送信し、ゴースト(キャラクター)に投稿を喋らせます。"
   },
   "95": {
-    "category": "Extention",
+    "category": "Extension",
     "title": "Share on Nostr",
     "url": "https://chromewebstore.google.com/detail/icfpjhfljddmpinehcnmlfijmiohhodi",
     "description": "NostrでアクティブなタブのURLを共有するChrome拡張機能。"
