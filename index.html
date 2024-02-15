@@ -37,19 +37,22 @@
 
 
   <script>
+    window.onload = fetchData;
+
     function fetchData() {
+
       const urlParams = new URLSearchParams(window.location.search);
       const searchInput = document.getElementById('searchInput');
       const searchTerm = urlParams.get('search');
-      if (searchTerm) {
-        searchInput.value = searchTerm;
-        searchData();
-      }
 
       fetch('iroiro.json')
         .then(response => response.json())
         .then(data => {
           viewData(data);
+          if (searchTerm) {
+            searchInput.value = searchTerm;
+            searchData();
+          }
         })
         .catch(error => {
           // テストデータを直接定義
@@ -94,12 +97,16 @@
             // 追加のテストデータを必要に応じて定義
           };
           viewData(testData);
-
+          if (searchTerm) {
+            searchInput.value = searchTerm;
+            searchData();
+          }
 
         });
+
     }
 
-    window.onload = fetchData;
+
 
     function sortTable(columnName) {
       const table = document.querySelector('table');
