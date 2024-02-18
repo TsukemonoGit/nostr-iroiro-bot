@@ -678,5 +678,11 @@
     "title": "絵文字コネコネ",
     "url": "https://nostr-emoji-edit.uchijo.com/",
     "description": "グリッド上で絵文字をポチポチして投稿を作成できるツールです\nカスタム絵文字の表示が実装されていないクライアントもあるので使いすぎに注意かも\nもしくはパブ茶で\n\nカスタム絵文字のパブリックチャット部屋\nnostter\nhttps://nostter.app/channels/nevent1qqsrxr790eyw89p8m40224dswsdr7u262hsslzakv9kz0myja0z7vjcz7mqy3\n\nnoStrudel\nhttps://nostrudel.ninja/#/channels/nevent1qqsrxr790eyw89p8m40224dswsdr7u262hsslzakv9kz0myja0z7vjcz7mqy3"
+  },
+  "111": {
+    "category": "WebApp",
+    "title": "Nostrabs - Nostr腹筋ヘルパー",
+    "url": "https://penpenpng.github.io/nostabs/",
+    "description": "みんなでムキムキになろう"
   }
 }
