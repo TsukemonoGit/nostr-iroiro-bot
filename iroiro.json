@@ -168,7 +168,7 @@
     "category": "WebApp",
     "title": "1-2演習改「誰かの投稿を検索するやつ」",
     "url": "https://showhyuga.pages.dev/utility/nos_search",
-    "description": "自分の投稿を日付とキーワードで検索するツール"
+    "description": "誰かの投稿を日付とキーワードで検索するツール"
   },
   "28": {
     "category": "WebApp",
