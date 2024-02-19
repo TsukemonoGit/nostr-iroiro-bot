@@ -684,5 +684,11 @@
     "title": "Nostabs - Nostr腹筋ヘルパー",
     "url": "https://penpenpng.github.io/nostabs/",
     "description": "みんなでムキムキになろう"
+  },
+  "112": {
+    "category": "",
+    "title": "Nostr勉強会",
+    "url": "https://www.youtube.com/watch?v=IbMhpGNhUuE&list=PLUT1W-ZouC_dORsgMrjd4tcEi1wPAjh__",
+    "description": "不定期開催、四谷ラボ( https://428lab.net/ )主催のNostr勉強会"
   }
 }
