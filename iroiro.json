@@ -690,5 +690,11 @@
     "title": "Nostr勉強会",
     "url": "https://www.youtube.com/watch?v=IbMhpGNhUuE&list=PLUT1W-ZouC_dORsgMrjd4tcEi1wPAjh__",
     "description": "不定期開催、四谷ラボ( https://428lab.net/ )主催のNostr勉強会"
+  },
+  "113": {
+    "category": "",
+    "title": "njump",
+    "url": "https://njump.me/",
+    "description": "njumpは、プロファイル、メモ、リレーを参照できるHTTP Nostrゲートウェイです\n\nnjump.me/<nip-19-entity>\nノートとかプロフィールとか見れる\n外部の人に共有するときに便利かも\n\n<script src=\"https://njump.me/embed/<nip-19-entity>\" />\nウェブページに埋め込みできる\n\nhttps://njump.me/<npub>.rss\n投稿のRSSフィードが見れる\n\nなど"
   }
 }
