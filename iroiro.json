@@ -302,7 +302,7 @@
     "category": "Relay",
     "title": "しりとリレー",
     "url": "https://srtrelay.c-stellar.net/",
-    "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）\nしりとりになるイベントしか受け付けないリレー\nOne of the most wired relay in the world"
+    "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）\nしりとりになるイベントしか受け付けないリレー\nOne of the most wired relay in the world\n\n日本リレーからしりとりになるものをひっぱってくので直接しりとりれーに接続していなくてもりとりんが拾っていくよ\nりとりんからリアクション❗があったらしりとりの合図"
   },
   "50": {
     "category": "WebApp",
@@ -696,6 +696,13 @@
     "title": "njump",
     "url": "https://njump.me/",
     "description": "njumpは、プロファイル、メモ、リレーを参照できるHTTP Nostrゲートウェイです\n\nnjump.me/&lt;nip-19-entity&gt;\nノートとかプロフィールとか見れる\n外部の人に共有するときに便利かも\n\n&lt;script src=\"https://njump.me/embed/&lt;nip-19-entity&gt;\" /&gt;\nウェブページに埋め込みできる\n\nnjump.me/&lt;npub&gt;.rss\n投稿のRSSフィードが見れる\n\nなど"
+
+  },
+  "114": {
+    "category": "",
+    "title": "Nozokimado",
+    "url": "https://relay-jp.nostr.wirednet.jp/index.html",
+    "description": "特定のリレーの投稿を閲覧できるクライアント\nアカウントを持っていなくてもNostrを閲覧可能！\nrelay-jp.nostr.wirednet.jpだけでなくrelay.nostr.wirednet.jpやyabu.meなどいろいろなリレーで使われている。(source: https://github.com/imksoo/nostr-global-viewer )\n\nhttps://relay-jp.nostr.wirednet.jp/index.html?sushi=on はアカウント情報が日替わりランダムでお寿司になり\nhttps://relay-jp.nostr.wirednet.jp/index.html?mahjong=on では麻雀牌になります(絵文字source: https://awayuki.github.io/emojis.html )"
 
   }
 }
