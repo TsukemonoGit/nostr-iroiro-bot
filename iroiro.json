@@ -702,7 +702,7 @@
     "category": "",
     "title": "Nozokimado",
     "url": "https://relay-jp.nostr.wirednet.jp/index.html",
-    "description": "特定のリレーの投稿を閲覧できるクライアント\nアカウントを持っていなくてもNostrを閲覧可能！\nrelay-jp.nostr.wirednet.jpだけでなくrelay.nostr.wirednet.jpやyabu.meなどいろいろなリレーで使われている。(source: https://github.com/imksoo/nostr-global-viewer )\n\nhttps://relay-jp.nostr.wirednet.jp/index.html?sushi=on はアカウント情報が日替わりランダムでお寿司になり\nhttps://relay-jp.nostr.wirednet.jp/index.html?mahjong=on では麻雀牌になります(絵文字source: https://awayuki.github.io/emojis.html )"
+    "description": "特定のリレーの投稿を閲覧できるクライアント\nアカウントを持っていなくても閲覧可能！\nrelay-jp.nostr.wirednet.jpだけでなくrelay.nostr.wirednet.jpやyabu.meなどいろいろなリレーで使われています。(source: https://github.com/imksoo/nostr-global-viewer )\n\nhttps://relay-jp.nostr.wirednet.jp/index.html?sushi=on はアカウント情報が日替わりランダムでお寿司になり\nhttps://relay-jp.nostr.wirednet.jp/index.html?mahjong=on では麻雀牌になります\n(絵文字source: https://awayuki.github.io/emojis.html )"
 
   }
 }
