@@ -94,6 +94,13 @@
               "url": "https://nostr-hotter-site.vercel.app/",
               "description": "Nostr 日本リレーの流速をグラフ表示化。流速ちゃん( nostr:npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv )"
             },
+            "113": {
+              "category": "",
+              "title": "njump",
+              "url": "https://njump.me/",
+              "description": "njumpは、プロファイル、メモ、リレーを参照できるHTTP Nostrゲートウェイです\n\nnjump.me/[nip-19-entity]\nノートとかプロフィールとか見れる\n外部の人に共有するときに便利かも\n\n<script src=\"https://njump.me/embed/[nip-19-entity]\" />\nウェブページに埋め込みできる\n\nnjump.me/[npub...].rss\n投稿のRSSフィードが見れる\n\nなど"
+
+            }
             // 追加のテストデータを必要に応じて定義
           };
           viewData(testData);
@@ -199,13 +206,13 @@
         if (Object.hasOwnProperty.call(data, key)) {
           const item = data[key];
           const row = document.createElement('tr');
-
-          const replacedDescription = item.description.replace(/nostr:([^\s]+)/g, "https://nostter.app/$1");
+          const tmp1 = item.description.replace(/</g, '&lt;');
+          const tmp2 = tmp1.replace(/>/g, '&gt;');
+          const replacedDescription = tmp2.replace(/nostr:([^\s]+)/g, "https://nostter.app/$1");
 
           const replacedDescription2 = replacedDescription.replace(/(https?:\/\/\S+)/g, '<a style="display: inline" href="$1" target="_blank" rel="external noreferrer">$1</a>');
 
           const description = replacedDescription2.replace(/\n/g, '<br>');
-
 
           const URL = item.url.startsWith("nostr:") ? `https://nostter.app/${item.url.slice(6)}` : item.url;
           row.innerHTML = `
