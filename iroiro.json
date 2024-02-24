@@ -708,6 +708,12 @@
     "title": "find mine",
     "url": "https://koteitan.github.io/findmine/",
     "description": "nostr/Bluesky/twilog/twitter 横断検索"
+  },
+  "116": {
+    "category": "WebApp",
+    "title": "Wikifreedia",
+    "url": "https://wikifreedia.xyz/",
+    "description": "wiki on Nostr"
   }
   
 }
