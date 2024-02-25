@@ -714,6 +714,12 @@
     "title": "Wikifreedia",
     "url": "https://wikifreedia.xyz/",
     "description": "wiki on Nostr"
+  },
+  "117": {
+    "category": "WindowsClient",
+    "title": "nokakoi",
+    "url": "https://betoneto.win/nokakoi/",
+    "description": "グローバルタイムラインの閲覧と投稿ができるWindows用nostrクライアント。"
   }
   
 }
