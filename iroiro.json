@@ -302,7 +302,7 @@
     "category": "Relay",
     "title": "しりとリレー",
     "url": "https://srtrelay.c-stellar.net/",
-    "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）\nしりとりになるイベントしか受け付けないリレー\nOne of the most wired relay in the world\n\n日本リレーからしりとりになるものをひっぱってくので直接しりとりれーに接続していなくてもりとりんが拾っていくよ\nりとりんからリアクション❗があったらしりとりの合図"
+    "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）\nしりとりになるイベントしか受け付けないリレー\nOne of the most wired relay in the world\n\n日本リレーからしりとりになるものをひっぱってくので直接しりとりれーに接続していなくてもりとりんが拾っていくよ\nりとりんからリアクション❗があったらしりとりの合図\nわからないときは r!help と投稿してみて"
   },
   "50": {
     "category": "WebApp",
