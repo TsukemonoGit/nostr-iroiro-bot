@@ -21,7 +21,7 @@
     "category": "BOT",
     "title": "もの画像",
     "url": "nostr:npub1lxrlhyrfdl9sjdvx9xhwhag4d6s95sz3q8z09kgzp0cz73l2ffys9p726u",
-    "description": "もの画像のサイト https://tsukemonogit.github.io/nostr-monoGazo-bot/"
+    "description": "もの画像 と投稿するとものが集めた画像からランダムで一つ返ってくる\nほかにもいろいろ\n\nもの画像のサイト https://tsukemonogit.github.io/nostr-monoGazo-bot/"
   },
   "4": {
     "category": "WebApp",
