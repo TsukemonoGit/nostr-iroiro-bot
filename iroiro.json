@@ -720,6 +720,12 @@
     "title": "nokakoi",
     "url": "https://betoneto.win/nokakoi/",
     "description": "グローバルタイムラインの閲覧と投稿ができるWindows用nostrクライアント。"
+  },
+  "118": {
+    "category": "WebClient",
+    "title": "NosHagaki",
+    "url": "https://nos-hagaki.vercel.app/",
+    "description": "バーチャルな住所を利用して文通を行う Nostr クライアント"
   }
   
 }
