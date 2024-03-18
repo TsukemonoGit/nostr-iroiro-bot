@@ -10,9 +10,20 @@
 </head>
 
 <body>
-  <h1>iroiroBot JSON Data Display</h1>
-  <div>検索：<input type="text" id="searchInput" onkeyup="searchData()" placeholder="Search..."><button
-      onclick="shareURL()" style="margin-left:5px">copy share URL</button>
+  <h1>Nostr iroiroBot JSON Data Display</h1>
+  <div>
+    <a class="linkButton" rel="external noreferrer" target="_blank"
+      href="https://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv">
+      iroiroBot
+    </a>が 以下のNostr関連の情報リストからランダムに一つ選んで毎時16分にポストします。<br />
+    内容について何かあれば
+    <a class="linkButton" rel="external noreferrer" target="_blank"
+      href="https://github.com/TsukemonoGit/nostr-iroiro-bot">
+      Github
+    </a>にissueかpull requestをお願いします。
+  </div>
+  <div style="margin-top:12px">検索：<input type="text" id="searchInput" onkeyup="searchData()"
+      placeholder="Search..."><button onclick="shareURL()" style="margin-left:5px">copy share URL</button>
   </div>
   <table style="margin-top:5px">
     <thead>
@@ -29,11 +40,11 @@
   </table>
   <p id="noResultsMessage" style="display: none;">No matching data found.</p>
 
-  <footer style="margin-top:5px">
+  <!-- <footer style="margin-top:5px">
     source: <a rel="external noreferrer" target="_blank" href="https://github.com/TsukemonoGit/nostr-iroiro-bot">
       https://github.com/TsukemonoGit/nostr-iroiro-bot
     </a>
-  </footer>
+  </footer> -->
 
 
   <script>

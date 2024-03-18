@@ -89,3 +89,29 @@ a:visited {
 a:hover {
   color: rgb(56, 56, 56);
 }
+
+.linkButton {
+  underline: none;
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 0px 4px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+
+  border-radius: 5px;
+  background-color: #eee; /* グレー系の背景色 */
+  color: #111 !important; /* テキストの色 */
+}
+
+/* マウスがボタンに乗った時のスタイル */
+.linkButton:hover {
+  background-color: #ddd; /* ホバー時の背景色 */
+}
+
+/* ボタンがアクティブな状態のスタイル */
+.linkButton:active {
+  background-color: #ccc; /* アクティブ時の背景色 */
+}
