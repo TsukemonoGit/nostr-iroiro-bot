@@ -719,7 +719,7 @@
     "category": "WindowsClient",
     "title": "nokakoi",
     "url": "https://betoneto.win/nokakoi/",
-    "description": "グローバルタイムラインの閲覧と投稿ができるWindows用nostrクライアント。"
+    "description": "グローバルタイムラインの閲覧、フォロータイムラインの閲覧と投稿（ログイン必須）等 ができるWindows用nostrクライアント。\nタイムラインを『伺か』（SSP）（ https://ssp.shillest.net/ ）に流すこともできる"
   },
   "118": {
     "category": "WebClient",
@@ -727,5 +727,4 @@
     "url": "https://nos-hagaki.vercel.app/",
     "description": "バーチャルな住所を利用して文通を行う Nostr クライアント"
   }
-  
 }
