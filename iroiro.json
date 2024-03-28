@@ -726,5 +726,17 @@
     "title": "NosHagaki",
     "url": "https://nos-hagaki.vercel.app/",
     "description": "バーチャルな住所を利用して文通を行う Nostr クライアント"
+  },
+  "119": {
+    "category": "Tool",
+    "title": "n8n-nodes-Nostrobots",
+    "url": "https://github.com/ocknamo/n8n-nodes-nostrobots",
+    "description": "Nostrのためのn8n( https://n8n.io/ )ノード"
+  },
+  "120": {
+    "category": "Tool",
+    "title": "nosskey",
+    "url": "https://github.com/ocknamo/nosskey",
+    "description": "Nostrasia ハッカソン( https://nostr.world/nostrasia/hackathon/index.html ) 入賞！\n Nosskeyってなに？: https://qiita.com/ocknamo/items/4e51f7b49b2c08195b3a"
   }
 }
