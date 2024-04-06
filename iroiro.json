@@ -738,5 +738,11 @@
     "title": "nosskey",
     "url": "https://github.com/ocknamo/nosskey",
     "description": "Nostrasia ハッカソン( https://nostr.world/nostrasia/hackathon/index.html ) 入賞！\n Nosskeyってなに？: https://qiita.com/ocknamo/items/4e51f7b49b2c08195b3a"
+  },
+  "121": {
+    "category": "",
+    "title": "Nsec.app",
+    "url": "https://nsec.app/",
+    "description": "Nsec.appは、Nostrの鍵を保存し、nip46を使って鍵にリモートアクセスするためのウェブアプリです。\n\nNIP-46: NIP-07と同等の機能をNostrプロトコル上で実現する仕組み\nnips-ja: https://github.com/nostr-jp/nips-ja/blob/main/46.md )\nscrapbox: https://scrapbox.io/nostr/NIP-46"
   }
 }
