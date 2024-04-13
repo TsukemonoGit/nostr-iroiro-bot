@@ -744,5 +744,19 @@
     "title": "Nsec.app",
     "url": "https://nsec.app/",
     "description": "Nsec.appは、Nostrの鍵を保存し、nip46を使って鍵にリモートアクセスするためのウェブアプリです。\n\nNIP-46: NIP-07と同等の機能をNostrプロトコル上で実現する仕組み\nnips-ja: https://github.com/nostr-jp/nips-ja/blob/main/46.md )\nscrapbox: https://scrapbox.io/nostr/NIP-46"
+  },
+  "122": {
+    "category": "",
+    "title": "profileを修正するやつ",
+    "url": "https://nos-profile-arekore.vercel.app/",
+    "description": "kind:0 を作れるサイト",
+    "kind": 0
+  },
+  "123": {
+    "category": "",
+    "title": "Nostr Bookmark Recovery Tool",
+    "url": "https://nostr-bookmark-recovery-tool.vercel.app/",
+    "description": "消失したブックマークを復活させることができるかもしれない\nkind:10003(ブクマ),kind:30001(カテゴリ別ブクマリスト),kind:30003(旧リスト)",
+    "kind": 10003
   }
 }
