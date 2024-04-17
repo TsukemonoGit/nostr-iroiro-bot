@@ -764,5 +764,11 @@
     "title": "Brostr",
     "url": "https://asaitoshiya.github.io/brostr/src/",
     "description": "NostrのWebコンテンツ用のネイティブブラウザ"
+  },
+  "125": {
+    "category": "BOT",
+    "title": "iroiroBot",
+    "url": "nostr:npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv",
+    "description": "このBOT\nみんなの作ったツールとか、Nostrでお役立ちなツールとか、Nostrにゆかりのある情報とかを毎時16分にポストするBOT\n\n  お気軽にfeedbackよろしくお願いします。 https://tsukemonogit.github.io/iroirotest/?page=feedback"
   }
 }
