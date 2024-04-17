@@ -763,6 +763,13 @@
     "category": "Browser",
     "title": "Brostr",
     "url": "https://asaitoshiya.github.io/brostr/src/",
-    "description": "NostrのWebコンテンツ用のネイティブブラウザ"
+    "description": "NostrのWebコンテンツ用のネイティブブラウザ\nhostrで作ったサイトもみれる"
+  },
+  "125": {
+    "category": "",
+    "title": "Nostr Bookmark Trend",
+    "url": "https://nikolat.github.io/nostr-bookmark-trend/",
+    "description": "フォローイー複数人にブックマークされているnoteを見るやつ",
+    "kind": 10003
   }
 }
