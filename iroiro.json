@@ -363,7 +363,8 @@
     "category": "",
     "title": "chronostr",
     "url": "https://chronostr.pages.dev/",
-    "description": "Nostr上で動作するスケジュール調整とRSVPツール。Nostr版調整さん"
+    "description": "Nostr上で動作するスケジュール調整とRSVPツール。Nostr版調整さん\n\n(NIP-52 Calendar Events) kind:31923,31928 など",
+    "kind": 31923
   },
   "60": {
     "category": "Article",
