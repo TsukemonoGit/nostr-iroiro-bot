@@ -32,7 +32,7 @@ const randomId = filteredIds[randomIndex];
 const data = jsonData[i_list ? i_list : randomId];
 //console.log(data);
 
-const content = `${i_list ? "(手動テスト)\n" : ""}${data.title}\n${data.url}\n${data.description}\n${data.kind ? `\n主なkind: ${data.kind}` : ''}\ncategory: ${(data.category && data.category !== "") ? data.category : 'Uncategorized'}`;
+const content = `${i_list ? "(手動テスト)\n" : ""}${data.title}\n${data.url}\n${data.description}\n${data.kind ? `\n主なkind: ${data.kind}` : ''}\n ${(data.category && data.category !== "") ? `category: ${data.category}` : ""}`;
 
 const nsec = process.argv[2];
 const pool = new SimplePool();
