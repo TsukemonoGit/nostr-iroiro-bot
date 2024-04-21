@@ -1,6 +1,8 @@
 # nostr-iroiro-bot
 https://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv
 
+# site 
+https://tsukemonogit.github.io/iroirotest/ ( ropo: https://github.com/TsukemonoGit/iroirotest)
 
 
 
