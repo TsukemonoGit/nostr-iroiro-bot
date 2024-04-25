@@ -296,7 +296,7 @@
     "category": "BOT",
     "title": "ぬるぽ・ｶﾞｯ",
     "url": "nostr:npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc",
-    "description": "ぬるぽ を許さない らしい\nhttps://image-bot.mattn-jp.workers.dev/\nこのサイトを元に、〇〇画像って投稿すると画像が返ってくる。my_new_gear…画像 とか カレー画像とか\nあとねこ画像とかもある\n他にもいろいろな機能があるよ\n内臓→ https://github.com/mattn/cloudflare-nostr-nullpoga/blob/main/src/index.ts"
+    "description": "ぬるぽ を許さない らしい\nhttps://image-bot.mattn-jp.workers.dev/\nこのサイトを元に、〇〇画像って投稿すると画像が返ってくる。my_new_gear…画像 とか カレー画像とか\nあとねこ画像とかもある\nkind 〇〇 どこ っていうと対応するNIPのページを教えてくれる\n検索どこっていうと検索ツールを色々教えてくれる\n\n他にもいろいろな機能があるよ\n内臓→ https://github.com/mattn/cloudflare-nostr-nullpoga/blob/main/src/index.ts"
   },
   "49": {
     "category": "Relay",
