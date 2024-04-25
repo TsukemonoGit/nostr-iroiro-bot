@@ -784,5 +784,11 @@
     "title": "nostui",
     "url": "https://github.com/akiomik/nostui",
     "description": "A TUI client for Nostr"
+  },
+  "128": {
+    "category": "",
+    "title": "Nostr検索ポータル",
+    "url": "https://nostr.hoku.in/",
+    "description": "Nostr上の日本語のNote（つぶやき）をキーワード検索できます\nいつでもどこでもNostr検索ができるブックマークレットもあります！\n\nNostr関連のニュースやリンク集もあるよ"
   }
 }
