@@ -296,7 +296,7 @@
     "category": "BOT",
     "title": "ぬるぽ・ｶﾞｯ",
     "url": "nostr:npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc",
-    "description": "ぬるぽ を許さない らしい\nhttps://image-bot.mattn-jp.workers.dev/\nこのサイトを元に、〇〇画像って投稿すると画像が返ってくる。my_new_gear…画像 とか カレー画像とか\nあとねこ画像とかもある\nkind 〇〇 どこ っていうと対応するNIPのページを教えてくれる\n検索どこっていうと検索ツールを色々教えてくれる\n\n他にもいろいろな機能があるよ\n内臓→ https://github.com/mattn/cloudflare-nostr-nullpoga/blob/main/src/index.ts"
+    "description": "ぬるぽ を許さない らしい\nkind 〇〇 どこ っていうと対応するNIPのページを教えてくれる\n検索どこっていうと検索ツールを色々教えてくれる\n他にも ビットコいくら とか 和英 英和 とかいろいろな機能があるよ\nhttps://image-bot.mattn-jp.workers.dev/\nこのサイトを元に、〇〇画像って投稿すると画像をくれたりとかも\n\n内臓→ https://github.com/mattn/cloudflare-nostr-nullpoga/blob/main/src/index.ts"
   },
   "49": {
     "category": "Relay",
@@ -720,7 +720,7 @@
     "category": "WindowsClient",
     "title": "nokakoi",
     "url": "https://betoneto.win/nokakoi/",
-    "description": "グローバルタイムラインの閲覧、フォロータイムラインの閲覧と投稿（ログイン必須）等 ができるWindows用nostrクライアント。\nタイムラインを『伺か』（SSP）（ https://ssp.shillest.net/ ）に流すこともできる"
+    "description": "Windows用nostrクライアント。\nキーワード通知機能とかもある\nタイムラインを『伺か』（SSP）（ https://ssp.shillest.net/ ）に流すこともできる\n伺か読み上げプラグイン ( https://github.com/apxxxxxxe/GhostSpeaker https://github.com/apxxxxxxe/Bouyomi など )と組み合わせてゴーストにTLを読み上げてもらえる"
   },
   "118": {
     "category": "WebClient",
