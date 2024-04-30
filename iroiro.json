@@ -217,7 +217,7 @@
     "category": "WebClient",
     "title": "nostter",
     "url": "https://nostter.app/",
-    "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる\n\nhttps://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv/2024/02/11\nみたいな感じで日付ごとの投稿が見れる\n\nhttps://nostter.app/latest\nでフォロイーの最新の投稿が見れる\n\nhttps://nostter.app/replay/home\nで過去時間のTLが見れる（リプレイ機能） 再生速度も変えれる！\n検索窓では 「kind:0 検索したいワード」みたいな感じでkind指定検索ができる"
+    "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる\n\nhttps://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv/2024/02/11\nみたいな感じで日付ごとの投稿が見れる\n\nhttps://nostter.app/latest\nでフォロイーの最新の投稿が見れる\n\nhttps://nostter.app/replay/home\nで過去時間のTLが見れる（リプレイ機能） 再生速度も変えれる！\n\n検索窓では 「kind:0 検索したいワード」みたいな感じでkind指定検索ができる"
   },
   "36": {
     "category": "WebClient",
