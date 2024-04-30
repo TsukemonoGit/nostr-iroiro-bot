@@ -52,7 +52,7 @@
     "category": "WebApp",
     "title": "おいくらサッツ",
     "url": "https://lokuyow.github.io/sats-rate/",
-    "description": "サッツ（Sats, Sat, Satoshi）、ビットコイン（bitcoin, BTC）、日本円（JPY）、米ドル（USD）、ユーロ（EUR）の相互換算ツール"
+    "description": "サッツ（Sats, Sat, Satoshi）、ビットコイン（bitcoin, BTC）、日本円（JPY）、米ドル（USD）、ユーロ（EUR）の相互換算ツール\n\n入力した金額のインボイスのQRコードを表示したりできる"
   },
   "9": {
     "category": "WebApp",
