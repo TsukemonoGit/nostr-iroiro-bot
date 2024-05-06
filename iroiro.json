@@ -796,5 +796,11 @@
     "title": "Nosteen",
     "url": "https://nosteen.vercel.app",
     "description": "A nostalgic Nostr (social) client for Nostraddicts™"
+  },
+  "130": {
+    "category": "",
+    "title": "Nostr Potatoes",
+    "url": "https://jrc-dev.github.io/nostr-potatoes/development/",
+    "description": "映画やシリーズのレビューを集約する分散型のプラットフォームです。\nRotten Tomatoes on Nostr"
   }
 }
