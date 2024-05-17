@@ -802,5 +802,17 @@
     "title": "Nostr Potatoes",
     "url": "https://jrc-dev.github.io/nostr-potatoes/development/",
     "description": "映画やシリーズのレビューを集約する分散型のプラットフォームです。\nRotten Tomatoes on Nostr"
+  },
+  "131": {
+    "category": "",
+    "title": "Mostr",
+    "url": "https://mostr.pub",
+    "description": "Nostrとfediverse(mastodon, ActivityPub, etc)間のブリッジ。\nリレー wss://relay.mostr.pub 等に投稿されている\nプロフィールに ActivityPub や @mostr.pub がついていたらそれはfediverseで投稿されたもの\n\nhttps://scrapbox.io/nostr/mostr "
+  },
+  "132": {
+    "category": "",
+    "title": "Momostr",
+    "url": "https://fed.brid.gy",
+    "description": "⚠️️ BETA ⚠️️\nNostrとBluesky間のブリッジ。\nNostrでの投稿をブリッジに流すには、リレー wss://relay.momostr.pink を追加して、nostr:npub1pqr3g2gk3vsnrqk9kwfqqcxc6d5cwjr0hyc0nlzz9py5nf92vd9sn02sck をフォローする必要がある。\nBlueskyでの投稿をブリッジに流すには、 https://bsky.app/profile/ap.brid.gy をフォローする必要がある\nプロフィールに @momostr.pink がついていたらそれはBlueskyで投稿されたもの"
   }
 }
