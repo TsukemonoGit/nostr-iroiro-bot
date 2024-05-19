@@ -814,5 +814,23 @@
     "title": "Momostr",
     "url": "https://fed.brid.gy",
     "description": "⚠️️ BETA ⚠️️\nNostrとBluesky間のブリッジ。\nNostrでの投稿をブリッジに流すには、リレー wss://relay.momostr.pink を追加して、nostr:npub1pqr3g2gk3vsnrqk9kwfqqcxc6d5cwjr0hyc0nlzz9py5nf92vd9sn02sck をフォローする必要がある。\nBlueskyでの投稿をブリッジに流すには、 https://bsky.app/profile/ap.brid.gy をフォローする必要がある\nプロフィールに @momostr.pink がついていたらそれはBlueskyで投稿されたもの"
+  },
+  "133": {
+    "category": "",
+    "title": "Nostr Game Lobby",
+    "url": "https://nostr-game-lobby.pages.dev",
+    "description": "特定のスレッドにメンションした人を人数指定でランダムにグループ分けできるサイト\n\nゲームで遊ぶときなどにお役立ち"
+  },
+  "134": {
+    "category": "",
+    "title": "Zapline-JP",
+    "url": "https://tiltpapa.github.io/zapline-jp/",
+    "description": "NostrでのZapの様子がみれるサイト\n今(2024/05/18)のところやぶみリレーのkind9735を流してる"
+  },
+  "135": {
+    "category": "Book",
+    "title": "Hello Nostr, Yo Bluesky 2 最先端分散型SNSの愉快な仲間たち",
+    "url": "https://books.428lab.net/book/003/",
+    "description": "技術書典16にて製作販売される Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。"
   }
 }
