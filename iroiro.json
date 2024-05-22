@@ -51,8 +51,8 @@
   "8": {
     "category": "WebApp",
     "title": "おいくらサッツ",
-    "url": "https://lokuyow.github.io/sats-rate/",
-    "description": "サッツ（Sats, Sat, Satoshi）、ビットコイン（bitcoin, BTC）、日本円（JPY）、米ドル（USD）、ユーロ（EUR）の相互換算ツール\n\n入力した金額のインボイスのQRコードを表示したりできる"
+    "url": "https://osats.money",
+    "description": "サッツ（Sats, Sat, Satoshi）、ビットコイン（bitcoin, BTC）、日本円（JPY）、米ドル（USD）など複数通貨間の相互換算ができるツール\n\n入力した金額のインボイスのQRコードを表示したりできる"
   },
   "9": {
     "category": "WebApp",
@@ -832,5 +832,11 @@
     "title": "Hello Nostr, Yo Bluesky 2 最先端分散型SNSの愉快な仲間たち",
     "url": "https://books.428lab.net/book/003/",
     "description": "技術書典16にて製作販売される Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。"
+  },
+  "136": {
+    "category": "WebSite",
+    "title": "ようこそ、分散型SNS「Nostr」へ！",
+    "url": "https://hello.nostrapp.me",
+    "description": "Nostr日本語チュートリアルサイト"
   }
 }
