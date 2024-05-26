@@ -839,5 +839,11 @@
     "title": "ようこそ、分散型SNS「Nostr」へ！",
     "url": "https://hello.nostrapp.me",
     "description": "Nostr日本語チュートリアルサイト"
+  },
+  "137": {
+    "category": "WebSite",
+    "title": "Nostr Real Time Statistics",
+    "url": "https://stats.nostr.band",
+    "description": "wss://relay.nostr.band のNostrリアルタイム統計サイト"
   }
 }
