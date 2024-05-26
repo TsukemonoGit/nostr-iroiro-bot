@@ -825,13 +825,14 @@
     "category": "",
     "title": "Zapline-JP",
     "url": "https://tiltpapa.github.io/zapline-jp/",
-    "description": "NostrでのZapの様子がみれるサイト\n今(2024/05/18)のところやぶみリレーのkind9735を流してる"
+    "description": "Nostr日本ユーザーのZapの流れを観察するためのWebアプリ\n\n(送信者、受信者のどちらかが日本人ユーザーbot( nostr:npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p )のフォローリストに入っているイベントを表示)",
+    "kind": 9735
   },
   "135": {
     "category": "Book",
     "title": "Hello Nostr, Yo Bluesky 2 最先端分散型SNSの愉快な仲間たち",
     "url": "https://books.428lab.net/book/003/",
-    "description": "技術書典16にて製作販売される Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。"
+    "description": "技術書典16にて製作販売された Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。"
   },
   "136": {
     "category": "WebSite",
