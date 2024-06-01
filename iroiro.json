@@ -845,5 +845,17 @@
     "title": "Nostr Real Time Statistics",
     "url": "https://stats.nostr.band",
     "description": "wss://relay.nostr.band のNostrリアルタイム統計サイト"
+  },
+  "138": {
+    "category": "",
+    "title": "NWC ( Nostr Wallet Connect )",
+    "url": "https://scrapbox.io/nostr/Alby_Nostr_Wallet_Connect",
+    "description": "NIP-47 に定められた、Nostrクライアントからライトニングウォレットのサーバに直接リクエストを送れるようにする仕組み。\n\n対応ウォレットはAlby（現在招待制）\nユーザが自分のウォレットまたはノードとNostr Wallet Connectプロトコルのブリッジを実行することもできるらしい\n\n対応クライアント nostter, Amethist など"
+  },
+  "139": {
+    "category": "",
+    "title": "ZAP",
+    "url": "https://scrapbox.io/nostr/Zap%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%AC%E3%82%A4%E3%83%89",
+    "description": "「Zap」はNostrの機能のひとつで、ビットコインを用いた投げ銭です。( NIP-57 )"
   }
 }
