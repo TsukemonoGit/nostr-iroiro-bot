@@ -863,5 +863,11 @@
     "title": "awesome-nostr-japan",
     "url": "https://github.com/nostr-jp/awesome-nostr-japan",
     "description": "日本人が作ったNostrソフトウェア、ウェブサービス、クライアント、ボットをまとめたサイト。\n\n(日本語版：https://github.com/nostr-jp/awesome-nostr-japan/blob/main/README-ja.md)\n\nNostr関連で何か作ったらここに pull-req を送ろう(((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ"
+  },
+  "141": {
+    "category": "",
+    "title": "Nostr Learn NIP-96",
+    "url": "https://nikolat.github.io/nostr-learn-nip96/",
+    "description": "画像をアップロードしたり、アップロードした画像を削除したりできる。\n\n削除の The SHA-256 hash of the original file の部分は 画像URLの https://<uploader_url>/<pubkey_hex>/<hash>.webp の<hash>の部分\n\n対応したサーバーは今までに上げた画像一覧が見れる！便利！"
   }
 }
