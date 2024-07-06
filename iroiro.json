@@ -868,6 +868,6 @@
     "category": "",
     "title": "Nostr Learn NIP-96",
     "url": "https://nikolat.github.io/nostr-learn-nip96/",
-    "description": "画像をアップロードしたり、アップロードした画像を削除したりできる。\n\n削除の The SHA-256 hash of the original file の部分は アップローダーによって異なりますが、たとえばshare.yabu.me だと、 https://share.yabu.me/<pubkey_hex>/<hash>.webp のような構成になっており、この<hash>の部分がそれになります。 \n\n(アップロードしたときのResultの tags の中の 'ox' の下に書いてある文字列でも確認できます。)\n\n対応したサーバーは今までに上げた画像一覧が見れる！便利！"
+    "description": "画像をアップロードしたり、アップロードした画像を削除したりできる。\n\n削除の The SHA-256 hash of the original file は https://<uploader url>/~~~~/<hash>.webp の<hash>の部分。\n\n対応したサーバーは今までに上げた画像一覧が見れる！便利！"
   }
 }
