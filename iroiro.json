@@ -850,7 +850,7 @@
     "category": "",
     "title": "NWC ( Nostr Wallet Connect )",
     "url": "https://scrapbox.io/nostr/Alby_Nostr_Wallet_Connect",
-    "description": "NIP-47 に定められた、Nostrクライアントからライトニングウォレットのサーバに直接リクエストを送れるようにする仕組み。\n\n対応ウォレットはAlby（現在招待制）\nユーザが自分のウォレットまたはノードとNostr Wallet Connectプロトコルのブリッジを実行することもできるらしい\n\n対応クライアント nostter, Amethist など"
+    "description": "NIP-47 に定められた、Nostrクライアントからライトニングウォレットのサーバに直接リクエストを送れるようにする仕組み。\n\n対応ウォレットはAlby（現在招待制）\nユーザが自分のウォレットまたはノードとNostr Wallet Connectプロトコルのブリッジを実行することもできるらしい\n\n対応クライアント nostter, Amethyst など"
   },
   "139": {
     "category": "",
