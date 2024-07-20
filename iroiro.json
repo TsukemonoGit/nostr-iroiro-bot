@@ -720,7 +720,7 @@
     "category": "WindowsClient",
     "title": "nokakoi",
     "url": "https://nokakoi.com/",
-    "description": "Windows用nostrクライアント。\nキーワード通知機能とかもある\nタイムラインを『伺か』（SSP）（ https://ssp.shillest.net/ ）に流すこともできる\n伺か読み上げプラグイン ( https://github.com/apxxxxxxe/GhostSpeaker https://github.com/apxxxxxxe/Bouyomi など )と組み合わせてゴーストにTLを読み上げてもらえる\n\n閲覧のみの妹分 noka もあるよ"
+    "description": "Windows用nostrクライアント。\nキーワード通知機能とかもある\nタイムラインを『伺か』（SSP）（ https://ssp.shillest.net/ ）に流すこともできる\n伺か読み上げプラグイン ( https://github.com/apxxxxxxe/GhostSpeaker https://github.com/apxxxxxxe/Bouyomi など )と組み合わせてゴーストにTLを読み上げてもらえる\n\n閲覧のみの妹分 noka もあるよ。\n\nNostrのユーザーの発言をそれぞれSSPのゴーストに割り当てることができる nokachat もあるよ"
   },
   "118": {
     "category": "WebClient",
@@ -869,5 +869,11 @@
     "title": "Nostr Learn NIP-96",
     "url": "https://nikolat.github.io/nostr-learn-nip96/",
     "description": "画像をアップロードしたり、アップロードした画像を削除したりできる。\n\n削除の The SHA-256 hash of the original file は https://<uploader url>/~~~~/<hash>.webp の<hash>の部分。\n\n対応したサーバーは今までに上げた画像一覧が見れる！便利！"
+  },
+  "142": {
+    "category": "Book",
+    "title": "[Software Design] 新時代の分散型SNS Nostr",
+    "url": "https://gihyo.jp/magazine/SD/archive/2023/202307",
+    "description": "Software Design 2023年7月号 から Software Design 2023年12月号 まで 連載！\n\n- 2023年7月号 次世代SNSを概観する https://gihyo.jp/magazine/SD/archive/2023/202307 へいほぅ氏 nostr:npub179rec9sw2a5ngkr2wsjpjhwp2ksygjxn6uw5py9daj2ezhw3aw5swv3s6q \n- 2023年8月号 Nostrのしくみ https://gihyo.jp/magazine/SD/archive/2023/202308 つるるん氏 nostr:npub147ccm75um0zkn0lr9fg9wrag2g6yxfw234fpmhdwuvaqjyegrhgs46t2td\n- 2023年9月号 Nostrの関連サービスを見てみよう https://gihyo.jp/magazine/SD/archive/2023/202309 鎌倉氏 nostr:npub1f5uuywemqwlejj2d7he6zjw8jz9wr0r5z6q8lhttxj333ph24cjsymjmug\n- 2023年10月号 詳説Nostrプロトコル https://gihyo.jp/magazine/SD/archive/2023/202310 かすてらふぃ氏 nostr:npub168ghgug469n4r2tuyw05dmqhqv5jcwm7nxytn67afmz8qkc4a4zqsu2dlc\n- 2023年12月号 Nostr botの作り方 https://gihyo.jp/magazine/SD/archive/2023/202312 mattn氏 nostr:npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6"
   }
 }
