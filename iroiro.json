@@ -875,5 +875,17 @@
     "title": "[Software Design] 新時代の分散型SNS Nostr",
     "url": "https://gihyo.jp/magazine/SD/archive/2023/202307",
     "description": "Software Design 2023年7月号 から Software Design 2023年12月号 まで 連載！\n\n- 2023年7月号 次世代SNSを概観する https://gihyo.jp/magazine/SD/archive/2023/202307 へいほぅ氏 nostr:npub179rec9sw2a5ngkr2wsjpjhwp2ksygjxn6uw5py9daj2ezhw3aw5swv3s6q \n- 2023年8月号 Nostrのしくみ https://gihyo.jp/magazine/SD/archive/2023/202308 つるるん氏 nostr:npub147ccm75um0zkn0lr9fg9wrag2g6yxfw234fpmhdwuvaqjyegrhgs46t2td\n- 2023年9月号 Nostrの関連サービスを見てみよう https://gihyo.jp/magazine/SD/archive/2023/202309 鎌倉氏 nostr:npub1f5uuywemqwlejj2d7he6zjw8jz9wr0r5z6q8lhttxj333ph24cjsymjmug\n- 2023年10月号 詳説Nostrプロトコル https://gihyo.jp/magazine/SD/archive/2023/202310 かすてらふぃ氏 nostr:npub168ghgug469n4r2tuyw05dmqhqv5jcwm7nxytn67afmz8qkc4a4zqsu2dlc\n- 2023年12月号 Nostr botの作り方 https://gihyo.jp/magazine/SD/archive/2023/202312 mattn氏 nostr:npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6"
+  },
+  "143": {
+    "category": "",
+    "title": "MAKIBISHI",
+    "url": "https://nikolat.github.io/makibishi/",
+    "description": "Nostr版はてなスター\n\n自分のサイトにちょっとコードを足すだけで、⭐を投げれるようになる"
+  },
+  "144": {
+    "category": "Event",
+    "title": "Nostrasia2024",
+    "url": "https://nostrasia.com",
+    "description": "2024.9.23 in 東京\nフリーダムNostrカンファレンス\nプログラムワークショップ、 ディスカッション、and more...\n参加費 無料\n\n会場はこちら👉️ https://cryptoloungegox.com"
   }
 }
