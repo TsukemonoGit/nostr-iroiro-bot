@@ -662,12 +662,6 @@
     "url": "https://nostrbuzzs.deno.dev/",
     "description": "英語・日本語のNostrのトレンドワード"
   },
-  "108": {
-    "category": "",
-    "title": "nostpic",
-    "url": "https://nostpic.com/",
-    "description": "Nostr用の画像アップローダ\nアップロードしたファイルのパスには投稿者の公開鍵が埋め込まれるので、誰のファイルかわかりやすい！\nWebブラウザーから画像をアップロードするには nostter を nostpic.com 用に変更したバージョンからご利用下さい。\nhttps://nostter-nostpic.vercel.app/ (運営: nostr:npub1vd9ar8jusldjze24eq2tlz8xdt8pwkq99ydxh6gtzkkrkgj8m2dsndwen9 さん) "
-  },
   "109": {
     "category": "Lineスタンプ",
     "title": "のすたこちゃんあらわる",
