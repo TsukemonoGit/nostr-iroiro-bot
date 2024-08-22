@@ -899,5 +899,11 @@
     "title": "んちゃんねる",
     "url": "https://nchan.shino3.net",
     "description": "匿名のパブリックチャットクライアント?"
+  },
+  "148": {
+    "category": "",
+    "title": "地鳳",
+    "url": "https://nikolat.github.io/chiihou/",
+    "description": "Nostr Mahjong UI\n\nNostrを使った麻雀ゲーム"
   }
 }
