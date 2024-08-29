@@ -905,5 +905,23 @@
     "title": "地鳳",
     "url": "https://nikolat.github.io/chiihou/",
     "description": "Nostr Mahjong UI\n\nNostrを使った麻雀ゲーム"
+  },
+  "149": {
+    "category": "",
+    "title": "のすjump",
+    "url": "https://showhyuga.pages.dev/utility/nos_jump",
+    "description": "noteIDを入れてnostter、のぞき窓、るみるみを開くツール"
+  },
+  "150": {
+    "category": "WebApp",
+    "title": "1-2演習改「パブチャの投稿を検索するやつ」",
+    "url": "https://showhyuga.pages.dev/utility/chat_search",
+    "description": "Nostrのパブチャ投稿検索"
+  },
+  "151": {
+    "category": "",
+    "title": "Npub.Pro",
+    "url": "https://npub.pro",
+    "description": "nostrベースのWebsite作成ツール\nオープンソースでセルフホスティングが可能\n\n(Nostr イベントから HTML ページをレンダリングするためのクライアントサイド NIP-512 エンジン) "
   }
 }
