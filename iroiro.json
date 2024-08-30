@@ -3,7 +3,7 @@
     "category": "WebApp",
     "title": "のすとびうあ",
     "url": "https://nostviewstr.vercel.app/",
-    "description": "いろんなノスリストを見たり編集したりできるやつ（プロフィール、ミュートリスト、ブックマークリストなど）"
+    "description": "いろんなノスリストを見たり編集したりできるやつ（フォローリスト、ミュートリスト、ブックマークリストなど）"
   },
   "1": {
     "category": "WebApp",
