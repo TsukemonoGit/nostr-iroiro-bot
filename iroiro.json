@@ -262,12 +262,6 @@
     "description": "ユーザステータスの閲覧に特化したNostrウェブクライアント(NIP-38)",
     "kind": 30315
   },
-  "43": {
-    "category": "Browser",
-    "title": "spring",
-    "url": "https://spring.site/",
-    "description": "スマホ用Nostr専用ブラウザ（拡張機能いらず）"
-  },
   "44": {
     "category": "WebClient",
     "title": "I'm here, Nostr!",
