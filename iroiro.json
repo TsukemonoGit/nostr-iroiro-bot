@@ -17,12 +17,6 @@
     "url": "https://dupstr.vercel.app/",
     "description": "IDがわかっているイベント単体をリレーからリレーにブロードキャストするやつ"
   },
-  "3": {
-    "category": "BOT",
-    "title": "もの画像",
-    "url": "nostr:npub1lxrlhyrfdl9sjdvx9xhwhag4d6s95sz3q8z09kgzp0cz73l2ffys9p726u",
-    "description": "もの画像 と投稿するとものが集めた画像からランダムで一つ返ってくる\nほかにもいろいろ\n\nもの画像のサイト https://tsukemonogit.github.io/nostr-monoGazo-bot/"
-  },
   "4": {
     "category": "WebApp",
     "title": "dmviewer",
@@ -462,7 +456,7 @@
   "76": {
     "category": "Article",
     "title": "それ、1個のアカウントで全部できるよ。そう、Nostrならね。",
-    "url": "https://yakihonne.com/article/naddr1qq25kumc2vuryj2nd4r4vvmddye52vjjdfs5zq3q6lrdq99ng2q4hg5ufre5f8j0qpealp8544vq4ctn2wqyrf4tk6uqxpqqqp65wzpqg78",
+    "url": "https://lumilumi.vercel.app/naddr1qq25kumc2vuryj2nd4r4vvmddye52vjjdfs5zq3q6lrdq99ng2q4hg5ufre5f8j0qpealp8544vq4ctn2wqyrf4tk6uqxpqqqp65wzpqg78",
     "description": "秘密鍵 (nsec) さえ一つあれば、Nostrプロトコルに準じた様々な種類のクライアントにアクセスすることができます。"
   },
   "77": {
@@ -504,7 +498,7 @@
   "83": {
     "category": "Article",
     "title": "Nostrのカスタム絵文字の使い方",
-    "url": "https://habla.news/u/lokuyow.github.io/xVMTZxHcV_NWKuTbDBUYs",
+    "url": "https://lumilumi.vercel.app/naddr1qvzqqqr4gupzpmzzcaj5rzeah8y940ln4z855wa72af4a6aac4zjypql55egcpsqqq2hs4jd23d8sjrr2e05u46tw42xy3zz24vhxxs6v86",
     "description": "みんなもカスタム絵文字を使おう"
   },
   "84": {

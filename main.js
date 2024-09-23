@@ -21,13 +21,19 @@ if (logData.length >= Object.keys(jsonData).length) {
   logData = [];
 }
 //logData.sort((a, b) => b - a);
+//まだポストしてないID（数字）のリスト
 const filteredIds = jsonDataIds.filter((id) => !logData.includes(id));
 //console.log(filteredData);
 
 
+//ポストしてないID配列の何番目を取るか
 const randomIndex = Math.floor(Math.random() * filteredIds.length);
+
 //console.log(randomIndex)
+
+//フィルターしたリストの何番目のID
 const randomId = filteredIds[randomIndex];
+
 //console.log(randomId);
 const data = jsonData[i_list ? i_list : randomId];
 //console.log(data);
