@@ -917,5 +917,17 @@
     "title": "Hot Post Ranking",
     "url": "nostr:npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl",
     "description": "数時間内でホットな投稿をランキング表示します。"
+  },
+  "153": {
+    "category": "",
+    "title": "atomstr",
+    "url": "https://atomstr.data.haus",
+    "description": "NostrへのRSS/Atomゲートウェイ。"
+  },
+  "154": {
+    "category": "",
+    "title": "rsslay",
+    "url": "https://rss.nos.social",
+    "description": "RSSやAtomフィードをNostrプロファイルに変換します。\nTwitterとかもできるらしい"
   }
 }
