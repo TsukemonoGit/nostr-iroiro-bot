@@ -929,5 +929,11 @@
     "title": "rsslay",
     "url": "https://rss.nos.social",
     "description": "RSSやAtomフィードをNostrプロファイルに変換します。\nTwitterとかもできるらしい"
+  },
+  "155": {
+    "category": "",
+    "title": "Amber",
+    "url": "https://github.com/greenart7c3/Amber",
+    "description": "Android用Nostrイベント署名ツール\nスマートフォンをNIP-46 ( https://scrapbox.io/nostr/NIP-46 ) の署名デバイスとして機能させる\nウェブアプリ にも ネイティブアプリ にも使えて便利"
   }
 }
