@@ -197,7 +197,7 @@
   "33": {
     "category": "WebSite",
     "title": "nostr.watch",
-    "url": "https://nostr.watch/relays/find",
+    "url": "https://legacy.nostr.watch/relays/find",
     "description": "世界のリレーが見れるサイト"
   },
   "34": {
