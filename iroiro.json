@@ -935,5 +935,17 @@
     "title": "Amber",
     "url": "https://github.com/greenart7c3/Amber",
     "description": "Android用Nostrイベント署名ツール\nスマートフォンをNIP-46 ( https://scrapbox.io/nostr/NIP-46 ) の署名デバイスとして機能させる\nウェブアプリ にも ネイティブアプリ にも使えて便利"
+  },
+  "156": {
+    "category": "CLI",
+    "title": "stashi",
+    "url": "https://github.com/erechorse/stashi",
+    "description": "ビットコイン積立を自動化するCLIアプリ。"
+  },
+  "157": {
+    "category": "",
+    "title": "nostr-tsne",
+    "url": "https://koteitan.github.io/nostr-tsne/",
+    "description": "nostr t-SNE (２次元埋め込み) graph\n\nマウスドラッグで移動、マウスホイールで拡大縮小できます"
   }
 }
