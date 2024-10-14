@@ -947,5 +947,11 @@
     "title": "nostr-tsne",
     "url": "https://koteitan.github.io/nostr-tsne/",
     "description": "nostr t-SNE (２次元埋め込み) graph\n\nマウスドラッグで移動、マウスホイールで拡大縮小できます"
+  },
+  "158": {
+    "category": "",
+    "title": "nostr-keyx",
+    "url": "https://github.com/susumuota/nostr-keyx",
+    "description": "OSのキーチェーンやYubiKeyを使って秘密鍵を保護するNIP-07のブラウザ拡張機能。"
   }
 }
