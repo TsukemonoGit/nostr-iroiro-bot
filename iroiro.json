@@ -247,7 +247,7 @@
     "category": "WebApp",
     "title": "mapnos",
     "url": "https://mapnos.vercel.app/",
-    "description": "g tag 付きの kind 1が地図に表示されるサイト"
+    "description": "g tag (geohash) 付きの kind 1が地図に表示されるサイト"
   },
   "42": {
     "category": "WebClient",
