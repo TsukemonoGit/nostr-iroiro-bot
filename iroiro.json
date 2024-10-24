@@ -415,7 +415,7 @@
     "category": "WebSite",
     "title": "Welcome to Nostr! ～ Nostrをはじめよう！ ～",
     "url": "https://welcome.nostr-jp.org/",
-    "description": "ようこそ Nostr へ！なサイト"
+    "description": "ようこそ Nostr へ！なサイト\n\nNostrの初め方や、認証マーク？の付け方、NIP-07の使い方、用語の解説など"
   },
   "70": {
     "category": "WebSite",
