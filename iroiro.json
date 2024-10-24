@@ -953,5 +953,11 @@
     "title": "nostr-keyx",
     "url": "https://github.com/susumuota/nostr-keyx",
     "description": "OSのキーチェーンやYubiKeyを使って秘密鍵を保護するNIP-07のブラウザ拡張機能。"
+  },
+  "159": {
+    "category": "",
+    "title": "リレー",
+    "url": "https://scrapbox.io/nostr/%E3%83%AA%E3%83%AC%E3%83%BC",
+    "description": "リレーって何？リレーの見つけ方、リレーを立てる方法など"
   }
 }
