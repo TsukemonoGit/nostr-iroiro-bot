@@ -959,5 +959,11 @@
     "title": "リレー",
     "url": "https://scrapbox.io/nostr/%E3%83%AA%E3%83%AC%E3%83%BC",
     "description": "リレーって何？リレーの見つけ方、リレーを立てる方法など"
+  },
+  "160": {
+    "category": "",
+    "title": "Orion Browser",
+    "url": "https://kagi.com/orion/",
+    "description": "iPhone, iPadで動作するWebブラウザ\nChromeとFirefoxの拡張機能に対応しており、[NIP-07]拡張機能が動作します\n\nhttps://scrapbox.io/nostr/Orion_Browser"
   }
 }
