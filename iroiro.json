@@ -965,5 +965,11 @@
     "title": "Orion Browser",
     "url": "https://kagi.com/orion/",
     "description": "iPhone, iPadで動作するWebブラウザ\nChromeとFirefoxの拡張機能に対応しており、[NIP-07]拡張機能が動作します\n\nhttps://scrapbox.io/nostr/Orion_Browser"
+  },
+  "161": {
+    "category": "Book",
+    "title": "Hello Nostr, Yo Bluesky 3 未来を担う分散型SNS",
+    "url": "https://books.428lab.net/book/004/",
+    "description": "技術書典17にて製作販売された Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。"
   }
 }
