@@ -850,7 +850,7 @@
     "category": "",
     "title": "Nostr Learn NIP-96",
     "url": "https://nikolat.github.io/nostr-learn-nip96/",
-    "description": "画像をアップロードしたり、アップロードした画像を削除したりできる。\n\n削除の The SHA-256 hash of the original file は https://<uploader url>/~~~~/<hash>.webp の<hash>の部分。\n\n対応したサーバーは今までに上げた画像一覧が見れる！便利！"
+    "description": "画像をアップロードしたり、アップロードした画像を削除したりできる。\n\n削除の The SHA-256 hash of the original file は https://<uploader url>/~~~~/<hash>.webp の<hash>の部分。\n(もしくは tags のなかにimetaデータが有れば、それの 'ox' のところ)\n\n対応したサーバーは今までに上げた画像一覧が見れる！便利！"
   },
   "142": {
     "category": "Book",
