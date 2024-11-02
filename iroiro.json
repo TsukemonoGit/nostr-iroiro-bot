@@ -80,9 +80,9 @@
   },
   "14": {
     "category": "WebApp",
-    "title": "Nostr Event Deletion",
-    "url": "https://nostr-delete.vercel.app/",
-    "description": "Nostrのイベント削除ツール\n\n削除ボタンが見つからない場合はリロードしてみてください。出てくるかもしれません。",
+    "title": "nostr event deleter",
+    "url": "https://delete.nostr.com",
+    "description": "Nostrのイベント削除ツール",
     "kind": 5
   },
   "15": {
