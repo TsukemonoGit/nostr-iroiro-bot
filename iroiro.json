@@ -399,12 +399,6 @@
     "url": "https://snowcait.github.io/nostr-hours/",
     "description": "活動時間帯を可視化するサイト"
   },
-  "67": {
-    "category": "BOT",
-    "title": "NIPs 占い",
-    "url": "nostr:npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0",
-    "description": "今日のラッキー NIP を占うBOT"
-  },
   "68": {
     "category": "WebSite",
     "title": "nostr(scrapbox)",
