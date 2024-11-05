@@ -17,7 +17,7 @@ nostr:note14atn70dy0u04wm6ae8e9mnahyr8gpm76gusskw2ratf73rg8arusa0p03y
 
 20241105
 動いてないかも
-```
+```json
     "67": {
     "category": "BOT",
     "title": "NIPs 占い",
