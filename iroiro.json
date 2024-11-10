@@ -995,5 +995,11 @@
     "title": "Nostr Advent Calendar 2024",
     "url": "https://adventar.org/calendars/10004",
     "description": "分散SNS等に活用できる、Websocketベースのプロトコル「Nostr」のアドベントカレンダー 2024"
+  },
+  "167": {
+    "category": "Extension",
+    "title": "NAKE",
+    "url": "https://chromewebstore.google.com/detail/nake/pckmdjknadbfalfohabbccmffoohlamk",
+    "description": "NIP-19 Encode/Decode, NIP-49 Encode/Decode tool\n\n16進数⇔note～～,npub～～にしたり、note⇔neventにしたりいろいろ"
   }
 }
