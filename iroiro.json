@@ -25,7 +25,7 @@
     "kind": 4
   },
   "5": {
-    "category": "Library",
+    "category": "Dev",
     "title": "nostr-fetch",
     "url": "https://github.com/jiftechnify/nostr-fetch",
     "description": "Nostrリレーから過去のイベントを簡単に取得できるJS/TSライブラリ"
@@ -86,14 +86,14 @@
     "kind": 5
   },
   "15": {
-    "category": "Library",
+    "category": "Dev",
     "title": "nostr-key-value",
     "url": "https://www.npmjs.com/package/nostr-key-value",
     "description": "Nostr を Key-Value の DB として使用するためのJS/TSライブラリ（NIP-78）",
     "kind": 30078
   },
   "16": {
-    "category": "Tool",
+    "category": "Dev",
     "title": "nosdump",
     "url": "https://github.com/jiftechnify/nosdump",
     "description": "Nostrリレーに保存されたイベントをJSON-Lines形式で出力するツール"
@@ -317,7 +317,7 @@
     "description": "分散SNS等に活用できる、Websocketベースのプロトコル「Nostr」のアドベントカレンダー"
   },
   "54": {
-    "category": "Framework",
+    "category": "Dev",
     "title": "strfrui",
     "url": "https://github.com/jiftechnify/strfrui",
     "description": "strfryのイベント・シフター（書き込みポリシー）プラグインをGoで書くためのフレームワーク。"
@@ -460,7 +460,7 @@
     "description": "ひたすら忘れる生き物だって、あいさつは欠かさない。"
   },
   "78": {
-    "category": "",
+    "category": "Dev",
     "title": "823API",
     "url": "https://api.yabu.me/",
     "description": "やぶみリレー（wss://yabu.me）のAPI"
@@ -502,7 +502,7 @@
     "description": "リマインダボット\n!RemindMe 1 min \"message\"などと投稿しておくとその時間にリマインドしてくれるでしょう。\n海外でも利用できるように時間帯設定があります。\n!RemindMe TZ Asia/Tokyo\nと入れておけば日本時間で動くようになります。標準はUTCです。"
   },
   "85": {
-    "category": "WebSite",
+    "category": "Dev",
     "title": "Nostr Design",
     "url": "https://nostrdesign.org/docs/resources/",
     "description": "nostrのデザイナーや開発者にとって便利なリソースのリスト"
@@ -551,7 +551,7 @@
     "kind": 30023
   },
   "93": {
-    "category": "",
+    "category": "Dev",
     "title": "Nostify",
     "url": "https://github.com/kojira/nostify",
     "description": "Nostrのリレーサーバーに接続して、discordに投稿するdiscord bot"
@@ -587,7 +587,7 @@
     "description": "Nostrの CLI クライアント。Nost+algia (ノスタルジア) \nぽわ～ とか (((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙかのコマンドもあるよ"
   },
   "99": {
-    "category": "Library",
+    "category": "Dev",
     "title": "rx-nostr",
     "url": "https://penpenpng.github.io/rx-nostr/",
     "description": "Nostr アプリケーションがリレーとより簡単に通信するための RxJS に基づくライブラリ"
@@ -705,7 +705,7 @@
     "description": "バーチャルな住所を利用して文通を行う Nostr クライアント"
   },
   "119": {
-    "category": "Tool",
+    "category": "Dev",
     "title": "n8n-nodes-Nostrobots",
     "url": "https://github.com/ocknamo/n8n-nodes-nostrobots",
     "description": "Nostrのためのn8n( https://n8n.io/ )ノード"
@@ -925,7 +925,7 @@
     "description": "RSSやAtomフィードをNostrプロファイルに変換します。\nTwitterとかもできるらしい"
   },
   "155": {
-    "category": "",
+    "category": "AndroidApp",
     "title": "Amber",
     "url": "https://github.com/greenart7c3/Amber",
     "description": "Android用Nostrイベント署名ツール\nスマートフォンをNIP-46 ( https://scrapbox.io/nostr/NIP-46 ) の署名デバイスとして機能させる\nウェブアプリ にも ネイティブアプリ にも使えて便利"
@@ -965,5 +965,35 @@
     "title": "Hello Nostr, Yo Bluesky 3 未来を担う分散型SNS",
     "url": "https://books.428lab.net/book/004/",
     "description": "技術書典17にて製作販売された Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。"
+  },
+  "162": {
+    "category": "Dev",
+    "title": "Restr",
+    "url": "https://github.com/SnowCait/restr",
+    "description": "Nostr REST APIのプロキシ\n\nリレーとの通信をプロキシサーバに任せることで、クライアントの実装を簡略化します。 また、クライアントの通信量も削減できます。"
+  },
+  "163": {
+    "category": "Dev",
+    "title": "nostr-signer-connector",
+    "url": "https://github.com/SnowCait/restr",
+    "description": "Nostrクライアントが様々なNostrイベントサイナーと統一された方法でやり取りできるようにするライブラリ。\n(秘密鍵, NIP-07, NIP-46)"
+  },
+  "164": {
+    "category": "",
+    "title": "SnapNostr",
+    "url": "https://snapnostr.app",
+    "description": "Nostrの投稿をカスタマイズしてきれいな画像にできるアプリ"
+  },
+  "165": {
+    "category": "AndroidApp",
+    "title": "Pokey",
+    "url": "https://github.com/KoalaSat/pokey",
+    "description": "Android用リアルタイム通知アプリ"
+  },
+  "166": {
+    "category": "Article",
+    "title": "Nostr Advent Calendar 2024",
+    "url": "https://adventar.org/calendars/10004",
+    "description": "分散SNS等に活用できる、Websocketベースのプロトコル「Nostr」のアドベントカレンダー 2024"
   }
 }
