@@ -975,7 +975,7 @@
   "163": {
     "category": "Dev",
     "title": "nostr-signer-connector",
-    "url": "https://github.com/SnowCait/restr",
+    "url": "https://github.com/jiftechnify/nostr-signer-connector",
     "description": "Nostrクライアントが様々なNostrイベントサイナーと統一された方法でやり取りできるようにするライブラリ。\n(秘密鍵, NIP-07, NIP-46)"
   },
   "164": {
