@@ -694,9 +694,9 @@
   },
   "117": {
     "category": "WindowsClient",
-    "title": "nokakoi",
+    "title": "kakoi",
     "url": "https://nokakoi.com/",
-    "description": "Windows用nostrクライアント。\nキーワード通知機能とかもある\nタイムラインを『伺か』（SSP）（ https://ssp.shillest.net/ ）に流すこともできる\n伺か読み上げプラグイン ( https://github.com/apxxxxxxe/GhostSpeaker https://github.com/apxxxxxxe/Bouyomi など )と組み合わせてゴーストにTLを読み上げてもらえる\n\n閲覧のみの妹分 noka もあるよ。\n\nNostrのユーザーの発言をそれぞれSSPのゴーストに割り当てることができる nokachat もあるよ"
+    "description": "Windows用nostrクライアント。\nグリッド表示で職場でも目立たずにコソのすできる\nタイムラインを『伺か』（SSP）（ https://ssp.shillest.net/ ）に流すこともできる\n伺か読み上げプラグイン（ https://github.com/apxxxxxxe/GhostSpeaker https://github.com/apxxxxxxe/Bouyomi など ）と組み合わせてゴーストにTLを読み上げてもらえる\n\nNostrのユーザーの発言をそれぞれSSPのゴーストに割り当てることができる閲覧のみの妹分 noka もあるよ。\nnpubの入力だけで気軽に試すことができる\nnokauka（ https://github.com/nikolat/nokauka ）から起動・自動更新もできる"
   },
   "118": {
     "category": "WebClient",
