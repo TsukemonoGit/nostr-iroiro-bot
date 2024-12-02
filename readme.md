@@ -1,6 +1,17 @@
 # nostr-iroiro-bot
 https://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv
 
+
+# データの 追加/修正
+
+- [iroirl.json](./iroiro.json) を修正して(((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ
+- イシューに書く
+- Nostrでメッセージを送る
+- サイトの方のフィードバックから送る（フィードバックはたまにしか確認してませんごめんなさい）
+
+のいずれかでお願いします
+
+
 # site 
 https://tsukemonogit.github.io/iroirotest/ ( ripo: https://github.com/TsukemonoGit/iroirotest)
 
