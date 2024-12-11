@@ -1001,5 +1001,11 @@
     "title": "NAKE",
     "url": "https://chromewebstore.google.com/detail/nake/pckmdjknadbfalfohabbccmffoohlamk",
     "description": "NIP-19 Encode/Decode, NIP-49 Encode/Decode tool\n\n16進数⇔note～～,npub～～にしたり、note⇔neventにしたりいろいろ"
+  },
+  "168": {
+    "category": "",
+    "title": "nostr-nowplaying",
+    "url": "https://github.com/mattn/nostr-nowplaying",
+    "description": "Rhythmbox や MPD で再生中の曲を音楽ステータス (kind30315) で共有できる"
   }
 }
