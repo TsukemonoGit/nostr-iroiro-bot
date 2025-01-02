@@ -1007,5 +1007,25 @@
     "title": "nostr-nowplaying",
     "url": "https://github.com/mattn/nostr-nowplaying",
     "description": "Rhythmbox や MPD で再生中の曲を音楽ステータス (kind30315) で共有できる"
+  },
+  "169": {
+    "category": "",
+    "title": "Kanbanstr",
+    "url": "https://www.kanbanstr.com",
+    "description": "Kanban on Nostr [Public events only]\nカンバン方式のタスク管理ツール\n (参考 カンバンボードとは? https://www.atlassian.com/ja/agile/kanban/boards )"
+  },
+  "170": {
+    "category": "",
+    "title": "NosMoji Library",
+    "url": "https://hayabu1231.github.io/NosMoji-Library/",
+    "description": "他のユーザーが登録した絵文字セットを自分の絵文字リストに追加したり、新たな絵文字セットを作成することができます。",
+    "kind": 30030
+  },
+  "171": {
+    "category": "",
+    "title": "Nos Haiku",
+    "url": "https://nos-haiku.vercel.app",
+    "description": "母：「はてなハイク ( http://h.hatena.ne.jp ) 」\n姉：「スドハイク ( https://h.sudo.ne.jp )」\n妹：「のすハイク （ここ）」",
+    "kind": 42
   }
 }
