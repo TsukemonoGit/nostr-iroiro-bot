@@ -999,8 +999,8 @@
   "167": {
     "category": "Extension",
     "title": "NAKE",
-    "url": "https://chromewebstore.google.com/detail/nake/pckmdjknadbfalfohabbccmffoohlamk",
-    "description": "NIP-19 Encode/Decode, NIP-49 Encode/Decode tool\n\n16進数⇔note～～,npub～～にしたり、note⇔neventにしたりいろいろ"
+    "url": "https://tsukemonogit.github.io/nake-website/",
+    "description": "NIP-19 Encode/Decode, NIP-49 Encode/Decode tool\n\n16進数⇔note～～,npub～～にしたり、note⇔neventにしたり、created_atを年月日時にしたり、いろいろ"
   },
   "168": {
     "category": "",
