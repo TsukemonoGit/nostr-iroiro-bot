@@ -1027,5 +1027,29 @@
     "url": "https://nos-haiku.vercel.app",
     "description": "母：「はてなハイク ( http://h.hatena.ne.jp ) 」\n姉：「スドハイク ( https://h.sudo.ne.jp )」\n妹：「のすハイク （ここ）」\n親戚：「いっとく ( https://pulpdust.org/i/ )」\n\n（アンテナページではkind1（通常の投稿）も流れます。）",
     "kind": 42
+  },
+  "172": {
+    "category": "",
+    "title": "Zapper",
+    "url": "https://zapper.nostrapps.org/",
+    "description": "Nostr経由で一括ライトニング決済を送信\n\n自分のサイトに\nhttps://zapper.nostrapps.org/zap?id=note~~\nとか\nhttps://zapper.nostrapps.org/zap?id=npub~~\nとかのリンクを貼るとNostr経由で特定のノートとかユーザーとかへのザップができる"
+  },
+  "173": {
+    "category": "BOT",
+    "title": "カレンダーボット",
+    "url": "npub1c3xutxzwzvwhmjycutv0kaxwrq7tfav4q4tuamhj3rhx2df3385qsdz0hm",
+    "description": "Nostr でカレンダー イベントを作成するには、次の形式でメンションを送信します。\n`<@mention>[スペース]<日付>[スペース]<名前>[スペース]<説明>`\n\nヘルプ とリプすると詳細が聞けます。"
+  },
+  "174": {
+    "category": "",
+    "title": "Nostr Contribution Graph",
+    "url": "https://kojira.github.io/NostrActivity/",
+    "description": "pubkeyを入力すると、github contribution graphのような過去一年間の活動が表示される。"
+  },
+  "175": {
+    "category": "",
+    "title": "おもち",
+    "url": "npub13y0txj4x7ztqjlduvx3fa0ypvmavmqm9m5u289gnk8lezczv0caq80m4gf",
+    "description": "おもちですぷく。\nやぶみリレーのまとめをしてるぷく。/nみんなのつぶやきを、わかりやすくおしらせするのがおしごとぷく。\nこまったことがあったら、きがるに声かけてねぷしゅー。"
   }
 }
