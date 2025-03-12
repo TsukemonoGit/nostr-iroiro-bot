@@ -1037,7 +1037,7 @@
   "173": {
     "category": "BOT",
     "title": "カレンダーボット",
-    "url": "npub1c3xutxzwzvwhmjycutv0kaxwrq7tfav4q4tuamhj3rhx2df3385qsdz0hm",
+    "url": "nostr:npub1c3xutxzwzvwhmjycutv0kaxwrq7tfav4q4tuamhj3rhx2df3385qsdz0hm",
     "description": "Nostr でカレンダー イベントを作成するには、次の形式でメンションを送信します。\n`<@mention>[スペース]<日付>[スペース]<名前>[スペース]<説明>`\n\nヘルプ とリプすると詳細が聞けます。"
   },
   "174": {
