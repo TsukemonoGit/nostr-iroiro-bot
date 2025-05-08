@@ -1006,7 +1006,7 @@
     "category": "",
     "title": "nostr-nowplaying",
     "url": "https://github.com/mattn/nostr-nowplaying",
-    "description": "Rhythmbox や MPD で再生中の曲を音楽ステータス (kind30315) で共有できる"
+    "description": "Rhythmbox や MPD や Last.fm で再生中の曲を音楽ステータス (kind30315) で共有できる"
   },
   "169": {
     "category": "",
@@ -1051,5 +1051,17 @@
     "title": "おもち",
     "url": "nostr:npub13y0txj4x7ztqjlduvx3fa0ypvmavmqm9m5u289gnk8lezczv0caq80m4gf",
     "description": "おもちですぷく。\nやぶみリレーのまとめをしてるぷく。\nみんなのつぶやきを、わかりやすくおしらせするのがおしごとぷく。\nこまったことがあったら、きがるに声かけてねぷしゅー。"
+  },
+  "176": {
+    "category": "",
+    "title": "Nostr Relay Trend",
+    "url": "https://nikolat.github.io/nostr-relay-trend/",
+    "description": "フォローイーが使ってるリレーの一覧を表示するやつ"
+  },
+  "177": {
+    "category": "",
+    "title": "Nosskey",
+    "url": "https://nosskey.app/",
+    "description": "このアプリはパスキー認証を使ってNostr鍵を安全に管理します。パスキーはプラットフォームによりクラウドバックアップされるため煩雑な秘密鍵管理が不要となります"
   }
 }
