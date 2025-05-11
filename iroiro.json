@@ -1063,5 +1063,26 @@
     "title": "Nosskey",
     "url": "https://nosskey.app/",
     "description": "このアプリはパスキー認証を使ってNostr鍵を安全に管理します。パスキーはプラットフォームによりクラウドバックアップされるため煩雑な秘密鍵管理が不要となります"
+  },
+  "178": {
+    "category": "",
+    "title": "Nostr Web Bookmark Trend",
+    "url": "https://nostr-web-bookmark-trend.vercel.app/",
+    "description": "NIP-B0 Web Bookmarking をなんかするやつ",
+    "kind":39701
+  },
+  "179": {
+    "category": "Bookmarklet",
+    "title": "nostr bookmark",
+    "url": "https://let.hatelabo.jp/Nikola/let/k4HPq9jOgYAA",
+    "description": "現在のWebページをNostrでブックマークできるブックマークレット",
+    "kind":39701
+  },
+  "180": {
+    "category": "",
+    "title": "Nostr Learn Blossom",
+    "url": "https://nikolat.github.io/nostr-learn-blossom/",
+    "description": "https://github.com/hzrd149/blossom をなんかするやつ",
+    "kind":10063
   }
 }
