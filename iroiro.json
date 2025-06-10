@@ -1096,7 +1096,7 @@
     "category": "Bookmarklet",
     "title": "import emoji list to Rabbit",
     "url": "https://let.hatelabo.jp/Nikola/let/kO26wurQgcAA",
-    "description": "リレーからkind10030,kind30030イベントを取得してRabbitにカスタム絵文字リストをインポートする\n\nリレーからkind10000イベントを取得してRabbitにミュートリストをインポートする\nhttps://let.hatelabo.jp/Nikola/let/kO23t_SCgcAA",
+    "description": "リレーからkind10030,kind30030イベントを取得してRabbitにカスタム絵文字リストをインポートする\n\nhttps://let.hatelabo.jp/Nikola/let/kO23t_SCgcAA\nリレーからkind10000イベントを取得してRabbitにミュートリストをインポートする",
     "kind": 10030
   }
 }
