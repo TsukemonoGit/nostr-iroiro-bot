@@ -1,94 +1,132 @@
 # nostr-iroiro-bot
-https://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv
 
+https://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv
 
 # データの 追加/修正
 
-- [iroiro.json](./iroiro.json) を修正して(((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ
+- [iroiro.json](./iroiro.json) を修正して(((( ˙꒳​˙ ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ
 - イシューに書く
-- Nostrでメッセージを送る
+- Nostr でメッセージを送る
 - サイトの方のフィードバックから送る（フィードバックはたまにしか確認してませんごめんなさい）
 
 のいずれかでお願いします
 
+# site
 
-# site 
 https://tsukemonogit.github.io/iroirotest/ ( ripo: https://github.com/TsukemonoGit/iroirotest)
-
-
-
 
 crontab
 
-16 * * * * bash /main.sh
+16 \* \* \* \* bash /main.sh
 
 みたいな感じで動かしてます
 
-Nostrに関するまたはNostrで便利なツールとかあれば随時追加予定
+Nostr に関するまたは Nostr で便利なツールとかあれば随時追加予定
 
-Botなのかクライアントなのかなんなのかみたいなカテゴリを作りたかったけど分け方が分からな
+Bot なのかクライアントなのかなんなのかみたいなカテゴリを作りたかったけど分け方が分からな
 
 ---
+
 番号指定して手動実行したいときは
-```bash main.sh 35```
+`bash main.sh 35`
 みたいなかんじでできる
 
+### category について
 
-### categoryについて
+- BOT: 自動でポストするアカウント
 
- - BOT: 自動でポストするアカウント
+- WebClient: SNS の機能を持った Web アプリ
 
- - WebClient: SNSの機能を持ったWebアプリ
+- WebApp: その他の Web アプリ。ユーザーが何らかの操作ができるタイプ
 
- - WebApp: その他のWebアプリ。ユーザーが何らかの操作ができるタイプ
+- WebSite: 一方的に見るタイプ
 
- - WebSite: 一方的に見るタイプ
+- Library: Nostr アプリとかを作るときに使うライブラリ
 
- - Library: Nostrアプリとかを作るときに使うライブラリ
+- Extention: 拡張機能
 
- - Extention: 拡張機能
+- Relay: Nostr リレー
 
- - Relay: Nostrリレー
+- Tool: ツール…
 
- - Tool: ツール…
+- Uncategorized: 未分類
 
- - Uncategorized: 未分類
+- Article: よみもの
 
- - Article: よみもの
+#### memo
 
+#### iroiro-cli
 
- #### memo
+使用方法:
 
- .git/hooks/pre-commit
- ファイルを作って
- ```
- #!/bin/bash
+```
+node iroiro-cli.js <コマンド> [オプション]
+
+コマンド:
+add 新しいブックマークを追加
+edit <ID> 指定した ID のブックマークを編集
+delete <ID> 指定した ID のブックマークを削除
+list ブックマーク一覧を表示
+show <ID> 指定した ID のブックマーク詳細を表示
+
+add コマンドのオプション:
+--category <カテゴリ> カテゴリを指定
+--title <タイトル> タイトルを指定（必須）
+--url <URL> URL を指定（必須）
+--description <説明> 説明を指定
+--kind <種類> kind 値を指定（デフォルト: 39701）
+--force 重複チェックをスキップして強制追加
+
+edit コマンドのオプション:
+--category <カテゴリ> カテゴリを更新
+--title <タイトル> タイトルを更新
+--url <URL> URL を更新
+--description <説明> 説明を更新
+--kind <種類> kind 値を更新
+
+例:
+node iroiro-cli.js add --title "テストサイト" --url "https://example.com" --description "test\\n\\nてすと"
+node iroiro-cli.js edit 5 --title "新しいタイトル"
+node iroiro-cli.js delete 5
+node iroiro-cli.js show 5
+node iroiro-cli.js list
+
+```
+
+---
+
+#### コミット前重複チェック
+
+.git/hooks/pre-commit
+ファイルを作って
+
+```
+#!/bin/bash
 
 # Run the data test script
 node datatest.js
 
 # Check the exit status of the data test script
 if [ $? -ne 0 ]; then
-    echo "Data test failed. Please fix the issues before committing."
-    exit 1
+   echo "Data test failed. Please fix the issues before committing."
+   exit 1
 fi
 
 # If the data test passed, allow the commit
 exit 0
 
- ```
- 
- て書いて
- 
- ```
- chmod +x .git/hooks/pre-commit
- ```
- 
- ってしておくと
+```
 
- git commit のときにnode datatest.jsが動いて
+て書いて
 
- タイトルの重複とURLの重複チェックが動いて
- 
- OKだったらcommitされるようになる
+```
+chmod +x .git/hooks/pre-commit
+```
 
+ってしておくと
+
+git commit のときに node datatest.js が動いて
+
+タイトルの重複と URL の重複チェックが動いて
+
+OK だったら commit されるようになる

@@ -1069,20 +1069,34 @@
     "title": "Nostr Web Bookmark Trend",
     "url": "https://nostr-web-bookmark-trend.vercel.app/",
     "description": "NIP-B0 Web Bookmarking をなんかするやつ",
-    "kind":39701
+    "kind": 39701
   },
   "179": {
     "category": "Bookmarklet",
     "title": "nostr bookmark",
     "url": "https://let.hatelabo.jp/Nikola/let/k4HPq9jOgYAA",
     "description": "現在のWebページをNostrでブックマークできるブックマークレット",
-    "kind":39701
+    "kind": 39701
   },
   "180": {
     "category": "",
     "title": "Nostr Learn Blossom",
     "url": "https://nikolat.github.io/nostr-learn-blossom/",
     "description": "https://github.com/hzrd149/blossom をなんかするやつ",
-    "kind":10063
+    "kind": 10063
+  },
+  "181": {
+    "category": "",
+    "title": "KUCHIYOSE",
+    "url": "https://kuchiyose.vercel.app/",
+    "description": "Nostr events of web bookmark",
+    "kind": 39701
+  },
+  "182": {
+    "category": "Bookmarklet",
+    "title": "import emoji list to Rabbit",
+    "url": "https://let.hatelabo.jp/Nikola/let/kO26wurQgcAA",
+    "description": "リレーからkind10030,kind30030イベントを取得してRabbitにカスタム絵文字リストをインポートする\n\nリレーからkind10000イベントを取得してRabbitにミュートリストをインポートする\nhttps://let.hatelabo.jp/Nikola/let/kO23t_SCgcAA",
+    "kind": 10030
   }
 }
