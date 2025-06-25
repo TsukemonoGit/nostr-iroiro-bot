@@ -1054,9 +1054,10 @@
   },
   "176": {
     "category": "",
-    "title": "Nostr Relay Trend",
-    "url": "https://nikolat.github.io/nostr-relay-trend/",
-    "description": "フォローイーが使ってるリレーの一覧を表示するやつ"
+    "title": "KAGENUI",
+    "url": "https://nikolat.github.io/kagenui/",
+    "description": "フォローイーが使ってるリレーの一覧を表示するやつ",
+    "kind": 10002
   },
   "177": {
     "category": "",
