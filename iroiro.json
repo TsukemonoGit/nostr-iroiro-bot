@@ -1086,12 +1086,17 @@
     "description": "https://github.com/hzrd149/blossom をなんかするやつ",
     "kind": 10063
   },
-
   "181": {
     "category": "Bookmarklet",
     "title": "import emoji list to Rabbit",
     "url": "https://let.hatelabo.jp/Nikola/let/kO26wurQgcAA",
     "description": "リレーからkind10030,kind30030イベントを取得してRabbitにカスタム絵文字リストをインポートする\n\nhttps://let.hatelabo.jp/Nikola/let/kO23t_SCgcAA\nリレーからkind10000イベントを取得してRabbitにミュートリストをインポートする",
     "kind": 10030
+  },
+  "182": {
+    "category": "Book",
+    "title": "Enjoy 分散型SNS メタクソ化の特効薬は分散型だけ！",
+    "url": "https://books.428lab.net/book/005/",
+    "description": "技術書典18にて製作販売された\n「世界一分散型SNSに詳しい本（※当社調べ。2025年5月現在）爆誕！\n中央集権的サービスと比較しつつ、「メタクソ化」に対して分散型ならではの逆襲ポイントを解説しています！\n執筆陣は分散型SNSで活躍する仲間たち。Nostrでサービスを作って助成金を勝ち取った話から、感情を宿し始めた LLM Bot の話まで、世界でも最先端のネタが盛りだくさん！\n「もっとディープに潜りたい！」と思ったら、既刊の目次もぜひ覗いてみてください。あなたの好奇心にブッ刺さるタイトルがきっと見つかると思います！」\n電子版も有ります。"
   }
 }
