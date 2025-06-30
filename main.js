@@ -93,6 +93,12 @@ async function processManualSite(siteId, jsonData) {
     return { selectedData: null, hasChanged: false };
   }
 
+  // nostr URLの特別処理
+  if (siteData.url.startsWith("nostr:")) {
+    console.log(`nostrプロトコルのためURLチェックをスキップ: ${siteData.url}`);
+    return { selectedData: siteData, hasChanged: false };
+  }
+
   let hasChanged = ensureProperties(siteData, siteId, jsonData);
 
   console.log(`Manual check: ${siteData.title} (${siteData.url})`);
