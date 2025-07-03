@@ -1207,8 +1207,8 @@
     "title": "Hot Post Ranking",
     "url": "nostr:npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl",
     "description": "数時間内でホットな投稿をランキング表示します。",
-    "status": "active",
-    "failureCount": 0
+    "status": "inactive",
+    "failureCount": 5
   },
   "153": {
     "category": "",

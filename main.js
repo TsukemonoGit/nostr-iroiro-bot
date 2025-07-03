@@ -1,11 +1,16 @@
 import "websocket-polyfill";
 import { readFile, writeFile } from "fs/promises";
-import { SimplePool, finalizeEvent, getPublicKey } from "nostr-tools";
+import { SimplePool, finalizeEvent } from "nostr-tools";
 
-const TIMEOUT = 8000;
-const MAX_FAILURE_COUNT = 5;
+// 定数
+const CONFIG = {
+  TIMEOUT: 8000,
+  MAX_FAILURE_COUNT: 5,
+  MAX_ATTEMPTS: 10,
+  USER_AGENT: "Mozilla/5.0 (compatible; NostrBot/1.0)",
+};
 
-const relays = [
+const RELAYS = [
   "wss://yabu.me",
   "wss://r.kojira.io/",
   "wss://nos.lol",
@@ -14,260 +19,338 @@ const relays = [
   "wss://relay.nostr.wirednet.jp/",
 ];
 
-// サイトの生存確認
-async function checkSite(url) {
-  try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), TIMEOUT);
+// ファイル操作クラス
+class FileManager {
+  constructor(dataDir) {
+    this.jsonPath = `${dataDir}/iroiro.json`;
+    this.logPath = `${dataDir}/postlog.json`;
+  }
 
-    const response = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        "User-Agent": "Mozilla/5.0 (compatible; NostrBot/1.0)",
-      },
-    });
+  async loadSiteData() {
+    try {
+      const data = await readFile(this.jsonPath);
+      return JSON.parse(data);
+    } catch (error) {
+      throw new Error(`サイトデータの読み込みに失敗: ${error.message}`);
+    }
+  }
 
-    clearTimeout(timeoutId);
-    return response.ok;
-  } catch (error) {
-    return false;
+  async loadLogData() {
+    try {
+      const data = await readFile(this.logPath);
+      return JSON.parse(data);
+    } catch (error) {
+      return [];
+    }
+  }
+
+  async saveData(data, hasChanged) {
+    if (hasChanged) {
+      await writeFile(this.jsonPath, JSON.stringify(data, null, 2));
+    }
+  }
+
+  async saveLog(logData) {
+    await writeFile(this.logPath, JSON.stringify(logData));
   }
 }
 
-// 必要なプロパティを追加
-function ensureProperties(siteData, siteId, jsonData) {
-  let hasChanged = false;
+// サイトチェック機能
+class SiteChecker {
+  static async checkSite(url) {
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), CONFIG.TIMEOUT);
 
-  if (!siteData.hasOwnProperty("status")) {
-    jsonData[siteId].status = "active";
-    hasChanged = true;
-  }
-  if (!siteData.hasOwnProperty("failureCount")) {
-    jsonData[siteId].failureCount = 0;
-    hasChanged = true;
-  }
+      const response = await fetch(url, {
+        signal: controller.signal,
+        headers: { "User-Agent": CONFIG.USER_AGENT },
+      });
 
-  return hasChanged;
+      clearTimeout(timeoutId);
+      return response.ok;
+    } catch (error) {
+      return false;
+    }
+  }
 }
 
-// サイトの状態を更新
-function updateSiteStatus(siteId, jsonData, isUrlOk) {
-  const currentFailureCount = jsonData[siteId].failureCount || 0;
-  let hasChanged = false;
+// サイトデータ管理クラス
+class SiteDataManager {
+  constructor(siteData) {
+    this.siteData = siteData;
+  }
 
-  if (isUrlOk) {
-    // URLが有効 - 失敗カウントをリセット
-    if (currentFailureCount > 0) {
-      jsonData[siteId].failureCount = 0;
-      if (jsonData[siteId].status === "inactive") {
-        jsonData[siteId].status = "active";
-      }
+  ensureProperties(siteId) {
+    const site = this.siteData[siteId];
+    let hasChanged = false;
+
+    if (!site.hasOwnProperty("status")) {
+      site.status = "active";
       hasChanged = true;
-      console.log(`✅ ${jsonData[siteId].title} 復活 - カウントリセット`);
     }
-  } else {
-    // URLが無効 - 失敗カウントを増加
-    const newFailureCount = currentFailureCount + 1;
-    jsonData[siteId].failureCount = newFailureCount;
-    hasChanged = true;
-
-    console.log(
-      `❌ ${jsonData[siteId].title} 失敗 (${newFailureCount}/${MAX_FAILURE_COUNT})`
-    );
-
-    if (newFailureCount >= MAX_FAILURE_COUNT) {
-      jsonData[siteId].status = "inactive";
-      console.log(`🚫 ${jsonData[siteId].title} をinactiveに変更`);
+    if (!site.hasOwnProperty("failureCount")) {
+      site.failureCount = 0;
+      hasChanged = true;
     }
+
+    return hasChanged;
   }
 
-  return { isUrlOk, hasChanged };
+  updateSiteStatus(siteId, isUrlOk) {
+    const site = this.siteData[siteId];
+    const currentFailureCount = site.failureCount || 0;
+    let hasChanged = false;
+
+    if (isUrlOk) {
+      if (currentFailureCount > 0) {
+        site.failureCount = 0;
+        if (site.status === "inactive") {
+          site.status = "active";
+        }
+        hasChanged = true;
+        console.log(`✅ ${site.title} 復活 - カウントリセット`);
+      }
+    } else {
+      const newFailureCount = currentFailureCount + 1;
+      site.failureCount = newFailureCount;
+      hasChanged = true;
+
+      console.log(
+        `❌ ${site.title} 失敗 (${newFailureCount}/${CONFIG.MAX_FAILURE_COUNT})`
+      );
+
+      if (newFailureCount >= CONFIG.MAX_FAILURE_COUNT) {
+        site.status = "inactive";
+        console.log(`🚫 ${site.title} をinactiveに変更`);
+      }
+    }
+
+    return { isUrlOk, hasChanged };
+  }
+
+  getFilteredIds(logData) {
+    return Object.keys(this.siteData).filter((id) => {
+      const site = this.siteData[id];
+      return !logData.includes(id) && site.status !== "inactive";
+    });
+  }
 }
 
-// 手動指定サイトの処理
-async function processManualSite(siteId, jsonData) {
-  const siteData = jsonData[siteId];
-
-  if (!siteData) {
-    console.log(`No data found for ID: ${siteId}`);
-    return { selectedData: null, hasChanged: false };
+// サイト選択機能
+class SiteSelector {
+  constructor(siteDataManager) {
+    this.siteDataManager = siteDataManager;
   }
 
-  let hasChanged = ensureProperties(siteData, siteId, jsonData);
+  async processManualSite(siteId) {
+    const siteData = this.siteDataManager.siteData[siteId];
 
-  // nostr URLの特別処理
-  if (siteData.url.startsWith("nostr:")) {
-    console.log(`nostrプロトコルのためURLチェックをスキップ: ${siteData.url}`);
-    return { selectedData: siteData, hasChanged: hasChanged };
-  }
+    if (!siteData) {
+      console.log(`No data found for ID: ${siteId}`);
+      return { selectedData: null, hasChanged: false };
+    }
 
-  console.log(`Manual check: ${siteData.title} (${siteData.url})`);
-  const isUrlOk = await checkSite(siteData.url);
+    let hasChanged = this.siteDataManager.ensureProperties(siteId);
 
-  const statusResult = updateSiteStatus(siteId, jsonData, isUrlOk);
-  hasChanged = hasChanged || statusResult.hasChanged;
+    // nostr URLの特別処理
+    if (siteData.url.startsWith("nostr:")) {
+      console.log(
+        `nostrプロトコルのためURLチェックをスキップ: ${siteData.url}`
+      );
+      return { selectedData: siteData, hasChanged };
+    }
 
-  if (!statusResult.isUrlOk) {
-    console.log("手動指定のサイトがアクセスできないため投稿を中止します");
-    return { selectedData: null, hasChanged, shouldExit: true };
-  }
+    console.log(`Manual check: ${siteData.title} (${siteData.url})`);
+    const isUrlOk = await SiteChecker.checkSite(siteData.url);
 
-  return { selectedData: siteData, hasChanged };
-}
-
-// 自動選択サイトの処理
-async function processAutoSelection(filteredIds, jsonData) {
-  let attempts = 0;
-  const maxAttempts = Math.min(filteredIds.length, 10);
-  let hasChanged = false;
-
-  while (attempts < maxAttempts) {
-    const randomIndex = Math.floor(Math.random() * filteredIds.length);
-    const candidateId = filteredIds[randomIndex];
-    const candidateData = jsonData[candidateId];
-
-    hasChanged =
-      ensureProperties(candidateData, candidateId, jsonData) || hasChanged;
-
-    console.log(`Checking: ${candidateData.title} (${candidateData.url})`);
-    const isUrlOk = await checkSite(candidateData.url);
-
-    const statusResult = updateSiteStatus(candidateId, jsonData, isUrlOk);
+    const statusResult = this.siteDataManager.updateSiteStatus(siteId, isUrlOk);
     hasChanged = hasChanged || statusResult.hasChanged;
 
-    if (statusResult.isUrlOk) {
-      return {
-        selectedId: candidateId,
-        selectedData: candidateData,
-        hasChanged,
-      };
+    if (!statusResult.isUrlOk) {
+      console.log("手動指定のサイトがアクセスできないため投稿を中止します");
+      return { selectedData: null, hasChanged, shouldExit: true };
     }
 
-    if (
-      !statusResult.isUrlOk &&
-      jsonData[candidateId].failureCount >= MAX_FAILURE_COUNT
-    ) {
-      const indexToRemove = filteredIds.indexOf(candidateId);
-      if (indexToRemove > -1) {
-        filteredIds.splice(indexToRemove, 1);
+    return { selectedData: siteData, hasChanged };
+  }
+
+  async processAutoSelection(filteredIds) {
+    let attempts = 0;
+    const maxAttempts = Math.min(filteredIds.length, CONFIG.MAX_ATTEMPTS);
+    let hasChanged = false;
+    const workingIds = [...filteredIds];
+
+    while (attempts < maxAttempts && workingIds.length > 0) {
+      const randomIndex = Math.floor(Math.random() * workingIds.length);
+      const candidateId = workingIds[randomIndex];
+      const candidateData = this.siteDataManager.siteData[candidateId];
+
+      hasChanged =
+        this.siteDataManager.ensureProperties(candidateId) || hasChanged;
+
+      console.log(`Checking: ${candidateData.title} (${candidateData.url})`);
+      const isUrlOk = await SiteChecker.checkSite(candidateData.url);
+
+      const statusResult = this.siteDataManager.updateSiteStatus(
+        candidateId,
+        isUrlOk
+      );
+      hasChanged = hasChanged || statusResult.hasChanged;
+
+      if (statusResult.isUrlOk) {
+        return {
+          selectedId: candidateId,
+          selectedData: candidateData,
+          hasChanged,
+        };
       }
+
+      if (
+        this.siteDataManager.siteData[candidateId].failureCount >=
+        CONFIG.MAX_FAILURE_COUNT
+      ) {
+        workingIds.splice(workingIds.indexOf(candidateId), 1);
+      }
+
+      attempts++;
     }
 
-    attempts++;
-  }
-
-  console.log("All attempts failed or no valid sites available");
-  return { selectedId: null, selectedData: null, hasChanged };
-}
-
-// 投稿内容の生成
-function generateContent(siteData, isManual) {
-  return `${isManual ? "(手動テスト)\n" : ""}${siteData.title}\n${
-    siteData.url
-  }\n${siteData.description}${
-    siteData.kind ? `\n\n主なkind: ${siteData.kind}` : ""
-  } ${
-    siteData.category && siteData.category !== ""
-      ? `\ncategory: ${siteData.category}`
-      : ""
-  }`;
-}
-
-// データ保存
-async function saveData(dataPath, jsonData, hasChanged) {
-  if (hasChanged) {
-    await writeFile(dataPath, JSON.stringify(jsonData, null, 2));
+    console.log("All attempts failed or no valid sites available");
+    return { selectedId: null, selectedData: null, hasChanged };
   }
 }
 
-// メイン処理
-async function main() {
-  const [, , nsec, dataDir, manualId] = process.argv;
-  const jsonPath = `${dataDir}/iroiro.json`;
-  const logPath = `${dataDir}/postlog.json`;
+// 投稿機能
+class NostrPublisher {
+  static generateContent(siteData, isManual) {
+    const parts = [
+      isManual ? "(手動テスト)" : "",
+      siteData.title,
+      siteData.url,
+      siteData.description,
+      siteData.kind ? `\n主なkind: ${siteData.kind}` : "",
+      siteData.category && siteData.category !== ""
+        ? `\ncategory: ${siteData.category}`
+        : "",
+    ];
 
-  // データ読み込み
-  const jsonData = JSON.parse(await readFile(jsonPath));
-  const jsonDataIds = Object.keys(jsonData);
-
-  let logData;
-  try {
-    logData = JSON.parse(await readFile(logPath));
-  } catch (error) {
-    logData = [];
+    return parts.filter((part) => part !== "").join("\n");
   }
 
-  // ログリセット
-  if (logData.length >= jsonDataIds.length) {
-    logData = [];
+  static async publish(content, nsec) {
+    const pool = new SimplePool();
+
+    const newEvent = {
+      kind: 1,
+      created_at: Math.floor(Date.now() / 1000),
+      tags: [],
+      content: content,
+    };
+
+    const signedEvent = finalizeEvent(newEvent, nsec);
+    await Promise.allSettled(pool.publish(RELAYS, signedEvent));
+  }
+}
+
+// メインアプリケーションクラス
+class NostrSiteBot {
+  constructor(nsec, dataDir, manualId = null) {
+    this.nsec = nsec;
+    this.manualId = manualId;
+    this.fileManager = new FileManager(dataDir);
   }
 
-  // 利用可能なIDをフィルタリング
-  const filteredIds = jsonDataIds.filter((id) => {
-    const site = jsonData[id];
-    return !logData.includes(id) && site.status !== "inactive";
-  });
+  async run() {
+    try {
+      // データ読み込み
+      const siteData = await this.fileManager.loadSiteData();
+      let logData = await this.fileManager.loadLogData();
 
-  if (filteredIds.length === 0) {
-    console.log("No available IDs to post (all posted or inactive)");
-    process.exit(0);
-  }
+      const siteDataManager = new SiteDataManager(siteData);
+      const siteSelector = new SiteSelector(siteDataManager);
 
-  let selectedId,
-    selectedData,
-    hasChanged = false;
+      // ログリセット処理
+      const totalSites = Object.keys(siteData).length;
+      if (logData.length >= totalSites) {
+        logData = [];
+      }
 
-  // サイト選択処理
-  if (manualId) {
-    const result = await processManualSite(manualId, jsonData);
-    selectedData = result.selectedData;
-    hasChanged = result.hasChanged;
-    selectedId = manualId;
+      // 利用可能なIDをフィルタリング
+      let filteredIds = siteDataManager.getFilteredIds(logData);
 
-    if (result.shouldExit) {
-      await saveData(jsonPath, jsonData, hasChanged);
+      // 利用可能なIDがない場合はログをリセットして再フィルタリング
+      if (filteredIds.length === 0) {
+        logData = [];
+        await this.fileManager.saveLog(logData);
+        filteredIds = siteDataManager.getFilteredIds(logData);
+        console.log("利用可能なIDがないため、ログをリセットしました");
+      }
+
+      let selectedId,
+        selectedData,
+        hasChanged = false;
+
+      // サイト選択処理
+      if (this.manualId) {
+        const result = await siteSelector.processManualSite(this.manualId);
+        selectedData = result.selectedData;
+        hasChanged = result.hasChanged;
+        selectedId = this.manualId;
+
+        if (result.shouldExit) {
+          await this.fileManager.saveData(siteData, hasChanged);
+          process.exit(1);
+        }
+      } else {
+        const result = await siteSelector.processAutoSelection(filteredIds);
+        selectedId = result.selectedId;
+        selectedData = result.selectedData;
+        hasChanged = result.hasChanged;
+      }
+
+      if (!selectedData) {
+        await this.fileManager.saveData(siteData, hasChanged);
+        process.exit(0);
+      }
+
+      console.log(`Selected: ${selectedData.title}`);
+
+      // 投稿処理
+      const content = NostrPublisher.generateContent(
+        selectedData,
+        !!this.manualId
+      );
+      await NostrPublisher.publish(content, this.nsec);
+
+      // ログ更新（手動指定時は除く）
+      if (!this.manualId) {
+        logData.push(selectedId);
+        await this.fileManager.saveLog(logData);
+      }
+
+      // データ保存
+      await this.fileManager.saveData(siteData, hasChanged);
+
+      process.exit(0);
+    } catch (error) {
+      console.error("エラーが発生しました:", error);
       process.exit(1);
     }
-  } else {
-    const result = await processAutoSelection(filteredIds, jsonData);
-    selectedId = result.selectedId;
-    selectedData = result.selectedData;
-    hasChanged = result.hasChanged;
+  }
+}
+
+// メイン実行
+async function main() {
+  const [, , nsec, dataDir, manualId] = process.argv;
+
+  if (!nsec || !dataDir) {
+    console.error("使用方法: node script.js <nsec> <dataDir> [manualId]");
+    process.exit(1);
   }
 
-  if (!selectedData) {
-    await saveData(jsonPath, jsonData, hasChanged);
-    process.exit(0);
-  }
-
-  console.log(`Selected: ${selectedData.title}`);
-
-  // 投稿処理
-  const content = generateContent(selectedData, !!manualId);
-  const pool = new SimplePool();
-
-  const newEvent = {
-    kind: 1,
-    created_at: Math.floor(Date.now() / 1000),
-    tags: [],
-    content: content,
-  };
-
-  const signedEvent = finalizeEvent(newEvent, nsec);
-
-  // ログ更新（手動指定時は除く）
-  if (!manualId) {
-    logData.push(selectedId);
-    await writeFile(logPath, JSON.stringify(logData));
-  }
-
-  // データ保存
-  await saveData(jsonPath, jsonData, hasChanged);
-
-  // 投稿実行
-  await Promise.allSettled(pool.publish(relays, signedEvent));
-
-  process.exit(0);
+  const bot = new NostrSiteBot(nsec, dataDir, manualId);
+  await bot.run();
 }
 
 main().catch(console.error);
