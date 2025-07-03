@@ -68,6 +68,15 @@ class SiteChecker {
       });
 
       clearTimeout(timeoutId);
+
+      // User-Agentブロック（403/429）の場合は、サイトは存在するとして扱う
+      if (response.status === 403 || response.status === 429) {
+        console.log(
+          `User-Agent blocked for ${url}, but site exists - treating as available`
+        );
+        return true;
+      }
+
       return response.ok;
     } catch (error) {
       return false;
@@ -271,10 +280,6 @@ class NostrSiteBot {
       const siteSelector = new SiteSelector(siteDataManager);
 
       // ログリセット処理
-      const totalSites = Object.keys(siteData).length;
-      if (logData.length >= totalSites) {
-        logData = [];
-      }
 
       // 利用可能なIDをフィルタリング
       let filteredIds = siteDataManager.getFilteredIds(logData);
