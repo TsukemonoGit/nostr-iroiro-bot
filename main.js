@@ -198,6 +198,18 @@ class SiteSelector {
       hasChanged =
         this.siteDataManager.ensureProperties(candidateId) || hasChanged;
 
+      // nostr URLの特別処理
+      if (candidateData.url.startsWith("nostr:")) {
+        console.log(
+          `nostrプロトコルのためURLチェックをスキップ: ${candidateData.url}`
+        );
+        return {
+          selectedId: candidateId,
+          selectedData: candidateData,
+          hasChanged,
+        };
+      }
+
       console.log(`Checking: ${candidateData.title} (${candidateData.url})`);
       const isUrlOk = await SiteChecker.checkSite(candidateData.url);
 
