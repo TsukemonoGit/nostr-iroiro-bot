@@ -240,7 +240,7 @@
     "url": "https://h.hostr.cc/p/2d417bce8c10883803bc427703e3c4c024465c88e7063ed68f9dfeecf56911ac/d/hostr-lp",
     "description": "簡単にWebSiteを公開できる。Nostr上の分散型ウェブホスティングソリューション",
     "status": "active",
-    "failureCount": 1
+    "failureCount": 2
   },
   "31": {
     "category": "VScodeExtension",
@@ -835,7 +835,7 @@
     "description": "音楽共有サイト？",
     "kind": 1808,
     "status": "active",
-    "failureCount": 3
+    "failureCount": 4
   },
   "106": {
     "category": "WebSite",
@@ -1095,8 +1095,8 @@
     "title": "NWC ( Nostr Wallet Connect )",
     "url": "https://scrapbox.io/nostr/Alby_Nostr_Wallet_Connect",
     "description": "NIP-47 に定められた、Nostrクライアントからライトニングウォレットのサーバに直接リクエストを送れるようにする仕組み。\n\n対応ウォレットはAlby（現在招待制）\nユーザが自分のウォレットまたはノードとNostr Wallet Connectプロトコルのブリッジを実行することもできるらしい\n\n対応クライアント nostter, Amethyst など",
-    "status": "active",
-    "failureCount": 4
+    "status": "inactive",
+    "failureCount": 5
   },
   "139": {
     "category": "",
@@ -1207,7 +1207,7 @@
     "title": "Hot Post Ranking",
     "url": "nostr:npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl",
     "description": "数時間内でホットな投稿をランキング表示します。",
-    "status": "inactive",
+    "status": "active",
     "failureCount": 0
   },
   "153": {
