@@ -239,8 +239,8 @@
     "title": "Hostr",
     "url": "https://h.hostr.cc/p/2d417bce8c10883803bc427703e3c4c024465c88e7063ed68f9dfeecf56911ac/d/hostr-lp",
     "description": "簡単にWebSiteを公開できる。Nostr上の分散型ウェブホスティングソリューション",
-    "status": "active",
-    "failureCount": 2
+    "status": "inactive",
+    "failureCount": 5
   },
   "31": {
     "category": "VScodeExtension",
@@ -630,8 +630,8 @@
     "title": "nostore",
     "url": "https://apps.apple.com/jp/app/nostore/id1666553677",
     "description": "iOS Safari 向けの拡張機能\n( https://welcome.nostr-jp.org/tutorial/nip-07.html#nostore-ios )",
-    "status": "active",
-    "failureCount": 2
+    "status": "inactive",
+    "failureCount": 5
   },
   "81": {
     "category": "WebApp",
@@ -817,7 +817,7 @@
     "url": "https://nostrnests.com/",
     "description": "audio space（通話アプリ）",
     "status": "active",
-    "failureCount": 0
+    "failureCount": 1
   },
   "104": {
     "category": "",
@@ -834,8 +834,8 @@
     "url": "https://stemstr.app/",
     "description": "音楽共有サイト？",
     "kind": 1808,
-    "status": "active",
-    "failureCount": 4
+    "status": "inactive",
+    "failureCount": 5
   },
   "106": {
     "category": "WebSite",
@@ -1095,8 +1095,8 @@
     "title": "NWC ( Nostr Wallet Connect )",
     "url": "https://scrapbox.io/nostr/Alby_Nostr_Wallet_Connect",
     "description": "NIP-47 に定められた、Nostrクライアントからライトニングウォレットのサーバに直接リクエストを送れるようにする仕組み。\n\n対応ウォレットはAlby（現在招待制）\nユーザが自分のウォレットまたはノードとNostr Wallet Connectプロトコルのブリッジを実行することもできるらしい\n\n対応クライアント nostter, Amethyst など",
-    "status": "inactive",
-    "failureCount": 5
+    "status": "active",
+    "failureCount": 0
   },
   "139": {
     "category": "",
@@ -1223,8 +1223,8 @@
     "title": "rsslay",
     "url": "https://rss.nos.social",
     "description": "RSSやAtomフィードをNostrプロファイルに変換します。\nTwitterとかもできるらしい",
-    "status": "active",
-    "failureCount": 4
+    "status": "inactive",
+    "failureCount": 5
   },
   "155": {
     "category": "AndroidApp",

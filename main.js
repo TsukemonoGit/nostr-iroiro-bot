@@ -62,23 +62,40 @@ class SiteChecker {
       const controller = new AbortController();
       const timeoutId = setTimeout(() => controller.abort(), CONFIG.TIMEOUT);
 
+      const isScrapbox = url.includes("scrapbox.io");
+      // Scrapboxはステータスが404でも存在すると見なす
+      // GETでもHEADでもなにしても404しか返ってこない
+      if (isScrapbox) {
+        console.log(`Scrapbox.io 対応: ステータスに関わらず true`);
+        return true;
+      }
+
       const response = await fetch(url, {
+        method: "HEAD",
         signal: controller.signal,
-        headers: { "User-Agent": CONFIG.USER_AGENT },
+        headers: {
+          "User-Agent": CONFIG.USER_AGENT || "Mozilla/5.0",
+        },
       });
 
       clearTimeout(timeoutId);
 
-      // User-Agentブロック（403/429）の場合は、サイトは存在するとして扱う
-      if (response.status === 403 || response.status === 429) {
-        console.log(
-          `User-Agent blocked for ${url}, but site exists - treating as available`
+      console.log(`Fetched ${url} => ${response.status}`);
+
+      // ブロック系はOK扱い
+      if ([403, 429].includes(response.status)) {
+        console.warn(
+          `User-Agent blocked or rate-limited for ${url}, but treating as available`
         );
         return true;
       }
 
       return response.ok;
     } catch (error) {
+      console.error(`Error checking ${url}:`, error.name, error.message);
+      if (error.name === "AbortError") {
+        console.warn(`Timeout while checking: ${url}`);
+      }
       return false;
     }
   }
