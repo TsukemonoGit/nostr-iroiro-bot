@@ -1456,5 +1456,42 @@
     "description": "技術書典18にて製作販売された\n「世界一分散型SNSに詳しい本（※当社調べ。2025年5月現在）爆誕！\n中央集権的サービスと比較しつつ、「メタクソ化」に対して分散型ならではの逆襲ポイントを解説しています！\n執筆陣は分散型SNSで活躍する仲間たち。Nostrでサービスを作って助成金を勝ち取った話から、感情を宿し始めた LLM Bot の話まで、世界でも最先端のネタが盛りだくさん！\n「もっとディープに潜りたい！」と思ったら、既刊の目次もぜひ覗いてみてください。あなたの好奇心にブッ刺さるタイトルがきっと見つかると思います！」\n電子版も有ります。",
     "status": "active",
     "failureCount": 0
+  },
+  "183": {
+    "category": "",
+    "title": "Flappy Nostrich",
+    "url": "https://flappy-nostrich.vercel.app/",
+    "description": "ゲーム"
+  },
+  "184": {
+    "category": "",
+    "title": "MKStack",
+    "url": "https://mkstack.xyz/",
+    "description": "Build Nostr Apps in Minutes with Our Framework + Goose"
+  },
+  "185": {
+    "category": "",
+    "title": "markov-quiz",
+    "url": "https://tiltpapa.github.io/markov-quiz/",
+    "description": "マルコフ連鎖で生成された文章から、元のユーザーを当ててみよう！"
+  },
+  "186": {
+    "category": "",
+    "title": "Nostr Web Components",
+    "url": "https://tsukemonogit.github.io/nostr-web-components/",
+    "description": "Webサイトに[Nostr](https://github.com/nostr-protocol/nostr)の投稿やプロフィールを簡単に埋め込めるWeb Componentsライブラリ"
+  },
+  "187": {
+    "category": "",
+    "title": "MAKIMONO",
+    "url": "https://makimono.lumilumi.app/",
+    "description": "Nostr Long-Form Content Editor NIP-23",
+    "kind": 30023
+  },
+  "188": {
+    "category": "",
+    "title": "Nostr Share Component",
+    "url": "https://tsukemonogit.github.io/nostr-share-component/",
+    "description": "サイトに設置するNostrで共有！のボタン"
   }
 }
