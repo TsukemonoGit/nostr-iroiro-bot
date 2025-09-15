@@ -247,8 +247,8 @@
     "title": "vscode-nostr-client",
     "url": "https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client",
     "description": "A Nostr client in VSCode!",
-    "status": "active",
-    "failureCount": 0
+    "status": "inactive",
+    "failureCount": 5
   },
   "32": {
     "category": "WebApp",
@@ -817,7 +817,7 @@
     "url": "https://nostrnests.com/",
     "description": "audio space（通話アプリ）",
     "status": "active",
-    "failureCount": 1
+    "failureCount": 0
   },
   "104": {
     "category": "",
@@ -1461,37 +1461,49 @@
     "category": "",
     "title": "Flappy Nostrich",
     "url": "https://flappy-nostrich.vercel.app/",
-    "description": "ゲーム"
+    "description": "ゲーム",
+    "status": "active",
+    "failureCount": 0
   },
   "184": {
     "category": "",
     "title": "MKStack",
     "url": "https://mkstack.xyz/",
-    "description": "Build Nostr Apps in Minutes with Our Framework + Goose"
+    "description": "Build Nostr Apps in Minutes with Our Framework + Goose",
+    "status": "active",
+    "failureCount": 0
   },
   "185": {
     "category": "",
     "title": "markov-quiz",
     "url": "https://tiltpapa.github.io/markov-quiz/",
-    "description": "マルコフ連鎖で生成された文章から、元のユーザーを当ててみよう！"
+    "description": "マルコフ連鎖で生成された文章から、元のユーザーを当ててみよう！",
+    "status": "active",
+    "failureCount": 0
   },
   "186": {
     "category": "",
     "title": "Nostr Web Components",
     "url": "https://tsukemonogit.github.io/nostr-web-components/",
-    "description": "WebサイトにNostrの投稿やプロフィールを簡単に埋め込めるWeb Componentsライブラリ"
+    "description": "WebサイトにNostrの投稿やプロフィールを簡単に埋め込めるWeb Componentsライブラリ",
+    "status": "active",
+    "failureCount": 0
   },
   "187": {
     "category": "",
     "title": "MAKIMONO",
     "url": "https://makimono.lumilumi.app/",
     "description": "Nostr Long-Form Content Editor NIP-23",
-    "kind": 30023
+    "kind": 30023,
+    "status": "active",
+    "failureCount": 0
   },
   "188": {
     "category": "",
     "title": "Nostr Share Component",
     "url": "https://tsukemonogit.github.io/nostr-share-component/",
-    "description": "サイトに設置するNostrで共有！のボタン"
+    "description": "サイトに設置するNostrで共有！のボタン",
+    "status": "active",
+    "failureCount": 0
   }
 }
