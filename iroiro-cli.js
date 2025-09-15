@@ -25,6 +25,7 @@ function showHelp() {
   delete <ID>              指定したIDのブックマークを削除
   list                     ブックマーク一覧を表示
   show <ID>                指定したIDのブックマーク詳細を表示
+  check [--title <タイトル>] [--url <URL>]  タイトルまたはURLで存在チェック
 
 addコマンドのオプション:
   --category <カテゴリ>     カテゴリを指定
@@ -382,6 +383,38 @@ function listBookmarks() {
   });
 }
 
+function checkBookmark(options) {
+  if (!options.title && !options.url) {
+    console.error(
+      "エラー: --title または --url のどちらかを指定してください。"
+    );
+    return;
+  }
+
+  const data = loadJSON();
+  let found = [];
+
+  for (const [id, entry] of Object.entries(data)) {
+    if (options.title && entry.title === options.title) {
+      found.push({ id, entry, type: "title" });
+    }
+    if (options.url && entry.url === options.url) {
+      found.push({ id, entry, type: "url" });
+    }
+  }
+
+  if (found.length === 0) {
+    console.log("該当するブックマークは見つかりませんでした。");
+  } else {
+    console.log("一致するブックマーク:");
+    found.forEach((f) => {
+      console.log(
+        `ID: ${f.id} - ${f.entry.title} (${f.entry.url}) [${f.type}]`
+      );
+    });
+  }
+}
+
 // メイン処理
 if (args.length === 0) {
   showHelp();
@@ -425,6 +458,10 @@ switch (command) {
     break;
   case "list":
     listBookmarks();
+    break;
+  case "check":
+    const checkOptions = parseArgs(args.slice(1));
+    checkBookmark(checkOptions);
     break;
   default:
     console.error(`未知のコマンド: ${command}`);
