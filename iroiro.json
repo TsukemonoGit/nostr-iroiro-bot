@@ -1545,5 +1545,6 @@
     "description": "nostr:npub10hqkwugj7p027j250qr9gwcuqpkwxftj0rjjk8y6hlmryu8dwp8s2runf2 さん作のブラウザ用クライアント「野雨(のさめ)」\n\n表示するのは108文字以下の投稿のみで、NGワード等フィルタあり\nログイン不要、投稿時に署名するだけのシンプルなクライアント",
     "status": "active",
     "failureCount": 0
+
   }
 }
