@@ -1502,38 +1502,48 @@
     "category": "",
     "title": "Nostr Share Component",
     "url": "https://tsukemonogit.github.io/nostr-share-component/",
-
-    "description": "サイトに設置するNostrで共有！のボタン"
+    "description": "サイトに設置するNostrで共有！のボタン",
+    "status": "active",
+    "failureCount": 0
   },
   "189": {
     "category": "",
     "title": "Nostr Authorization (NIP-98)",
     "url": "https://snowcait.github.io/nostr-authorization/",
-    "description": "NIP-98 HTTP Auth の手動テストに使えます"
+    "description": "NIP-98 HTTP Auth の手動テストに使えます",
+    "status": "active",
+    "failureCount": 0
   },
   "190": {
     "category": "",
     "title": "eHagaki",
     "url": "https://lokuyow.github.io/ehagaki/",
-    "description": "投稿専用クライアント\nデバイス上で画像を圧縮してからアップロード"
+    "description": "投稿専用クライアント\nデバイス上で画像を圧縮してからアップロード",
+    "status": "active",
+    "failureCount": 0
   },
   "191": {
     "category": "",
     "title": "Nostr GAME BOOK",
     "url": "https://invertedtriangle358.github.io/gamebook/",
-    "description": "ゲームブック作成ツール\ngithubのリポジトリをフォークしてjson書き換えれば別のゲームブックつくれます"
+    "description": "ゲームブック作成ツール\ngithubのリポジトリをフォークしてjson書き換えれば別のゲームブックつくれます",
+    "status": "active",
+    "failureCount": 0
   },
   "192": {
     "category": "",
     "title": "nosquerade",
     "url": "https://nosquerade.haniwar.com/",
-    "description": "nostr:npub17z9fxuzzgkqp6lj7vdmls78fc04zml0hgxwu38hu726a0f0kylvscq0s6g さん作のWebクライアント"
+    "description": "nostr:npub17z9fxuzzgkqp6lj7vdmls78fc04zml0hgxwu38hu726a0f0kylvscq0s6g さん作のWebクライアント",
+    "status": "active",
+    "failureCount": 0
   },
   "193": {
     "category": "",
     "title": "野雨 -Nosame-",
     "url": "https://invertedtriangle358.github.io/Nosame/",
-    "description": "nostr:npub10hqkwugj7p027j250qr9gwcuqpkwxftj0rjjk8y6hlmryu8dwp8s2runf2 さん作のブラウザ用クライアント「野雨(のさめ)」\n\n表示するのは41文字以下の投稿のみで、NGワード等フィルタあり\nログイン不要、投稿時に署名するだけのシンプルなクライアント"
-
+    "description": "nostr:npub10hqkwugj7p027j250qr9gwcuqpkwxftj0rjjk8y6hlmryu8dwp8s2runf2 さん作のブラウザ用クライアント「野雨(のさめ)」\n\n表示するのは41文字以下の投稿のみで、NGワード等フィルタあり\nログイン不要、投稿時に署名するだけのシンプルなクライアント",
+    "status": "active",
+    "failureCount": 0
   }
 }
