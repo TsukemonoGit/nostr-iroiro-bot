@@ -1141,7 +1141,7 @@
   "144": {
     "category": "Event",
     "title": "Nostrasia2024",
-    "url": "https://nostrasia.com",
+    "url": "https://nostrasia.com/2024",
     "description": "2024.9.23 in 東京\nフリーダムNostrカンファレンス\nプログラムワークショップ、 ディスカッション、and more...\n配信アーカイブ https://www.youtube.com/playlist?list=PLUT1W-ZouC_ccnEunaCA2qMYBknZPt74S",
     "status": "active",
     "failureCount": 0
@@ -1545,6 +1545,5 @@
     "description": "nostr:npub10hqkwugj7p027j250qr9gwcuqpkwxftj0rjjk8y6hlmryu8dwp8s2runf2 さん作のブラウザ用クライアント「野雨(のさめ)」\n\n表示するのは108文字以下の投稿のみで、NGワード等フィルタあり\nログイン不要、投稿時に署名するだけのシンプルなクライアント",
     "status": "active",
     "failureCount": 0
-
   }
 }
