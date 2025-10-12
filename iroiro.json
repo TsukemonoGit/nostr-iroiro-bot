@@ -1484,7 +1484,7 @@
   "186": {
     "category": "",
     "title": "Nostr Web Components",
-    "url": "https://tsukemonogit.github.io/nostr-web-components/",
+    "url": "https://tsukemonogit.github.io/nostr-web-components-demo/",
     "description": "WebサイトにNostrの投稿やプロフィールを簡単に埋め込めるWeb Componentsライブラリ",
     "status": "active",
     "failureCount": 0
