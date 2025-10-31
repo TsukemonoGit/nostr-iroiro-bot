@@ -88,14 +88,6 @@
     "status": "active",
     "failureCount": 0
   },
-  "12": {
-    "category": "",
-    "title": "Gyazo-Termux",
-    "url": "https://github.com/Lokuyow/gyazo-termux",
-    "description": "Android端末で画像の共有ボタンを押してTermuxを選択するとGyazoにアップロード、拡張子付きのURLをクリップボードにコピーすることができます",
-    "status": "active",
-    "failureCount": 0
-  },
   "13": {
     "category": "Tool",
     "title": "YGIF",
