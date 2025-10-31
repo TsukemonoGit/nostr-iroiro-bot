@@ -61,42 +61,49 @@ class FileManager {
 
 // サイトチェック機能
 class SiteChecker {
+  static EXEMPT_HOSTS = ["marketplace.visualstudio.com", "scrapbox.io"];
+
   static async checkSite(url) {
     try {
-      const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), CONFIG.TIMEOUT);
+      const host = new URL(url).hostname;
 
-      const isScrapbox = url.includes("scrapbox.io");
-      if (isScrapbox) {
-        console.log(`Scrapbox.io 対応: ステータスに関わらず true`);
+      // 例外ホストは常にOK
+      if (this.EXEMPT_HOSTS.includes(host)) {
+        console.log(`例外ホスト: ${host} => 常にOK扱い`);
         return true;
       }
+
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), CONFIG.TIMEOUT);
 
       const response = await fetch(url, {
         method: "HEAD",
         signal: controller.signal,
-        headers: {
-          "User-Agent": CONFIG.USER_AGENT || "Mozilla/5.0",
-        },
+        headers: { "User-Agent": CONFIG.USER_AGENT },
       });
 
       clearTimeout(timeoutId);
-
       console.log(`Fetched ${url} => ${response.status}`);
 
       if ([403, 429].includes(response.status)) {
-        console.warn(
-          `User-Agent blocked or rate-limited for ${url}, but treating as available`
-        );
+        console.warn(`User-Agent制限を検出 (${response.status}) => OK扱い`);
         return true;
+      }
+
+      // HEADが405で失敗したらGETで再確認
+      if (!response.ok && response.status === 405) {
+        const getRes = await fetch(url, {
+          method: "GET",
+          signal: controller.signal,
+          headers: { "User-Agent": CONFIG.USER_AGENT },
+        });
+        return getRes.ok;
       }
 
       return response.ok;
     } catch (error) {
       console.error(`Error checking ${url}:`, error.name, error.message);
-      if (error.name === "AbortError") {
-        console.warn(`Timeout while checking: ${url}`);
-      }
+      if (error.name === "AbortError") console.warn(`Timeout: ${url}`);
       return false;
     }
   }
