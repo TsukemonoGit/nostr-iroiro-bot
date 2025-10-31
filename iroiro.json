@@ -3,1547 +3,1167 @@
     "category": "WebApp",
     "title": "のすとびうあ",
     "url": "https://nostviewstr.vercel.app/",
-    "description": "いろんなノスリストを見たり編集したりできるやつ（フォローリスト、ミュートリスト、ブックマークリストなど）",
-    "status": "active",
-    "failureCount": 0
+    "description": "いろんなノスリストを見たり編集したりできるやつ（フォローリスト、ミュートリスト、ブックマークリストなど）"
   },
   "1": {
     "category": "WebApp",
     "title": "ぶくまびうあ",
     "url": "https://nostr-bookmark-viewer3.vercel.app/",
-    "description": "いろんなブックマークを見たり編集したりできるやつ",
-    "status": "active",
-    "failureCount": 0
+    "description": "いろんなブックマークを見たり編集したりできるやつ"
   },
   "2": {
     "category": "WebApp",
     "title": "Nostr Note Duplicater (Broadcast)",
     "url": "https://dupstr.vercel.app/",
-    "description": "IDがわかっているイベント単体をリレーからリレーにブロードキャストするやつ",
-    "status": "active",
-    "failureCount": 0
+    "description": "IDがわかっているイベント単体をリレーからリレーにブロードキャストするやつ"
   },
   "4": {
     "category": "WebApp",
     "title": "dmviewer",
     "url": "https://rain8128.github.io/nostr-dmviewer/",
     "description": "シンプルなDMViewer",
-    "kind": 4,
-    "status": "active",
-    "failureCount": 0
+    "kind": 4
   },
   "5": {
     "category": "Dev",
     "title": "nostr-fetch",
     "url": "https://github.com/jiftechnify/nostr-fetch",
-    "description": "Nostrリレーから過去のイベントを簡単に取得できるJS/TSライブラリ",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrリレーから過去のイベントを簡単に取得できるJS/TSライブラリ"
   },
   "6": {
     "category": "Tool",
     "title": "やぶみ通知",
     "url": "https://push.yabu.me",
-    "description": "やぶみリレーにて把握したpタグ付きイベント(リプライ)を通知。自分のnpubを購読すると使えます",
-    "status": "active",
-    "failureCount": 0
+    "description": "やぶみリレーにて把握したpタグ付きイベント(リプライ)を通知。自分のnpubを購読すると使えます"
   },
   "7": {
     "category": "WebApp",
     "title": "tinycs_proto",
     "url": "https://sabowl.sakura.ne.jp/tinycs_proto/",
-    "description": "めっちゃうごく（NIP-07必須）",
-    "status": "active",
-    "failureCount": 0
+    "description": "めっちゃうごく（NIP-07必須）"
   },
   "8": {
     "category": "WebApp",
     "title": "おいくらサッツ",
     "url": "https://osats.money",
-    "description": "サッツ（Sats, Sat, Satoshi）、ビットコイン（bitcoin, BTC）、日本円（JPY）、米ドル（USD）など複数通貨間の相互換算ができるツール\n\n入力した金額のインボイスのQRコードを表示したりできる",
-    "status": "active",
-    "failureCount": 0
+    "description": "サッツ（Sats, Sat, Satoshi）、ビットコイン（bitcoin, BTC）、日本円（JPY）、米ドル（USD）など複数通貨間の相互換算ができるツール\n\n入力した金額のインボイスのQRコードを表示したりできる"
   },
   "9": {
     "category": "WebApp",
     "title": "やぶみ検索",
     "url": "https://search.yabu.me/",
-    "description": "やぶみリレーの検索ツール",
-    "status": "active",
-    "failureCount": 0
+    "description": "やぶみリレーの検索ツール"
   },
   "10": {
     "category": "WebApp",
     "title": "nosey",
     "url": "https://nosey.vercel.app/",
-    "description": "検索アプリ。npub補完があったりfrom:検索ができたりする。",
-    "status": "active",
-    "failureCount": 0
+    "description": "検索アプリ。npub補完があったりfrom:検索ができたりする。"
   },
   "11": {
     "category": "WebApp",
     "title": "絵文字 ジェネレーター",
     "url": "https://emoji-gen.ninja/",
-    "description": "カスタム絵文字作るのに便利かも",
-    "status": "active",
-    "failureCount": 0
+    "description": "カスタム絵文字作るのに便利かも"
   },
   "13": {
     "category": "Tool",
     "title": "YGIF",
     "url": "https://aidn.jp/ygif/",
-    "description": "画像を読み込んでGIFアニメを生成するウェブツール",
-    "status": "active",
-    "failureCount": 0
+    "description": "画像を読み込んでGIFアニメを生成するウェブツール"
   },
   "14": {
     "category": "WebApp",
     "title": "nostr event deleter",
     "url": "https://delete.nostr.com",
     "description": "Nostrのイベント削除ツール",
-    "kind": 5,
-    "status": "active",
-    "failureCount": 0
+    "kind": 5
   },
   "15": {
     "category": "Dev",
     "title": "nostr-key-value",
     "url": "https://www.npmjs.com/package/nostr-key-value",
     "description": "Nostr を Key-Value の DB として使用するためのJS/TSライブラリ（NIP-78）",
-    "kind": 30078,
-    "status": "active",
-    "failureCount": 0
+    "kind": 30078
   },
   "16": {
     "category": "Dev",
     "title": "nosdump",
     "url": "https://github.com/jiftechnify/nosdump",
-    "description": "Nostrリレーに保存されたイベントをJSON-Lines形式で出力するツール",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrリレーに保存されたイベントをJSON-Lines形式で出力するツール"
   },
   "17": {
     "category": "WebSite",
     "title": "やぶみ観測所",
     "url": "https://status.yabu.me/",
-    "description": "やぶみんツールや日本リレー、主要なグローバルリレーの稼働状況が見れます",
-    "status": "active",
-    "failureCount": 0
+    "description": "やぶみんツールや日本リレー、主要なグローバルリレーの稼働状況が見れます"
   },
   "18": {
     "category": "BOT",
     "title": "日本人ユーザー (bot)",
     "url": "nostr:npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p",
-    "description": "日本人を繋げてくれるBOT",
-    "status": "active",
-    "failureCount": 0
+    "description": "日本人を繋げてくれるBOT"
   },
   "19": {
     "category": "BOT",
     "title": "search",
     "url": "nostr:npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26",
-    "description": "サーチさんにメンションすると、検索結果が返ってくる。kindとかfromとかtoとかtagとか指定できる",
-    "status": "active",
-    "failureCount": 0
+    "description": "サーチさんにメンションすると、検索結果が返ってくる。kindとかfromとかtoとかtagとか指定できる"
   },
   "20": {
     "category": "BOT",
     "title": "REQ",
     "url": "nostr:npub1x22zy06nn8h44cycdv4trxp8v0dv8qq3ayahpkrcn3rh90gp552sqs8hmv",
-    "description": "@REQ <filter> でNIP-01のフィルターを渡すと結果を返してくれる",
-    "status": "active",
-    "failureCount": 0
+    "description": "@REQ <filter> でNIP-01のフィルターを渡すと結果を返してくれる"
   },
   "21": {
     "category": "WebApp",
     "title": "野州田川水系定点観測所",
     "url": "https://nostr-hotter-site.vercel.app/",
-    "description": "Nostr 日本リレーの流速をグラフ表示化。流速ちゃん( nostr:npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv )",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr 日本リレーの流速をグラフ表示化。流速ちゃん( nostr:npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv )"
   },
   "22": {
     "category": "Extension",
     "title": "AKA Profiles",
     "url": "https://chrome.google.com/webstore/detail/aka-profiles/ncmflpbbagcnakkolfpcpogheckolnad/related",
-    "description": "複垢可能なログイン拡張機能(nip-07)\n(ログイン拡張機能 (NIP-07)を使ってみよう: https://welcome.nostr-jp.org/tutorial/nip-07.html )",
-    "status": "active",
-    "failureCount": 0
+    "description": "複垢可能なログイン拡張機能(nip-07)\n(ログイン拡張機能 (NIP-07)を使ってみよう: https://welcome.nostr-jp.org/tutorial/nip-07.html )"
   },
   "23": {
     "category": "WebSite",
     "title": "手を動かして学ぶNostrプロトコル",
     "url": "https://github.com/nostr-jp/learn-nostr-by-crafting",
-    "description": "Hello Nostr! 先住民が教えるNostrの歩き方 (技術書典にて頒布) 内の記事「手を動かして学ぶ Nostrプロトコル」(pp.65-75) の演習環境を含むリポジトリ",
-    "status": "active",
-    "failureCount": 0
+    "description": "Hello Nostr! 先住民が教えるNostrの歩き方 (技術書典にて頒布) 内の記事「手を動かして学ぶ Nostrプロトコル」(pp.65-75) の演習環境を含むリポジトリ"
   },
   "24": {
     "category": "BOT",
     "title": "mochi",
     "url": "nostr:npub19xm6kcedxef3232d222gj0sxql8vs2tutyg0fq4z6875zfs3d8ascl440n",
-    "description": "もちもち たまに すやすや すやすや",
-    "status": "active",
-    "failureCount": 0
+    "description": "もちもち たまに すやすや すやすや"
   },
   "25": {
     "category": "WebApp",
     "title": "Nostrends",
     "url": "https://nostrends.vercel.app/",
-    "description": "グローバルと日本それぞれの人気ポストを見ることができます",
-    "status": "active",
-    "failureCount": 0
+    "description": "グローバルと日本それぞれの人気ポストを見ることができます"
   },
   "26": {
     "category": "BOT",
     "title": "レドメ商事",
     "url": "nostr:npub1rrp5xjlnxt7tahstuewlzs83h7ddrwlkey3jg26mftre3snk5ddskxxsaw",
-    "description": "Botの輸入、イベント代行ならレドメ商事！",
-    "status": "active",
-    "failureCount": 0
+    "description": "Botの輸入、イベント代行ならレドメ商事！"
   },
   "27": {
     "category": "WebApp",
     "title": "1-2演習改「誰かの投稿を検索するやつ」",
     "url": "https://showhyuga.pages.dev/utility/nos_search",
-    "description": "誰かの投稿を日付とキーワードで検索するツール",
-    "status": "active",
-    "failureCount": 0
+    "description": "誰かの投稿を日付とキーワードで検索するツール"
   },
   "28": {
     "category": "WebApp",
     "title": "nostr.json generator",
     "url": "https://snowcait.github.io/nostr-json-generator",
-    "description": "NIP-65またはNIP-07からnostr.jsonを生成するツール",
-    "status": "active",
-    "failureCount": 0
+    "description": "NIP-65またはNIP-07からnostr.jsonを生成するツール"
   },
   "29": {
     "category": "WebApp",
     "title": "Shotr",
     "url": "https://github.com/ocknamo/shotr",
-    "description": "nostrによるショートURLサービス",
-    "status": "active",
-    "failureCount": 0
+    "description": "nostrによるショートURLサービス"
   },
   "30": {
     "category": "WebApp",
     "title": "Hostr",
     "url": "https://h.hostr.cc/p/2d417bce8c10883803bc427703e3c4c024465c88e7063ed68f9dfeecf56911ac/d/hostr-lp",
-    "description": "簡単にWebSiteを公開できる。Nostr上の分散型ウェブホスティングソリューション",
-    "status": "inactive",
-    "failureCount": 5
+    "description": "簡単にWebSiteを公開できる。Nostr上の分散型ウェブホスティングソリューション"
   },
   "31": {
     "category": "VScodeExtension",
     "title": "vscode-nostr-client",
     "url": "https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client",
-    "description": "A Nostr client in VSCode!",
-    "status": "inactive",
-    "failureCount": 5
+    "description": "A Nostr client in VSCode!"
   },
   "32": {
     "category": "WebApp",
     "title": "nostrlogs",
     "url": "https://nostrlogs-relay-jp.nostr.wirednet.jp/nostrlogs.html",
-    "description": "複数のNostrリレーから全投稿を収集して日付ごとに表示するtwilog的なものです。\n合わせて取得した過去ログを指定された同期先リレーサーバーに書き込んでバックアップ出来ます。",
-    "status": "active",
-    "failureCount": 0
+    "description": "複数のNostrリレーから全投稿を収集して日付ごとに表示するtwilog的なものです。\n合わせて取得した過去ログを指定された同期先リレーサーバーに書き込んでバックアップ出来ます。"
   },
   "33": {
     "category": "WebSite",
     "title": "nostr.watch",
     "url": "https://legacy.nostr.watch/relays/find",
-    "description": "世界のリレーが見れるサイト",
-    "status": "active",
-    "failureCount": 0
+    "description": "世界のリレーが見れるサイト"
   },
   "34": {
     "category": "WebClient",
     "title": "うにゅうハウス",
     "url": "https://unyu-house.vercel.app/",
     "description": "パブリックチャットクライアント",
-    "kind": 42,
-    "status": "active",
-    "failureCount": 0
+    "kind": 42
   },
   "35": {
     "category": "WebClient",
     "title": "nostter",
     "url": "https://nostter.app/",
-    "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる\n\nhttps://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv/2024/02/11\nみたいな感じで日付ごとの投稿が見れる\n\nhttps://nostter.app/latest\nでフォロイーの最新の投稿が見れる\n\nhttps://nostter.app/replay/home\nで過去時間のTLが見れる（リプレイ機能） 再生速度も変えれる！\n\n検索窓では 「kind:0 検索したいワード」みたいな感じでkind指定検索ができる",
-    "status": "active",
-    "failureCount": 0
+    "description": "日本製クライアント。カスタム絵文字が使える。いろんなイベントの中身が見れる\n\nhttps://nostter.app/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv/2024/02/11\nみたいな感じで日付ごとの投稿が見れる\n\nhttps://nostter.app/latest\nでフォロイーの最新の投稿が見れる\n\nhttps://nostter.app/replay/home\nで過去時間のTLが見れる（リプレイ機能） 再生速度も変えれる！\n\n検索窓では 「kind:0 検索したいワード」みたいな感じでkind指定検索ができる"
   },
   "36": {
     "category": "WebClient",
     "title": "rabbit",
     "url": "https://rabbit.syusui.net/",
-    "description": "日本製マルチカラムクライアント。エゴサがはかどる。ハッシュタグ固定もできる。他にもいろいろできる",
-    "status": "active",
-    "failureCount": 0
+    "description": "日本製マルチカラムクライアント。エゴサがはかどる。ハッシュタグ固定もできる。他にもいろいろできる"
   },
   "37": {
     "category": "WebApp",
     "title": "Markostr",
     "url": "https://penpenpng.github.io/markostr/",
-    "description": "みんなまるこふになれる\nお暇な人もお暇じゃない人もいかがですか",
-    "status": "active",
-    "failureCount": 0
+    "description": "みんなまるこふになれる\nお暇な人もお暇じゃない人もいかがですか"
   },
   "38": {
     "category": "Extension",
     "title": "nostronger",
     "url": "https://github.com/penpenpng/nostronger",
-    "description": "筋肉とリングコンで署名するためのNIP-07拡張機能💪",
-    "status": "active",
-    "failureCount": 0
+    "description": "筋肉とリングコンで署名するためのNIP-07拡張機能💪"
   },
   "39": {
     "category": "WebApp",
     "title": "Nostr playground",
     "url": "https://snowcait.github.io/nostr-playground/",
-    "description": "JSON-based web client written in plain JavaScript.",
-    "status": "active",
-    "failureCount": 0
+    "description": "JSON-based web client written in plain JavaScript."
   },
   "40": {
     "category": "WebApp",
     "title": "N Raw Writer",
     "url": "https://n-raw-writer.pages.dev/",
-    "description": "Sign Nostr's raw JSON event with NIP-07 and propagate it to the relay.",
-    "status": "active",
-    "failureCount": 0
+    "description": "Sign Nostr's raw JSON event with NIP-07 and propagate it to the relay."
   },
   "41": {
     "category": "WebApp",
     "title": "mapnos",
     "url": "https://mapnos.vercel.app/",
-    "description": "g tag (geohash) 付きの kind 1が地図に表示されるサイト",
-    "status": "active",
-    "failureCount": 0
+    "description": "g tag (geohash) 付きの kind 1が地図に表示されるサイト"
   },
   "42": {
     "category": "WebClient",
     "title": "nostatus",
     "url": "https://nostatus.vercel.app/",
     "description": "ユーザステータスの閲覧に特化したNostrウェブクライアント(NIP-38)",
-    "kind": 30315,
-    "status": "active",
-    "failureCount": 0
+    "kind": 30315
   },
   "44": {
     "category": "WebClient",
     "title": "I'm here, Nostr!",
     "url": "https://penpenpng.github.io/imhere-nostr/",
-    "description": "geohash をつけて投稿できるクライアント",
-    "status": "active",
-    "failureCount": 0
+    "description": "geohash をつけて投稿できるクライアント"
   },
   "45": {
     "category": "WebSite",
     "title": "nostr-protocol/nipsの和訳",
     "url": "https://github.com/nostr-jp/nips-ja",
-    "description": "Nostrプロトコル説明書(?) をみんなで和訳しているリポジトリ。\nあなたもコントリビューションしてみてはいかが",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrプロトコル説明書(?) をみんなで和訳しているリポジトリ。\nあなたもコントリビューションしてみてはいかが"
   },
   "46": {
     "category": "",
     "title": "Nostr Anonymous Reply",
     "url": "https://nostr-anon-reply.vercel.app/",
-    "description": "匿名で ハッシュタグなど 送るやつ",
-    "status": "active",
-    "failureCount": 0
+    "description": "匿名で ハッシュタグなど 送るやつ"
   },
   "47": {
     "category": "",
     "title": "NostrFlu",
     "url": "https://heguro.github.io/nostr-following-list-util/",
-    "description": "Nostrのフォローリストを集めたり再送信するやつ。フォローが飛んだときはこれで復元できるかも！\nあとバッジも見れる！",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrのフォローリストを集めたり再送信するやつ。フォローが飛んだときはこれで復元できるかも！\nあとバッジも見れる！"
   },
   "48": {
     "category": "BOT",
     "title": "ぬるぽ・ｶﾞｯ",
     "url": "nostr:npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc",
-    "description": "ぬるぽ を許さない らしい\nkind 〇〇 どこ っていうと対応するNIPのページを教えてくれる\n検索どこっていうと検索ツールを色々教えてくれる\n他にも ビットコいくら とか 和英 英和 とかいろいろな機能があるよ\nhttps://image-bot.mattn-jp.workers.dev/\nこのサイトを元に、〇〇画像って投稿すると画像をくれたりとかも\n\n内臓→ https://github.com/mattn/cloudflare-nostr-nullpoga/blob/main/src/index.ts",
-    "status": "active",
-    "failureCount": 0
+    "description": "ぬるぽ を許さない らしい\nkind 〇〇 どこ っていうと対応するNIPのページを教えてくれる\n検索どこっていうと検索ツールを色々教えてくれる\n他にも ビットコいくら とか 和英 英和 とかいろいろな機能があるよ\nhttps://image-bot.mattn-jp.workers.dev/\nこのサイトを元に、〇〇画像って投稿すると画像をくれたりとかも\n\n内臓→ https://github.com/mattn/cloudflare-nostr-nullpoga/blob/main/src/index.ts"
   },
   "49": {
     "category": "Relay",
     "title": "しりとリレー",
     "url": "https://srtrelay.c-stellar.net/",
-    "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）\nしりとりになるイベントしか受け付けないリレー\nOne of the most wired relay in the world\n\n日本リレーからしりとりになるものをひっぱってくので直接しりとりれーに接続していなくてもりとりんが拾っていくよ\nりとりんからリアクション❗があったらしりとりの合図\nわからないときは r!help と投稿してみて",
-    "status": "active",
-    "failureCount": 0
+    "description": "しりとリレーの番人りとりん（ nostr:npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58 ）\nしりとりになるイベントしか受け付けないリレー\nOne of the most wired relay in the world\n\n日本リレーからしりとりになるものをひっぱってくので直接しりとりれーに接続していなくてもりとりんが拾っていくよ\nりとりんからリアクション❗があったらしりとりの合図\nわからないときは r!help と投稿してみて"
   },
   "50": {
     "category": "WebApp",
     "title": "今日からビットコ",
     "url": "https://lokuyow.github.io/btc-dca-simulator/",
-    "description": "もしあの日からビットコインを積み立てていたら...",
-    "status": "active",
-    "failureCount": 0
+    "description": "もしあの日からビットコインを積み立てていたら..."
   },
   "51": {
     "category": "WebSite",
     "title": "SNSいまどんな感じ？",
     "url": "https://sns.uwith.net/",
-    "description": "世の中のSNS（タイッツー、Nostr、Bluesky）でいまどんな話題が呟かれているのか、なんとなくざっくり見るためのサイト",
-    "status": "active",
-    "failureCount": 0
+    "description": "世の中のSNS（タイッツー、Nostr、Bluesky）でいまどんな話題が呟かれているのか、なんとなくざっくり見るためのサイト"
   },
   "52": {
     "category": "WebApp",
     "title": "Nekodake",
     "url": "https://nekodake.hoku.in/",
-    "description": "このSNSに投稿された書き込みは全て猫工知能NI（Nyartificial Intelligence）によって猫語に自動変換されます。\nホモ・サピエンス語に嫌気がしたときとか、ぐちを言いたいけど直接書くのは憚られるときとかにいかが\nアイコンの猫ちゃんもかわいいね\n( https://simblo.net/u/WKZXBT/post/24344 )\n\n(Nostrのシステムとは関係ありません)",
-    "status": "active",
-    "failureCount": 0
+    "description": "このSNSに投稿された書き込みは全て猫工知能NI（Nyartificial Intelligence）によって猫語に自動変換されます。\nホモ・サピエンス語に嫌気がしたときとか、ぐちを言いたいけど直接書くのは憚られるときとかにいかが\nアイコンの猫ちゃんもかわいいね\n( https://simblo.net/u/WKZXBT/post/24344 )\n\n(Nostrのシステムとは関係ありません)"
   },
   "53": {
     "category": "Article",
     "title": "Nostr Advent Calendar 2023",
     "url": "https://adventar.org/calendars/8794",
-    "description": "分散SNS等に活用できる、Websocketベースのプロトコル「Nostr」のアドベントカレンダー",
-    "status": "active",
-    "failureCount": 0
+    "description": "分散SNS等に活用できる、Websocketベースのプロトコル「Nostr」のアドベントカレンダー"
   },
   "54": {
     "category": "Dev",
     "title": "strfrui",
     "url": "https://github.com/jiftechnify/strfrui",
-    "description": "strfryのイベント・シフター（書き込みポリシー）プラグインをGoで書くためのフレームワーク。",
-    "status": "active",
-    "failureCount": 0
+    "description": "strfryのイベント・シフター（書き込みポリシー）プラグインをGoで書くためのフレームワーク。"
   },
   "55": {
     "category": "",
     "title": "NostrのDMをなんかするやつ",
     "url": "https://nikolat.github.io/nostr-dm/",
     "description": "NostrのDM見たり送信したりできるやつ",
-    "kind": 4,
-    "status": "active",
-    "failureCount": 0
+    "kind": 4
   },
   "56": {
     "category": "",
     "title": "embed.nostr.band",
     "url": "https://embed.nostr.band/",
-    "description": "Nostrの投稿やプロフィールをウェブページに埋め込むことができます！",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrの投稿やプロフィールをウェブページに埋め込むことができます！"
   },
   "57": {
     "category": "",
     "title": "Advanced Nostr Search",
     "url": "https://advancednostrsearch.vercel.app/",
-    "description": "日付指定ワード指定などができる検索ツール",
-    "status": "active",
-    "failureCount": 0
+    "description": "日付指定ワード指定などができる検索ツール"
   },
   "58": {
     "category": "Lineスタンプ",
     "title": "とにかく忘れるダチョウ",
     "url": "https://store.line.me/stickershop/product/25181618/ja",
-    "description": "Lineスタンプ",
-    "status": "active",
-    "failureCount": 0
+    "description": "Lineスタンプ"
   },
   "59": {
     "category": "",
     "title": "chronostr",
     "url": "https://chronostr.pages.dev/",
     "description": "Nostr上で動作するスケジュール調整とRSVPツール。Nostr版調整さん\n\n(NIP-52 Calendar Events)",
-    "kind": 31928,
-    "status": "active",
-    "failureCount": 0
+    "kind": 31928
   },
   "60": {
     "category": "Article",
     "title": "Fundraising for Nostr creators",
     "url": "https://github.com/kimymt/nostrfundrasinglinks/blob/main/README.md",
-    "description": "Nostr protocol に関連する、支援金および資金調達手段のリンク集",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr protocol に関連する、支援金および資金調達手段のリンク集"
   },
   "61": {
     "category": "WebSite",
     "title": "Bluesky vs. Nostr",
     "url": "https://bluesky-vs-nostr.vercel.app/",
-    "description": "",
-    "status": "active",
-    "failureCount": 0
+    "description": ""
   },
   "62": {
     "category": "WebApp",
     "title": "Noseatr",
     "url": "https://mimonelu.github.io/khaos-ram/#/noseatr",
-    "description": "Nostrに海の生き物を放流しましょう！",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrに海の生き物を放流しましょう！"
   },
   "63": {
     "category": "WebApp",
     "title": "emojito",
     "url": "https://emojito.meme/",
     "description": "カスタム絵文字を登録したりできるサイト",
-    "kind": 30030,
-    "status": "active",
-    "failureCount": 0
+    "kind": 30030
   },
   "64": {
     "category": "WebApp",
     "title": "badges",
     "url": "https://badges.page/",
     "description": "バッジを作ったりできるサイト",
-    "kind": 30009,
-    "status": "active",
-    "failureCount": 0
+    "kind": 30009
   },
   "65": {
     "category": "",
     "title": "Nostr NIP-56 Board",
     "url": "https://nostr-kind1984-display.vercel.app/",
     "description": "NIP-56 (通報)を眺めるサイト",
-    "kind": 1984,
-    "status": "active",
-    "failureCount": 0
+    "kind": 1984
   },
   "66": {
     "category": "WebApp",
     "title": "Nostr hours",
     "url": "https://snowcait.github.io/nostr-hours/",
-    "description": "活動時間帯を可視化するサイト",
-    "status": "active",
-    "failureCount": 0
+    "description": "活動時間帯を可視化するサイト"
   },
   "68": {
     "category": "WebSite",
     "title": "nostr(scrapbox)",
     "url": "https://scrapbox.io/nostr/",
-    "description": "Nostrに関する情報をみんなで集めているサイト",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrに関する情報をみんなで集めているサイト"
   },
   "69": {
     "category": "WebSite",
     "title": "Welcome to Nostr! ～ Nostrをはじめよう！ ～",
     "url": "https://welcome.nostr-jp.org/",
-    "description": "ようこそ Nostr へ！なサイト\n\nNostrの初め方や、認証マーク？の付け方、NIP-07の使い方、用語の解説など",
-    "status": "active",
-    "failureCount": 0
+    "description": "ようこそ Nostr へ！なサイト\n\nNostrの初め方や、認証マーク？の付け方、NIP-07の使い方、用語の解説など"
   },
   "70": {
     "category": "WebSite",
     "title": "崇德のフリーイラスト置き場🐉",
     "url": "https://stok33.github.io/freeillusts/",
-    "description": "アイコン・ヘッダー等に使用可！",
-    "status": "active",
-    "failureCount": 0
+    "description": "アイコン・ヘッダー等に使用可！"
   },
   "71": {
     "category": "Tool",
     "title": "nostr-zap",
     "url": "https://github.com/SamSamskies/nostr-zap",
-    "description": "自分のサイトに簡単にzapボタンが設置できる！",
-    "status": "active",
-    "failureCount": 0
+    "description": "自分のサイトに簡単にzapボタンが設置できる！"
   },
   "72": {
     "category": "",
     "title": "nak (nostr army knife)",
     "url": "https://nak.nostr.com/",
-    "description": "hexなidをnote~~の形にしたりnpub~~の形にしたりその逆をしたりいろいろできるサイト（CLIツールもある）",
-    "status": "active",
-    "failureCount": 0
+    "description": "hexなidをnote~~の形にしたりnpub~~の形にしたりその逆をしたりいろいろできるサイト（CLIツールもある）"
   },
   "73": {
     "category": "BOT",
     "title": "やぶみちゃん",
     "url": "nostr:npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r",
-    "description": "やぶみリレー(wss://yabu.me)の情報を伝えたりいろいろするよ！やぶみリレーに繋いでやっぶみーん！っていうと出てくるかも。helpってメンションすると何ができるか教えてくれるよ",
-    "status": "active",
-    "failureCount": 0
+    "description": "やぶみリレー(wss://yabu.me)の情報を伝えたりいろいろするよ！やぶみリレーに繋いでやっぶみーん！っていうと出てくるかも。helpってメンションすると何ができるか教えてくれるよ"
   },
   "74": {
     "category": "BOT",
     "title": "うにゅう",
     "url": "nostr:npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t",
-    "description": "えんいー \nデスクトップマスコット「伺か」のキャラクター\nいい？って聞くと教えてくれたり 〇〇を燃やしてていうと燃やしてくれたり 〇〇を出してって言ったら出してくれたりする\nzapの設定をしたうえで、朝にうにゅうに挨拶をするといいことあるかも\nzapとは: https://scrapbox.io/nostr/Zap%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%AC%E3%82%A4%E3%83%89\n\n他にもいろいろできる\nできること https://zenn.dev/nikolat/articles/3d55e71e810332",
-    "status": "active",
-    "failureCount": 0
+    "description": "えんいー \nデスクトップマスコット「伺か」のキャラクター\nいい？って聞くと教えてくれたり 〇〇を燃やしてていうと燃やしてくれたり 〇〇を出してって言ったら出してくれたりする\nzapの設定をしたうえで、朝にうにゅうに挨拶をするといいことあるかも\nzapとは: https://scrapbox.io/nostr/Zap%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%AC%E3%82%A4%E3%83%89\n\n他にもいろいろできる\nできること https://zenn.dev/nikolat/articles/3d55e71e810332"
   },
   "75": {
     "category": "",
     "title": "MEGAMOJI",
     "url": "https://zk-phi.github.io/MEGAMOJI/",
-    "description": "カスタム絵文字をサクッと作れる🐱",
-    "status": "active",
-    "failureCount": 0
+    "description": "カスタム絵文字をサクッと作れる🐱"
   },
   "76": {
     "category": "Article",
     "title": "それ、1個のアカウントで全部できるよ。そう、Nostrならね。",
     "url": "https://lumilumi.app/naddr1qq25kumc2vuryj2nd4r4vvmddye52vjjdfs5zq3q6lrdq99ng2q4hg5ufre5f8j0qpealp8544vq4ctn2wqyrf4tk6uqxpqqqp65wzpqg78",
-    "description": "秘密鍵 (nsec) さえ一つあれば、Nostrプロトコルに準じた様々な種類のクライアントにアクセスすることができます。",
-    "status": "active",
-    "failureCount": 0
+    "description": "秘密鍵 (nsec) さえ一つあれば、Nostrプロトコルに準じた様々な種類のクライアントにアクセスすることができます。"
   },
   "77": {
     "category": "Lineスタンプ",
     "title": "あいさつは忘れないダチョウ",
     "url": "https://store.line.me/stickershop/product/25628277/ja",
-    "description": "ひたすら忘れる生き物だって、あいさつは欠かさない。",
-    "status": "active",
-    "failureCount": 0
+    "description": "ひたすら忘れる生き物だって、あいさつは欠かさない。"
   },
   "78": {
     "category": "Dev",
     "title": "823API",
     "url": "https://api.yabu.me/",
-    "description": "やぶみリレー（wss://yabu.me）のAPI",
-    "status": "active",
-    "failureCount": 0
+    "description": "やぶみリレー（wss://yabu.me）のAPI"
   },
   "79": {
     "category": "Extension",
     "title": "nos2x",
     "url": "https://chromewebstore.google.com/detail/nos2x/kpgefcfmnafjgpblomihpgmejjdanjjp",
-    "description": "nos2x (Firefox の場合は nos2x-fox) は PC 版 Microsoft Edge/Chrome/Firefox および Android 版 Firefox/Kiwi Browser 向けの拡張機能\n(ログイン拡張機能 (NIP-07)を使ってみよう: https://welcome.nostr-jp.org/tutorial/nip-07.html )",
-    "status": "active",
-    "failureCount": 0
+    "description": "nos2x (Firefox の場合は nos2x-fox) は PC 版 Microsoft Edge/Chrome/Firefox および Android 版 Firefox/Kiwi Browser 向けの拡張機能\n(ログイン拡張機能 (NIP-07)を使ってみよう: https://welcome.nostr-jp.org/tutorial/nip-07.html )"
   },
   "80": {
     "category": "Extension",
     "title": "nostore",
     "url": "https://apps.apple.com/jp/app/nostore/id1666553677",
-    "description": "iOS Safari 向けの拡張機能\n( https://welcome.nostr-jp.org/tutorial/nip-07.html#nostore-ios )",
-    "status": "inactive",
-    "failureCount": 5
+    "description": "iOS Safari 向けの拡張機能\n( https://welcome.nostr-jp.org/tutorial/nip-07.html#nostore-ios )"
   },
   "81": {
     "category": "WebApp",
     "title": "nostr-post-checker",
     "url": "https://koteitan.github.io/nostr-post-checker/",
-    "description": "イベントがどのリレーに存在し、どのリレーに存在していないかを確認するサイト",
-    "status": "active",
-    "failureCount": 0
+    "description": "イベントがどのリレーに存在し、どのリレーに存在していないかを確認するサイト"
   },
   "82": {
     "category": "WebApp",
     "title": "yakihonne",
     "url": "https://yakihonne.com/",
-    "description": "ブログ系クライアント\n(長文投稿に対応したクライアント(NIP-23))",
-    "status": "active",
-    "failureCount": 0
+    "description": "ブログ系クライアント\n(長文投稿に対応したクライアント(NIP-23))"
   },
   "83": {
     "category": "Article",
     "title": "Nostrのカスタム絵文字の使い方",
     "url": "https://lumilumi.app/naddr1qvzqqqr4gupzpmzzcaj5rzeah8y940ln4z855wa72af4a6aac4zjypql55egcpsqqq2hs4jd23d8sjrr2e05u46tw42xy3zz24vhxxs6v86",
-    "description": "みんなもカスタム絵文字を使おう",
-    "status": "active",
-    "failureCount": 0
+    "description": "みんなもカスタム絵文字を使おう"
   },
   "84": {
     "category": "BOT",
     "title": "Remind Me Bot",
     "url": "nostr:npub1rmndme2y9d5lxun58dntu38hx5pl6jwvnpm77d0cqfnw8e6wjh8s2gzzgs",
-    "description": "リマインダボット\n!RemindMe 1 min \"message\"などと投稿しておくとその時間にリマインドしてくれるでしょう。\n海外でも利用できるように時間帯設定があります。\n!RemindMe TZ Asia/Tokyo\nと入れておけば日本時間で動くようになります。標準はUTCです。",
-    "status": "active",
-    "failureCount": 0
+    "description": "リマインダボット\n!RemindMe 1 min \"message\"などと投稿しておくとその時間にリマインドしてくれるでしょう。\n海外でも利用できるように時間帯設定があります。\n!RemindMe TZ Asia/Tokyo\nと入れておけば日本時間で動くようになります。標準はUTCです。"
   },
   "85": {
     "category": "Dev",
     "title": "Nostr Design",
     "url": "https://nostrdesign.org/docs/resources/",
-    "description": "nostrのデザイナーや開発者にとって便利なリソースのリスト",
-    "status": "active",
-    "failureCount": 0
+    "description": "nostrのデザイナーや開発者にとって便利なリソースのリスト"
   },
   "86": {
     "category": "Book",
     "title": "Hello Nostr! 先住民が教えるNostrの歩き方",
     "url": "https://nip-book.nostr-jp.org/book/1/",
-    "description": "技術書典14にて製作販売されたNostr本。電子版も有ります。",
-    "status": "active",
-    "failureCount": 0
+    "description": "技術書典14にて製作販売されたNostr本。電子版も有ります。"
   },
   "87": {
     "category": "Book",
     "title": "Hello Nostr! Yo Bluesky! 分散SNSの最前線",
     "url": "https://nip-book.nostr-jp.org/book/2/",
-    "description": "技術書典15にて製作販売されたNostr&Blueskyの本。電子版も有ります。",
-    "status": "active",
-    "failureCount": 0
+    "description": "技術書典15にて製作販売されたNostr&Blueskyの本。電子版も有ります。"
   },
   "88": {
     "category": "Event",
     "title": "Nostrasia",
     "url": "https://nostr.world/capsules/capsule2.html",
-    "description": "2023/11/1-3に開催された、第2回 Nostr.world Unconference\nアジアの2つの会場が用意された（東京会場: アンカンファレンス、香港会場: ミートアップ）\nアーカイブはこちら https://www.youtube.com/@nostrasia/videos 日本人登壇者も多数！ \nちなみに第1回は Nostrica\n第3回は Nostriga で 2024/8/22-23 開催！\n（ https://nostr.world/index.html ）",
-    "status": "active",
-    "failureCount": 0
+    "description": "2023/11/1-3に開催された、第2回 Nostr.world Unconference\nアジアの2つの会場が用意された（東京会場: アンカンファレンス、香港会場: ミートアップ）\nアーカイブはこちら https://www.youtube.com/@nostrasia/videos 日本人登壇者も多数！ \nちなみに第1回は Nostrica\n第3回は Nostriga で 2024/8/22-23 開催！\n（ https://nostr.world/index.html ）"
   },
   "89": {
     "category": "WebApp",
     "title": "Nostree",
     "url": "https://nostree.me/",
-    "description": "リンクリストの作成、管理、発見などを行うNostrベースのアプリケーション。",
-    "status": "active",
-    "failureCount": 0
+    "description": "リンクリストの作成、管理、発見などを行うNostrベースのアプリケーション。"
   },
   "90": {
     "category": "BOT",
     "title": "I_RUN_CODE",
     "url": "nostr:npub1runc0de8jlttarfj5zaej0qeu6v8vh7446mxc0ncs4cxj0qytkrsqskp0s",
-    "description": " \"/run\" コマンドで動きます。\nサポート言語は: \"/run help\"コマンドで確認できます",
-    "status": "active",
-    "failureCount": 0
+    "description": " \"/run\" コマンドで動きます。\nサポート言語は: \"/run help\"コマンドで確認できます"
   },
   "91": {
     "category": "BOT",
     "title": "名言画像 bot",
     "url": "nostr:npub1psztp4ewrnntks87ehkxeuvx5kpaspnk7hens6ycr3u7uptndsuskn58dc",
-    "description": "名言だなと思った投稿に対して#makeitquote or #goodpoem というリプを送ると、BOTが画像にしてくれます",
-    "status": "active",
-    "failureCount": 0
+    "description": "名言だなと思った投稿に対して#makeitquote or #goodpoem というリプを送ると、BOTが画像にしてくれます"
   },
   "92": {
     "category": "WebApp",
     "title": "Nosli",
     "url": "https://nosli.vercel.app/",
     "description": "Nosli (ノスリ) 投稿まとめ作成ツール",
-    "kind": 30023,
-    "status": "active",
-    "failureCount": 0
+    "kind": 30023
   },
   "93": {
     "category": "Dev",
     "title": "Nostify",
     "url": "https://github.com/kojira/nostify",
-    "description": "Nostrのリレーサーバーに接続して、discordに投稿するdiscord bot",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrのリレーサーバーに接続して、discordに投稿するdiscord bot"
   },
   "94": {
     "category": "",
     "title": "angolmois",
     "url": "https://github.com/nikolat/angolmois",
-    "description": "Nostrリレーから投稿を取得して表示するWebアプリ\n投稿を表示すると同時に伺か互換ベースウェア(SSTPサーバー)にSSTPを送信し、ゴースト(キャラクター)に投稿を喋らせます。( https://ssp.shillest.net/ )",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrリレーから投稿を取得して表示するWebアプリ\n投稿を表示すると同時に伺か互換ベースウェア(SSTPサーバー)にSSTPを送信し、ゴースト(キャラクター)に投稿を喋らせます。( https://ssp.shillest.net/ )"
   },
   "95": {
     "category": "Extension",
     "title": "Share on Nostr",
     "url": "https://chromewebstore.google.com/detail/icfpjhfljddmpinehcnmlfijmiohhodi",
-    "description": "NostrでアクティブなタブのURLを共有するChrome拡張機能。",
-    "status": "active",
-    "failureCount": 0
+    "description": "NostrでアクティブなタブのURLを共有するChrome拡張機能。"
   },
   "96": {
     "category": "Tool",
     "title": "murasaki",
     "url": "https://github.com/darashi/murasaki",
-    "description": "VOICEVOX を利用したタイムライン読み上げツール",
-    "status": "active",
-    "failureCount": 0
+    "description": "VOICEVOX を利用したタイムライン読み上げツール"
   },
   "97": {
     "category": "WebApp",
     "title": "Nosaray",
     "url": "https://nosaray.vercel.app/",
-    "description": "過去のタイムラインをおさらいできるツール\n見てなかったあのときのTLを確認できるお役立ち",
-    "status": "active",
-    "failureCount": 0
+    "description": "過去のタイムラインをおさらいできるツール\n見てなかったあのときのTLを確認できるお役立ち"
   },
   "98": {
     "category": "Client",
     "title": "algia",
     "url": "https://github.com/mattn/algia",
-    "description": "Nostrの CLI クライアント。Nost+algia (ノスタルジア) \nぽわ～ とか (((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙかのコマンドもあるよ",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrの CLI クライアント。Nost+algia (ノスタルジア) \nぽわ～ とか (((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙかのコマンドもあるよ"
   },
   "99": {
     "category": "Dev",
     "title": "rx-nostr",
     "url": "https://penpenpng.github.io/rx-nostr/",
-    "description": "Nostr アプリケーションがリレーとより簡単に通信するための RxJS に基づくライブラリ",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr アプリケーションがリレーとより簡単に通信するための RxJS に基づくライブラリ"
   },
   "100": {
     "category": "WebApp",
     "title": "zap.stream",
     "url": "https://zap.stream/",
     "description": "Nostr Live stream",
-    "kind": 30311,
-    "status": "active",
-    "failureCount": 0
+    "kind": 30311
   },
   "101": {
     "category": "WebApp",
     "title": "Nostr井ラスト倉庫",
     "url": "https://stok33.github.io/NostrIllustStock/",
-    "description": "公開鍵で指定したユーザーが投稿している「#illust」タグつきの投稿を100件まで表示",
-    "status": "active",
-    "failureCount": 0
+    "description": "公開鍵で指定したユーザーが投稿している「#illust」タグつきの投稿を100件まで表示"
   },
   "102": {
     "category": "WebApp",
     "title": "NostrChat",
     "url": "https://www.nostrchat.io/",
-    "description": "DM・チャットアプリケーション",
-    "status": "active",
-    "failureCount": 0
+    "description": "DM・チャットアプリケーション"
   },
   "103": {
     "category": "WebApp",
     "title": "Nostr Nests",
     "url": "https://nostrnests.com/",
-    "description": "audio space（通話アプリ）",
-    "status": "active",
-    "failureCount": 0
+    "description": "audio space（通話アプリ）"
   },
   "104": {
     "category": "",
     "title": "App Manager",
     "url": "https://nostrapp.link/",
     "description": "いろんなNostrアプリの情報がまとめられているサイト",
-    "kind": 31989,
-    "status": "active",
-    "failureCount": 0
+    "kind": 31989
   },
   "105": {
     "category": "",
     "title": "Stemstr",
     "url": "https://stemstr.app/",
     "description": "音楽共有サイト？",
-    "kind": 1808,
-    "status": "inactive",
-    "failureCount": 5
+    "kind": 1808
   },
   "106": {
     "category": "WebSite",
     "title": "ZapLife",
     "url": "https://zaplife.lol/",
     "description": "リアルタイムでZAPの流れを見ることができるサイト",
-    "kind": 9735,
-    "status": "active",
-    "failureCount": 0
+    "kind": 9735
   },
   "107": {
     "category": "",
     "title": "nostrbuzzs",
     "url": "https://nostrbuzzs.deno.dev/",
-    "description": "英語・日本語のNostrのトレンドワード",
-    "status": "active",
-    "failureCount": 0
+    "description": "英語・日本語のNostrのトレンドワード"
   },
   "109": {
     "category": "Lineスタンプ",
     "title": "のすたこちゃんあらわる",
     "url": "https://store.line.me/stickershop/product/25697090/ja",
-    "description": "Nostr に棲まう UMA こと「のすたこちゃん」が LINE に出張してきたよ！",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr に棲まう UMA こと「のすたこちゃん」が LINE に出張してきたよ！"
   },
   "110": {
     "category": "WebApp",
     "title": "絵文字コネコネ",
     "url": "https://nostr-emoji-edit.uchijo.com/",
-    "description": "グリッド上で絵文字をポチポチして投稿を作成できるツールです\nカスタム絵文字の表示が実装されていないクライアントもあるので使いすぎに注意かも\nもしくはパブ茶で\n\nカスタム絵文字のパブリックチャット部屋\nnostter\nhttps://nostter.app/channels/nevent1qqsrxr790eyw89p8m40224dswsdr7u262hsslzakv9kz0myja0z7vjcz7mqy3\n\nnoStrudel\nhttps://nostrudel.ninja/#/channels/nevent1qqsrxr790eyw89p8m40224dswsdr7u262hsslzakv9kz0myja0z7vjcz7mqy3",
-    "status": "active",
-    "failureCount": 0
+    "description": "グリッド上で絵文字をポチポチして投稿を作成できるツールです\nカスタム絵文字の表示が実装されていないクライアントもあるので使いすぎに注意かも\nもしくはパブ茶で\n\nカスタム絵文字のパブリックチャット部屋\nnostter\nhttps://nostter.app/channels/nevent1qqsrxr790eyw89p8m40224dswsdr7u262hsslzakv9kz0myja0z7vjcz7mqy3\n\nnoStrudel\nhttps://nostrudel.ninja/#/channels/nevent1qqsrxr790eyw89p8m40224dswsdr7u262hsslzakv9kz0myja0z7vjcz7mqy3"
   },
   "111": {
     "category": "WebApp",
     "title": "Nostabs - Nostr腹筋ヘルパー",
     "url": "https://penpenpng.github.io/nostabs/",
-    "description": "みんなでムキムキになろう",
-    "status": "active",
-    "failureCount": 0
+    "description": "みんなでムキムキになろう"
   },
   "112": {
     "category": "",
     "title": "Nostr勉強会",
     "url": "https://www.youtube.com/watch?v=IbMhpGNhUuE&list=PLUT1W-ZouC_dORsgMrjd4tcEi1wPAjh__",
-    "description": "不定期開催、四谷ラボ( https://428lab.net/ )主催のNostr勉強会",
-    "status": "active",
-    "failureCount": 0
+    "description": "不定期開催、四谷ラボ( https://428lab.net/ )主催のNostr勉強会"
   },
   "113": {
     "category": "",
     "title": "njump",
     "url": "https://njump.me/",
-    "description": "njumpは、プロファイル、メモ、リレーを参照できるHTTP Nostrゲートウェイです\n\nnjump.me/[nip-19-entity]\nノートとかプロフィールとか見れる\n外部の人に共有するときに便利かも\n\n<script src=\"https://njump.me/embed/[nip-19-entity]\" />\nウェブページに埋め込みできる\n\nnjump.me/[npub...].rss\n投稿のRSSフィードが見れる\n\nなど",
-    "status": "active",
-    "failureCount": 0
+    "description": "njumpは、プロファイル、メモ、リレーを参照できるHTTP Nostrゲートウェイです\n\nnjump.me/[nip-19-entity]\nノートとかプロフィールとか見れる\n外部の人に共有するときに便利かも\n\n<script src=\"https://njump.me/embed/[nip-19-entity]\" />\nウェブページに埋め込みできる\n\nnjump.me/[npub...].rss\n投稿のRSSフィードが見れる\n\nなど"
   },
   "114": {
     "category": "",
     "title": "Nozokimado",
     "url": "https://relay-jp.nostr.wirednet.jp/index.html",
-    "description": "特定のリレーの投稿を閲覧できるクライアント\nアカウントを持っていなくても閲覧可能！\nrelay-jp.nostr.wirednet.jpだけでなくrelay.nostr.wirednet.jpやyabu.meなどいろいろなリレーで使われています。(source: https://github.com/imksoo/nostr-global-viewer )\n\nhttps://relay-jp.nostr.wirednet.jp/index.html?sushi=on はアカウント情報が日替わりランダムでお寿司になり\nhttps://relay-jp.nostr.wirednet.jp/index.html?mahjong=on では麻雀牌になります\n(絵文字source: https://awayuki.github.io/emojis.html )",
-    "status": "active",
-    "failureCount": 0
+    "description": "特定のリレーの投稿を閲覧できるクライアント\nアカウントを持っていなくても閲覧可能！\nrelay-jp.nostr.wirednet.jpだけでなくrelay.nostr.wirednet.jpやyabu.meなどいろいろなリレーで使われています。(source: https://github.com/imksoo/nostr-global-viewer )\n\nhttps://relay-jp.nostr.wirednet.jp/index.html?sushi=on はアカウント情報が日替わりランダムでお寿司になり\nhttps://relay-jp.nostr.wirednet.jp/index.html?mahjong=on では麻雀牌になります\n(絵文字source: https://awayuki.github.io/emojis.html )"
   },
   "115": {
     "category": "WebApp",
     "title": "find mine",
     "url": "https://koteitan.github.io/findmine/",
-    "description": "nostr/Bluesky/twilog/twitter 横断検索",
-    "status": "active",
-    "failureCount": 0
+    "description": "nostr/Bluesky/twilog/twitter 横断検索"
   },
   "116": {
     "category": "WebApp",
     "title": "Wikifreedia",
     "url": "https://wikifreedia.xyz/",
-    "description": "wiki on Nostr",
-    "status": "active",
-    "failureCount": 0
+    "description": "wiki on Nostr"
   },
   "117": {
     "category": "WindowsClient",
     "title": "kakoi",
     "url": "https://nokakoi.com/",
-    "description": "Windows用nostrクライアント。\nグリッド表示で職場でも目立たずにコソのすできる\nタイムラインを『伺か』（SSP）（ https://ssp.shillest.net/ ）に流すこともできる\n伺か読み上げプラグイン（ https://github.com/apxxxxxxe/GhostSpeaker https://github.com/apxxxxxxe/Bouyomi など ）と組み合わせてゴーストにTLを読み上げてもらえる\n\nNostrのユーザーの発言をそれぞれSSPのゴーストに割り当てることができる閲覧のみの妹分 noka もあるよ。\nnpubの入力だけで気軽に試すことができる\nnokauka（ https://github.com/nikolat/nokauka ）から起動・自動更新もできる",
-    "status": "active",
-    "failureCount": 0
+    "description": "Windows用nostrクライアント。\nグリッド表示で職場でも目立たずにコソのすできる\nタイムラインを『伺か』（SSP）（ https://ssp.shillest.net/ ）に流すこともできる\n伺か読み上げプラグイン（ https://github.com/apxxxxxxe/GhostSpeaker https://github.com/apxxxxxxe/Bouyomi など ）と組み合わせてゴーストにTLを読み上げてもらえる\n\nNostrのユーザーの発言をそれぞれSSPのゴーストに割り当てることができる閲覧のみの妹分 noka もあるよ。\nnpubの入力だけで気軽に試すことができる\nnokauka（ https://github.com/nikolat/nokauka ）から起動・自動更新もできる"
   },
   "118": {
     "category": "WebClient",
     "title": "NosHagaki",
     "url": "https://nos-hagaki.vercel.app/",
-    "description": "バーチャルな住所を利用して文通を行う Nostr クライアント",
-    "status": "active",
-    "failureCount": 0
+    "description": "バーチャルな住所を利用して文通を行う Nostr クライアント"
   },
   "119": {
     "category": "Dev",
     "title": "n8n-nodes-Nostrobots",
     "url": "https://github.com/ocknamo/n8n-nodes-nostrobots",
-    "description": "Nostrのためのn8n( https://n8n.io/ )ノード",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrのためのn8n( https://n8n.io/ )ノード"
   },
   "120": {
     "category": "Tool",
     "title": "nosskey",
     "url": "https://github.com/ocknamo/nosskey",
-    "description": "Nostrasia ハッカソン( https://nostr.world/nostrasia/hackathon/index.html ) 入賞！\n Nosskeyってなに？: https://qiita.com/ocknamo/items/4e51f7b49b2c08195b3a",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrasia ハッカソン( https://nostr.world/nostrasia/hackathon/index.html ) 入賞！\n Nosskeyってなに？: https://qiita.com/ocknamo/items/4e51f7b49b2c08195b3a"
   },
   "121": {
     "category": "",
     "title": "Nsec.app",
     "url": "https://nsec.app/",
-    "description": "Nsec.appは、Nostrの鍵を保存し、nip46を使って鍵にリモートアクセスするためのウェブアプリです。\n\nNIP-46: NIP-07と同等の機能をNostrプロトコル上で実現する仕組み\nnips-ja: https://github.com/nostr-jp/nips-ja/blob/main/46.md )\nscrapbox: https://scrapbox.io/nostr/NIP-46",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nsec.appは、Nostrの鍵を保存し、nip46を使って鍵にリモートアクセスするためのウェブアプリです。\n\nNIP-46: NIP-07と同等の機能をNostrプロトコル上で実現する仕組み\nnips-ja: https://github.com/nostr-jp/nips-ja/blob/main/46.md )\nscrapbox: https://scrapbox.io/nostr/NIP-46"
   },
   "122": {
     "category": "",
     "title": "profileを修正するやつ",
     "url": "https://nos-profile-arekore.vercel.app/",
     "description": "kind:0 を作れるサイト",
-    "kind": 0,
-    "status": "active",
-    "failureCount": 0
+    "kind": 0
   },
   "123": {
     "category": "",
     "title": "Nostr Bookmark Recovery Tool",
     "url": "https://nostr-bookmark-recovery-tool.vercel.app/",
     "description": "消失したブックマークを復活させることができるかもしれない\nkind:10003(ブクマ),kind:30003(カテゴリ別ブクマリスト),kind:30001(旧リスト)",
-    "kind": 10003,
-    "status": "active",
-    "failureCount": 0
+    "kind": 10003
   },
   "124": {
     "category": "Browser",
     "title": "Brostr",
     "url": "https://asaitoshiya.github.io/brostr/src/",
-    "description": "NostrのWebコンテンツ用のネイティブブラウザ\nhostrで作ったサイトもみれる",
-    "status": "active",
-    "failureCount": 0
+    "description": "NostrのWebコンテンツ用のネイティブブラウザ\nhostrで作ったサイトもみれる"
   },
   "125": {
     "category": "WebApp",
     "title": "Nostr Bookmark Trend",
     "url": "https://nikolat.github.io/nostr-bookmark-trend/",
     "description": "フォローイー複数人にブックマークされているnoteを見るやつ",
-    "kind": 10003,
-    "status": "active",
-    "failureCount": 0
+    "kind": 10003
   },
   "126": {
     "category": "BOT",
     "title": "iroiroBot",
     "url": "nostr:npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv",
-    "description": "このBOT\nみんなの作ったツールとか、Nostrでお役立ちなツールとか、Nostrにゆかりのある情報とかを毎時16分にポストするBOT\n\n  お気軽にfeedbackよろしくお願いします。 https://tsukemonogit.github.io/iroirotest/?page=feedback",
-    "status": "active",
-    "failureCount": 0
+    "description": "このBOT\nみんなの作ったツールとか、Nostrでお役立ちなツールとか、Nostrにゆかりのある情報とかを毎時16分にポストするBOT\n\n  お気軽にfeedbackよろしくお願いします。 https://tsukemonogit.github.io/iroirotest/?page=feedback"
   },
   "127": {
     "category": "TUIclient",
     "title": "nostui",
     "url": "https://github.com/akiomik/nostui",
-    "description": "A TUI client for Nostr",
-    "status": "active",
-    "failureCount": 0
+    "description": "A TUI client for Nostr"
   },
   "128": {
     "category": "WebApp",
     "title": "Nostr検索ポータル",
     "url": "https://nostr.buta3.net",
-    "description": "Nostr上の日本語のNote（つぶやき）をキーワード検索できます\nいつでもどこでもNostr検索ができるブックマークレットもあります！\n\nNostr関連のニュースやリンク集もあるよ",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr上の日本語のNote（つぶやき）をキーワード検索できます\nいつでもどこでもNostr検索ができるブックマークレットもあります！\n\nNostr関連のニュースやリンク集もあるよ"
   },
   "129": {
     "category": "WebClient",
     "title": "Nosteen",
     "url": "https://nosteen.vercel.app",
-    "description": "A nostalgic Nostr (social) client for Nostraddicts™",
-    "status": "active",
-    "failureCount": 0
+    "description": "A nostalgic Nostr (social) client for Nostraddicts™"
   },
   "130": {
     "category": "",
     "title": "Nostr Potatoes",
     "url": "https://jrc-dev.github.io/nostr-potatoes/development/",
-    "description": "映画やシリーズのレビューを集約する分散型のプラットフォームです。\nRotten Tomatoes on Nostr",
-    "status": "active",
-    "failureCount": 0
+    "description": "映画やシリーズのレビューを集約する分散型のプラットフォームです。\nRotten Tomatoes on Nostr"
   },
   "131": {
     "category": "",
     "title": "Mostr",
     "url": "https://mostr.pub",
-    "description": "Nostrとfediverse(mastodon, ActivityPub, etc)間のブリッジ。\nリレー wss://relay.mostr.pub 等に投稿されている\nプロフィールに ActivityPub や @mostr.pub がついていたらそれはfediverseで投稿されたもの\n\nhttps://scrapbox.io/nostr/mostr ",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrとfediverse(mastodon, ActivityPub, etc)間のブリッジ。\nリレー wss://relay.mostr.pub 等に投稿されている\nプロフィールに ActivityPub や @mostr.pub がついていたらそれはfediverseで投稿されたもの\n\nhttps://scrapbox.io/nostr/mostr "
   },
   "132": {
     "category": "",
     "title": "Momostr",
     "url": "https://fed.brid.gy",
-    "description": "⚠️️ BETA ⚠️️\nNostrとBluesky間のブリッジ。\nNostrでの投稿をブリッジに流すには、リレー wss://relay.momostr.pink を追加して、nostr:npub1pqr3g2gk3vsnrqk9kwfqqcxc6d5cwjr0hyc0nlzz9py5nf92vd9sn02sck をフォローする必要がある。\nBlueskyでの投稿をブリッジに流すには、 https://bsky.app/profile/ap.brid.gy をフォローする必要がある\nプロフィールに @momostr.pink がついていたらそれはBlueskyで投稿されたもの",
-    "status": "active",
-    "failureCount": 0
+    "description": "⚠️️ BETA ⚠️️\nNostrとBluesky間のブリッジ。\nNostrでの投稿をブリッジに流すには、リレー wss://relay.momostr.pink を追加して、nostr:npub1pqr3g2gk3vsnrqk9kwfqqcxc6d5cwjr0hyc0nlzz9py5nf92vd9sn02sck をフォローする必要がある。\nBlueskyでの投稿をブリッジに流すには、 https://bsky.app/profile/ap.brid.gy をフォローする必要がある\nプロフィールに @momostr.pink がついていたらそれはBlueskyで投稿されたもの"
   },
   "133": {
     "category": "",
     "title": "Nostr Game Lobby",
     "url": "https://nostr-game-lobby.pages.dev",
-    "description": "特定のスレッドにメンションした人を人数指定でランダムにグループ分けできるサイト\n\nゲームで遊ぶときなどにお役立ち",
-    "status": "active",
-    "failureCount": 0
+    "description": "特定のスレッドにメンションした人を人数指定でランダムにグループ分けできるサイト\n\nゲームで遊ぶときなどにお役立ち"
   },
   "134": {
     "category": "",
     "title": "Zapline-JP",
     "url": "https://tiltpapa.github.io/zapline-jp/",
     "description": "Nostr日本ユーザーのZapの流れを観察するためのWebアプリ\n\n(送信者、受信者のどちらかが日本人ユーザーbot( nostr:npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p )のフォローリストに入っているイベントを表示)",
-    "kind": 9735,
-    "status": "active",
-    "failureCount": 0
+    "kind": 9735
   },
   "135": {
     "category": "Book",
     "title": "Hello Nostr, Yo Bluesky 2 最先端分散型SNSの愉快な仲間たち",
     "url": "https://books.428lab.net/book/003/",
-    "description": "技術書典16にて製作販売された Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。",
-    "status": "active",
-    "failureCount": 0
+    "description": "技術書典16にて製作販売された Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。"
   },
   "136": {
     "category": "WebSite",
     "title": "ようこそ、分散型SNS「Nostr」へ！",
     "url": "https://hello.nostrapp.me",
-    "description": "Nostr日本語チュートリアルサイト",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr日本語チュートリアルサイト"
   },
   "137": {
     "category": "WebSite",
     "title": "Nostr Real Time Statistics",
     "url": "https://stats.nostr.band",
-    "description": "wss://relay.nostr.band のNostrリアルタイム統計サイト",
-    "status": "active",
-    "failureCount": 0
+    "description": "wss://relay.nostr.band のNostrリアルタイム統計サイト"
   },
   "138": {
     "category": "",
     "title": "NWC ( Nostr Wallet Connect )",
     "url": "https://scrapbox.io/nostr/Alby_Nostr_Wallet_Connect",
-    "description": "NIP-47 に定められた、Nostrクライアントからライトニングウォレットのサーバに直接リクエストを送れるようにする仕組み。\n\n対応ウォレットはAlby（現在招待制）\nユーザが自分のウォレットまたはノードとNostr Wallet Connectプロトコルのブリッジを実行することもできるらしい\n\n対応クライアント nostter, Amethyst など",
-    "status": "active",
-    "failureCount": 0
+    "description": "NIP-47 に定められた、Nostrクライアントからライトニングウォレットのサーバに直接リクエストを送れるようにする仕組み。\n\n対応ウォレットはAlby（現在招待制）\nユーザが自分のウォレットまたはノードとNostr Wallet Connectプロトコルのブリッジを実行することもできるらしい\n\n対応クライアント nostter, Amethyst など"
   },
   "139": {
     "category": "",
     "title": "ZAP",
     "url": "https://scrapbox.io/nostr/Zap%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%AC%E3%82%A4%E3%83%89",
-    "description": "「Zap」はNostrの機能のひとつで、ビットコインを用いた投げ銭です。( NIP-57 )",
-    "status": "active",
-    "failureCount": 0
+    "description": "「Zap」はNostrの機能のひとつで、ビットコインを用いた投げ銭です。( NIP-57 )"
   },
   "140": {
     "category": "",
     "title": "awesome-nostr-japan",
     "url": "https://github.com/nostr-jp/awesome-nostr-japan",
-    "description": "日本人が作ったNostrソフトウェア、ウェブサービス、クライアント、ボットをまとめたサイト。\n\n(日本語版： https://github.com/nostr-jp/awesome-nostr-japan/blob/main/README-ja.md )\n\nNostr関連で何か作ったらここに pull-req を送ろう(((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ",
-    "status": "active",
-    "failureCount": 0
+    "description": "日本人が作ったNostrソフトウェア、ウェブサービス、クライアント、ボットをまとめたサイト。\n\n(日本語版： https://github.com/nostr-jp/awesome-nostr-japan/blob/main/README-ja.md )\n\nNostr関連で何か作ったらここに pull-req を送ろう(((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ"
   },
   "141": {
     "category": "",
     "title": "Nostr Learn NIP-96",
     "url": "https://nikolat.github.io/nostr-learn-nip96/",
-    "description": "画像をアップロードしたり、アップロードした画像を削除したりできる。\n\n削除の The SHA-256 hash of the original file は https://<uploader url>/~~~~/<hash>.webp の<hash>の部分。\n(もしくは tags のなかにimetaデータが有れば、それの 'ox' のところ)\n\n対応したサーバーは今までに上げた画像一覧が見れる！便利！",
-    "status": "active",
-    "failureCount": 0
+    "description": "画像をアップロードしたり、アップロードした画像を削除したりできる。\n\n削除の The SHA-256 hash of the original file は https://<uploader url>/~~~~/<hash>.webp の<hash>の部分。\n(もしくは tags のなかにimetaデータが有れば、それの 'ox' のところ)\n\n対応したサーバーは今までに上げた画像一覧が見れる！便利！"
   },
   "142": {
     "category": "Book",
     "title": "[Software Design] 新時代の分散型SNS Nostr",
     "url": "https://gihyo.jp/magazine/SD/archive/2023/202307",
-    "description": "Software Design 2023年7月号 から Software Design 2023年12月号 まで 連載！\n\n- 2023年7月号 次世代SNSを概観する https://gihyo.jp/magazine/SD/archive/2023/202307 へいほぅ氏 nostr:npub179rec9sw2a5ngkr2wsjpjhwp2ksygjxn6uw5py9daj2ezhw3aw5swv3s6q \n- 2023年8月号 Nostrのしくみ https://gihyo.jp/magazine/SD/archive/2023/202308 つるるん氏 nostr:npub147ccm75um0zkn0lr9fg9wrag2g6yxfw234fpmhdwuvaqjyegrhgs46t2td\n- 2023年9月号 Nostrの関連サービスを見てみよう https://gihyo.jp/magazine/SD/archive/2023/202309 鎌倉氏 nostr:npub1f5uuywemqwlejj2d7he6zjw8jz9wr0r5z6q8lhttxj333ph24cjsymjmug\n- 2023年10月号 詳説Nostrプロトコル https://gihyo.jp/magazine/SD/archive/2023/202310 かすてらふぃ氏 nostr:npub168ghgug469n4r2tuyw05dmqhqv5jcwm7nxytn67afmz8qkc4a4zqsu2dlc\n- 2023年11月号 詳説Nostrプロトコル https://gihyo.jp/magazine/SD/archive/2023/202311 darashi氏 nostr:npub1q7qyk7rvdga5qzmmyrvmlj29qd0n45snmfuhkrzsj4rk0sm4c4psvqwt9c\n- 2023年12月号 Nostr botの作り方 https://gihyo.jp/magazine/SD/archive/2023/202312 mattn氏 nostr:npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6",
-    "status": "active",
-    "failureCount": 0
+    "description": "Software Design 2023年7月号 から Software Design 2023年12月号 まで 連載！\n\n- 2023年7月号 次世代SNSを概観する https://gihyo.jp/magazine/SD/archive/2023/202307 へいほぅ氏 nostr:npub179rec9sw2a5ngkr2wsjpjhwp2ksygjxn6uw5py9daj2ezhw3aw5swv3s6q \n- 2023年8月号 Nostrのしくみ https://gihyo.jp/magazine/SD/archive/2023/202308 つるるん氏 nostr:npub147ccm75um0zkn0lr9fg9wrag2g6yxfw234fpmhdwuvaqjyegrhgs46t2td\n- 2023年9月号 Nostrの関連サービスを見てみよう https://gihyo.jp/magazine/SD/archive/2023/202309 鎌倉氏 nostr:npub1f5uuywemqwlejj2d7he6zjw8jz9wr0r5z6q8lhttxj333ph24cjsymjmug\n- 2023年10月号 詳説Nostrプロトコル https://gihyo.jp/magazine/SD/archive/2023/202310 かすてらふぃ氏 nostr:npub168ghgug469n4r2tuyw05dmqhqv5jcwm7nxytn67afmz8qkc4a4zqsu2dlc\n- 2023年11月号 詳説Nostrプロトコル https://gihyo.jp/magazine/SD/archive/2023/202311 darashi氏 nostr:npub1q7qyk7rvdga5qzmmyrvmlj29qd0n45snmfuhkrzsj4rk0sm4c4psvqwt9c\n- 2023年12月号 Nostr botの作り方 https://gihyo.jp/magazine/SD/archive/2023/202312 mattn氏 nostr:npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6"
   },
   "143": {
     "category": "",
     "title": "MAKIBISHI",
     "url": "https://nikolat.github.io/makibishi/",
-    "description": "Nostr版はてなスター\n\n自分のサイトにちょっとコードを足すだけで、⭐を投げれるようになる\n\nどこでもマキビシ (ブックマークレット) \nhttps://let.hatelabo.jp/Nikola/let/kc6ngIXCgqAA",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr版はてなスター\n\n自分のサイトにちょっとコードを足すだけで、⭐を投げれるようになる\n\nどこでもマキビシ (ブックマークレット) \nhttps://let.hatelabo.jp/Nikola/let/kc6ngIXCgqAA"
   },
   "144": {
     "category": "Event",
     "title": "Nostrasia2024",
     "url": "https://nostrasia.com/2024",
-    "description": "2024.9.23 in 東京\nフリーダムNostrカンファレンス\nプログラムワークショップ、 ディスカッション、and more...\n配信アーカイブ https://www.youtube.com/playlist?list=PLUT1W-ZouC_ccnEunaCA2qMYBknZPt74S",
-    "status": "active",
-    "failureCount": 0
+    "description": "2024.9.23 in 東京\nフリーダムNostrカンファレンス\nプログラムワークショップ、 ディスカッション、and more...\n配信アーカイブ https://www.youtube.com/playlist?list=PLUT1W-ZouC_ccnEunaCA2qMYBknZPt74S"
   },
   "145": {
     "category": "WebClient",
     "title": "motherfucking Nostr client",
     "url": "https://jiftechnify.github.io/motherfucking-nostr-client/",
-    "description": "And it's fucking perfect, of course.\n\n秘密鍵を直接入力するタイプ（拡張機能不要）",
-    "status": "active",
-    "failureCount": 0
+    "description": "And it's fucking perfect, of course.\n\n秘密鍵を直接入力するタイプ（拡張機能不要）"
   },
   "146": {
     "category": "",
     "title": "NOSTOPUS DELIVERY",
     "url": "https://awayuki-shop.fourthwall.com/en-jpy/",
-    "description": "awayuki ( nostr:npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76 ) さんによるNostr関連グッズ売り場。\n国内外から購入可能！",
-    "status": "active",
-    "failureCount": 0
+    "description": "awayuki ( nostr:npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76 ) さんによるNostr関連グッズ売り場。\n国内外から購入可能！"
   },
   "147": {
     "category": "",
     "title": "んちゃんねる",
     "url": "https://nchan.vip",
-    "description": "匿名のパブリックチャットクライアント?\n\n某ちゃんねるのような、一日ごとに匿名アカウントを発行（匿名じゃなくもできる）",
-    "status": "active",
-    "failureCount": 0
+    "description": "匿名のパブリックチャットクライアント?\n\n某ちゃんねるのような、一日ごとに匿名アカウントを発行（匿名じゃなくもできる）"
   },
   "148": {
     "category": "",
     "title": "地鳳",
     "url": "https://nikolat.github.io/chiihou/",
-    "description": "Nostr Mahjong UI\n\nNostrを使った麻雀ゲーム\n\n観戦もできる\nチャットもできる",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr Mahjong UI\n\nNostrを使った麻雀ゲーム\n\n観戦もできる\nチャットもできる"
   },
   "149": {
     "category": "",
     "title": "のすjump",
     "url": "https://showhyuga.pages.dev/utility/nos_jump",
-    "description": "noteIDを入れてnostter、のぞき窓、るみるみを開くツール",
-    "status": "active",
-    "failureCount": 0
+    "description": "noteIDを入れてnostter、のぞき窓、るみるみを開くツール"
   },
   "150": {
     "category": "WebApp",
     "title": "1-2演習改「パブチャの投稿を検索するやつ」",
     "url": "https://showhyuga.pages.dev/utility/chat_search",
-    "description": "Nostrのパブチャ投稿検索",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrのパブチャ投稿検索"
   },
   "151": {
     "category": "",
     "title": "Npub.Pro",
     "url": "https://npub.pro",
-    "description": "nostrベースのWebsite作成ツール\nオープンソースでセルフホスティングが可能\n\n(Nostr イベントから HTML ページをレンダリングするためのクライアントサイド NIP-512 エンジン) ",
-    "status": "active",
-    "failureCount": 0
+    "description": "nostrベースのWebsite作成ツール\nオープンソースでセルフホスティングが可能\n\n(Nostr イベントから HTML ページをレンダリングするためのクライアントサイド NIP-512 エンジン) "
   },
   "152": {
     "category": "BOT",
     "title": "Hot Post Ranking",
     "url": "nostr:npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl",
-    "description": "数時間内でホットな投稿をランキング表示します。",
-    "status": "active",
-    "failureCount": 0
+    "description": "数時間内でホットな投稿をランキング表示します。"
   },
   "153": {
     "category": "",
     "title": "atomstr",
     "url": "https://atomstr.data.haus",
-    "description": "NostrへのRSS/Atomゲートウェイ。",
-    "status": "active",
-    "failureCount": 0
+    "description": "NostrへのRSS/Atomゲートウェイ。"
   },
   "154": {
     "category": "",
     "title": "rsslay",
     "url": "https://rss.nos.social",
-    "description": "RSSやAtomフィードをNostrプロファイルに変換します。\nTwitterとかもできるらしい",
-    "status": "inactive",
-    "failureCount": 5
+    "description": "RSSやAtomフィードをNostrプロファイルに変換します。\nTwitterとかもできるらしい"
   },
   "155": {
     "category": "AndroidApp",
     "title": "Amber",
     "url": "https://github.com/greenart7c3/Amber",
-    "description": "Android用Nostrイベント署名ツール\nスマートフォンをNIP-46 ( https://scrapbox.io/nostr/NIP-46 ) の署名デバイスとして機能させる\nウェブアプリ にも ネイティブアプリ にも使えて便利",
-    "status": "active",
-    "failureCount": 0
+    "description": "Android用Nostrイベント署名ツール\nスマートフォンをNIP-46 ( https://scrapbox.io/nostr/NIP-46 ) の署名デバイスとして機能させる\nウェブアプリ にも ネイティブアプリ にも使えて便利"
   },
   "156": {
     "category": "CLI",
     "title": "stashi",
     "url": "https://github.com/erechorse/stashi",
-    "description": "ビットコイン積立を自動化するCLIアプリ。",
-    "status": "active",
-    "failureCount": 0
+    "description": "ビットコイン積立を自動化するCLIアプリ。"
   },
   "157": {
     "category": "",
     "title": "nostr-tsne",
     "url": "https://koteitan.github.io/nostr-tsne/",
-    "description": "nostr t-SNE (２次元埋め込み) graph\n\nマウスドラッグで移動、マウスホイールで拡大縮小できます",
-    "status": "active",
-    "failureCount": 0
+    "description": "nostr t-SNE (２次元埋め込み) graph\n\nマウスドラッグで移動、マウスホイールで拡大縮小できます"
   },
   "158": {
     "category": "",
     "title": "nostr-keyx",
     "url": "https://github.com/susumuota/nostr-keyx",
-    "description": "OSのキーチェーンやYubiKeyを使って秘密鍵を保護するNIP-07のブラウザ拡張機能。",
-    "status": "active",
-    "failureCount": 0
+    "description": "OSのキーチェーンやYubiKeyを使って秘密鍵を保護するNIP-07のブラウザ拡張機能。"
   },
   "159": {
     "category": "",
     "title": "リレー",
     "url": "https://scrapbox.io/nostr/%E3%83%AA%E3%83%AC%E3%83%BC",
-    "description": "リレーって何？リレーの見つけ方、リレーを立てる方法など",
-    "status": "active",
-    "failureCount": 0
+    "description": "リレーって何？リレーの見つけ方、リレーを立てる方法など"
   },
   "160": {
     "category": "",
     "title": "Orion Browser",
     "url": "https://kagi.com/orion/",
-    "description": "iPhone, iPadで動作するWebブラウザ\nChromeとFirefoxの拡張機能に対応しており、[NIP-07]拡張機能が動作します\n\nhttps://scrapbox.io/nostr/Orion_Browser",
-    "status": "active",
-    "failureCount": 0
+    "description": "iPhone, iPadで動作するWebブラウザ\nChromeとFirefoxの拡張機能に対応しており、[NIP-07]拡張機能が動作します\n\nhttps://scrapbox.io/nostr/Orion_Browser"
   },
   "161": {
     "category": "Book",
     "title": "Hello Nostr, Yo Bluesky 3 未来を担う分散型SNS",
     "url": "https://books.428lab.net/book/004/",
-    "description": "技術書典17にて製作販売された Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。",
-    "status": "active",
-    "failureCount": 0
+    "description": "技術書典17にて製作販売された Nostr、Bluesky、そしてConcurrentの本。\n電子版も有ります。"
   },
   "162": {
     "category": "Dev",
     "title": "Restr",
     "url": "https://github.com/SnowCait/restr",
-    "description": "Nostr REST APIのプロキシ\n\nリレーとの通信をプロキシサーバに任せることで、クライアントの実装を簡略化します。 また、クライアントの通信量も削減できます。",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr REST APIのプロキシ\n\nリレーとの通信をプロキシサーバに任せることで、クライアントの実装を簡略化します。 また、クライアントの通信量も削減できます。"
   },
   "163": {
     "category": "Dev",
     "title": "nostr-signer-connector",
     "url": "https://github.com/jiftechnify/nostr-signer-connector",
-    "description": "Nostrクライアントが様々なNostrイベントサイナーと統一された方法でやり取りできるようにするライブラリ。\n(秘密鍵, NIP-07, NIP-46)",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrクライアントが様々なNostrイベントサイナーと統一された方法でやり取りできるようにするライブラリ。\n(秘密鍵, NIP-07, NIP-46)"
   },
   "164": {
     "category": "",
     "title": "SnapNostr",
     "url": "https://snapnostr.app",
-    "description": "Nostrの投稿をカスタマイズしてきれいな画像にできるアプリ",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostrの投稿をカスタマイズしてきれいな画像にできるアプリ"
   },
   "165": {
     "category": "AndroidApp",
     "title": "Pokey",
     "url": "https://github.com/KoalaSat/pokey",
-    "description": "Android用リアルタイム通知アプリ",
-    "status": "active",
-    "failureCount": 0
+    "description": "Android用リアルタイム通知アプリ"
   },
   "166": {
     "category": "Article",
     "title": "Nostr Advent Calendar 2024",
     "url": "https://adventar.org/calendars/10004",
-    "description": "分散SNS等に活用できる、Websocketベースのプロトコル「Nostr」のアドベントカレンダー 2024",
-    "status": "active",
-    "failureCount": 0
+    "description": "分散SNS等に活用できる、Websocketベースのプロトコル「Nostr」のアドベントカレンダー 2024"
   },
   "167": {
     "category": "Extension",
     "title": "NAKE",
     "url": "https://tsukemonogit.github.io/nake-website/",
-    "description": "NIP-19 Encode/Decode, NIP-49 Encode/Decode tool\n\n16進数⇔note～～,npub～～にしたり、note⇔neventにしたり、created_atを年月日時にしたり、いろいろ",
-    "status": "active",
-    "failureCount": 0
+    "description": "NIP-19 Encode/Decode, NIP-49 Encode/Decode tool\n\n16進数⇔note～～,npub～～にしたり、note⇔neventにしたり、created_atを年月日時にしたり、いろいろ"
   },
   "168": {
     "category": "",
     "title": "nostr-nowplaying",
     "url": "https://github.com/mattn/nostr-nowplaying",
-    "description": "Rhythmbox や MPD や Last.fm で再生中の曲を音楽ステータス (kind30315) で共有できる",
-    "status": "active",
-    "failureCount": 0
+    "description": "Rhythmbox や MPD や Last.fm で再生中の曲を音楽ステータス (kind30315) で共有できる"
   },
   "169": {
     "category": "",
     "title": "Kanbanstr",
     "url": "https://www.kanbanstr.com",
-    "description": "Kanban on Nostr [Public events only]\nカンバン方式のタスク管理ツール\n (参考 カンバンボードとは? https://www.atlassian.com/ja/agile/kanban/boards )",
-    "status": "active",
-    "failureCount": 0
+    "description": "Kanban on Nostr [Public events only]\nカンバン方式のタスク管理ツール\n (参考 カンバンボードとは? https://www.atlassian.com/ja/agile/kanban/boards )"
   },
   "170": {
     "category": "",
     "title": "NosMoji Library",
     "url": "https://hayabu1231.github.io/NosMoji-Library/",
     "description": "他のユーザーが登録した絵文字セットを自分の絵文字リストに追加したり、新たな絵文字セットを作成することができます。",
-    "kind": 30030,
-    "status": "active",
-    "failureCount": 0
+    "kind": 30030
   },
   "171": {
     "category": "",
     "title": "Nos Haiku",
     "url": "https://nos-haiku.vercel.app",
     "description": "母：「はてなハイク ( http://h.hatena.ne.jp ) 」\n姉：「スドハイク ( https://h.sudo.ne.jp )」\n妹：「のすハイク （ここ）」\n親戚：「いっとく ( https://pulpdust.org/i/ )」\n\n（アンテナページではkind1（通常の投稿）も流れます。）",
-    "kind": 42,
-    "status": "active",
-    "failureCount": 0
+    "kind": 42
   },
   "172": {
     "category": "",
     "title": "Zapper",
     "url": "https://zapper.nostrapps.org/",
-    "description": "Nostr経由で一括ライトニング決済を送信\n\n自分のサイトに\nhttps://zapper.nostrapps.org/zap?id=note~~\nとか\nhttps://zapper.nostrapps.org/zap?id=npub~~\nとかのリンクを貼るとNostr経由で特定のノートとかユーザーとかへのザップができる",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr経由で一括ライトニング決済を送信\n\n自分のサイトに\nhttps://zapper.nostrapps.org/zap?id=note~~\nとか\nhttps://zapper.nostrapps.org/zap?id=npub~~\nとかのリンクを貼るとNostr経由で特定のノートとかユーザーとかへのザップができる"
   },
   "173": {
     "category": "BOT",
     "title": "カレンダーボット",
     "url": "nostr:npub1c3xutxzwzvwhmjycutv0kaxwrq7tfav4q4tuamhj3rhx2df3385qsdz0hm",
-    "description": "Nostr でカレンダー イベントを作成するには、次の形式でメンションを送信します。\n`<@mention>[スペース]<日付>[スペース]<名前>[スペース]<説明>`\n\nヘルプ とリプすると詳細が聞けます。",
-    "status": "active",
-    "failureCount": 0
+    "description": "Nostr でカレンダー イベントを作成するには、次の形式でメンションを送信します。\n`<@mention>[スペース]<日付>[スペース]<名前>[スペース]<説明>`\n\nヘルプ とリプすると詳細が聞けます。"
   },
   "174": {
     "category": "",
     "title": "Nostr Contribution Graph",
     "url": "https://kojira.github.io/NostrActivity/",
-    "description": "pubkeyを入力すると、github contribution graphのような過去一年間の活動が表示される。",
-    "status": "active",
-    "failureCount": 0
+    "description": "pubkeyを入力すると、github contribution graphのような過去一年間の活動が表示される。"
   },
   "175": {
     "category": "",
     "title": "おもち",
     "url": "nostr:npub13y0txj4x7ztqjlduvx3fa0ypvmavmqm9m5u289gnk8lezczv0caq80m4gf",
-    "description": "おもちですぷく。\nやぶみリレーのまとめをしてるぷく。\nみんなのつぶやきを、わかりやすくおしらせするのがおしごとぷく。\nこまったことがあったら、きがるに声かけてねぷしゅー。",
-    "status": "active",
-    "failureCount": 0
+    "description": "おもちですぷく。\nやぶみリレーのまとめをしてるぷく。\nみんなのつぶやきを、わかりやすくおしらせするのがおしごとぷく。\nこまったことがあったら、きがるに声かけてねぷしゅー。"
   },
   "176": {
     "category": "",
     "title": "KAGENUI",
     "url": "https://nikolat.github.io/kagenui/",
     "description": "フォローイーが使ってるリレーの一覧を表示するやつ",
-    "kind": 10002,
-    "status": "active",
-    "failureCount": 0
+    "kind": 10002
   },
   "177": {
     "category": "",
     "title": "Nosskey",
     "url": "https://nosskey.app/",
-    "description": "このアプリはパスキー認証を使ってNostr鍵を安全に管理します。パスキーはプラットフォームによりクラウドバックアップされるため煩雑な秘密鍵管理が不要となります",
-    "status": "active",
-    "failureCount": 0
+    "description": "このアプリはパスキー認証を使ってNostr鍵を安全に管理します。パスキーはプラットフォームによりクラウドバックアップされるため煩雑な秘密鍵管理が不要となります"
   },
   "178": {
     "category": "",
     "title": "KUCHIYOSE",
     "url": "https://kuchiyose.vercel.app/",
     "description": "Nostr events of web bookmark",
-    "kind": 39701,
-    "status": "active",
-    "failureCount": 0
+    "kind": 39701
   },
   "179": {
     "category": "Bookmarklet",
     "title": "nostr bookmark",
     "url": "https://let.hatelabo.jp/Nikola/let/k4HPq9jOgYAA",
     "description": "現在のWebページをNostrでブックマークできるブックマークレット",
-    "kind": 39701,
-    "status": "active",
-    "failureCount": 0
+    "kind": 39701
   },
   "180": {
     "category": "",
     "title": "Nostr Learn Blossom",
     "url": "https://nikolat.github.io/nostr-learn-blossom/",
     "description": "https://github.com/hzrd149/blossom をなんかするやつ",
-    "kind": 10063,
-    "status": "active",
-    "failureCount": 0
+    "kind": 10063
   },
   "181": {
     "category": "Bookmarklet",
     "title": "import emoji list to Rabbit",
     "url": "https://let.hatelabo.jp/Nikola/let/kO26wurQgcAA",
     "description": "リレーからkind10030,kind30030イベントを取得してRabbitにカスタム絵文字リストをインポートする\n\nhttps://let.hatelabo.jp/Nikola/let/kO23t_SCgcAA\nリレーからkind10000イベントを取得してRabbitにミュートリストをインポートする",
-    "kind": 10030,
-    "status": "active",
-    "failureCount": 0
+    "kind": 10030
   },
   "182": {
     "category": "Book",
     "title": "Enjoy 分散型SNS メタクソ化の特効薬は分散型だけ！",
     "url": "https://books.428lab.net/book/005/",
-    "description": "技術書典18にて製作販売された\n「世界一分散型SNSに詳しい本（※当社調べ。2025年5月現在）爆誕！\n中央集権的サービスと比較しつつ、「メタクソ化」に対して分散型ならではの逆襲ポイントを解説しています！\n執筆陣は分散型SNSで活躍する仲間たち。Nostrでサービスを作って助成金を勝ち取った話から、感情を宿し始めた LLM Bot の話まで、世界でも最先端のネタが盛りだくさん！\n「もっとディープに潜りたい！」と思ったら、既刊の目次もぜひ覗いてみてください。あなたの好奇心にブッ刺さるタイトルがきっと見つかると思います！」\n電子版も有ります。",
-    "status": "active",
-    "failureCount": 0
+    "description": "技術書典18にて製作販売された\n「世界一分散型SNSに詳しい本（※当社調べ。2025年5月現在）爆誕！\n中央集権的サービスと比較しつつ、「メタクソ化」に対して分散型ならではの逆襲ポイントを解説しています！\n執筆陣は分散型SNSで活躍する仲間たち。Nostrでサービスを作って助成金を勝ち取った話から、感情を宿し始めた LLM Bot の話まで、世界でも最先端のネタが盛りだくさん！\n「もっとディープに潜りたい！」と思ったら、既刊の目次もぜひ覗いてみてください。あなたの好奇心にブッ刺さるタイトルがきっと見つかると思います！」\n電子版も有ります。"
   },
   "183": {
     "category": "",
     "title": "Flappy Nostrich",
     "url": "https://flappy-nostrich.vercel.app/",
-    "description": "ゲーム",
-    "status": "active",
-    "failureCount": 0
+    "description": "ゲーム"
   },
   "184": {
     "category": "",
     "title": "MKStack",
     "url": "https://mkstack.xyz/",
-    "description": "Build Nostr Apps in Minutes with Our Framework + Goose",
-    "status": "active",
-    "failureCount": 0
+    "description": "Build Nostr Apps in Minutes with Our Framework + Goose"
   },
   "185": {
     "category": "",
     "title": "markov-quiz",
     "url": "https://tiltpapa.github.io/markov-quiz/",
-    "description": "マルコフ連鎖で生成された文章から、元のユーザーを当ててみよう！",
-    "status": "active",
-    "failureCount": 0
+    "description": "マルコフ連鎖で生成された文章から、元のユーザーを当ててみよう！"
   },
   "186": {
     "category": "",
     "title": "Nostr Web Components",
     "url": "https://tsukemonogit.github.io/nostr-web-components-demo/",
-    "description": "WebサイトにNostrの投稿やプロフィールを簡単に埋め込めるWeb Componentsライブラリ",
-    "status": "active",
-    "failureCount": 0
+    "description": "WebサイトにNostrの投稿やプロフィールを簡単に埋め込めるWeb Componentsライブラリ"
   },
   "187": {
     "category": "",
     "title": "MAKIMONO",
     "url": "https://makimono.lumilumi.app/",
     "description": "Nostr Long-Form Content Editor NIP-23",
-    "kind": 30023,
-    "status": "active",
-    "failureCount": 0
+    "kind": 30023
   },
   "188": {
     "category": "",
     "title": "Nostr Share Component",
     "url": "https://tsukemonogit.github.io/nostr-share-component/",
-    "description": "サイトに設置するNostrで共有！のボタン",
-    "status": "active",
-    "failureCount": 0
+    "description": "サイトに設置するNostrで共有！のボタン"
   },
   "189": {
     "category": "",
     "title": "Nostr Authorization (NIP-98)",
     "url": "https://snowcait.github.io/nostr-authorization/",
-    "description": "NIP-98 HTTP Auth の手動テストに使えます",
-    "status": "active",
-    "failureCount": 0
+    "description": "NIP-98 HTTP Auth の手動テストに使えます"
   },
   "190": {
     "category": "",
     "title": "eHagaki",
     "url": "https://lokuyow.github.io/ehagaki/",
-    "description": "投稿専用クライアント\nデバイス上で画像を圧縮してからアップロード",
-    "status": "active",
-    "failureCount": 0
+    "description": "投稿専用クライアント\nデバイス上で画像を圧縮してからアップロード"
   },
   "191": {
     "category": "",
     "title": "Nostr GAME BOOK",
     "url": "https://invertedtriangle358.github.io/gamebook/",
-    "description": "ゲームブック作成ツール\ngithubのリポジトリをフォークしてjson書き換えれば別のゲームブックつくれます",
-    "status": "active",
-    "failureCount": 0
+    "description": "ゲームブック作成ツール\ngithubのリポジトリをフォークしてjson書き換えれば別のゲームブックつくれます"
   },
   "192": {
     "category": "",
     "title": "nosquerade",
     "url": "https://nosquerade.haniwar.com/",
-    "description": "nostr:npub17z9fxuzzgkqp6lj7vdmls78fc04zml0hgxwu38hu726a0f0kylvscq0s6g さん作のWebクライアント",
-    "status": "active",
-    "failureCount": 0
+    "description": "nostr:npub17z9fxuzzgkqp6lj7vdmls78fc04zml0hgxwu38hu726a0f0kylvscq0s6g さん作のWebクライアント"
   },
   "193": {
     "category": "",
     "title": "野雨 -Nosame-",
     "url": "https://invertedtriangle358.github.io/Nosame/",
-    "description": "nostr:npub10hqkwugj7p027j250qr9gwcuqpkwxftj0rjjk8y6hlmryu8dwp8s2runf2 さん作のブラウザ用クライアント「野雨(のさめ)」\n\n表示するのは108文字以下の投稿のみで、NGワード等フィルタあり\nログイン不要、投稿時に署名するだけのシンプルなクライアント",
-    "status": "active",
-    "failureCount": 0
+    "description": "nostr:npub10hqkwugj7p027j250qr9gwcuqpkwxftj0rjjk8y6hlmryu8dwp8s2runf2 さん作のブラウザ用クライアント「野雨(のさめ)」\n\n表示するのは108文字以下の投稿のみで、NGワード等フィルタあり\nログイン不要、投稿時に署名するだけのシンプルなクライアント"
   },
   "194": {
     "category": "Tool",
     "title": "nostr-zap-view",
     "url": "https://lokuyow.github.io/nostr-zap-view/",
-    "description": "自分のサイトにzap一覧ボタンを設置できる",
-    "status": "active",
-    "failureCount": 0
+    "description": "自分のサイトにzap一覧ボタンを設置できる"
   }
 }

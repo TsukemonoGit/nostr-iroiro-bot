@@ -22,36 +22,40 @@ const RELAYS = [
 // ファイル操作クラス
 class FileManager {
   constructor(dataDir) {
-    this.jsonPath = `${dataDir}/iroiro.json`;
+    this.sitesPath = `${dataDir}/iroiro.json`;
+    this.statusPath = `${dataDir}/status.json`;
     this.logPath = `${dataDir}/postlog.json`;
   }
 
-  async loadSiteData() {
+  async loadSites() {
+    const data = await readFile(this.sitesPath);
+    return JSON.parse(data);
+  }
+
+  async loadStatus() {
     try {
-      const data = await readFile(this.jsonPath);
+      const data = await readFile(this.statusPath);
       return JSON.parse(data);
-    } catch (error) {
-      throw new Error(`サイトデータの読み込みに失敗: ${error.message}`);
+    } catch {
+      return {};
     }
+  }
+
+  async saveStatus(statusData) {
+    await writeFile(this.statusPath, JSON.stringify(statusData, null, 2));
   }
 
   async loadLogData() {
     try {
       const data = await readFile(this.logPath);
       return JSON.parse(data);
-    } catch (error) {
+    } catch {
       return [];
     }
   }
 
-  async saveData(data, hasChanged) {
-    if (hasChanged) {
-      await writeFile(this.jsonPath, JSON.stringify(data, null, 2));
-    }
-  }
-
   async saveLog(logData) {
-    await writeFile(this.logPath, JSON.stringify(logData));
+    await writeFile(this.logPath, JSON.stringify(logData, null, 2));
   }
 }
 
@@ -63,8 +67,6 @@ class SiteChecker {
       const timeoutId = setTimeout(() => controller.abort(), CONFIG.TIMEOUT);
 
       const isScrapbox = url.includes("scrapbox.io");
-      // Scrapboxはステータスが404でも存在すると見なす
-      // GETでもHEADでもなにしても404しか返ってこない
       if (isScrapbox) {
         console.log(`Scrapbox.io 対応: ステータスに関わらず true`);
         return true;
@@ -82,7 +84,6 @@ class SiteChecker {
 
       console.log(`Fetched ${url} => ${response.status}`);
 
-      // ブロック系はOK扱い
       if ([403, 429].includes(response.status)) {
         console.warn(
           `User-Agent blocked or rate-limited for ${url}, but treating as available`
@@ -103,63 +104,47 @@ class SiteChecker {
 
 // サイトデータ管理クラス
 class SiteDataManager {
-  constructor(siteData) {
+  constructor(siteData, statusData) {
     this.siteData = siteData;
+    this.statusData = statusData;
   }
 
   ensureProperties(siteId) {
-    const site = this.siteData[siteId];
-    let hasChanged = false;
-
-    if (!site.hasOwnProperty("status")) {
-      site.status = "active";
-      hasChanged = true;
+    if (!this.statusData[siteId]) {
+      this.statusData[siteId] = { status: "active", failureCount: 0 };
+      return true;
     }
-    if (!site.hasOwnProperty("failureCount")) {
-      site.failureCount = 0;
-      hasChanged = true;
-    }
-
-    return hasChanged;
+    return false;
   }
 
-  updateSiteStatus(siteId, isUrlOk) {
-    const site = this.siteData[siteId];
-    const currentFailureCount = site.failureCount || 0;
-    let hasChanged = false;
+  updateSiteStatus(siteId, isOk) {
+    const state = this.statusData[siteId] || {
+      status: "active",
+      failureCount: 0,
+    };
+    let changed = false;
 
-    if (isUrlOk) {
-      if (currentFailureCount > 0) {
-        site.failureCount = 0;
-        if (site.status === "inactive") {
-          site.status = "active";
-        }
-        hasChanged = true;
-        console.log(`✅ ${site.title} 復活 - カウントリセット`);
+    if (isOk) {
+      if (state.failureCount > 0 || state.status === "inactive") {
+        this.statusData[siteId] = { status: "active", failureCount: 0 };
+        changed = true;
       }
     } else {
-      const newFailureCount = currentFailureCount + 1;
-      site.failureCount = newFailureCount;
-      hasChanged = true;
-
-      console.log(
-        `❌ ${site.title} 失敗 (${newFailureCount}/${CONFIG.MAX_FAILURE_COUNT})`
-      );
-
-      if (newFailureCount >= CONFIG.MAX_FAILURE_COUNT) {
-        site.status = "inactive";
-        console.log(`🚫 ${site.title} をinactiveに変更`);
+      state.failureCount++;
+      if (state.failureCount >= CONFIG.MAX_FAILURE_COUNT) {
+        state.status = "inactive";
       }
+      this.statusData[siteId] = state;
+      changed = true;
     }
-
-    return { isUrlOk, hasChanged };
+    return { changed, isOk };
   }
 
   getFilteredIds(logData) {
-    return Object.keys(this.siteData).filter((id) => {
-      const site = this.siteData[id];
-      return !logData.includes(id) && site.status !== "inactive";
-    });
+    return Object.keys(this.siteData).filter(
+      (id) =>
+        !logData.includes(id) && this.statusData[id]?.status !== "inactive"
+    );
   }
 }
 
@@ -179,7 +164,6 @@ class SiteSelector {
 
     let hasChanged = this.siteDataManager.ensureProperties(siteId);
 
-    // nostr URLの特別処理
     if (siteData.url.startsWith("nostr:")) {
       console.log(
         `nostrプロトコルのためURLチェックをスキップ: ${siteData.url}`
@@ -191,9 +175,9 @@ class SiteSelector {
     const isUrlOk = await SiteChecker.checkSite(siteData.url);
 
     const statusResult = this.siteDataManager.updateSiteStatus(siteId, isUrlOk);
-    hasChanged = hasChanged || statusResult.hasChanged;
+    hasChanged = hasChanged || statusResult.changed;
 
-    if (!statusResult.isUrlOk) {
+    if (!statusResult.isOk) {
       console.log("手動指定のサイトがアクセスできないため投稿を中止します");
       return { selectedData: null, hasChanged, shouldExit: true };
     }
@@ -215,7 +199,6 @@ class SiteSelector {
       hasChanged =
         this.siteDataManager.ensureProperties(candidateId) || hasChanged;
 
-      // nostr URLの特別処理
       if (candidateData.url.startsWith("nostr:")) {
         console.log(
           `nostrプロトコルのためURLチェックをスキップ: ${candidateData.url}`
@@ -234,9 +217,9 @@ class SiteSelector {
         candidateId,
         isUrlOk
       );
-      hasChanged = hasChanged || statusResult.hasChanged;
+      hasChanged = hasChanged || statusResult.changed;
 
-      if (statusResult.isUrlOk) {
+      if (statusResult.isOk) {
         return {
           selectedId: candidateId,
           selectedData: candidateData,
@@ -245,7 +228,7 @@ class SiteSelector {
       }
 
       if (
-        this.siteDataManager.siteData[candidateId].failureCount >=
+        this.siteDataManager.statusData[candidateId].failureCount >=
         CONFIG.MAX_FAILURE_COUNT
       ) {
         workingIds.splice(workingIds.indexOf(candidateId), 1);
@@ -301,19 +284,15 @@ class NostrSiteBot {
 
   async run() {
     try {
-      // データ読み込み
-      const siteData = await this.fileManager.loadSiteData();
+      const siteData = await this.fileManager.loadSites();
+      const statusData = await this.fileManager.loadStatus();
       let logData = await this.fileManager.loadLogData();
 
-      const siteDataManager = new SiteDataManager(siteData);
+      const siteDataManager = new SiteDataManager(siteData, statusData);
       const siteSelector = new SiteSelector(siteDataManager);
 
-      // ログリセット処理
-
-      // 利用可能なIDをフィルタリング
       let filteredIds = siteDataManager.getFilteredIds(logData);
 
-      // 利用可能なIDがない場合はログをリセットして再フィルタリング
       if (filteredIds.length === 0) {
         logData = [];
         await this.fileManager.saveLog(logData);
@@ -325,7 +304,6 @@ class NostrSiteBot {
         selectedData,
         hasChanged = false;
 
-      // サイト選択処理
       if (this.manualId) {
         const result = await siteSelector.processManualSite(this.manualId);
         selectedData = result.selectedData;
@@ -333,7 +311,7 @@ class NostrSiteBot {
         selectedId = this.manualId;
 
         if (result.shouldExit) {
-          await this.fileManager.saveData(siteData, hasChanged);
+          await this.fileManager.saveStatus(statusData);
           process.exit(1);
         }
       } else {
@@ -344,27 +322,26 @@ class NostrSiteBot {
       }
 
       if (!selectedData) {
-        await this.fileManager.saveData(siteData, hasChanged);
+        await this.fileManager.saveStatus(statusData);
         process.exit(0);
       }
 
       console.log(`Selected: ${selectedData.title}`);
 
-      // 投稿処理
       const content = NostrPublisher.generateContent(
         selectedData,
         !!this.manualId
       );
       await NostrPublisher.publish(content, this.nsec);
 
-      // ログ更新（手動指定時は除く）
       if (!this.manualId) {
         logData.push(selectedId);
         await this.fileManager.saveLog(logData);
       }
 
-      // データ保存
-      await this.fileManager.saveData(siteData, hasChanged);
+      if (hasChanged) {
+        await this.fileManager.saveStatus(statusData);
+      }
 
       process.exit(0);
     } catch (error) {
