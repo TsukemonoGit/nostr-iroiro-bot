@@ -1542,7 +1542,7 @@
     "category": "Tool",
     "title": "nostr-zap-view",
     "url": "https://lokuyow.github.io/nostr-zap-view/",
-    "description": "自分のサイトにzap一覧ボタンが設置できる",
+    "description": "自分のサイトにzap一覧ボタンを設置できる",
     "status": "active",
     "failureCount": 0
   }
