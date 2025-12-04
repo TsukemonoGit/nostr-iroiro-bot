@@ -344,7 +344,7 @@
   "59": {
     "category": "",
     "title": "chronostr",
-    "url": "https://chronostr.pages.dev/",
+    "url": "https://chro.nostrapp.me/",
     "description": "Nostr上で動作するスケジュール調整とRSVPツール。Nostr版調整さん\n\n(NIP-52 Calendar Events)",
     "kind": 31928
   },
@@ -1165,5 +1165,12 @@
     "title": "nostr-zap-view",
     "url": "https://lokuyow.github.io/nostr-zap-view/",
     "description": "自分のサイトにzap一覧ボタンを設置できる"
+  }
+  ,
+  "194": {
+    "category": "",
+    "title": "Thingstr",
+    "url": "https://thingstr.pages.dev/",
+    "description": "React to everything.\n\nCreate Nostr events that react to things on Wikidata. As thingstr is beta, all reactions are sent to the dedicated thingstr relay and the data on the relay may be deleted."
   }
 }
