@@ -64,6 +64,11 @@ class SiteChecker {
   static EXEMPT_HOSTS = ["marketplace.visualstudio.com", "scrapbox.io"];
 
   static async checkSite(url) {
+    // 追加: 空文字や null はチェックせず OK 扱い
+    if (!url || url.trim() === "") {
+      console.log("URL が空のためチェックをスキップ");
+      return true;
+    }
     try {
       const host = new URL(url).hostname;
 
