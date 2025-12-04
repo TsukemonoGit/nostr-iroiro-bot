@@ -1177,5 +1177,16 @@
     "title": "全訳NIPs 2025 秋",
     "url": "https://techbookfest.org/product/st0CzpXWmX9gRe3PN0Z1AD?productVariantID=f2PsVPAX93Vi8NaA0ca8ne",
     "description": "NIPsは分量も多く、活発に更新されているため、全体像を把握することが容易ではありません。本書は、進化し続けるNostrプロトコルを日本語で理解したいと考える全ての開発者、研究者、探求者のためのハンドブックとして制作しました。"
+  },
+  "197": {
+    "category": "",
+    "title": "ブラウザでF12を押して、Consoleタブに以下コードを張り付けてTLをみる",
+    "url": "",
+    "description": "const ws = new WebSocket('wss://yabu.me/ '); ws.addEventListener('message', ({data}) => console.log(JSON.parse(data)?.[2]?.content)); ws.addEventListener('open', () => ws.send(JSON.stringify(['REQ', '_', {kinds: [1], limit: 10}])));
+
+
+
+
+"
   }
 }
