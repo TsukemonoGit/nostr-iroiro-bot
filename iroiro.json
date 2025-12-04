@@ -1165,12 +1165,17 @@
     "title": "nostr-zap-view",
     "url": "https://lokuyow.github.io/nostr-zap-view/",
     "description": "自分のサイトにzap一覧ボタンを設置できる"
-  }
-  ,
-  "194": {
+  },
+  "195": {
     "category": "",
     "title": "Thingstr",
     "url": "https://thingstr.pages.dev/",
     "description": "React to everything.\n\nCreate Nostr events that react to things on Wikidata. As thingstr is beta, all reactions are sent to the dedicated thingstr relay and the data on the relay may be deleted."
+  },
+  "196": {
+    "category": "Book",
+    "title": "全訳NIPs 2025 秋",
+    "url": "https://techbookfest.org/product/st0CzpXWmX9gRe3PN0Z1AD?productVariantID=f2PsVPAX93Vi8NaA0ca8ne",
+    "description": "NIPsは分量も多く、活発に更新されているため、全体像を把握することが容易ではありません。本書は、進化し続けるNostrプロトコルを日本語で理解したいと考える全ての開発者、研究者、探求者のためのハンドブックとして制作しました。"
   }
 }
