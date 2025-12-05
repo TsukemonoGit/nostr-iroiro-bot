@@ -1183,5 +1183,11 @@
     "title": "ブラウザでF12を押して、Consoleタブに以下コードを張り付けてTLをみる",
     "url": "",
     "description": "const ws = new WebSocket('wss://yabu.me/ '); ws.addEventListener('message', ({data}) => console.log(JSON.parse(data)?.[2]?.content)); ws.addEventListener('open', () => ws.send(JSON.stringify(['REQ', '_', {kinds: [1], limit: 10}])));"
+  },
+  "198": {
+    "category": "",
+    "title": "NostrYears",
+    "url": "https://kojira.github.io/NostrYears/",
+    "description": "Review Your Nostr Activity"
   }
 }
