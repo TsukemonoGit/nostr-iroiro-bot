@@ -112,8 +112,8 @@
     "failureCount": 0
   },
   "30": {
-    "status": "inactive",
-    "failureCount": 5
+    "status": "active",
+    "failureCount": 0
   },
   "31": {
     "status": "active",
@@ -304,8 +304,8 @@
     "failureCount": 0
   },
   "80": {
-    "status": "inactive",
-    "failureCount": 5
+    "status": "active",
+    "failureCount": 0
   },
   "81": {
     "status": "active",
@@ -404,8 +404,8 @@
     "failureCount": 0
   },
   "105": {
-    "status": "inactive",
-    "failureCount": 5
+    "status": "active",
+    "failureCount": 0
   },
   "106": {
     "status": "active",
@@ -596,8 +596,8 @@
     "failureCount": 0
   },
   "154": {
-    "status": "inactive",
-    "failureCount": 5
+    "status": "active",
+    "failureCount": 1
   },
   "155": {
     "status": "active",
@@ -756,6 +756,14 @@
     "failureCount": 0
   },
   "194": {
+    "status": "active",
+    "failureCount": 0
+  },
+  "197": {
+    "status": "active",
+    "failureCount": 0
+  },
+  "198": {
     "status": "active",
     "failureCount": 0
   }

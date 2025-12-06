@@ -1180,9 +1180,9 @@
   },
   "197": {
     "category": "",
-    "title": "ブラウザでF12を押して、Consoleタブに以下コードを張り付けてTLをみる",
+    "title": "ブラウザでF12を押して、Consoleタブに以下コードを張り付けるだけでTLが見れる",
     "url": "",
-    "description": "w=new WebSocket('wss://yabu.me');\nw.onopen=e=>w.send('[\"REQ\",\"0\",{\"kinds\":[1],\"limit\":10}]');\nw.onmessage=e=>(c=eval(e.data)[2]?.content)&&console.log(c)"
+    "description": "\n\nw=new WebSocket('wss://yabu.me');\nw.onopen=e=>w.send('[\"REQ\",\"0\",{\"kinds\":[1],\"limit\":10}]');\nw.onmessage=e=>(c=eval(e.data)[2]?.content)&&console.log(c)"
   },
   "198": {
     "category": "",
