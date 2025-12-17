@@ -1201,5 +1201,11 @@
     "title": "(.>_<)-(.>_<)-mojimoji",
     "url": "https://koteitan.github.io/mojimoji/",
     "description": "The Nostr Modular Client\n\nA modular filter previewer for Nostr. modular + moderation = mojimoji"
+  },
+  "201": {
+    "category": "Client",
+    "title": "ぬるぬる",
+    "url": "https://www.nullnull.app/",
+    "description": "LINE風のNostrクライアント"
   }
 }
