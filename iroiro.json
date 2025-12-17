@@ -1189,5 +1189,11 @@
     "title": "NostrYears",
     "url": "https://kojira.github.io/NostrYears/",
     "description": "Review Your Nostr Activity"
+  },
+  "199": {
+    "category": "Extension",
+    "title": "Nostr Devtools",
+    "url": "https://chromewebstore.google.com/detail/nostr-devtools/ogoaodeklpfbboeopebgdggammkcndcp",
+    "description": "Nostr サブスクリプション デバッガーおよび開発者ツール\n\nNostr Webクライアントと任意の数のリレー間で送受信される、すべてのNostrリレー接続、サブスクリプション、フィルター、イベント、通知、認証に関する包括的なグラフをスムーズに閲覧できます。"
   }
 }
