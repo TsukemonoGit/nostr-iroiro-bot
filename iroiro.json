@@ -1149,13 +1149,13 @@
     "description": "ゲームブック作成ツール\ngithubのリポジトリをフォークしてjson書き換えれば別のゲームブックつくれます"
   },
   "192": {
-    "category": "",
+    "category": "Client",
     "title": "nosquerade",
     "url": "https://nosquerade.haniwar.com/",
     "description": "nostr:npub17z9fxuzzgkqp6lj7vdmls78fc04zml0hgxwu38hu726a0f0kylvscq0s6g さん作のWebクライアント"
   },
   "193": {
-    "category": "",
+    "category": "Client",
     "title": "野雨 -Nosame-",
     "url": "https://invertedtriangle358.github.io/Nosame/",
     "description": "nostr:npub10hqkwugj7p027j250qr9gwcuqpkwxftj0rjjk8y6hlmryu8dwp8s2runf2 さん作のブラウザ用クライアント「野雨(のさめ)」\n\n表示するのは108文字以下の投稿のみで、NGワード等フィルタあり\nログイン不要、投稿時に署名するだけのシンプルなクライアント"
@@ -1195,5 +1195,11 @@
     "title": "Nostr Devtools",
     "url": "https://chromewebstore.google.com/detail/nostr-devtools/ogoaodeklpfbboeopebgdggammkcndcp",
     "description": "Nostr サブスクリプション デバッガーおよび開発者ツール\n\nNostr Webクライアントと任意の数のリレー間で送受信される、すべてのNostrリレー接続、サブスクリプション、フィルター、イベント、通知、認証に関する包括的なグラフをスムーズに閲覧できます。"
+  },
+  "200": {
+    "category": "Client",
+    "title": "(.>_<)-(.>_<)-mojimoji",
+    "url": "https://koteitan.github.io/mojimoji/",
+    "description": "The Nostr Modular Client\n\nA modular filter previewer for Nostr. modular + moderation = mojimoji"
   }
 }
