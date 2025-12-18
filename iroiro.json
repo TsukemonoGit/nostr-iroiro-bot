@@ -1207,5 +1207,11 @@
     "title": "ぬるぬる",
     "url": "https://www.nullnull.app/",
     "description": "LINE風のNostrクライアント"
+  },
+  "202": {
+    "category": "Bot",
+    "title": "todo bot",
+    "url": "nostr:npub1jdelt5c8400d3qf4v4x5ns0xywgymw7f8rgfx07zp2qpys50du4sm5jkhj",
+    "description": "使い方:\nlist - TODO一覧\nadd <内容> - TODO追加\nshow <ID> - TODO表示\ndone <ID> - TODO完了\ndelete <ID> - TODO削除\nsearch <キーワード> - TODO検索\nweb - Web表示URL\n\n内臓:https://github.com/mattn/nostr-todo-bot"
   }
 }
