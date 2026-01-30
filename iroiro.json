@@ -134,12 +134,6 @@
     "url": "https://github.com/nostr-jp/learn-nostr-by-crafting",
     "description": "Hello Nostr! 先住民が教えるNostrの歩き方 (技術書典にて頒布) 内の記事「手を動かして学ぶ Nostrプロトコル」(pp.65-75) の演習環境を含むリポジトリ"
   },
-  "24": {
-    "category": "BOT",
-    "title": "mochi",
-    "url": "nostr:npub19xm6kcedxef3232d222gj0sxql8vs2tutyg0fq4z6875zfs3d8ascl440n",
-    "description": "もちもち たまに すやすや すやすや"
-  },
   "25": {
     "category": "WebApp",
     "title": "Nostrends",
@@ -217,7 +211,7 @@
     "category": "WebApp",
     "title": "Markostr",
     "url": "https://penpenpng.github.io/markostr/",
-    "description": "みんなまるこふになれる\nお暇な人もお暇じゃない人もいかがですか"
+    "description": "ユーザーの投稿を読み込んでマルコフ連鎖により文字列を生成します"
   },
   "38": {
     "category": "Extension",
@@ -831,8 +825,8 @@
   "140": {
     "category": "",
     "title": "awesome-nostr-japan",
-    "url": "https://awesome.nostr-jp.org",
-    "description": "日本人が作ったNostrソフトウェア、ウェブサービス、クライアント、ボットをまとめたサイト。\n\nNostr関連で何か作ったらここに pull-req を送ろう(((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ"
+    "url": "https://github.com/nostr-jp/awesome-nostr-japan",
+    "description": "日本人が作ったNostrソフトウェア、ウェブサービス、クライアント、ボットをまとめたサイト。\n\n(日本語版： https://github.com/nostr-jp/awesome-nostr-japan/blob/main/README-ja.md )\n\nNostr関連で何か作ったらここに pull-req を送ろう(((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ"
   },
   "141": {
     "category": "",
@@ -1213,5 +1207,23 @@
     "title": "todo bot",
     "url": "nostr:npub1jdelt5c8400d3qf4v4x5ns0xywgymw7f8rgfx07zp2qpys50du4sm5jkhj",
     "description": "使い方:\nlist - TODO一覧\nadd <内容> - TODO追加\nshow <ID> - TODO表示\ndone <ID> - TODO完了\ndelete <ID> - TODO削除\nsearch <キーワード> - TODO検索\nweb - Web表示URL\n\n内臓:https://github.com/mattn/nostr-todo-bot"
+  },
+  "203": {
+    "category": "",
+    "title": "ワリカンさん",
+    "url": "https://v0-split-bill-calculator-blue.vercel.app/",
+    "description": "ワリカンを計算して精算金額がすぐわかるアプリ"
+  },
+  "204": {
+    "category": "",
+    "title": "NostrDraw",
+    "url": "https://kojira.github.io/NostrDraw/",
+    "description": "NostrDrawは、Nostrプロトコル上で動作するソーシャルお絵描きアプリです。描いた絵を世界中の人と共有したり、他の人の作品に描き足してコラボレーションを楽しめます。"
+  },
+  "205": {
+    "category": "",
+    "title": "nostr-widgets",
+    "url": "https://embed.nostter.app/",
+    "description": "Nostrのメモやその他の情報をウェブサイトに埋め込みましょう。"
   }
 }
