@@ -1225,5 +1225,11 @@
     "title": "nostr-widgets",
     "url": "https://embed.nostter.app/",
     "description": "Nostrのメモやその他の情報をウェブサイトに埋め込みましょう。"
+  },
+  "206": {
+    "category": "WebApp",
+    "title": "emoemo",
+    "url": "https://koteitan.github.io/emoemo/",
+    "description": "Nostrのカスタム絵文字（NIP-30）を管理できるやつ。絵文字リスト(kind:10030)と絵文字セット/パック(kind:30030)を作成・編集・閲覧できる。NIP-07ログイン・nostr.buildアップロード対応。なくなったemojito/emojis-iotaの後継"
   }
 }
