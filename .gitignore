@@ -3,4 +3,5 @@
 postlog.json
 .hintrc
 # .tmp
-/batches
+.tmp/batches
+.tmp/node_modules
