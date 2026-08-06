@@ -326,5 +326,85 @@
    "tool": "https://github.com/YoshikuniJujo/test_haskell/tree/master/other_language/javascript/local_https",
    "note": "local_https（自作のオレオレ証明書ワンライナー + ローカル HTTPS サーバーを立てる nodejs コード）。GitHub 名義 YoshikuniJujo が投稿者本人と一致 → 作者本人。投稿本文日本語。Nostr ツールではない（iroiro 向けかは要判断）",
    "content": "https://github.com/YoshikuniJujo/test_haskell/tree/master/other_language/javascript/local_https\n\nオレオレ証明書を作るワンライナーとそれを使ってHTTPSサーバーをローカルに立てるnodejsコード。"
+  },
+  {
+   "id": "cdfb9a6a8c7e0810b759e960ba17ab87f95c2144078645d44375589cb103900b",
+   "pubkey": "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69",
+   "created_at": 1784586024,
+   "tool": "https://ryopc.f5.si/",
+   "note": "ryopc（game_ryo 主導のデジタル機器サポート・デジタルリテラシー国際イニシアチブ。「ryopcがついに、始動」とメンバー募集の告知）。kind0 about に「ryopc公式: ryopc@nr.ryopc.f5.si」と明記 → 作者本人確定。日本語",
+   "content": "ryopcがついに、始動。\n\nメンバー募集。\n\nhttps://ryopc.f5.si/#contact"
+  },
+  {
+   "id": "fcdf9dc403a526fdac1470a4b6284e7878edf80e3f3486ac0aab6aa2882a6300",
+   "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+   "created_at": 1784549666,
+   "tool": "https://koteitan.github.io/otenki/",
+   "note": "otenki（降水確率のラプラス変換をする自作のお天気ツール。「ラプラス変換できた」の開発報告）。koteitan は日本語確定・作者本人（koteitan.github.io 配下）。iroiro.json 未収載",
+   "content": "ラプラス変換できた\nhttps://koteitan.github.io/otenki/"
+  },
+  {
+   "id": "5a20cc85f4e3c31b8c230ef4894c94df8aa69924d2ab90e9b8944174886c9a28",
+   "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+   "created_at": 1784379208,
+   "tool": "https://ocknamo.github.io/combine",
+   "note": "combine（ocknamo 自作の「Combined Nostr client」。Nosskey のパスキー署名 + eHagaki 投稿エディタ + Nostr Web Components を組み合わせたシンプルな Nostr クライアント）。作者本人、日本語確定。Nostr ツール",
+   "content": "これなんです。iPhoneのsafariで使えるのか気になってます。\n\nhttps://ocknamo.github.io/combine"
+  },
+  {
+   "id": "ee63016b495d6b6e7a33cbdab02b180ae0cd6532f27dade2652108f2b456f3e3",
+   "pubkey": "776ea4437354381f14a720be3c476937dce7257ed1073e54a192dbc99f3b7ecc",
+   "created_at": 1784367543,
+   "tool": "https://github.com/uakihir0/CCUsageMenu",
+   "note": "CCUsageMenu（uakihir0 自作の macOS メニューバーアプリ。Claude Code の従量課金利用量 ccusage を確認）。投稿者本人の作成物。日本語。Nostr ツールではない",
+   "content": "ちょっと雑に仕事で AI 使っていることを反省して、ccusage をメニューバーに置いて確認できるやつ作った。既存にいくつかあったけど、お仕事向けなので従量課金のみをターゲットに作った。\nhttps://github.com/uakihir0/CCUsageMenu"
+  },
+  {
+   "id": "55550532d80efb4a5d58a1d10573363b06579afad13f740527c3f0afb762cdb1",
+   "pubkey": "07804b786c6a3b400b7b20d9bfc945035f3ad213da797b0c50954767c375c543",
+   "created_at": 1784359438,
+   "tool": "https://darashi.github.io/nikunoaji/",
+   "note": "nikunoaji（darashi 自作の肉の味計算機。塩分 1% 計算の Web ツール）。darashi は既に murasaki で iroiro.json 収載済み。日本語。Nostr ツールではないが投稿本人の作成物",
+   "content": "ひさしぶりに肉の味計算したhttps://darashi.github.io/nikunoaji/"
+  },
+  {
+   "id": "1bc07246e30e4aaddfddb7337a61abe808f383e992a4729a374a0613697fd8ae",
+   "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+   "created_at": 1784345588,
+   "tool": "https://kojira.github.io/nostr-reaction-viewer/",
+   "note": "nostr-reaction-viewer（kojira 自作の「あなたがリアクションした投稿」を確認するツール。NIP-07 連携・日付範囲/画像フィルタあり）。作者本人、日本語確定。Nostr ツール",
+   "content": "なんかできてた\nhttps://kojira.github.io/nostr-reaction-viewer/"
+  },
+  {
+   "id": "f289e2da51eb7e4e47e14d5831559cdeea1b88167a89c4108723aca9244ee0ed",
+   "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+   "created_at": 1784341394,
+   "tool": "https://kojira.github.io/nostr-license/",
+   "note": "nostr-license（kojira 自作の運転免許風 Nostr カード生成ツール。「Nostr licenseでzap推移も見れる」と zaps 可視化にも言及）。作者本人（iroiro bot 作者）、日本語確定。Nostr ツール",
+   "content": "Nostr licenseでzap推移も見れる\n\n🪪 My Nostr License — kojira導師\n#NostrLicense\nhttps://kojira.github.io/nostr-license/"
+  },
+  {
+   "id": "bd74a001b1d85091b9a6ab6a0611c8b375213405120b56210ee72bcfe5121bc0",
+   "pubkey": "1beecee55f69ebc2890403606f28b5e8ebbab23d226730e12b4bf762d29d2162",
+   "created_at": 1784267796,
+   "tool": "https://github.com/akazdayo/nostratui",
+   "note": "nostratui（akazdayo の ratatui 製 Nostr TUI クライアント。Vim風キーバインド・Kitty Graphics Protocol 対応）。開発報告複数（画像レンダリング・カスタム絵文字・リレータブ等）で作者本人。日本語。Nostr ツール",
+   "content": "https://github.com/akazdayo/nostratui"
+  },
+  {
+   "id": "95b24288f1457df02ae7a498b393e55e14588efbd9476b7c153224c6bb362f18",
+   "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+   "created_at": 1784257530,
+   "tool": "https://conversation-mismatch-ai.vercel.app/",
+   "note": "会話不成立AI（相手と微妙に噛み合わない返答を生成する AI サービス。「本日の不成立会話です」と利用報告）。投稿は日本語だが作者本人かは不明",
+   "content": "本日の不成立会話です\nhttps://conversation-mismatch-ai.vercel.app/\nhttps://share.yabu.me/6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b/2a4d0af06bdfd276b023683c29b1a673de74eb1bcc4255e6df42635c83be2210.webp"
+  },
+  {
+   "id": "8bf4bc0c78db3542caf54c51acfd2bfa12e5eed1e51eb8fed21dbdb555278f9a",
+   "pubkey": "cc6d24063ad9e928a434c6b0566f6d27d31da0e7d8dcc31241af3f3382c9fe3f",
+   "created_at": 1784253382,
+   "tool": "https://ompomz.github.io/flowgazer/",
+   "note": "flowgazer（ompomz の Nostr タイムライン可視化ツール。「okkake」で指定イベントから辿れる）。投稿は日本語だが、投稿者が ompomz 本人かは不明（flowgazer クライアント利用者）。Nostr ツール",
+   "content": "このへんからずっとおもしろくてやばかった https://ompomz.github.io/flowgazer/okkake/?id=nevent1qy88wumn8ghj77tpvf6jumt99uqzqpv6z84hhtr5c8p7uqtdc697nt0nskpgdnet4h387s7fpm8r4d0cr9z6v7&follow=npub1a3pvwe2p3v7mnjz6hle63r628wl9w567aw7u23fzqs062v5vqcqqu3sgh3"
   }
-]
+ ]
