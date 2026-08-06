@@ -25,12 +25,15 @@
 
 | ファイル | 役割 |
 |---|---|
-| `fetch-batch.mjs` | バッチ取得 + `EXCLUDED_PUBKEYS`（除外リスト集約。**必ずここに追加**） |
+| `fetch-batch.mjs` | バッチ取得 + `EXCLUDED_PUBKEYS`（除外リスト集約。**必ずここに追加**）+ 範囲メタ書き出し |
 | `re-filter.mjs` | 既存 jsonl に除外リストを再適用 + URL フィルター + 降順ソート + 重複除去。除外リストは fetch-batch.mjs から自動読込 |
 | `review.mjs` | jsonl → 人間可読な txt 変換（`node review.mjs <src.jsonl> <out.txt>`） |
+| `next-batch.mjs` | 進捗把握と次バッチ計算（どこまで実施済みか + 次バッチの番号・範囲・実行例を表示） |
 | `irerukamo.json` | ピックアップ候補の最終成果物 |
-| `batches/batchN-24h.jsonl` | フィルター済み（レビュー対象） |
-| `batches/batchN-24h.jsonl.bak` | 取得直後の原本（URL 付き全件）。**再フィルターは必ず .bak から行う** |
+| `batches/batchN-24h.jsonl.bak` | 取得直後の原本（URL 付き全件）。**再フィルターは必ず .bak から行う**。git に追跡 |
+| `batches/batchN-24h.meta.json` | 各バッチの取得範囲メタ（fetch-batch.mjs が自動書き出し）。next-batch.mjs が参照。git に追跡 |
+| `batches/batchN-24h.jsonl` | フィルター済み（レビュー対象）。`.gitignore` で除外（`re-filter.mjs` で .bak から再生成可能） |
+| `batches/batchN-24h.meta.json` | 各バッチの取得範囲メタ（fetch-batch.mjs が自動書き出し。next-batch.mjs が読む） |
 | `reviewN.txt` | レビュー用テキスト（`[i] MM-DD HH:MM pubkey12 id12` + content） |
 | `algia.md` | algia の使い方メモ |
 | `memo.md` | 元の作業指示メモ |
@@ -47,21 +50,17 @@ node fetch-batch.mjs <sinceUnix> <untilUnix> batches/batchN-24h.jsonl.bak
 ```
 
 - レンジは UTC の 24h で、`since = 前回の until - 86400`、`until = 前回の since`（過去へ遡る）
-- 既に実施済みの範囲:
-  | batch | since | until | since(Unix) |
-  |---|---|---|---|
-  | batch1 | 08-05 01:50 | 08-06 01:50 | 1785894600 |
-  | batch2 | 08-04 01:50 | 08-05 01:49 | 1785808200 |
-  | batch3 | 08-03 01:50 | 08-04 01:49 | 1785721800 |
-  | batch4 | 08-02 01:50 | 08-03 01:49 | 1785635400 |
-  | batch5 | 08-01 01:50 | 08-02 01:49 | 1785549000 |
-  | batch6 | 07-31 01:50 | 08-01 01:49 | 1785462600 |
-  | batch7 | 07-30 01:50 | 07-31 01:49 | 1785376200 |
-- batch4 の例:
+- **進捗管理は手動でしない。`batches/batchN-24h.meta.json` と `next-batch.mjs` で自動把握する**:
+  - `fetch-batch.mjs` は取得時に `batches/batchN-24h.meta.json`（取得した since/until と日時）を自動書き出しする
+  - `node next-batch.mjs` で「どこまで実施済みか + 次のバッチ番号と取得範囲・実行例」を表示する
+  - つまり `batches/` にある `.bak` ファイルが最新なら next-batch.mjs が正しい次レンジを出す。手動で表を更新する必要はない
+  - （参考: 最新バッチの `.meta.json` が無い場合にだけ次バッチが確定できない。取得は必ず fetch-batch.mjs 経由で行うこと）
+- 例（次バッチの取得〜レビュー）:
   ```bash
-  node fetch-batch.mjs 1785635400 1785721800 batches/batch4-24h.jsonl.bak
-  node re-filter.mjs batches/batch4-24h.jsonl.bak batches/batch4-24h.jsonl
-  node review.mjs batches/batch4-24h.jsonl review4.txt
+  node next-batch.mjs   # 次バッチの番号・範囲・実行例を確認
+  node fetch-batch.mjs <since> <until> batches/batchN-24h.jsonl.bak
+  node re-filter.mjs batches/batchN-24h.jsonl.bak batches/batchN-24h.jsonl
+  node review.mjs batches/batchN-24h.jsonl reviewN.txt
   ```
 - 出力は原本ファイル（.bak）。イベントは kind1 のみ
 

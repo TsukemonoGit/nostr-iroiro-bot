@@ -114,4 +114,16 @@ fetcher.shutdown();
 events.sort((a, b) => b.created_at - a.created_at);
 writeFileSync(outFile, events.map((e) => JSON.stringify(e)).join("\n") + "\n");
 
+const meta = {
+  range: { since, until },
+  rangeFrom: new Date(since * 1000).toISOString(),
+  rangeTo: new Date(until * 1000).toISOString(),
+  eventsWithURL: events.length,
+  fetchedAt: new Date().toISOString(),
+};
+const m = outFile.match(/^(?:.*\/)?batch(\d+)-24h\.jsonl(?:\.bak)?$/);
+const metaFile = m ? `batches/batch${m[1]}-24h.meta.json` : outFile.replace(/\.bak$/, "") + ".meta.json";
+writeFileSync(metaFile, JSON.stringify(meta, null, 2) + "\n");
+
 console.error(`scanned ${total} events total, ${excluded} excluded by pubkey, ${events.length} with URL`);
+console.error(`meta written to ${metaFile}`);

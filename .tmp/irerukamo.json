@@ -430,5 +430,29 @@
     "tool": "https://kimochi-sakana-kantei.vercel.app/",
     "note": "きもち魚鑑定（今の気持ちを魚にたとえるおみくじ風診断アプリ）。結果シェア投稿が同一アカウントから継続しており作者本人の可能性が高い。日本語",
     "content": "今のきもちは「食後ねむい」の魚でした。\n\n【ショクゴスヤスヤダイ】\n昼の満腹潮を浴びると、泳ぎながらまぶたが沈む。\n生息地：午後一時の浅瀬\n\n#きもち魚鑑定\nhttps://kimochi-sakana-kantei.vercel.app/"
+  },
+  {
+    "id": "682131c735c427ae89f805d60637868cab358e22707f68d372fc84dfd72189af",
+    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+    "created_at": 1784163264,
+    "tool": "https://github.com/LunaYoineko/Nosterm",
+    "note": "Nosterm（宵猫ルナ/LunaYoineko 自作の TUI Nostr クライアント。業務中にssh経由で見る目的）。日本語。LunaYoineko の pubkey は既収録エントリと一致",
+    "content": "せんでーん\n業務中にssh経由でノスを見たいがために作りましたTUIクライアントですにゃ\n\nhttps://github.com/LunaYoineko/Nosterm"
+  },
+  {
+    "id": "45b2fd003395ba997df8d4341aa68ea9eafd62934c44128ef0599e4c917e5ba5",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1784125471,
+    "tool": "https://files-mentioned-by-the-user-web-alpha.vercel.app/",
+    "note": "絶対に当たらない天気予報アプリ（petan 自作、#絶対に当たらない天気予報 シリーズ）。日本語。会話不成立AI と同じ pubkey",
+    "content": "天気予報アプリを作りました。\nhttps://files-mentioned-by-the-user-web-alpha.vercel.app/"
+  },
+  {
+    "id": "a50881821a9ff7c8446e646dade62e1f5d62447e251c14ad2c41bf1170ab433d",
+    "pubkey": "6ee6b98e87bc42eb67a9ed82d6accc85705b7c3e2b2a351e487c0e793448c4eb",
+    "created_at": 1784091088,
+    "tool": "https://dmntnr.com/",
+    "note": "dmntnr.com（dmntnr 自作の個人サイト。Nostr の自分の投稿を表示）。日本語。nostrd と同じ作者（kind0 は英語だが Japanese full-stack developer と自認）",
+    "content": "雑だけど自分の作りかけサイトに Nostr の自分の投稿を表示させることできた\n\nhttps://dmntnr.com/"
   }
 ]
