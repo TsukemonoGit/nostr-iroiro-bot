@@ -3,3 +3,4 @@
 postlog.json
 .hintrc
 # .tmp
+/batches
