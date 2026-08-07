@@ -15,10 +15,10 @@
 
 ## リレー
 
-`~/.config/algia/config.json` の `relays` のうち `read: true` のものを使う（fetch-batch.mjs が自動で読み取る）。カバレッジはこの設定に依存する。
+- wss://x.kojira.io
+- wss://yabu.me
 
 - 実行時は `ALGIA_CONFIG` 環境変数でパスを上書き可能（例: `ALGIA_CONFIG=/tmp/config.json`）
-- 主要リレーは `yabu.me` / `x.kojira.io`
 - NIP-50 search は使わない。kind1 REQ → URL フィルター方式のみ
 
 ## ファイル構成（.tmp/ 内）
