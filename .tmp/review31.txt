@@ -1,0 +1,1623 @@
+[0] 07-07 01:47 fe9edd5d5c63 d6a2310f65ad
+仕事関係で頂いたギフトがとても嬉しい\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/102c7b4a5bed3c712cda5be7d14d9dbd304dbee9d3c0d0ceb815fa2ea38fa505.webp
+---
+[1] 07-07 01:42 3b4878253075 0000f30d9362
+https://cdn.nostrcheck.me/9dd5419e7543184fc341eebd50f282c4f74bc888b76d66e671fee6357ea9866e.jpeg
+---
+[2] 07-07 01:30 88a26d85b87c 95f4f1a36bc5
+BonkDAO、悪意あるガバナンス提案による攻撃で約2,000万ドル相当のBONKが流出\n\n BONKを運営するBonkDAOは、悪意あるガバナンス提案による攻撃を受け、財務から約2,000万ドル相当のBONKが流出したと発表した。攻撃者は投票前にBONKを買い集め、わずか7アドレスが投票に参加し、そのうち攻撃者関連アドレスが議決権の99.878％を占めていたという。BonkDAOは攻撃者が利用した取引所口座を特定し、取引所やブリッジ、ソラナ財団と連携して対応を進めている。\n\nhttps://bitbank.cc/knowledge/breaking/article/hvqw3066i
+---
+[3] 07-07 01:26 81913081246d 1f63997bef43
+https://media.libernet.app/s/nBORzw.jpg
+---
+[4] 07-07 01:25 81913081246d 3c23d2e77c00
+受教了\nhttps://media.libernet.app/s/TCePMJ.jpg
+---
+[5] 07-07 01:22 ee6ea13ab9fe d5876811f1cb
+https://i.nostr.build/9k2wfdOkWprsETm5.gif
+---
+[6] 07-07 01:19 d735231e8eeb 5dd8bb68cb81
+【DevRevのPLuGチャットの見た目と機能をカスタマイズしてみた】\nDevRevのPLuGチャット設定画面にある4つのタブ（設定・スタイル設定・タブ・レイアウト）を網羅的に確認し、テーマ変更・アクセントカラー変更・タブ追加・ウェルカムメッセージ日本語化などのカスタマイズを試してみました。\nhttps://dev.classmethod.jp/articles/devrev-plug-chat-customize/
+---
+[7] 07-07 01:16 d735231e8eeb a9e47154361a
+【Claude Code v2.1.202 の主要アップデート】\nClaude Code v2.1.202 がリリースされました。動的ワークフローの新しい制御機能とテレメトリ強化、そして実務に効く不具合修正が中心のアップデートです。注目の変更点と挙動変更をまとめました。\nhttps://dev.classmethod.jp/articles/20260707-cc-updates-v2-1-202/
+---
+[8] 07-07 01:13 d735231e8eeb fc1c9fcbad10
+【BigQuery の自律型埋め込み生成（Autonomous Embedding Generation）を試してみた】\nBigQueryの自律型埋め込み生成がGAになりました。テーブル定義時に埋め込み列を宣言するだけで、データの追加・更新に合わせて BigQuery が自動でベクトル化してくれる機能を、日本語のサンプルデータで実際に試してみました。\nhttps://dev.classmethod.jp/articles/bigquery-autonomous-embedding-generation/
+---
+[9] 07-07 01:13 ec42c765418b 4b24f2609f4d
+:kame_pi:\nhttps://share.yabu.me/ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600/db4febba6c7e75e4ddc806e496b1d2f80357910743970dc0790bfe38d0545f15.webp
+---
+[10] 07-07 01:11 71ecabd8b6b3 9c202f90b71f
+https://blossom.smartflow.social/9152771e44739c650fd1d9a025445d2995e8c1bf2b51cdd041d65a2d7f56698e.mp4\n#meme #memes #memestr #plebchain
+---
+[11] 07-07 01:08 ee1e7f27fa06 62ea992c5d52
+#nowplaying\n\nhttps://image.nostr.build/1f29e1cb6df900f31c8bab327cc384e211be9be6564fcbeaa4d44f3af43e4de6.jpg
+---
+[12] 07-07 01:04 fc18abd568f7 00005d9fe829
+I still \nhttps://blossom.primal.net/fc89cbff1a2bf270002e3f25a6190e50640d82cf5cd35897efd87b7a6b52fed2.jpg
+---
+[13] 07-07 01:04 e1e3fa7adcff db631f1301e0
+コリス🥦\n便利な配色ツールが登場！ OKLCHで知覚的に優れた広色域カラーパレットを生成 -OKLCH Color Palette Generator\nhttps://coliss.com/articles/build-websites/operation/design/wide-gamut-color-palettes-for-ui.html\n
+---
+[14] 07-07 01:01 8f1b628ef24c f9f9bcd79e61
+AWS Secrets Manager adds managed external secrets support for Paddle and GitLab\nhttps://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab/
+---
+[15] 07-07 01:01 8f1b628ef24c 76563c7466d8
+AWS CodePipeline now available in Asia Pacific (New Zealand) region\nhttps://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/
+---
+[16] 07-07 01:01 8f1b628ef24c 54209a79c82a
+CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events\nhttps://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/
+---
+[17] 07-07 01:01 8f1b628ef24c 52ef6c9f931c
+AWS Certificate Manager now supports the ACME protocol for public certificates\nhttps://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/
+---
+[18] 07-07 01:01 8f1b628ef24c 6fc650e3306f
+Amazon EVS VCF 9.0 and 9.1 support\nhttps://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9
+---
+[19] 07-07 01:01 8f1b628ef24c 85c6a492a98b
+Amazon Cognito now supports self-service provisioned API rate limits\nhttps://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits
+---
+[20] 07-07 01:01 8f1b628ef24c 3c0f438179d0
+Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization\nhttps://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/
+---
+[21] 07-07 01:01 8f1b628ef24c 6c8efbd0163c
+Amazon SageMaker HyperPod now supports disaggregated prefill and decode\nhttps://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/
+---
+[22] 07-07 01:01 40359cd2b389 dfafa2e2c015
+モナカードが販売開始されたっぽい？\n\nMOMOT.tanabata2026\n2026年七夕 \n\nhttps://card.mona.jp/explorer/card_detail?asset=A17181432485304104045\n\nhttps://mcspare.nachatdayo.com/image_server/img/bafybmie4secabwys6m3z2seguhox3vh3qxo6i5v7ahfad2e6y7bpau5vdil#image.png\n\n--------\n1 枚につき 5.00 MONA\n\n在庫数： 10 個\n--------\n\n#monacard #monacoin #mona #monaparty
+---
+[23] 07-07 01:01 e1e3fa7adcff c045a31f8ce4
+コリス🥦\nAmazonでアドビセールが開催！  Creative Cloud Proが最安値の50％オフで、超お買い得です\nhttps://coliss.com/articles/products/adobe-cc-amazon-202607-sale.html\n
+---
+[24] 07-07 01:00 eafb085cc714 78d354f74b6d
+#あっしたは水曜日 #水たまリフレクション #yokohamareflection\nhttps://bsky.app/profile/atasinti.bsky.social/post/3mpzfmataba2a
+---
+[25] 07-07 00:54 1ec454734dcb a7e73b5e2f8f
+https://blossom.laantungir.net/94e8fac09b9a983f3a74c31845d31ab3da27f04c7e13e362c2be3a2a81a69ad9.jpg
+---
+[26] 07-07 00:53 e58143f793e4 1fac829ee8e5
+The UK Government just admitted its so-called independent Digital Identity watchdog will operate in total secrecy. \n\nNo published minutes, costs hidden, members chosen in the dark. \n\nThey are building a national identity system for every adult in Britain but people are not allowed to see how it's coming together.\n\nOversight you cannot observe is not oversight.\n\nhttps://reclaimthenet.org/britains-digital-id-watchdog-will-do-its-watching-in-secret
+---
+[27] 07-07 00:49 d62679fe8b51 d830e05a916d
+#絵描きさんと繋がりたい\n#りとるらいと_日課フレーム\n#illust\n『加々美高浩が全力で教える「手」の描き方』を参考に手を描く練習\nhttps://amzn.to/3Buwxty https://image.nostr.build/237ec6e56abe421a4cc2c3c3910399da6525f9f3d4a4a5479d7eefccdb4e538f.jpg
+---
+[28] 07-07 00:48 eafb085cc714 b90c48cc4433
+#火曜ベンチ \nhttps://bsky.app/profile/atasinti.bsky.social/post/3mpzeyxbu4w2j
+---
+[29] 07-07 00:48 8eefbaa4dc1d 8765b6750cc8
+I take it back my guy nostr:nprofile1qqsymrmayr3t54hru0q5w4pfxn6s4pz6j7q60ugsxutajk2ahs0dh8gpzdmhxue69uhhqatjwpkx2urpvuhx2ue0qyv8wumn8ghj7enfd36x2u3wdehhxarj9emkjmn99u800vkk. Dead wrong about your book. \n\nExcellent points here. Highly recommend. \nhttps://blossom.primal.net/d8ca1d3f16f60a9580d9dfa7bc33b6494c3ca4048fea3e2fcb0a0b3d2e4a0872.jpg
+---
+[30] 07-07 00:48 30e8cbf1427c 400c4fca100c
+https://npub1xr5vhu2z0sfhlfsxwjnrjscurx5adaxq0lfft80cx9vwva8uew4qk293g6.blossom.band/bb623dabdecea10723935b756737c9718b5d5c72313de0b270dd47a6415382b3.gif
+---
+[31] 07-07 00:44 6f849dc7387f bd00126fde7f
+koreka? https://github.com/nicobailon/pi-web-access
+---
+[32] 07-07 00:42 1bc70a0148b3 c339fe07e648
+https://image.nostr.build/daf2e16e704bc33e3102fbb1ac2ccdaab47f7a8dc28a97946e21a920bf6d5080.png
+---
+[33] 07-07 00:38 6f849dc7387f b1b50e0f3124
+https://share.yabu.me/6f849dc7387f4dc991af2360b5cbe61e9fc96170a096fa577c1b9177ca5882f5/05869be351185bdb94dfcad074b082bc5066949f30b33dca0029ef1d612dfd28.webp
+---
+[34] 07-07 00:37 b40ea0357125 61f97397fb56
+【samchon/ttsc: A `typescript-go` toolchain for compiler-powered plugins and type-safe execution + 500x faster lint integrated into compiler】\nhttps://github.com/samchon/ttsc\n typescript-goを使ったTypeScript向けのツールチェイン。\nビルド、型チェック付きの実行、Lint、Formatなどのツールを提供している。\nVite/Rollup/esbuild/webpack/Rspack/Next.js向けのプラグインも提供している。\nhttps://realtime.jser.info/2026/07/07/samchon-ttsc-a-typescript-go-toolchain-for-compiler-powered-plugins-and-type-safe-execution-500x-faster-lint-integrated-into-compiler/
+---
+[35] 07-07 00:36 eafb085cc714 4444ae6317fc
+#あっ火曜日 \nhttps://bsky.app/profile/atasinti.bsky.social/post/3mpzecnlolm26
+---
+[36] 07-07 00:34 6f849dc7387f c8b73934fb19
+そうなんだ？ https://share.yabu.me/6f849dc7387f4dc991af2360b5cbe61e9fc96170a096fa577c1b9177ca5882f5/35b723b7e1dbba3065204fd65db94cbc8991be75fbf7064f73e39e3c7e209a5d.webp
+---
+[37] 07-07 00:34 30e8cbf1427c 104b73e68c62
+Holy shit this game\n\nhttps://npub1xr5vhu2z0sfhlfsxwjnrjscurx5adaxq0lfft80cx9vwva8uew4qk293g6.blossom.band/11307144ff1d588266887c29c8ca5cb495adf02149af076a86662672286610aa.gif
+---
+[38] 07-07 00:31 dfe5ef94b230 ef849ad565f3
+🐍🤖💀🤖🐍\n\nhttps://blossom.primal.net/5e744e68a4871163cd3975e35f6b71943e5457766dcc04e7bb5bfedfb610e819.jpg\n https://blossom.primal.net/50d617e71f86338900f425d8750c03c3cbe2af2e2cd2696919927e334684f30e.jpg\n https://blossom.primal.net/0df935c7d23a97a49a12e0f0e5464a2a03c09f2a1b75e65f2e1629bf0f53b860.jpg\n https://blossom.primal.net/7dcac17190b747e6ce01cdb7edc96a35ca75961f10ffe97abf61245364fc22dc.jpg\n https://blossom.primal.net/a8478674df2c3fd53a2b19eab186c0845d7f387e4673ce460fcbf156b52d47fe.jpg
+---
+[39] 07-07 00:28 eafb085cc714 f3bb4236bf57
+#火曜階段 \nhttps://bsky.app/profile/atasinti.bsky.social/post/3mpzdt2vgrb2j
+---
+[40] 07-07 00:27 ee6ea13ab9fe ce7a47cb7288
+WORD5 #641 3/6* (Hard Mode)\n\n⬛🟧⬛⬛⬛\n🟧🟧⬛⬛🟪\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
+---
+[41] 07-07 00:24 db8bb06a2031 b178f71bda5d
+モナカードが新規発行されました！\n\n\n MOMOT.tanabata2026\n 2026年七夕\n\nhttps://card.mona.jp/explorer/card_detail?asset=A17181432485304104045\n\n https://mcspare.nachatdayo.com/image_server/img/bafybmie4secabwys6m3z2seguhox3vh3qxo6i5v7ahfad2e6y7bpau5vdil#image.png\n\n#monacard #monacoin #mona
+---
+[42] 07-07 00:19 d735231e8eeb d3ed671e83a1
+【AWS Organizations の Inspector ポリシーを Inspector コンソールからフォーム形式で設定できるようになってました】\nAWS Organizations の Inspector ポリシーを、JSON で直接書く方法と Inspector コンソールのフォーム形式で設定する方法を紹介します。実際の画面を見ながら、それぞれのメリットを確認してみましょう。\nhttps://dev.classmethod.jp/articles/amazon-inspector-organizations-policy-form-configuration/
+---
+[43] 07-07 00:18 d28413712171 ec42c80918a9
+WORD5 #641 4/6* (Hard Mode)\n\n⬛⬛🟧🟧⬛\n🟧🟧⬛⬛⬛\n⬛⬛⬛🟧🟧\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
+---
+[44] 07-07 00:16 d735231e8eeb 2f7c8ff2a9b5
+【Strands Agents の GoalLoop プラグインが追加されていたので触ってみた】\nStrands Agents に最近追加された GoalLoop プラグインを触ってみました！\nhttps://dev.classmethod.jp/articles/strands-agents-plugin-goal-loop/
+---
+[45] 07-07 00:16 ec42c765418b d6de9b9f91c7
+14年くらい使ってるぞ\nhttps://share.yabu.me/ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600/542ce48efa61cbf50f80c0c216a29e33af80c5011ddd90ca01cd237e4b7b086f.webp
+---
+[46] 07-07 00:13 d735231e8eeb 51ba639b07e8
+【クラスメソッドオペレーションズにジョインした青木です。】\nクラスメソッドオペレーションズにジョインした青木です。BPO業界での業務設計・改善経験を活かし、立ち上げから運用まで一気通貫で携わることができる環境で、お客様の課題解決に貢献していきたいと考えています。\nhttps://dev.classmethod.jp/articles/202607-nakoaoki-joined-classmethod/
+---
+[47] 07-07 00:12 71ecabd8b6b3 555326878751
+https://blossom.smartflow.social/96378f3b51b7b1503358baedf9b6e9c046c8cba978298f67446ecc9adc5ba257.jpg
+---
+[48] 07-07 00:09 73491509b8e2 ba13c97e462c
+やばいツボった\nhttps://www.youtube.com/shorts/uMkrMDAs0sg
+---
+[49] 07-07 00:04 4c5d5379a066 2c5abf91193e
+平年やばない\n\nhttps://i.nostr.build/XyxUA3su2ejnaGp9.jpg
+---
+[50] 07-07 00:02 fc18abd568f7 0000fa2229db
+I BELIEVE in the USMNT. \nUSA! USA! USA!\nhttps://blossom.primal.net/fc89cbff1a2bf270002e3f25a6190e50640d82cf5cd35897efd87b7a6b52fed2.jpg
+---
+[51] 07-06 23:58 30e8cbf1427c 3ef25dc54222
+https://npub1xr5vhu2z0sfhlfsxwjnrjscurx5adaxq0lfft80cx9vwva8uew4qk293g6.blossom.band/2c5cfa8c944656b737a61c3d03180709748e0e26354ae3255e63e59fb0a6696d.gif
+---
+[52] 07-06 23:55 006532cb996d 1d5c239691d0
+Nothing stops this train.\n\nhttps://v.nostr.build/JZ21HxrM5W2Poum4.mp4
+---
+[53] 07-06 23:54 1e67de375417 0724b1778355
+Hal Wallet: self-contained, single-file Bitcoin wallet that runs entirely in the browser — think bitaddress.org, but a modern BIP84 HD wallet from a seed phrase that scans history, watches for payments, spends on-chain, pays Lightning invoices, and holds an off-chain balance on Ark. The whole wallet is one static index.html you can save and run offline, forever. \nhttps://github.com/asoltys/halwallet
+---
+[54] 07-06 23:52 b7dddc2dfd1b bc54b75c183a
+😂😂😂\nhttps://npub1klwact0ar00r9uer7tzh2zq0ytx3f552tt8qavszdhvu6vpv3uzqwpkjqz.blossom.band/ecdc5892397dabf3f770c833460d5370803317871017d815a0a37fbbba4d07f8.jpg
+---
+[55] 07-06 23:45 6fef3f60b364 8d9a96a78a28
+https://blossom.smartflow.social/414b92176130e55a1a922a131dd1346d78d16ded3c1ff5cd98200060d40ac3e4.jpg\nMicrocrystalline Cellulose\n\nWood pulp with a pantry pass.\n\nMicrocrystalline cellulose is refined plant fiber.\nUsually from wood or cotton.\nGround down until it behaves.\n\nIt exists because powders clump, pills need bulk, and shredded cheese needs to stay camera-ready.\n\nThe label says cellulose.\nThe kitchen would call it sawdust with manners.
+---
+[56] 07-06 23:37 1e67de375417 a088f3ceafea
+OfficeCLI: Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required \nhttps://github.com/iOfficeAI/OfficeCLI
+---
+[57] 07-06 23:30 2c7cc62a697e 5ad203bd99ff
+おはようございます\n\nhttps://share.yabu.me/84f2309a52075ae768809df4ca0729a382569e55f2a023ad4b14a6351f8bca46.webp
+---
+[58] 07-06 23:29 71ecabd8b6b3 65fe6d3c5c70
+https://blossom.smartflow.social/89f4963935d1ccecba9923d41c107676fd1208ea4f7f7849b933c86582db1a98.jpg
+---
+[59] 07-06 23:24 88a26d85b87c 5de23eda800a
+トランプ政権の「戦略的ビットコイン準備金」構想、法的・行政上の課題に直面: Bloomberg\n\n Bloombergによると、トランプ政権が構想する「戦略的ビットコイン準備金（Strategic Bitcoin Reserve）」は、法的・行政上の課題に直面している。当初は米財務省が管理する予定だったが、政府保有ビットコインを保有・運用する法的権限が財務省にあるか疑問視されている。このため政権は、商務省への所管変更を含む代替案を検討しており、司法省法務顧問室（OLC）が財務省と商務省と協議しながら、法的に実現可能な制度設計を進めている。\n\nhttps://bitbank.cc/knowledge/breaking/article/8qqhnc5mf
+---
+[60] 07-06 23:23 88a26d85b87c 288c73492358
+Grayscale、Strategyによるビットコイン売却は資金調達体制への市場の信頼回復につながると評価\n\n Grayscaleは、Strategyによる最近のビットコイン売却は資金調達体制への市場の信頼回復につながり、ビットコイン相場の底打ちをより確かなものにするとの見方を示した。Strategyは約520億ドル相当のビットコインに対し負債は約70億ドルと財務基盤は健全で、今回の売却により現金準備は約25億5,000万ドルへ増加し、優先株配当の約17か月分を賄える水準となった。JPMorganが売却方針は市場の不確実性を高めると批判したのに対し、Grayscaleは資金繰りへの懸念を和らげることで長期的な下振れリスクを低減し、ビットコイン市場の安定化につながると評価している。\n\nhttps://bitbank.cc/knowledge/breaking/article/f6_670lfui4
+---
+[61] 07-06 23:23 88a26d85b87c c9f022c7ce23
+トランプ一族支援のAmerican Bitcoin、新たに500BTCを追加取得\n\n トランプ一族が支援し、Hut 8と共同設立したビットコイン蓄積企業American Bitcoinは、新たに500BTCを追加取得し、保有量を8,000BTCへ拡大した。これにより、公開企業として世界16位のビットコイン保有企業となった。一方、NASDAQ上場維持を目的として1対15の株式併合を実施し、発行済み株式数は約10億9,000万株から約7,300万株へ減少する予定だ。同社株は年初来で60％超下落しているが、ビットコインの積み増し戦略は継続している。\n\nhttps://bitbank.cc/knowledge/breaking/article/7wtfz20q-s
+---
+[62] 07-06 23:22 88a26d85b87c 3b6fe43cc978
+トークン化ソブリン債務の暗号資産スタートアップのM1X Global、Paradigmから550万ドル調達\n\n 暗号資産スタートアップのM1X Globalは、Paradigm主導、Breed VC参加による550万ドルのシード資金調達を実施した。同社は、米国債で100％裏付けられたトークン化ソブリン債務「USDM1」の発行をマーシャル諸島と支援しており、調達資金を活用してUSDM1を機関投資家向け担保資産として普及させる方針だ。USDM1は現在、政府給付金の支払いに利用されているほか、レポ取引や証拠金取引、担保付き資金調達への活用も進められている。Bank of AmericaやCitadel Securities、DTCCなども参加する検討グループで、24時間稼働するトークン化金融市場向け担保として評価が進められている。\n\nhttps://bitbank.cc/knowledge/breaking/article/9_x--buwrm
+---
+[63] 07-06 23:21 88a26d85b87c e600a441d4bf
+米コネティカット州連邦地裁、レンディング企業Genesisを巡る集団訴訟の一部を復活させる\n\n 米コネティカット州連邦地裁は、破綻したレンディング企業Genesis Yieldを巡る集団訴訟で、Digital Currency Group（DCG）のバリー・シルバートCEOらに対する詐欺請求の一部を復活させた。裁判所は、原告によるニューヨーク州コモンロー上の詐欺請求について審理継続を認める一方、カリフォルニア、フロリダ、ニューヨーク州の消費者保護法に基づく請求は保留とし、イリノイ、カンザス、ネバダ、テキサス州の請求は棄却した。連邦証券法に基づく請求は2月の判断どおり引き続き審理され、Genesisの財務状況やリスク管理について投資家を誤認させたかが争点となる。\n\nhttps://bitbank.cc/knowledge/breaking/article/vva5-o0gdk
+---
+[64] 07-06 23:21 88a26d85b87c 8804856718d5
+ヴィタリック氏、ゼロ知識証明でイーサリアムのコンセンサス層を大幅に軽量化する「Extremely Lean Chain」構想を提案\n\n ヴィタリック・ブテリン氏は、ゼロ知識証明（ZK-STARK）を活用してイーサリアムのコンセンサス層を大幅に軽量化する「Extremely Lean Chain」構想を提案した。バリデーターが状態管理や証明生成を担うことで、オンチェーンに保持するデータをバリデーター当たり約6バイトまで削減し、数百万規模のバリデーター運用を可能にすることを目指す。また、毎日匿名鍵を更新する仕組みを導入し、プライバシーも強化する計画だ。この構想は「Lean Ethereum」の一部であり、コンセンサス層や実行環境を全面刷新する約3～4年規模の長期アップグレードとして進められる予定である。\n\nhttps://bitbank.cc/knowledge/breaking/article/ycfih0tjv
+---
+[65] 07-06 23:20 88a26d85b87c b8c870e3f104
+アバランチトレジャリーのNASDAQ上場のAVAX One Technology、CEOが退任\n\n NASDAQ上場のAVAX One Technologyは、アバランチ（AVAX）を中核とする暗号資産トレジャリー戦略を主導してきたジョリー・カーンCEOが7月3日付で退任したと発表した。後任が決まるまでCOOのピート・ワイリー・ジュニア氏が暫定CEOを務める。AVAX Oneは昨年、旧AgriFORCEから社名変更し、約5億5,000万ドルを調達して7億ドル超相当のAVAXを保有する戦略を打ち出し、アンソニー・スカラムーチ氏も支援していた。しかし、暗号資産トレジャリー企業への市場評価は低迷しており、競合のAvalanche Treasury Co.も上場後1か月で株価が70％超下落するなど、AVAX関連企業は厳しい状況が続いている。\n\nhttps://bitbank.cc/knowledge/breaking/article/hr3yipqxgno
+---
+[66] 07-06 23:10 94aa634abe91 2e27966f1284
+О левоправом уклоне\n\n@SperryUNIVAC\n\nИдея этого текста витала у меня в голове довольно долго, потому что мне очень не нравится, когда слова теряют хоть какой-то смысл и превращаются в простые ярлыки, как Синие и Зеленые на константинопольском Ипподроме. Какая разница между ними? Ну-у… э-э… одни синие, потому что болеют за Синих, а вторые зеленые, потому что за Зеленых, логично же? Пацаки и чатлане, как известно, это не национальности, не профессии, не расы и не религии, это пацаки и чатлане. Точно так же за последние лет сто подвергся тотальной и абсолютной эрозии смысл слов «политически правые» и «политически левые». Дело даже не в том, что радикально правые и радикально левые делают, по сути, одно и то же (проливают реки крови / призывают к их пролитию), о чем нас учит знаменитая теория подковы. Дело даже не в том, что левыми называют вообще кого угодно, вплоть до безумного режима аятолл, который вешал коммунистов и геев на автокранах, при этом вся LGBTQA+++ западная повестка заходится в пароксизмах страсти к ХАМАС, ИГИЛ и прочим исламским людоедам. Дело в том, что эти слова буквально, полностью, вообще потеряли свое изначальное значение (причем довольно давно), но так и не приобрели нового.\n\nЕще в 1945 г. знаменитый «Папа-нацист» Пий XII (теоретически — ультраправый католический консерватор) вместе с Хуаном Пероном (теоретически — левым прогрессистом-реформатором) дружно спасали от Сталина (теоретически — ультралевого, по крайней мере, так его продавал Запад в страшилках о «красной угрозе» капитализму) нацистов (которые в народе общепризнанно с какого-то перепуга считаются ультраправыми, хотя по факту левее Сталина). Вопрос с тех пор яснее не стал, а наоборот, только запутался, потому что появилась теология освобождения (левый латиноамериканский извод правого по сути католицизма), Народные муджахиды (левый иранский извод правого по сути ислама, успешно выпиленный безумными шиитами), существуют левые либертарианцы (что само по себе вроде бы оксюморон).\n\nПутина поддерживает тот же левый американский woke-истеблишмент, что и ХАМАС (при том, что половина этого истеблишмента не левые и не правые, а радужные, а в России за это сажают, но для них Путин — все равно Великий Левый Лидер, так как он против проклятой Америки), но их воплощенный vox populi — Демпартия США — отчего-то воевала с Россией куда яростнее, чем типа правый Трамп (одновременно, притом, топя за трансгендерные переходы у детей с пяти лет, неограниченную миграцию и 56 гендерных местоимений). Опять же, если бы на все это посмотрели правые старой школы, в том числе либертарианские иконы, типа Сесила Родса, Рокфеллера или Карнеги, то они расчехлили бы свои гатлинги.\n\nВ общем, употреблять прилагательные «левый» и «правый» в настоящее время полностью, совершенно, абсолютно бессмысленно. Информации они несут ровно ноль, потому что не работают даже как политические ярлыки: слышим «правый» и не понимаем: то ли он за Володю Пу, то ли за Хаменеи, то ли за Эндрю Джексона (основателя, между прочим, Демпартии), то ли за Трампа, а может, вообще за Гитлера или Нетаньяху. Как мы понимаем, общего у всех этих персонажей разве что принадлежность к Homo sapiens.\n\nРазумеется, воскликнет правоверный либертарианец, мы давно наслышаны об этих проблемах, и у нас также давно есть для них решение! Это наш любимый Политический компас Дэвида Нолана, самого либертарианца и, потому, имеющего типичные либертарианские когнитивные искажения. Во-первых, себя любимого он, разумеется, поместил в самый козырный квадрат «правых индивидуалистов», скинув туда все вкусное — личную свободу и свободу предпринимательства. Во-вторых, он, как и все либертарианцы, зациклен на экономике, потому что либертарианство родилось как оппозиция марксизму, движению, призванному бичевать капитализм с научной и этической точки зрения, опираясь именно на экономику. Следовательно, чтобы бичевать коммунизм так же эффективно, как Маркс врезал капитализму, либертарианцы волей-неволей сосредоточились на том же самом. Боб Блэк, помнится, в одном из своих скандальных эссе назвал это трудовым фетишизмом: саму идею того, что и у капиталистов, и у коммунистов за 150 лет не поменялся посыл, они до сих пор повернуты только на одном — кому же принадлежит труд.\n\nСоответственно, Нолан не мог не включить проблему труда в свою диаграмму просто по определению, иначе бы он не был капиталистом, только результат получился крайне неудовлетворительный. Отчего же так? Потому что в его любимый угол попали и крайние идеалисты-анкапы, и вполне себе государственные акулы капитализма, на которых либертарианцы молятся: все эти Рокфеллеры, Морганы, золотые запонки с долларом и т. д. и т. п., которые мало того что плевали на личную свободу своих рабочих (Форд вообще докопался до каждого: с кем и как он спит, ходит ли в церковь, играет ли в карты и сквернословит ли), так еще и опирались на государство, жили с ним в трогательной синергии и вовсе не желали его упразднения (как Теодор Вейл, отец монополии AT&T на связь, ставшей возможной только благодаря государству).\n\nИ вот здесь вылезает самое смешное: формально-то по Нолану их запихнуть вообще некуда! Нет ни одной ячейки для циничных сволочей, которые плевали на любые идеологии (а американские бароны-разбойники были такими же либертарианцами, как Сталин), а просто добивались власти. Ну, Рокфеллер, положим, считал себя хорошим WASP, был фанатиком-баптистом, каждое воскресенье ходил в церковь (и многие гиперкапиталисты той эпохи тоже), но это общее наследие кальвинизма: если ты богат — ты благословлен, так становись же богатым и плевать на все прочее. Кошмарная голландская V.O.C., первая транснациональная корпорация в истории, вырезала в Индонезии больше народа, чем Пол Пот в Камбодже, а ее Heren XVII (Семнадцать господ, всемогущий совет директоров, имевший частную армию и флот, чеканивший свою валюту и объявлявший войны государствам) были хорошими кальвинистами и глубоко верящими в праведность своих действий людьми, тем не менее действовали они вполне рационально, эгоистично и хладнокровно, не страдая излишним идеализмом, их настоящим богом была только прибыль.\n\nВ соответствии с этим я предлагаю окончательно отправить эти ярлыки на свалку истории и не употреблять их ни для чего, кроме того, для чего они были исторически предназначены, т. е. описания заседаний Национального собрания Великой Французской революции. Попытки починить схему Нолана, накидывая туда дополнительные измерения, тоже можно считать неудачными, т. к. схема загромождается, а яснее — где у нас лево, где право — не становится. Чем же более приближенным к реальности можно ее заменить? Двумя новыми, более простыми и логичными осями. По горизонтали мы отложим Идеализм (вера в догму, утопию, высшую цель) против Цинизма/Реалполитик/Социал-дарвинизма (прагматизм, сухой расчет, выживание, выгода). По вертикали же мы возьмем Волю к власти (контроль, подавление, иерархия) против обобщенной Тяги к свободе (децентрализация и автономия личности). Это большой и интегральный критерий, т. к. человек может выступать, например, за свободу вероисповедания, но против свободы употребления наркотиков, но в таком случае мы не признаем его находящимся достаточно высоко по этой шкале. Проще всего этот тезис сформулировал однажды известный математик-анархист Вербицкий: «Если вы хотите свободы, требуйте свободы для нацистов, педофилов, гомосексуалистов, вообще для всех. Потому что люди делятся на сторонников свободы и противников. Тем, кто не любит свободы, свобода все равно не нужна. А те, кто любят свободу, ее заслужили».\n\nЭтот компас, наконец-то, сшивает те дыры в политологии, о которых мы говорили выше, потому что он оценивает политиков не по их лозунгам («за рабочих» или «за капитал»), а по их психотипу, мотивации и реальному методу действия.\n\nДавайте посмотрим, что нам это даст на практике. В квадрант властных циников и прагматиков тотального контроля залетят как родные и угнездятся рядом Иосиф Сталин и Джон Рокфеллер (как и все бароны-разбойники, от Армора, Моргана и Гулда до Форда, Карнеги, Вейла и Томаса Уотсона), Сесиль Родс, Муссолини и Саддам Хусейн. Им всем нужна была только власть ради власти, стабильности и личного триумфа. Утопии их не интересуют, они используют их только как ширму для масс. Главное — эффективность системы и тотальный контроль над ресурсами. Эталонами и завсегдатаями этого сектора являются также Венецианская синьория, отец Realpolitik Отто фон Бисмарк, обе правящие партии США, латиноамериканские диктаторы почти поголовно — от Перона и Батисты до Пиночета. Сюда же подходят и Тэтчер, Индира Ганди, Насер и маршал Тито. Сюда же попадут и множество деятелей Третьего рейха, не страдавших фанатизмом, таких как совершенно честный эпикуреец, сибарит, коррупционер, циник и наркоман Геринг («я сам решаю, кто у меня еврей») и технократ Шпеер («дайте мне уже что-нибудь построить»), как и Дёниц, Гудериан и прочие командующие.\n\nВ самый страшный квадрант — властных идеалистов и мясников утопии — попадут Пол Пот, аятолла Хомейни, Робеспьер, Савонарола, руководство ИГИЛ, Кальвин и подобные личности. Это люди, одержимые великой идеей (построить коммунизм, Халифат, Царство Божие), ради которой они готовы сжечь миллионы людей. Власть для них — инструмент перекраивания человечества. Сюда же попадают многие традиционно левые, от Карла Маркса до Кастро, Хо Ши Мина и Че Гевары. С некоторой натяжкой тут поселится и Наполеон Бонапарт (хоть и ближе к границе с цинизмом). Он искренне верил в Разум, Прогресс и Кодекс и считал, что строит упорядоченный, секулярный, передовой мир, избавленный от средневекового хаоса. Ради этой прекрасной правовой империи он уложил в землю миллионы людей и подчинил себе всю Европу. Мао — вот настоящий титан этого квадранта. В отличие от Сталина, который был прагматичным менеджером, Мао был фанатичным идеологом. Его не волновали стабильность государства или экономика, он верил в утопию нового коммунистического человека до самого конца. Энвер Ходжа и Чаушеску калибром куда меньше, но тоже обитают тут. На границе со Свободными идеалистами тут поселятся фабианцы и утопические социалисты типа Бернарда Шоу, Герберта Уэллса и прочих Сен-Симонов. Почти все они верили, что общество должно жестко и тотально контролироваться государством, а управлять им должна экспертная элита ученых-чиновников. Многие из них (включая Шоу) открыто восхищались Сталиным и Муссолини за их способности «эффективных менеджеров». Гитлера мы тоже найдем здесь, хоть его утопия и была чистым безумием (как и многие прочие утопии), вместе с его главными жрецами — Гиммлером и Геббельсом.\n\nВ квадрант Свободных идеалистов и романтиков автономии попадут такие люди, как Диоген Синопский, ранние христиане до того, как они стали государственной церковью, Махатма Ганди, Лев Толстой, хиппи 1960-х. Они верят в прекрасное, справедливое будущее или в абсолютную мораль, но категорически отвергают аппарат насилия, государство и принуждение, и хотят, чтобы люди пришли к свободе добровольно. Сюда же попадают и многие искренние либертарианцы со своим NAP. Все они идеализируют человеческую природу и считают, что, если убрать угнетение (государство, налоги, армию), люди сами организуются в прекрасные, мирные общины. Из-за отсутствия воли к власти этот квадрант исторически беззащитен — его представителей обычно первыми пускают под нож Властные идеалисты или подчиняют себе Властные циники. Михаил Бакунин люто ненавидел государство в любой форме и разругался с Марксом, гениально предсказав, что, если марксисты придут к власти, они построят самую страшную тиранию в истории. Но Бакунин был идеалистом: он верил, что стоит только поджечь фитиль всеобщего бунта, как люди сами собой объединятся в свободные федерации без всякого принуждения, так что он тоже попадает сюда. По соседству с ним уютно устроились Пьер-Жозеф Прудон и князь-анархист Петр Кропоткин, пожалуй, самый благородный и чистый свободный идеалист. Он искренне верил, что без государства люди будут жить в абсолютной гармонии, делясь всем потребным по принципу анархо-коммунизма.\n\nСамый адекватный, с моей точки зрения, — последний квадрант, Свободные циники и прагматики свободы. Они страстно хотят свободы лично для себя и своей группы, но у них нет иллюзий по поводу человечества. Они не верят в братство людей или светлое будущее. Они понимают, что мир жесток и эгоистичен, и строят свободу на основе чистого прагматизма. Сюда попадает более воинственное крыло либертарианцев, шифропанки и криптоанархисты, батька Махно, пираты Карибского моря XVII века и авторы Конституции США. Они не пытаются построить утопию, а пытаются выгрызть себе кусочек свободы в этом унылом мире. Сюда же попадают выдающиеся практики анархии, такие как Росс Ульбрихт и даже, отчасти, Айн Рэнд. Её часто по ошибке суют к консерваторам, но она их презирала. Рэнд — свободный циник в самом чистом виде. Никакого «братства людей», никакого альтруизма и самопожертвования (в этом она вообще видела корень фашизма и коммунизма). Общество, по Рэнд, должно состоять из жестких, независимых эгоистов, которые взаимодействуют исключительно через свободный рынок и капиталистический обмен, где никто никому ничего не должен.\n\nКак обычно, чтобы теория была рабочей, она должна объяснять недостатки предыдущей, и новый компас хорошо закрывает все недостатки старого. Он мгновенно объясняет, почему современные woke-активисты так легко находят общий язык с ИГИЛ и Ираном, когда на традиционном компасе они на разных полюсах. Просто у тех и у других есть священная догма и колоссальная воля к власти, психологически они родные братья. Сталин и Рокфеллер здесь совершенно одинаковы — это просто два менеджера, управляющих человеческим скотом, а Пол Пот и Хомейни — два безумных пророка, решивших, что они имеют право этот скот переделать. Маркс и Бакунин были соратниками по Первому Интернационалу, но Маркс ушел в верхний квадрант Властных идеалистов, а Бакунин, наоборот, в нижний — Свободных идеалистов, и они стали смертельными врагами. Рокфеллер и Айн Рэнд считаются иконами капитализма. Но Рокфеллер (Властный циник) уничтожал свободный рынок, создавая монополию с помощью госрегулирования и взяток, а Рэнд (Свободный циник) считала таких монополистов предателями капитализма и паразитами на теле свободных творцов.\n\nhttps://ancapchan.info/wp-content/uploads/2026/07/compass.jpg
+---
+[67] 07-06 23:09 9ca0bd745074 b564e47fbdcf
+https://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/bfd39e8f525454928625ef947d59cf6923f7f4f6a54d43990ed741758c5e3221.jpg\n\nSamba\n https://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/2f924f93edfb3f98db33f6c5a8061ab0dd6b50e00d62b7c0c99e54588ceb0e12.jpg
+---
+[68] 07-06 23:03 f56b0cab024f 707ebbb31222
+https://youtu.be/1UZeHJyiMG8
+---
+[69] 07-06 23:02 f56b0cab024f a59e3a67815c
+https://youtu.be/RH_pNS7nBvM
+---
+[70] 07-06 23:01 88a26d85b87c deba2df5478d
+トランプ政権の「戦略的ビットコイン準備金」構想、法的・行政上の課題に直面: Bloomberg\n\n Bloombergによると、トランプ政権が構想する「戦略的ビットコイン準備金（Strategic Bitcoin Reserve）」は、法的・行政上の課題に直面している。当初は米財務省が管理する予定だったが、政府保有ビットコインを保有・運用する法的権限が財務省にあるか疑問視されている。このため政権は、商務省への所管変更を含む代替案を検討しており、司法省法務顧問室（OLC）が財務省と商務省と協議しながら、法的に実現可能な制度設計を進めている。\n\nhttps://bitbank.cc/knowledge/breaking/article/8qqhnc5mf
+---
+[71] 07-06 23:01 88a26d85b87c 20a7df22dac0
+Grayscale、Strategyによるビットコイン売却は資金調達体制への市場の信頼回復につながると評価\n\n Grayscaleは、Strategyによる最近のビットコイン売却は資金調達体制への市場の信頼回復につながり、ビットコイン相場の底打ちをより確かなものにするとの見方を示した。Strategyは約520億ドル相当のビットコインに対し負債は約70億ドルと財務基盤は健全で、今回の売却により現金準備は約25億5,000万ドルへ増加し、優先株配当の約17か月分を賄える水準となった。JPMorganが売却方針は市場の不確実性を高めると批判したのに対し、Grayscaleは資金繰りへの懸念を和らげることで長期的な下振れリスクを低減し、ビットコイン市場の安定化につながると評価している。\n\nhttps://bitbank.cc/knowledge/breaking/article/f6_670lfui4
+---
+[72] 07-06 23:00 88a26d85b87c 1193faf021e3
+トランプ一族支援のAmerican Bitcoin、新たに500BTCを追加取得\n\n トランプ一族が支援し、Hut 8と共同設立したビットコイン蓄積企業American Bitcoinは、新たに500BTCを追加取得し、保有量を8,000BTCへ拡大した。これにより、公開企業として世界16位のビットコイン保有企業となった。一方、NASDAQ上場維持を目的として1対15の株式併合を実施し、発行済み株式数は約10億9,000万株から約7,300万株へ減少する予定だ。同社株は年初来で60％超下落しているが、ビットコインの積み増し戦略は継続している。\n\nhttps://bitbank.cc/knowledge/breaking/article/7wtfz20q-s
+---
+[73] 07-06 23:00 dffd3ffc3aab e84a118eedbb
+そんな本あるんだ\nhttps://x.com/wholyov0je9537/status/2071899783984472281
+---
+[74] 07-06 22:49 71ecabd8b6b3 3710a0d4d9f1
+https://blossom.smartflow.social/dd3e3f6e8e53bca0b61b1b93a0b535a90fc978e121c307174c829b6329caac57.jpg
+---
+[75] 07-06 22:39 b25e56b72c67 9dc1b27f1548
+https://x.com/BKBbunbun/status/2074011222220120178
+---
+[76] 07-06 22:36 2dadc402e7fc d5d45b45f5e4
+教育費用がやたら高くなるのと似た問題。スポーツの公平性を毀損した方が儲かる構造がある。そして「成功」につながる道の入り口が高コストなほど富裕層は有利になり格差は固定されていく。\nhttps://htn.to/2dRyWbZhqC
+---
+[77] 07-06 22:33 bc02e0a6c0f0 a04d3c6a440a
+Your daily dose of princess puppy 🥰🐶🥰\nhttps://i.nostr.build/o14nf4Dj5Vr21MBl.jpg
+---
+[78] 07-06 22:30 19f9afb8f855 dd2c141f9ece
+Less than an hour later...\n\nhttps://npub1r8u6lw8c2h67s66magtqu78vtpckfzcsmmdsg06gqm723njsunfs8kfjwl.blossom.band/0ba9780e5f6947fb590ba83879d152a0275d956e0ef406bf5899ac2b6c387f4a.mp4\nnostr:nevent1qqsr4lgtj90v2g82mw3fqt2h7h7typ2fkm0qu83ypzcemej25q6e6lsprdmhxue69uhhg6r9vehhyetnwshxummnw3erztnrdakj7q3qr8u6lw8c2h67s66magtqu78vtpckfzcsmmdsg06gqm723njsunfsxpqqqqqqzu2lxxz
+---
+[79] 07-06 22:28 cac0e4323580 e2339de62d99
+https://npub1etqwgv34spk6p98s0pa9kp8zntgyevdrcl49eas7mswr8pe5pq4sfj8ues.blossom.band/01f5710f430cc711fd1aa9166a55c99942cbdd83172f6488483d7de6392a73f9.png\n\nThey kidnapped the president of one country, killed the leader of another, but on the news they have "Iranian police are shooting at dick."
+---
+[80] 07-06 22:26 bb700f759b64 83dcd9e69f21
+今夜天の川は見れるのかなぁ\n\nhttps://weathernews.jp/news/202607/060151/
+---
+[81] 07-06 22:19 ee6ea13ab9fe 9b81f37c363d
+Still unlisted until the next version comes out. You can get the current release here, or install the latest version from GitHub.\n\nhttps://sidecar.top
+---
+[82] 07-06 22:18 4eb88310d6b4 2739efdf30c5
+https://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/f29c8256fdd14cf11f0e57c4c48a85fd288cdf3450956d26c4e139c9249128ce.jpeg\n\n#IKITAO
+---
+[83] 07-06 22:16 d735231e8eeb 89b87e7c97bb
+【[アップデート] CloudWatch Application Signals に Service Events が追加され、例外やレイテンシ異常・デプロイイベントを自動的にキャプチャできるようになりました】\nCloudWatch Application Signals に新しく追加された Service Events 機能を、ECS Fargate 上の Python アプリで実際に試してみました。例外のスタックトレースやデプロイイベントの自動キャプチャ、レイテンシ異常の検知など、コード変更なしにサービスのイベントを可視化する方法をご紹介します。\nhttps://dev.classmethod.jp/articles/cloudwatch-service-events/
+---
+[84] 07-06 22:13 ee6ea13ab9fe 87c3df5824f7
+Hurry the fuck up and approve my 1.2.0 version, Google. I’m already on 1.3.0. \nhttps://onlydans.blossom.band/042a05ffce9fb204053f778cc079c507c656fe3a740fab5ba24b7489c4d168ac.png
+---
+[85] 07-06 22:13 d735231e8eeb c1e9db49a80f
+【DSQL用のPrismaツールを使ってみる】\nAWS公式によるDSQL用のPrisma CLIツールを実際に使ってみました。スキーマ検証からマイグレーションSQL の自動変換まで、その実装方法と活用方法についてまとめます。\nhttps://dev.classmethod.jp/articles/aurora-dsql-prisma-cli-tools/
+---
+[86] 07-06 22:12 e3a59924933c 0007726fced4
+https://blossom.primal.net/325703d1be11c8fc22ac7d47a06e70d5490ca9dd95c26116f6bc94629040eb63.jpg
+---
+[87] 07-06 22:10 efef9a305267 1964fd07e60b
+PRAY, SHARE, GIVE, JOIN THE TEAM! \nhttps://japanmission.org/partner-with-us/\n\nhttps://image.nostr.build/21167434d1bebafd5122ac646f05578b84338eb9adc2d31aeb35d99ca0c782a8.jpg
+---
+[88] 07-06 22:04 101a112c8adc 002ecb77ff7b
+That works, but it is more steps than I care to use. I like the accessibility of boosting from my phone. I've been using https://www.boostmebitch.com from my laptop. 
+---
+[89] 07-06 21:57 d9c4cfe3cab8 512746c0ebf4
+#今日の筋トレ\n#ケトルベル 32㎏ \nスイング20回5セット\nトルコ式ゲットアップ左右2回ずつ3セット\n\n暑い🫠\n\n#Kettlebell\n#гиря32кг\n\nhttps://image.nostr.build/51cadffad1b909e3bce2004bcecf214218caf96549ddf9bbe7a41b81a3d83ccd.jpg
+---
+[90] 07-06 21:51 88a26d85b87c c5f63ceffe9b
+Summer.fi、6Mドル流出で金庫機能を停止\n\n CoinDeskによると、DeFiプロトコルSummer.fiは、約600万ドル相当の不正流出を受け、自動利回り運用サービス「Lazy Summer」のVaultsを停止した。攻撃者はフラッシュローンを使い、USDC Vaultの会計処理の不備を悪用して資産額を水増しし、利益を引き出したとみられる。事件後、同プロトコルのSUMRトークンは18％超下落した。\n\nhttps://bitbank.cc/knowledge/breaking/article/c-yzxbq6ap
+---
+[91] 07-06 21:50 88a26d85b87c 4a9c929e1c14
+Cantor、Strategyの回復にはSTRCの額面回復が重要と分析\n\n CoinDeskによると、Cantorは、Strategyの回復には優先株STRCを額面の100ドル近くまで戻すことが重要だと分析した。同行は、STRCの安定が同社の資金調達モデルの土台であり、Bitcoin取得を再開するための条件になると指摘した。StrategyはSTRCの配当資金に充てるため、2億1,600万ドル相当のBitcoinを売却した。\n\nhttps://bitbank.cc/knowledge/breaking/article/qhy7zx_n4id
+---
+[92] 07-06 21:48 84b0c46ab699 0694338cc218
+？ https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5/e4d178afd789c5f68f4c89fb9bacc4dc3b7c3dd35cb1cd58d4453018f336c61c.webp
+---
+[93] 07-06 21:41 ee1e7f27fa06 e0df70cc6396
+#foodstr #japan\n\nhttps://image.nostr.build/e87a7bf365db1ca181835bbe9ee995e27b87808e4944a28015e3488a6c4910bb.jpg
+---
+[94] 07-06 21:40 6e468422dfb7 4ee7e094c85f
+GN https://haven.dergigi.com/de6c4ce92ffccfee9f86837b4310a267be13f43101405d102e153c57bfbaffe7.jpg
+---
+[95] 07-06 21:37 19f9afb8f855 3afd0b915ec5
+Ever look up and feel like you're on your own version of The Truman Show?\nhttps://npub1r8u6lw8c2h67s66magtqu78vtpckfzcsmmdsg06gqm723njsunfs8kfjwl.blossom.band/7e5b15496172f830992ac42af88f302676adccd790b6adda4649f88963c2204b.jpg https://npub1r8u6lw8c2h67s66magtqu78vtpckfzcsmmdsg06gqm723njsunfs8kfjwl.blossom.band/3781da38b7c0ca78fede4360074c417dc5fbc25d353ab8d1acaa58972e153326.jpg\n\n#thecloudsarentevenmoving #stupidfakeskyinthesimulation
+---
+[96] 07-06 21:27 b3e43e8cc7e6 4482292fc2e9
+⛩️でばっぐ神社に参拝しました\n獲得ポイント: +1 pt (合計 2147 pt)\n戦闘力: 17542 → 17556 (+14)\nレベル: Lv.42\n更新リポジトリ: 2 / アクション: 3\n#でばっぐ神社\nhttps://d-shrine.jp/
+---
+[97] 07-06 21:24 ce643487280a b7f7fb9caa46
+https://youtu.be/wRgDybQ8WWg
+---
+[98] 07-06 21:23 7b73abe05caa 826a9b9589d5
+★┷┓\n┃幸┃\n┃せ┃\n┃に┃\n┃な┃\n┃れ┃\n┃ま┃\n┃す┃\n┃よ┃\n┃う┃\n┃に┃\n┗━★\n 短冊メーカー https://goo.gl/3wr2TE
+---
+[99] 07-06 21:20 88a26d85b87c 953a094e1dc0
+Securitize、上場後の400Mドル資金で買収検討\n\n CoinDeskによると、SecuritizeのCarlos Domingo CEOは、ニューヨーク証券取引所への上場後に得た4億ドル超の資金を活用し、事業拡大に向けた買収を検討すると述べた。同社は競合ではなく、機関投資家向けトークン化サービスを補完する企業の取得を目指す。SecuritizeはBlackRockやApollo、KKRなどにトークン化証券の発行や管理基盤を提供しており、発行済みトークン化資産は約44億ドルに上る。\n\nhttps://bitbank.cc/knowledge/breaking/article/zx42sx0qifno
+---
+[100] 07-06 21:10 88a26d85b87c 96a5c916d88f
+Ethereum開発者、Buterin氏の長期構想を支持\n\n CoinDeskによると、Ethereum共同創設者Vitalik Buterin氏が更新した長期構想「Lean Ethereum」に対し、主要開発者や研究者から支持の声が出ている。構想では、Ethereumをより高速で低コスト、プライバシー性が高く、量子コンピューターにも耐性を持つネットワークにすることを目指す。一方、開発者の間では、何を作るかよりも、計画をどれだけ早く実行できるかが最大の課題だとの見方が広がっている。\n\nhttps://bitbank.cc/knowledge/breaking/article/4g94gmlrs
+---
+[101] 07-06 21:10 5bee7f841727 a813b6ac1609
+Ich bin genau wie Bitcoin im Bärenmarkt nostr:nprofile1qqsqm3pkp0zy4jpmt4y9lxr4sfv9w94pkm0xp95mdz6cyx9mrxmzz3cprfmhxue69uhhqun0ve5kcetn9ehx7um5wgcjucm0d5hszxrhwden5te0v35hyetrw3hhy7fw09skyafwd4jj7qgkwaehxw309aex2mrp0yhxg6t5w3hjuur4vghsvyzl05 https://24242.io/5fe1d982f90f102d62c2b8bc9324f8d28276db6904ea0bd6c49300f94266b859.jpg
+---
+[102] 07-06 21:00 88a26d85b87c f60ffd229ca2
+USDC、ステーブルコイン取引量の7割占める:Visa\n\n CoinDeskによると、Visaのオンチェーンデータで、2026年上半期の調整後ステーブルコイン取引量に占めるUSDCのシェアは約70％となり、約25％のUSDTを大きく上回った。6月の調整後取引量は前月比63％増の1兆7900億ドルと過去最高を記録した。銀行など金融機関による決済や資金管理での採用が拡大しており、Standard CharteredやBNYもUSDC関連サービスを導入している。\n\nhttps://bitbank.cc/knowledge/breaking/article/to1473613cd0
+---
+[103] 07-06 20:56 5bee7f841727 4fbaa42764ec
+Danke nostr:nprofile1qqsqkfh4jp33krarqjx3qdqsujzwtc3w94dgan4vak5ajxeclqwar2qpz9mhxue69uhkummnw3ezuamfdejj7qfqwaehxw309ahx7um5wghx26tww4hxg7nhv9h856t89eehqctrv5hsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0e0a60f für dieses Shirt. Auf der #Zitadelle2026 bestellt heute bekommen. Das Logo ist eine Sonderanfertigung. #Bitcoin nostr:nprofile1qqsqx84rqcvglmnrr2r0rg8ynnhg70tzty4ju7l9lr430z8ryldngzspzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpzdmhxue69uhhqatjwpkx2urpvuhx2ue0qy88wumn8ghj7mn0wvhxcmmv9udah6g6 nostr:nprofile1qqstrlm5tydew998u4fqg0ad2n2c0w6mxwxpkmsk3drh8lufzpwhsqgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz8thwden5te0dehhxarj95crztnev94kj6r0dehx2tnrdakj7qgwwaehxw309ahx7uewd3hkctcpu7clz https://24242.io/3d0fbeba0c7e3d55f66d075d6841222a971d8b9d33e104441c2f7d937be7f303.jpg
+---
+[104] 07-06 20:49 7fbc5c9944e0 fd71eed68950
+バックモニター見なくしたら 駐車できるようになてきたかも\nhttps://share.yabu.me/7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8/3509a88e1ed33ce0e2b7db83b79425671b5548e3b9d00d991825e3d93fa2e31b.webp
+---
+[105] 07-06 20:36 19f9afb8f855 2de83443a1f6
+#homeschoolmamahands\n\nhttps://npub1r8u6lw8c2h67s66magtqu78vtpckfzcsmmdsg06gqm723njsunfs8kfjwl.blossom.band/9a6445ac0a67edadf5613898976a5fb1c7db9d9b49fdfacf2688a2e4bf65e160.jpg
+---
+[106] 07-06 20:34 b7cf9f42a796 0000b4b06c6c
+Underground actually just does not emit much magnetic field. The cables are so close to eachother, that they counter their fields.\n\n"The magnetic field is weaker directly under an overhead line\nthan directly over an underground cable. On the other hand,\nthe reach of the magnetic field is lower from an underground\ncable because the arrangement of the cables partially cancels\nout the fields."\n(https://www.swissgrid.ch/dam/jcr:417fefcd-f488-4a62-ab48-e489b6d5d805/overhead-line-underground-cabling-en.pdf)
+---
+[107] 07-06 20:19 ec9bd7465546 79fd7d1bd798
+Hey nostr:nprofile1qqsx8lnrrrw9skpulctgzruxm5y7rzlaw64tcf9qpqww9pt0xvzsfmgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxthwden5te0wfjkccte9eekummjwsh8xmmrd9skctcprfmhxue69uhhq7tjv9kkjepwve5kzar2v9nzucm0d5hs6k95g2 I'm still using void_cat_rs at https://shaving.kiwi can I use Route96 as a drop in replacement? I don't need anything more than a whitelist. 
+---
+[108] 07-06 20:18 1e67de375417 fc042a5aa460
+RepoStore - The App Store for GitHub Releases \nhttps://repostore.in/
+---
+[109] 07-06 20:18 1e67de375417 80d6aa8621da
+Software Is Now Written at the Speed of Thought. Security Isn't. \nhttps://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/
+---
+[110] 07-06 20:17 273f8cb9be4a 67cc278baae6
+Today is Tanabata.\nA day to make a wish upon the Milky Way in the night sky.\nI love Japan's Tanabata festival.\n\nTales of a Little Girl Magazine cover(1931)\nhttps://blossom.primal.net/984da7b389dd2ed73be2a098062a86c565666f8bac1a05bb4bca8b831508928e.jpg
+---
+[111] 07-06 19:56 ee6ea13ab9fe 0000349df527
+Bought a domain name and redirected the old one.\n\nStay classy, Nostr. 🍸\n\nhttps://sidecar.top\nnostr:nevent1qqsrh9k45j4wx6vh8yh0q93apqafjypq2uh4t0kwkqp9ppepgam0uaqzyrhxagf6h8l9cjngatumrg60uq22v66qz979pm32v985ek54ndh8g787fwn
+---
+[112] 07-06 19:53 4eb88310d6b4 7b1db366d639
+Like everyone else, you want to learn the way to win, but never to accept the way to lose, to accept defeat. \n\nTo learn to die is to be liberated from it. \n\nSo when tomorrow comes, you must free your ambitious mind and learn the art of dying!\n\n— Bruce Lee https://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/bb0e0be491b4f01b6bb0e08e5a26aabe9adfd2f20a3f5c69691bebaf22411f0f.mp4\n\n#IKITAO #BruceLee
+---
+[113] 07-06 19:47 eeeaf7df650d 6ba6757e4775
+https://cdn.nostr.build/i/51bd905625e7aabe6917c178ae8719150cf95310e6534469f55e5e39dfdfad28.jpg
+---
+[114] 07-06 19:45 4eb88310d6b4 40a02f4396a4
+🫂😎\nhttps://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/a5c84bd72153d09f18f849ed2561d736591cf7d11577ed6f4bef56a9688be91b.webp
+---
+[115] 07-06 19:40 2944e915ba71 b127ff18a9f9
+htop explained | peteris.rocks\n\nhttps://peteris.rocks/blog/htop
+---
+[116] 07-06 19:39 55d2c9343ba0 2c7a27f3c607
+Illinois buck, spotted right off the bike path\nhttps://blossom.primal.net/b33572201c55ab1b399ae6525a75ea772ab15108516a277c4f379135edf3e6b3.jpg\nhttps://blossom.primal.net/32ce5a0f7a320aed5b47b1d3c0cfc65642aa4c0a1066bf332e8ad00f08670505.jpg
+---
+[117] 07-06 19:35 1ea4ae8405ad ba3cce4af75a
+🐉☀️☕️.\n\nhttps://image.nostr.build/3600d6b52b3034dc2d698710cd34179ad9bc969711694b28f693570d4f028b68.jpg\nhttps://image.nostr.build/315fb4766c6a56a4fcb92079eefb45f519ed62753ba1faa08c7cae023f99ee6b.jpg
+---
+[118] 07-06 19:30 c7acabf1fed2 c52afa0eb7f9
+Howard Johnson Hotel in Portage la Prairie, Manitoba, Canada hotel owners charged with trafficking employees who were underpaid, threatened with deportation.\n\nIndians taking on big loans to buy Canadians hotels, then trafficking other Indians through the foreign temporary worker program. I have seen it myself. Immigrant workers don't speak English, live on site, with the owner, the Howard Johnson's corporate office looks the other way.\n\nhttps://www.cbc.ca/news/canada/manitoba/portage-la-prairie-hotel-trafficking-charges-1.7572030
+---
+[119] 07-06 19:27 f901616f00a6 cb74c8942185
+\n\nhttps://cdn.nostr.build/p/nb5594.gif\nnostr:nevent1qqsr270tmp03vfdfw6j68glqsurwunnh04a0zchgk4qk73rnun5vvncz9etcj
+---
+[120] 07-06 19:25 1ea4ae8405ad 58acc78fbff7
+📰☕️ \n\nhttps://www.threads.com/@alarabiya_eng/post/DadneueG8MG?xmt=AQG0lCXdwFPg5PVfrafdiKUAbm4oihUUrVAtGFwlYn-enaNNmZwy8S0yrvMxEtzZ-9fjeUa5&slof=1
+---
+[121] 07-06 19:19 4eb88310d6b4 b7955721db04
+Jon Bon Jovi - Blaze Of Glory\nhttps://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/0eda2ccb0d83e06e6cdc7def93c2a72b8a6f14826e007f7b2816e77a57aef81c.mp4\n\nYT\nhttps://youtu.be/MfmYCM4CS8o\n\n#JonBonJovi #Music
+---
+[122] 07-06 19:19 1ea4ae8405ad 005d60fec0eb
+shitcoiner derisking exodus. \n\nhttps://en.wikipedia.org/wiki/Alan_DeBoer?wprov=sfti1#
+---
+[123] 07-06 19:18 71ecabd8b6b3 2b91d4fcb999
+https://blossom.smartflow.social/9a20e6f8a30f8f5869a8388bbfbf384a040b4737fc46ef4f6c7925d7edb2314b.jpg
+---
+[124] 07-06 19:18 1ea4ae8405ad b2f69e7c0be4
+can i say something without y'all yelling at me this time? ..... 🚬📰☕️\n\nnevent1qqspckkufjr40knu76yhu4j4v8kd53t07g08pm6lm9aap7uqcrf6qvcy87epw\n\nhttps://image.nostr.build/1ed0b61c2af7bb1d74436c579bffdaf9bc70c35cb6cf5efb3277ad6295ee5b3c.jpg
+---
+[125] 07-06 19:15 9ca0bd745074 bb472cfaa7dc
+https://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/f1d648aa42c11c35711cabe88532b69ea50623fb72b4f4b0450c6ddf60522639.png
+---
+[126] 07-06 19:13 d735231e8eeb 93a3aaccc3d5
+【AgentCore ハーネスで29分間に $5.63 の課金が発生した理由を CloudWatch メトリクスで調べてみた】\nAmazon Bedrock AgentCore のハーネスでコスト異常が発生。CloudWatch メトリクスで1分単位の課金推移を分析し、スケールアウト挙動と1セッションあたりのメモリ消費を特定しました。\nhttps://dev.classmethod.jp/articles/bedrock-agentcore-harness-cost-analysis/
+---
+[127] 07-06 19:08 1ea4ae8405ad 5af54f994acd
+the only ones recognizing the danger - always the environmental lobby, with the ground network. ☀️\n\nhttps://www.instagram.com/p/DTydV0zki7W/?igsh=NTc4MTIwNjQ2YQ==
+---
+[128] 07-06 19:08 dd664d5e4016 e418fb5264b7
+These people need to learn.\nhttps://www.derebus.org.za/wp-content/uploads/2021/11/Francke-1-1536x1025.jpg
+---
+[129] 07-06 19:04 101b30ee88c2 4c0a5ebb5d22
+夜職系の店、\nソープはバンバン摘発されてるし\n決済代行サービスは破産してるし\n今年でだいぶなくなりそう。\n\nそういえば、ビットコインとイーサリアムで決済できる夜職系の店があるって、オーキド博士が言ってた。\n\nhttps://x.com/ryu_pi_110/status/2074155745604681970\n\nhttps://image.nostr.build/e282994ce0821a875f57f328a7974288a3fe03aae135d99a0fe75314c5859cec.jpg
+---
+[130] 07-06 19:04 f0e59458d5da 98d7b68aa914
+#nsfw\nhttps://x.com/umaigaki/status/2074140877396812100?s=20
+---
+[131] 07-06 19:01 dd664d5e4016 68fabc1278b0
+https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention
+---
+[132] 07-06 18:56 21ac29561b5d 7b89ef08d9fe
+NIP-46ログインにサイナーアプリ（nokandroやAmber等）に nosterconnect:// を渡すボタンを追加\nhttps://share.yabu.me/21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df/7b4a6ba72f5a912806721248001754e73eab0aab35244827fb828c236375599c.png\nhttps://share.yabu.me/21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df/66bc20af18f5be5eaac90b010dbb85b7912a085b3621819153a4194d2a314e9d.png
+---
+[133] 07-06 18:56 dd664d5e4016 30f95e887abf
+https://www.facebook.com/story.php?story_fbid=1017048371083620&id=100083353988428
+---
+[134] 07-06 18:54 dd664d5e4016 cc39faf59683
+https://media1.tenor.com/m/a0uoV6V62RQAAAAd/multipass.gif
+---
+[135] 07-06 18:48 1ea4ae8405ad 03e450ff800e
+y'all scared of the regime change you literally voted for, now? \n\nconsequences. 🚬\n\nhttps://x.com/euronews/status/2074186068207824944?s=46
+---
+[136] 07-06 18:35 9cbe03db7919 e82e02eda7ad
+😎 https://npub1njlq8kmer8g5nlz9qfpx2l3jy5vla4ymyhmde42fq5k4ndg6mgtqgg7uns.blossom.band/3f7f67a9b0af64e4a4c77d193dd109e706fc447e19789d98ead7a4e9eb9bf2a7.jpg\n\n#bitcoin #nostr #Elon #SpaceX
+---
+[137] 07-06 18:24 1ec454734dcb f2aa18f50e0a
+https://blossom.laantungir.net/3ac7a35f93dfa9d686e25f05de2b7379fb98b1259dff899bd2b86be710566c99.webp
+---
+[138] 07-06 18:24 3ffac3a6c859 00000dcd374a
+https://blossom-espelhator.girino.org/fddedf51d6757f49d083b5fa31242e13eb9ccd7d33de0457916e0c908ed50d97.mp4\n\nSource: https://web.facebook.com/reel/27398007663142236
+---
+[139] 07-06 18:13 3a8298f05b42 00000e126c39
+https://blossom-espelhator.girino.org/c3dfb40ebee12455e236d3edd8ae312187217aeafdac5affd73e82ddf47a4a3e.jpg\nhttps://blossom-espelhator.girino.org/bbcb67f8ba0e68f03e7ecf9e24d4920a7b0f59bcdb325ffbadaee7d54076b684.jpg\nhttps://blossom-espelhator.girino.org/7b18a9ff66bc5d597cbc5c2a753a10ffec1c25fd02884c10833b3ba78050750f.jpg\nhttps://blossom-espelhator.girino.org/89552bb211c714abb0e24665a47779d6a0dae0b034a244a15b9052c1b82eefbd.jpg\n\nSource: https://web.facebook.com/photo/?fbid=122126893293221192&set=pcb.2453475135150330
+---
+[140] 07-06 18:07 9cba2871b9a4 544537047acc
+Cheers, Nostr!\nSome rosé makes life whole again. https://npub1njazsude53reg6e7jmz6jvvgyamf5twca93sn3px3yhxpsp9yakqwaf3t9.blossom.band/d8fbc1faa2e785232b5477ce99758c8138611c9c8ebc17ad478e1f0cdeeac2c4.jpg
+---
+[141] 07-06 18:01 ba18b6545357 f12eba5eae1f
+Woop woop 🎉\n\nhttps://i.nostr.build/55DXr3dshTB44lmo.gif
+---
+[142] 07-06 17:57 1e67de375417 2248e6d1ba51
+Le revenu universel, la solution de la Silicon Valley face à l'IA ? \nhttps://youtube.com/watch?v=VkQ2hKrdAM4\n#nostrfr
+---
+[143] 07-06 17:49 6e468422dfb7 83053b1c4b5b
+YES\n\n#YESTR https://haven.dergigi.com/7131b6cee4147a12fb55dd4ae7b4288710696cf7d7d04eaff00d73627fd3ba72.jpg
+---
+[144] 07-06 17:47 4eb88310d6b4 de284307f941
+Skid Row - Monkey Business\nhttps://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/c88df804e2eefcf955ceea43f2245ab376edb764f08eea121976fb89fdacca76.mp4\n\nYT\nhttps://youtu.be/2pkpsxEyi-k\n\n#SkidRow #Music
+---
+[145] 07-06 17:43 3ffac3a6c859 00000433cc77
+https://blossom-espelhator.girino.org/b04eb2b235feb0f3f5bf6ecfdee6e7b0054d117748f6a99f417bd479b1d7a7ab.jpg\n\nSource: https://web.facebook.com/photo/?fbid=10163118999550920&set=gm.4445591652425201
+---
+[146] 07-06 17:42 3ffac3a6c859 0000061f3fd7
+https://blossom-espelhator.girino.org/a7c1d1c8a64241fec7bcd64669e5c5e34bb313d606bf860ef99ebc2ee08dd2dc.jpg\n\nMatemática nunca foi complicado 🗿🍷\n\nSource: https://web.facebook.com/photo/?fbid=122133153687208640&set=gm.28406199205646945
+---
+[147] 07-06 17:42 942a0104689e b68a61fd7b79
+♥️🤍💙 Happy belated birthday USA ♥️🤍💙\n\nnostr:nprofile1qqspdudqzqx5ellme3prp68qus5se3vynsddcexkv5la5p7qxxcswjcprdmhxue69uhhw6r9v96zu6rpwpc8jarpwejhym3wvdhj7qgnwaehxw309ahkvenrdpskjm3wwp6kytcpzemhxue69uhhyetvv9ujuerfw36x7tnsw43z7uxkp2h \n\nhttp://blossom.happytavern.co/26ab3be8e3af8bc200848c65188bb9132b62ce4e3abc779bd7fd03524bb2a7e3.jpg http://blossom.happytavern.co/490d42f3cd1886866ccaf9e67b1d753067e552e48274a6ac3498b5405715b08f.jpg http://blossom.happytavern.co/74598edb8925fad6d8ac4415d5a159835b09ee274f87b87c7dd79b0aeee806a6.jpg http://blossom.happytavern.co/599fe340a33363478c46da9e6d25b9c0a3ef78e6d4edf86b0ffd4d5f8e8951a2.jpg http://blossom.happytavern.co/8a5bf47f8d9c5f513b09f800bc6adedab1d2a1038d58ebab6ad8d28ceec0e848.jpg
+---
+[148] 07-06 17:41 3ffac3a6c859 00000cffdfdb
+https://blossom-espelhator.girino.org/8123682d367c8e5bade80381cffa46fde38aaa0420da4ac2e94d63555cb18037.jpg\n\nNenhuma novidade #2026convocados\n\nSource: https://web.facebook.com/photo/?fbid=1465433245616046&set=a.651951463630899
+---
+[149] 07-06 17:30 a23ebaad0459 7e372541a8ea
+リピート中\n\nニセモノ ボッチチャン - ニコニコ動画\nhttps://www.nicovideo.jp/watch/sm46081998
+---
+[150] 07-06 17:29 f240c9c2510c e679b6789d14
+リズム天国、神ゲー\nhttps://image.nostr.build/17b2b2d5a6ac76259a74d9245dc2490b4c526c6d0dbd912c6dd3060fc7e83e95.jpg\nhttps://image.nostr.build/63aedddec7bf8e86cf2795591d1070483e6e2fc1cbc737c7b09eef6abeb7fe8b.jpg\nhttps://image.nostr.build/4bd8c8c0e11cbcc2dd2eb645f7328f919c55d315ba7c8da0e5cbaa1e5c67f352.jpg\nhttps://image.nostr.build/06c0997298fe8c27436316fbe76cc607c38b699f01cf47ac4920d6f80184ebd8.jpg
+---
+[151] 07-06 17:26 5f468793f907 0c60cc60986f
+遡ってたら 2021 に書いてた \n草ができる SNS 作ったよ \nhttps://cdn.targoyle.jp/img/t/1414428884804669441.png
+---
+[152] 07-06 17:23 748e78745f0f adcfc346dceb
+Carnet de voyage moto 🏍 été 2026, jour 8, lundi 6 juillet, 145 kilomètres. Monts du Forez puis du Livradois, passage de cols, charmants villages, forêts profondes, temps idéal ☀ détails dans l'audio et partage de photos 👀 https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/8009196bd021b885538b6d5dfb6ef2b39834bf4a770c5d2a0f5ea393ec46433f.mp4 https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/ae055749b4fe17ee8d86e8ad8ab24e6432bc8a68b4e41fa0d0671bed44be79a3.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/3b48aa7137dfc4a5a25d0f1dc04e7da6ef680278565e9999d732924538457494.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/4e29e239d5667cc6fc79cbf9eed76786e24afcf4aeddf0967d9f31d3627a2843.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/b8912ffb578095336fef55e002baf8264223d28a3f337a0d0c42987c76f10d13.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/f52f3b6abcf05e02fd7f1ac39e6491a0e51563ac220de7dc222ffed51e33a77e.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/a3b6f712e22a12c026a7f9c793fd2d0ad3c3fc7d914152406644fe82e68fc78a.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/4a03479f245279a91c3ce2efcade76701f80cb8e9df05d5869518e7442307b5c.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/6080ceb7a0ff0459658d644f6c378c4e6405022697faa6eb153762d67add6671.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/d09ef0cc86c469bbab95f0399c0b1884a0acc57387b377ba078b24f8cbc2e3ae.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/3c2358bb970054c19ac1508ead3ae753dd1b4060628245e24cf9952396519837.jpg
+---
+[153] 07-06 17:22 1ea4ae8405ad 1f98e3321468
+musil twins. ☕️\n\nhttps://www.instagram.com/reel/DadafF9pRc-/?igsh=NTc4MTIwNjQ2YQ==
+---
+[154] 07-06 17:20 5f468793f907 e3801456410c
+https://cdn.nostrcheck.me/5f468793f907165a97d145407e824c5f6ee82ab9884d070229ac67eff17e29c0/13d00dbe46397771d93f0808d016c4f5309e2573706c65cc9f94c348ba324cfe.webp
+---
+[155] 07-06 17:13 dd664d5e4016 3b13d8e345d5
+https://laeserin.blossom.band/b189135af3655662316d9dc8ec9e30024ba7eceff5fcf74e0d77e4b960647005.jpg
+---
+[156] 07-06 17:11 21ac29561b5d d6b6e8ce9203
+表示のクイック設定（ホーム右クリック/長押し）に「ミュートを適用」を追加\n「ミュートを適用」のオン/オフ時にソフトリロードするように変更\nhttps://nokakoi.com/app/
+---
+[157] 07-06 17:10 5f468793f907 4447cba1b22a
+https://cdn.targoyle.jp/img/t/1441424126774677504.png
+---
+[158] 07-06 17:07 2f29aa33c2a3 0000c8e10e23
+😂\nhttps://blossom.primal.net/5a9834fd2147876598ac354337e7a589661747216802a994d59f11d605e7281b.jpg
+---
+[159] 07-06 17:06 4c5d5379a066 93c8039c765f
+何気に便利な sessionmv  https://github.com/koteitan/my-skills/blob/main/bin/sessionmv
+---
+[160] 07-06 17:05 8c5923931963 79825cc3a02d
+かーぼん\nhttps://share.yabu.me/8c59239319637f97e007dad0d681e65ce35b1ace333b629e2d33f9465c132608/aaae7a8dfae7b9dfafe95b4c1eb0d505acaedb8efeba86414f67a83cd1957bdc.mp4
+---
+[161] 07-06 16:54 3ffac3a6c859 1625f611f7e3
+Feira dos Importados: esquema fraudulento desviou impostos por 17 anos https://share.google/ZwSyzro8lpW8XifpA\n\nBelo e moral
+---
+[162] 07-06 16:51 5f468793f907 f56baba4719d
+ヒナすき \nhttps://x.com/fantomyu/status/2073798879146057871 
+---
+[163] 07-06 16:50 4eb88310d6b4 2784d7f76633
+Guns N' Roses - Welcome To The Jungle\nhttps://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/67371688c9491674d15b37382866118a7bb553b3ddb26ff944c4c70e40f22c34.mp4\n\nYT \nhttps://youtu.be/o1tj2zJ2Wvg\n\n#GunsNRoses #Music
+---
+[164] 07-06 16:48 bd9aaa6e9715 4def58cc6094
+.\nThis always is what happens right before everything collapses \n\nhttps://youtu.be/dQoRC9te8Ek via https://iamdarkwaters.com
+---
+[165] 07-06 16:46 2f29aa33c2a3 00008fb05253
+😈\nhttps://blossom.primal.net/2dd8595bea0a905d3187a8df408408e5d3bf1435d00a0c80f33ac7cc6311ee24.jpg
+---
+[166] 07-06 16:45 4d39c23b3b03 d09256ffdc28
+nostr:npub1zqdnpm5gcfap8hngha7gcp3k363786phvs2etsvxw4nh6x9ydfzsuyk6mn 給料120万注ぎ込みませんか\n\nhttps://camp-fire.jp/projects/958338/view?list=search_result_projects_popular
+---
+[167] 07-06 16:44 3d82e8f6cc6c 23c23463daca
+One more Bitcoin sticker on the map.\n\nhttps://i.nostr.build/wOUxL5zW4vZScrnv.jpg
+---
+[168] 07-06 16:42 1e67de375417 eedd21c984e5
+Real problem also for crypto hardware wallets with SD storage...: "Seven Bugs in FatFs Put IoT and Embedded Devices at Risk" \nhttps://securityaffairs.com/194808/security/seven-bugs-in-fatfs-put-iot-and-embedded-devices-at-risk.html
+---
+[169] 07-06 16:41 5f468793f907 4abd3b3122f0
+ここ（電脳コイルだな……）（SAOだな……）（レディ・プレイヤー1だな……）になって草 \nhttps://blog.jp.sharp/2026/06/29/58337/ \nhttps://cdn.nostrcheck.me/5f468793f907165a97d145407e824c5f6ee82ab9884d070229ac67eff17e29c0/60a2db6ee267f5e6fa752e44ac21ae48c30b2aca8a363ca763392c7bab6d18ff.webp
+---
+[170] 07-06 16:35 1e67de375417 577093ae7ac3
+Fines doubled as teens outsmart Australia's world-first social media ban \nhttps://www.euronews.com/next/2026/06/29/fines-doubled-as-teens-outsmart-australias-world-first-social-media-ban
+---
+[171] 07-06 16:27 1e67de375417 e966189280be
+Des sites d’infos usurpent mon nom et m’attribuent des citations hallucinées par IA \nhttps://next.ink/245092/des-sites-dinfos-usurpent-mon-nom-et-mattribuent-des-citations-hallucinees-par-ia/\n#nostrfr
+---
+[172] 07-06 16:27 a3bce095cd0e 77587a4cdcb9
+なにが載ってたら欲しくなるか\nhttps://www.nikkei.com/article/DGXZQOUA038LL0T00C26A6000000/
+---
+[173] 07-06 16:27 dd664d5e4016 3a59836581ae
+This article has been printed in my online magazine.\n\nhttps://blog.imwald.eu/p/npub1m4ny6hjqzepn4rxknuq94c2gpqzr29ufkkw7ttcxyak7v43n6vvsajc2jl/d/central-planning-in-charity\n\nnostr:naddr1qvzqqqr4gupzphtxf40yq9jr82xdd8cqtts5szqyx5tcndvaukhsvfmduetr85ceqy88wumn8ghj7mn0wvhxcmmv9uq3kamnwvaz7tm5dpjkvmmjv4ehgtnwdaehgu339e3k7mf0qqdkxetww3exzmpdwpkxzmnwd9hxwttfdckkx6rpwf5hg7gly7g8g
+---
+[174] 07-06 16:26 1ea4ae8405ad b89acaa678e1
+they're all so adorable. ☘️\n\nnevent1qqszyusv5z7trhfspec38vrmm5qm36hjyx8s3qwm04ypumsj960ylkgzd9n4h\n\nhttps://image.nostr.build/beb2eda5c5c6205e4e4717\n\nhttps://image.nostr.build/beb2eda5c5c6205e4e4717e05f9b895dbcf78aa8a7de4651bf00faaf94edbd69.jpg
+---
+[175] 07-06 16:24 db8bb06a2031 fada3efa5daf
+モナカードが新規発行されました！\n\n\n REALCOIN.2026\n 2026年版リアルモナコイン記念カード\n\nhttps://card.mona.jp/explorer/card_detail?asset=A12251241959069533326\n\n https://mcspare.nachatdayo.com/image_server/img/bafybmif2sp4xnwzxlmpeancmm7a4lk24z2tjonuoducyur2rnhwk7hbodel#image.png\n\n#monacard #monacoin #mona
+---
+[176] 07-06 16:24 1ea4ae8405ad 46f25d52ca47
+signed - obvi. 🥂☀️\n\nhttps://www.instagram.com/reel/DaXq4_js0ks/?igsh=NTc4MTIwNjQ2YQ==
+---
+[177] 07-06 16:19 1ea4ae8405ad 55afe1c11301
+6 july - \n\ngood morning. ☀️\n\nhttps://image.nostr.build/df2818eaf711a3ff2627040002c76287699874fecdf3a2f67023653fcfa3cea8.jpg
+---
+[178] 07-06 16:17 4c5d5379a066 8ec3e5a10d5d
+ちょい。CLI 版も作らせてたけど一回もテストしてないｗ\n\nhttps://i.nostr.build/F0H7GMAIjHTwDrA7.png\n↓\nhttps://i.nostr.build/o846wyjVEnSg4C0C.png\n\nCLI のほうが動き軽快でいいな
+---
+[179] 07-06 16:17 13bc95d921c8 660515dff3d6
+This is where I stopped reading X last night, and it only took 5 minutes of scrolling. I should thank Arthur for being so absurd. https://npub1zw7ftkfpezmtym8n2j2fvnd0smunztl9pyjys0fxdqne08vq397s5yvpu5.blossom.band/3b68e3262775c4ad90291a1c5d4c42f2a8f44f80919cc6cc282278c98defbbc0.jpg
+---
+[180] 07-06 16:13 d735231e8eeb 9f5b1e03e7b9
+【Windows Subsystem for Linux (WSL) で Claude Skills が使えるようになるまでの奮闘記録】\nWSL 上の Claude Code で複数のつまずきに直面しましたが、GPG 認証の競合や GitHub 認証の設定不足などを乗り越え、議事録から提案書作成と Marp スライド自動生成までたどり着きました。この記事では、実際に遭遇した6つのトラブルと対処法をまとめています。\nhttps://dev.classmethod.jp/articles/wsl-claude-code-skills-struggle/
+---
+[181] 07-06 16:13 1e67de375417 4bd32e4b2f33
+A USB-C Port Isn't A Guarantee Of High Speeds: Here's Why \nhttps://www.engadget.com/2207881/usb-c-port-cable-types-explained/
+---
+[182] 07-06 16:12 1e67de375417 880a6880204a
+Carrefour explique à ses clients pourquoi il utilise des pixels de suivi dans ses e-mails promotionnels \nhttps://www.clubic.com/actualite-620110-carrefour-explique-a-ses-clients-pourquoi-il-utilise-des-pixels-de-suivi-dans-ses-e-mails-promotionnels.html\n#nostrfr
+---
+[183] 07-06 16:12 1e67de375417 3dfe33e6d808
+baairon/torlink: A sleek, zero-setup torrent finder and downloader that lives right in your terminal. \nhttps://github.com/baairon/torlink
+---
+[184] 07-06 16:12 1e67de375417 88a9a3e888a9
+NASA : une mission d'urgence lancée pour empêcher un télescope de s'écraser sur Terre \nhttps://www.01net.com/actualites/nasa-une-mission-durgence-lancee-pour-empecher-un-telescope-de-secraser-sur-terre.html\n#nostrfr
+---
+[185] 07-06 16:08 4c5d5379a066 5f4ca924ae20
+自分のポストのインクリメンタルサーチローカルツール\nhttps://github.com/koteitan/find-mine-fire
+---
+[186] 07-06 16:08 ee6ea13ab9fe 0000252bd324
+https://i.nostr.build/Mr5uOpuUF1M4Dbuu.gif
+---
+[187] 07-06 16:07 b3e43e8cc7e6 09ab7a67f6d8
+急になんでやねん、、、\n\nhttps://i.nostr.build/rX77lI6IDVmowLqx.jpg
+---
+[188] 07-06 15:56 4c5d5379a066 106564e063f8
+ダイアログは出てきた\nhttps://i.nostr.build/WLqXSPSfXg2FIYIN.png\n拒否ると拒否れた
+---
+[189] 07-06 15:55 ee6ea13ab9fe 0000d0e75d98
+Wait, I have a better idea…you could all delete your accounts either way.\nhttps://image.nostr.build/7ca0fc0c96846a2bff350d74d8c183b92fceb98c68e98e2695c88cc8b6db16fe.jpg
+---
+[190] 07-06 15:55 4c5d5379a066 ba2db4bdebd2
+無理やりやらせてもできなかった\nhttps://i.nostr.build/nM0Fd9RCe1SwhclC.png https://i.nostr.build/ekLU2LoZjG2tWHRz.png
+---
+[191] 07-06 15:52 1e67de375417 a4d026c02b82
+Souveraineté numérique : pourquoi il est si difficile de bâtir un système d’exploitation Android débarrassé de Google \nhttps://www.lemonde.fr/pixels/article/2026/07/03/souverainete-numerique-pourquoi-il-est-si-difficile-de-batir-un-systeme-d-exploitation-android-debarrasse-de-google_6718480_4408996.html\n#nostrfr
+---
+[192] 07-06 15:44 deab79dafa1c 447a8d3acaba
+good morning\nhttps://npub1m64hnkh6rs47fd9x6wk2zdtmdj4qkazt734d22d94ery9zzhne5qw9uaks.blossom.band/a50255677fb02d4ad05246be82b50900a60c1ad83be36b974aa214a5cf9c3654.jpg
+---
+[193] 07-06 15:33 aa4ed3e0e2c8 34bb923d918c
+Another AudioBook by Neema Parvini's The Prophets of Doom.... it examines eleven prominent historical thinkers who rejected the modern belief in linear, unstoppable human progress. By analyzing their theories, the book argues that human civilizations instead move through predictable, cyclical phases of rise, peak, and inevitable collapse, offering a framework to understand today's fracturing Western society\n\n\nhttps://nextcloud.twinquasar.io/index.php/s/KsDQm2MFM5YRAMo
+---
+[194] 07-06 15:32 b7cf9f42a796 000009641b30
+Yes sorry for the bad wording then. Happy to hear.\nOne, does not matter. I agree with you.\n\n"- Humans aren't responsible for climate change."\n\nIs not irrelevant. But simply wrong. What sane brain would think humans could burn more carbon, than plants are capturing and the concentration of carbon dioxide would stay leveled?\n\n"- Electric cars are woke."\n\nThis is might true, when considering that electric cars need far less energy to offer the same service. So therefore probably the drivers are woke. Or in other words. They are tired of paying a higher bill for no reason.\n\nWhy pump oil up from the ground, transport it on ships, transport it on trucks, refine it, transport it to a fuels station, pump it into the car and burn it, when there is much more useful cases to use such a precious material. Rather get power from a solar panel and charge the car. Simpler, more efficient, less infrastructure intense and more independence.\n\n"- Oil isn't dinosaur juice."\n\nI assume we are both talking about crude oil.\n(https://www.eia.gov/energyexplained/oil-and-petroleum-products/)\nBased on this page referenced in Wikipedia most probably crude oil is actually not dinosaur juice. The oil sediments are so old dinosours have not even existed back then.\n\n"- Oil is the second most abundant liquid after water."\nMaby this is true. What does it matter? There is simply not so much liquid stuff in the universe, that stays liquid in our range of temperature we have on planet earth.
+---
+[195] 07-06 15:31 6369fb82bec5 a3fde765ec04
+https://www.youtube.com/watch?v=CkCwIt7Fb9o\nざーさんのも聴いとくか。
+---
+[196] 07-06 15:29 5f468793f907 e53c5072d93a
+https://cdn.nostrcheck.me/5f468793f907165a97d145407e824c5f6ee82ab9884d070229ac67eff17e29c0/2080d740a8235e7f3db58dd380cf4d8f89b92c6b37023bc4b70ad96eadbb7e50.webp
+---
+[197] 07-06 15:26 fe9edd5d5c63 3943f4eca4ea
+⛩️でばっぐ神社に参拝しました\n獲得ポイント: +4 pt (合計 1493 pt)\n戦闘力: 14115 → 14243 (+128)\nレベル: Lv.40（39からレベルアップ！）\n更新リポジトリ: 1 / アクション: 18\n#でばっぐ神社\nhttps://d-shrine.jp/
+---
+[198] 07-06 15:25 90c95c6365c9 ccb9446e1cc6
+These mental reframes are so valuable.\n\nhttps://image.nostr.build/3111bd140952f9d15c1490033d5cf55fe528d6781d29440ae4504c46c74d65d5.jpg
+---
+[199] 07-06 15:21 6369fb82bec5 61403f15696d
+https://www.youtube.com/watch?v=jpV5jeFlt_E\n今夜星を見に行くか。
+---
+[200] 07-06 15:19 2d9873b25bf2 f8a3cbafa67d
+GM\n\nhttps://image.nostr.build/33a6f4cb439a0380fbd0763b1035ce5d497a720b4b50bc67d35238ebfbcd2084.jpg
+---
+[201] 07-06 15:18 3aa5817273c3 f1a69aa017e8
+It's save to say that software development changed recently.\n\nhttps://npub182jczunncwe0jn6frpqwq3e0qjws7yqqnc3auccqv9nte2dnd63scjm4rf.blossom.band/a71e439a87dd2d9704a03232bac1372db3bcd2bd7334cd5204fd5097566c4ad2.png
+---
+[202] 07-06 15:16 d735231e8eeb 93de9c4c6bcf
+【Amazon Quick の Chat Agent や Space で「共有したのに見えない」を防ぐ権限設計ベストプラクティス】\nAmazon Quick の新リソース（スペース、ナレッジベース、チャットエージェント）は従来のアセットと異なり、共有フォルダでの一括権限管理に対応していません。この違いを理解せずにエージェントを展開すると「共有したのに見えない」という問題が発生します。本記事では、権限設計のベストプラクティスと注意点を解説します。\nhttps://dev.classmethod.jp/articles/20260706-amazon-quick-agent-permission-best-practices/
+---
+[203] 07-06 15:14 4d41a7cbc9b7 ff7d22864908
+Central banks are the root of all evil! \n\nWhat would the Founding Fathers do?  DESTROY THEM.\n\nWhat would Jesus do?  Drive the merchants out of the temple.\n\nThis corrupt parasites will be eventually destroyed\n\nhttps://blossom.primal.net/a75f3f872727fc253e1654776d44985627f9714750ba61d32dfa51e1123a8c3d.mp4 
+---
+[204] 07-06 15:13 d735231e8eeb 9f5cb1ad1af5
+【Lambda レイヤーで Bedrock Mantle を使う — Docker 不要で 47 モデルを呼び出してみた】\nAmazon Bedrock Mantle を Lambda から利用するには、Bearer Token 生成や OpenAI / Anthropic 互換 API 用のSDKが必要です。本記事では、必要な3パッケージを Lambda レイヤーにまとめることで、Docker / ECR を使わずに Bedrock Mantle を呼び出す構成を検証しました。あわせて、4 つのAPIルートの使い分けと 47 モデルの動作確認結果を紹介します。\nhttps://dev.classmethod.jp/articles/bedrock-mantle-lambda-layer-4-routes/
+---
+[205] 07-06 15:10 71ecabd8b6b3 f75b4fbed778
+https://blossom.smartflow.social/60553ea3cb2300ee27466b6adaeddc11cbe0067420d7f4ea01092614e68adb0c.jpg
+---
+[206] 07-06 15:06 b3e43e8cc7e6 76852331c9f1
+⛩️でばっぐ神社に参拝しました\n獲得ポイント: +2 pt (合計 2146 pt)\n戦闘力: 17480 → 17542 (+62)\nレベル: Lv.42\n更新リポジトリ: 1 / アクション: 9\n#でばっぐ神社\nhttps://d-shrine.jp/
+---
+[207] 07-06 15:04 06b7819d7f1c 55c7e4797918
+Too Much Crypto\n\nhttps://eprint.iacr.org/2019/1492.pdf
+---
+[208] 07-06 15:03 5f468793f907 2e422b8f74a4
+へぇ……\n\nhttps://image.nostr.build/7dac95d8994d8f68669cf4b162dc56678f5bee37fc77b161ab0238ca8bf1560d.jpg
+---
+[209] 07-06 15:02 df3935246fa6 af8d34489aff
+[第240話]ダンダダン\nhttps://shonenjumpplus.com/episode/9253191254933946023
+---
+[210] 07-06 15:02 df3935246fa6 58fe6f07522b
+[49話]サンキューピッチ\nhttps://shonenjumpplus.com/episode/9253191254933946041
+---
+[211] 07-06 15:01 0711253b4763 1bcbb6e7c8a6
+覚えてないので読み直さないと。 / 飲み会で後輩の婚活話を聞いている際、上司が「傲慢と善良」を読んだ方がいいと勧めたら、後輩が「それ友達に言われて読みました、悪口ですよ」と言い出してカオスだった - Togetter https://togetter.com/li/2717432
+---
+[212] 07-06 15:01 8d7e9c016e78 65f97ba8f2c7
+https://image.nostr.build/ef8682f579cb4716e580ca92e44ac177a58a5547d15ce3fff25e93d0eee0d696.jpg
+---
+[213] 07-06 14:56 ee6ea13ab9fe 0000c8f04929
+Baghdad Bob checking in on the fork status today.\nhttps://i.nostr.build/resp/360p/w29oefFSqXiNGThX.gif
+---
+[214] 07-06 14:52 409c5539d208 2099ca00315c
+やっとこのアクションの使い方がわかった……\n\nweb漫画用縮小アクション - CLIP STUDIO ASSETS\nhttps://assets.clip-studio.com/ja-jp/detail\n
+---
+[215] 07-06 14:50 81913081246d e2e26a22d572
+@几苇渡\n\n朋友说《金刚经》里最有触动一句是：愿乐欲闻。\n\n真正的快乐\n不是须菩提想要得到答案时的急迫\n也不是得到答案后的满足\n而是发生在“我知道我即将得到”的瞬间\nhttps://media.libernet.app/s/W1UNoM.jpg https://media.libernet.app/s/wEgHx9.jpg
+---
+[216] 07-06 14:39 f0e59458d5da 530154ada680
+自己紹介等をさせた。たっけえ。使いたい使いたくない以前に使えないわ。 https://share.yabu.me/f0e59458d5da4fc6705d8a15be3795a414e95ba4ba90de45f09017de4afe015e/29b03441f2657fbbcc758da6f51e06d664d5d22b7c013e7d3fc7ce0acdbc258f.webp
+---
+[217] 07-06 14:34 4c5d5379a066 6d18ea67975e
+やば\nopus × strudel へっぼいぃ\nhttps://x.gd/rf3xU
+---
+[218] 07-06 14:33 4e86cdbb1ed7 b71679493ea9
+#しお画像\nhttps://files.compile-error.net/2fc6d7a0b213333f89f42f67e1a00ca113d49edb6a8d8846b27c9f23d79dc3ed.jpeg
+---
+[219] 07-06 14:33 4e86cdbb1ed7 33d5c4ed69f4
+#ロクヨウ画像\nhttps://raw.githubusercontent.com/Lokuyow/Lokuyow.github.io/main/icon/kowa.webp
+---
+[220] 07-06 14:31 f2046ca32ca0 3ec80efedc8f
+4 weeks old https://cdn.nostrcheck.me/a4621eec32b0e394166b6b5628a54d6fd66c649f3845f2932de7a12b808d7035.mp4
+---
+[221] 07-06 14:30 101b30ee88c2 d9b63ed2c84b
+モデル変えて、11並列で調査タスクぶんなげて、放置。\n\nhttps://share.yabu.me/101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45/849cf7f415d6cb7d77c5b2a3e02adac3e5b9e78ad25c5a443e4380f6829c0b7b.webp
+---
+[222] 07-06 14:29 1e67de375417 5583dd0cb4cf
+Comment un identifiant Windows a permis d'inculper un hacker de 19 ans \nhttps://www.01net.com/actualites/comment-identifiant-windows-permis-inculper-hacker-19-ans.html\n#nostrfr
+---
+[223] 07-06 14:23 23395bce1a18 f2ddf0558f36
+この尊氏のファッションがかっこいい\n\nhttps://image.nostr.build/392409406d4255188eff65a01b4f4060b9db03d3440903dc6ff780c5b413f9be.jpg
+---
+[224] 07-06 14:22 101b30ee88c2 82f20a8f4836
+あ。fableくん使い切ってた。\n\nhttps://share.yabu.me/101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45/cdfc68d50cc2160cb22287353a65270a09347d7f552b54282f25c5e4160a54a6.webp
+---
+[225] 07-06 14:21 1e67de375417 552ea50c4e23
+L’IA de Discord bannirait des comptes sans prévenir : tableurs et inventaires Minecraft confondus avec du contenu pédocriminel \nhttps://www.frandroid.com/culture-tech/3169521_lia-de-discord-bannirait-des-comptes-sans-prevenir-tableurs-et-inventaires-minecraft-confondus-avec-du-contenu-pedocriminel\n#nostrfr
+---
+[226] 07-06 14:19 d26761d14421 523c6fe23a0c
+https://primal.bostr.online/88919a5546cb78190fc5ebe96658c216fc06c75efad1704d25ff26bc0fe84ac7.jpg
+---
+[227] 07-06 14:19 d26761d14421 03401210d2b3
+https://primal.bostr.online/88919a5546cb78190fc5ebe96658c216fc06c75efad1704d25ff26bc0fe84ac7.jpg
+---
+[228] 07-06 14:15 2c7cc62a697e f6ea330e85f5
+特に支障はない。\nhttps://blossom.compile-error.net/163cdaecf867ac131ef41f64429b22e74205ec4fdfcd9f8f4bc560fa4b4436f9.png
+---
+[229] 07-06 14:13 1e67de375417 f50c9b03936f
+Un jailbreak, mais lequel ? Anthropic a lancé un immense chantier passé inaperçu après la crise Fable 5 \nhttps://www.numerama.com/tech/2291125-un-jailbreak-mais-lequel-anthropic-a-lance-un-immense-chantier-passe-inapercu-apres-la-crise-fable-5.html\n#nostrfr
+---
+[230] 07-06 14:13 1e67de375417 9544d19daa5f
+[Podcast] Le Hack 2026 - NoLimitSecu \nhttps://www.nolimitsecu.fr/le-hack-2026/\n#nostrfr
+---
+[231] 07-06 14:13 cc0fadc4fe67 982e63cae142
+Fableに作らせたスキル使ってSonnetで作らせてもこのレベルでやば\nhttps://x.gd/3kJir
+---
+[232] 07-06 14:10 12c41114d90e 28d433627605
+Check out "Into the Valueverse 2 Live Music & Comedy" on Plebeian!\n\nhttps://plebeian.market/products/product_1783345217261_vsjvp\n\n#plebeian
+---
+[233] 07-06 14:09 4c5d5379a066 636377150737
+940円使ってお土産もろた\nhttps://i.nostr.build/mBsRXxriNmWioxO0.png\nhttps://i.nostr.build/kZQ6g59xYgE5Sd0S.png
+---
+[234] 07-06 14:08 5f468793f907 c78e61242fbd
+https://x.com/Targoyle/status/2015454376459120674 \nhttps://x.com/Targoyle/status/2035700100941660341/video/1
+---
+[235] 07-06 14:08 ba18b6545357 1f281c1dc638
+🫂🫂 https://i.nostr.build/POOm4.gif 
+---
+[236] 07-06 14:08 8a719d42268a 000005634400
+https://npub13fce6s3x325jta439097ddj97mkg9mlxf6kfrkhexh7uenclpljs7atdfx.blossom.band/458bbb1209c1544bdd430d8b25252c0f1febe2a159444684db49a25a522b4a33.mp4
+---
+[237] 07-06 14:05 fe9edd5d5c63 b4dde8c0b306
+⛩️でばっぐ神社に参拝しました\n獲得ポイント: +11 pt (合計 1489 pt)\n戦闘力: 13726 → 14115 (+389)\nレベル: Lv.39\n更新リポジトリ: 1 / アクション: 51\n#でばっぐ神社\nhttps://d-shrine.jp/
+---
+[238] 07-06 14:01 cac0e4323580 b9992879ec95
+meanwhile in Russia \n\nhttps://nostr.download/0c7d289fdc232a6cc8461f4bf41b300a45d8012f054fa9c33980e90f7f10a66c.mp4
+---
+[239] 07-06 13:57 5f468793f907 02e071235280
+「おい……！返事をしろ……！俺はまだ……！ \nhttps://image.nostr.build/451a8dc3df7365ee5ad3402e8a473d1a895b38d47de95db258516ea51c7e6506.png
+---
+[240] 07-06 13:53 1ec454734dcb a777d49605c8
+https://blossom.laantungir.net/9f612f7d5259f9a94050536642528164b821573e25b08331bd7b9d7724043ebf.jpg
+---
+[241] 07-06 13:51 1cc4d13c8027 5d68bcae24fa
+明日リリースらしいです。\nこういう地道なゲームが好きな人は是非どうぞ。\nhttps://meguruland.net/\n\nリリース前説明配信\nhttps://www.youtube.com/live/1KKWxp4f_Sc\n\nいまのところ暗号資産は関係なさそう。\nメールアドレスで登録できます。
+---
+[242] 07-06 13:50 5f468793f907 380a83a60c4b
+残り 2% から始めました \n対戦よろしくおねがいします \nhttps://image.nostr.build/740ebdf225187a2128c452df0d64797ff010d54cd6164ce0df352cca694c5500.png
+---
+[243] 07-06 13:50 ddc578099539 c797002869fc
+なんとなくエンディングの雰囲気かもしだしておいた\nhttps://npub1mhzhszv48ytupzdzcxtyh6xx80vexw0ey7dyyvy868pljqs6rqsstn2a7h.blossom.band/b1a6e0f97c898abd2cc08b4485233cf3e2906a1f3ef884cc233ce5fe30fa44da.png
+---
+[244] 07-06 13:49 2bfec85a63b1 cbd0ad96947c
+MAKES COMPLETE SENSE WHEN YOU DON'T THINK ABOUT IT https://npub190lvsknrky3d5pr727cchm4k0rvqpx078kgj840wzh4h8tuny9cswh7jmv.blossom.band/410abb76462696fac0eee3e872675a5ea2d116545981d9b243db39dad8941492.jpg
+---
+[245] 07-06 13:49 e096a89eeb90 f2a7430eddd9
+Goooõd morning nostr 🌞\n\nPacking a bunch of orders today, so thank you for your support AND your patience! \n\nIt’s a one pleb team here doing all the making, designing, packing, emailing etc. Lots of work but immense amount of love and craft put into it. \n\nCheck your emails and DMs for tracking info!  ❤️🫠\n\nShop the shop 🤘🏼\n\nhttps://www.oshigood.us/\nhttps://image.nostr.build/76bac623f14b60524a0d983c6f6f0c02440862e3fb4681e4da0c39d85e4802a1.jpg\nhttps://image.nostr.build/0035b0f81e83d7751540269a3ba042b4931dac0e80c04c3ff165ff25cbce4be8.jpg
+---
+[246] 07-06 13:45 4c5d5379a066 b761689e09fc
+ｳﾎﾞｧ\nhttps://i.nostr.build/zcVmDSW9vgDXsN4f.png
+---
+[247] 07-06 13:44 4c5d5379a066 d00d71ff0532
+えい\nhttps://i.nostr.build/kbBcoNab03JeNcdI.png
+---
+[248] 07-06 13:43 1a09ae7157ee d4bda9bf9804
+Great to see more and more people discussing the digital euro!\n\nListen to that pod: https://fountain.fm/episode/tRNkW0xRs58J3hp9zhYj\n\nEt pour les français, un site que j'ai fait il y a quelques mois : https://stopeuronumerique.com/\n\n
+---
+[249] 07-06 13:42 83d52b4363d2 aa979c921eef
+明日の夕方リセットされた後まだ使えるんだろうか（ほとんど時間ないが）\nhttps://npub1s02jksmr6tgmcksf3hnmue7pyzlm0sxwarh7lk8tdeprw2hjg6ysp7fxtw.blossom.band/f28a07e4b5599f2ef5347ecfd0a503449450b996650f84a1f38c5601258cf083.png
+---
+[250] 07-06 13:41 fe9edd5d5c63 73638f3463c3
+よし\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/d8a2761f4440d254b6475c7a96eeb28795e31971b1cfcb8b5a82d74c401e36ab.webp
+---
+[251] 07-06 13:37 ddc578099539 f4370fc93047
+え、全然まだいけそう つかってなかったからか\nhttps://npub1mhzhszv48ytupzdzcxtyh6xx80vexw0ey7dyyvy868pljqs6rqsstn2a7h.blossom.band/6c126489b20a204a6c2a3b372de49303b9a29ca1d23df53a229a2e2f2fab2129.png
+---
+[252] 07-06 13:36 4c5d5379a066 696ea8bb8dad
+なんで opus も瀕死なの\nhttps://i.nostr.build/acDbEvkr5sJ4pitN.png
+---
+[253] 07-06 13:36 ed5774ac84f7 40de6f07b471
+I am NOBODY and that's the entire point of #bitcoin!!!\n\n✅ Nobodies run nodes.\n\n✅ Nobodies verify blocks.\n\n✅ Nobodies don't kneel before compromised figures worshipped by sheep as legends.\n\n🎯 Be nobody! Not sheep!\n\n\nhttps://blossom.primal.net/70d3f9936348e6ad731733fbef3b3e7987ae36f46e97d035ee361aa74a7e85c8.jpg
+---
+[254] 07-06 13:36 fe9edd5d5c63 be6570239840
+まだけっこうある\n\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/244526c876f654dbe06caf6eea2833f4336ebe02fa48f902a54a5b0a05f8c62e.webp
+---
+[255] 07-06 13:35 5f468793f907 f4be997918e6
+さらば　また逢う日まで  https://image.nostr.build/7920ed77475a81bc2af5ef7025fffd83b398d29f86d0c36b93ae79d37ed94b37.png
+---
+[256] 07-06 13:33 59317d32e89c 927dd964abee
+https://www.youtube.com/watch?v=WEKhaOQug9Y
+---
+[257] 07-06 13:33 6ce84bd08e01 cfd399abb766
+辛い記憶を読ませてもらってありがたいけれど 冷静に記録にまとめられる学生でも 今回の事故に至った杜撰な大人たちの活動以上に 自分たちの将来が危険に晒されてきたことに対しては 無自覚どころか 軽い忌避感すら覚えるように教育されてきたんだな…\n沖縄研修旅行で私が感じたこと - 沖縄研修旅行で私が感じたこと（同級生E (同志社国際3年)） - カクヨム https://kakuyomu.jp/works/2912051603283501603/episodes/2912051603284751393
+---
+[258] 07-06 13:33 5f468793f907 3edcd36f8685
+https://x.com/irex024/status/2074083964986515752
+---
+[259] 07-06 13:31 9c6a05cae87e 7ef82c9d2c03
+https://x.com/Uraharastudio/status/2073916550357143646?s=20
+---
+[260] 07-06 13:31 000000005e9d 5640c91f8d01
+But that's plastic 🤔 which I'm avoiding at all cost when it comes to fermenting stuff.\n\nThere's an article on [kombuchakamp](https://www.kombuchakamp.com/bottling-kombucha-tea-jun-water-kefir-and-milk-kefir-without-explosions-geysers-or-blowouts) about bottling, saying try not to use plastic bottles because they're not made to store acidic liquid. 
+---
+[261] 07-06 13:26 9ca0bd745074 ce539398a8c0
+Samba\n\nhttps://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/349a85fa84b4a6f636786fbbce525219e10687e0d48dd4023c190c496836f4a1.jpg
+---
+[262] 07-06 13:22 dd664d5e4016 f00e90af85fa
+Admire the hustle.\n\nhttps://media1.tenor.com/m/FFurq2xQgeoAAAAC/taylor-swift-cheers.gif
+---
+[263] 07-06 13:21 010df0c948fe 00000afe8b0d
+https://blossom.primal.net/2800addc996877232fd78030e4c7ee8a0dc59bd0b7bf5e7d31ae26d0d09ec07a.jpg
+---
+[264] 07-06 13:21 b707d6be7fd9 ca356b1fa865
+Chiptuneで作らせたらまーた謎コンセプトが\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/b7bc182abf4d1d8bb61450d7d59ee488bb6e1b45c1f5a1171981fbaaf3519be8.webp
+---
+[265] 07-06 13:19 6369fb82bec5 36948436affe
+https://www.youtube.com/watch?v=m_lThKHsOKA\nイカれてるイカだけに。
+---
+[266] 07-06 13:15 e9591428813e 1cbe4f859294
+錆びni\nhttps://share.gemini.google/GcFY1NLcGBoR
+---
+[267] 07-06 13:13 9e36d5a55609 db718952e86d
+無料Gemini錆びついてる\nhttps://image.nostr.build/040e2a05d1569bf3c79cc02888c7fd9c420873dfa054122d5eef01702ae7d1a0.jpg
+---
+[268] 07-06 13:12 ee1e7f27fa06 142463e51c95
+すみだ水族館のペンギンの赤ちゃんはデビュー後はしばらく体調みて遊泳だそうです。なおもうひとりのデビューは今度の土曜日。\n\nhttps://www.sumida-aquarium.com/news/s_260625/
+---
+[269] 07-06 13:12 b707d6be7fd9 8baab6f3c257
+GPTだからそのまま鮭生成もできるけどそうじゃねえよなあ感ある\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/144820443964bf57c91bbef850e7dfe45684896d1454e0fff2d7140d35a4ffab.webp
+---
+[270] 07-06 13:12 88a26d85b87c 3aff4a78b346
+Bitmine、過去1週間で4万2,197ETHを追加取得\n\n Bitmineは過去1週間で4万2,197ETHを追加取得し、保有量は574万2,237ETHへ拡大した。これはイーサリアム流通量の約4.8％に相当する。同社の暗号資産、現金、有価証券などの総資産は111億ドルに達し、このうち487万9,157ETHはステーキング済みで、評価額は約88億ドルとなっている。ETHの継続的な買い増しと大規模なステーキング運用により、Bitmineは機関投資家によるイーサリアム保有戦略を一段と強化している。\n\nhttps://bitbank.cc/knowledge/breaking/article/bke5jw3hsjbm
+---
+[271] 07-06 13:11 88a26d85b87c a06adbabf487
+ロシア最大の銀行Sberbank、暗号資産ウォレットとデジタル資産保管サービスを開始する計画を明らかに\n\n ロシア最大の銀行Sberbankは、9月に施行予定の新たなデジタル資産法に合わせ、12月までに暗号資産ウォレットとデジタル資産保管サービスを開始する計画を明らかにした。サービスは「Sberbank Online」と「SberInvestments」に統合され、認可済み暗号資産の売買・保管が可能となる。新法では暗号資産の取引、カストディ、法定通貨との交換、国際決済向けライセンス制度が整備され、個人投資家も年間約30万ルーブルの上限付きで取引に参加できる。制裁を受けるロシアでは、暗号資産を国際決済インフラとして活用する動きが一段と加速している。\n\nhttps://bitbank.cc/knowledge/breaking/article/9fsjxup5eb_b
+---
+[272] 07-06 13:10 88a26d85b87c a76052396d13
+Strategy、先週3,588BTCを約2億1,600万ドルで売却\n\n Strategyは先週、3,588BTCを約2億1,600万ドルで売却し、保有量は84万3,775BTCへ減少した。売却資金は優先株の配当支払いと、その支払いで減少した米ドル準備金の補充に充てられる。売却は平均約6万ドルで実施され、1か月前の32BTC売却から大幅に規模が拡大した。一方で、新株発行プログラムや自社株買いは実施せず、12億5,000万ドル規模のBTC Monetization Programは全額未使用のままとなっている。発表を受け、Strategy株は時間外取引で下落し、ビットコインも一時6万2,900ドルから6万1,900ドル付近まで値を下げた。\n\nhttps://bitbank.cc/knowledge/breaking/article/jxj6--26hg
+---
+[273] 07-06 13:09 b154cef116c8 efc80564d6f2
+オライリーに対するお蔵入りーみたいな…。\n\nhttps://x.com/elnabu1022/status/2073900227959112091?s
+---
+[274] 07-06 13:02 101a112c8adc d86c72047655
+Had a great time at the Bitcoin at the Beach meetup on Friday. Bought a burger, some tallow and some sweets using sats. It was very informal and inviting. \n\nFind your local meetup and grow your community. I know I've met great people such as nostr:nprofile1qqs868t0a4ahspcpcmpk6kln7ewgqcsjkgjrfnxsw2p8ultslsar6zcpz9mhxue69uhkummnw3ezumrpdejz7qgswaehxw309ahx7um5wghx6mmd9uq32amnwvaz7tmwdaehgu3wdau8gu3wv3jhvtcgth02q, nostr:nprofile1qqs8fl79rnpsz5x00xmvkvtd8g2u7ve2k2dr3lkfadyy4v24r4k3s4spz9mhxue69uhkummnw3ezuamfdejj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uqsuamnwvaz7tmwdaejumr0dshsu0ur8h and nostr:nprofile1qqs25uu2t0qqaea99tdekmktgglvp2cnskav0zrftd6qzauehzdpetgpr4mhxue69uhkummnw3ezucnvdahkg7tdv4h8gctv9e3k7mf0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0hcl40j. https://blossom.primal.net/f576078ce64093787569aa0d6a432ed89d1d60d648a113f0fa24e07e27186803.jpg https://blossom.primal.net/5a7c928767635b6ea6c572c145bfebcd1f0e6e90f363fd2ce4edbcfdb527bf8a.jpg
+---
+[275] 07-06 13:01 0bdcf0019e79 527855903ce0
+話題のおもちゃ買ったら室蘭産だった\nhttps://image.nostr.build/ee2ba9c850e7682ed1d6d01a88c08f274b2845556301483b3633c9762cd77753.jpg
+---
+[276] 07-06 13:01 b707d6be7fd9 a283086b3452
+なんとこれが12曲あります\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/dba6d2cd4bf99f2a0c8460af3299a80423ef47af12968d05011cf70407f92bf0.webp
+---
+[277] 07-06 13:00 b707d6be7fd9 1a834d463cc3
+殴って調節させたピロピロ\nhttps://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKLy8gUGFzdGVsIENpcmN1aXRzIDAxIOKAlCBQYXN0ZWwgQm9vdCBTZXF1ZW5jZQovLyBCUE0gMTUwLCAxOTIgY3ljbGVzIOKJiCA1OjA3LiBSZWNvcmQgb25lIHBhc3M7IGFycmFuZ2VtZW50IGxvb3BzIGFmdGVyIHRoYXQuCi8vIERlZmF1bHQgU3RydWRlbCBzb3VuZHMgb25seS4KCnNldGNwbSgxNTAvNCkKCi8vIER1Y2sgdGFyZ2V0IHByaW1lcjogc2lsZW50bHkgY3JlYXRlcyBzaWRlY2hhaW4gdGFyZ2V0IG9yYml0cyBiZWZvcmUgZHVja29yYml0KCkgcnVucy4KLy8gVGhpcyBwcmV2ZW50cyBTdXBlckRvdWdoIGVycm9ycyB3aGVuIGEgZHVja2VkIGxheWVyIGlzIG1hc2tlZCBvdXQgaW4gdGhlIGludHJvLgokOiBzdGFjaygKICBzKCJiZCIpLmdhaW4oLjAwMDAwMSkucG9zdGdhaW4oMCkub3JiaXQoMiksCiAgcygiYmQiKS5nYWluKC4wMDAwMDEpLnBvc3RnYWluKDApLm9yYml0KDMpLAogIHMoImJkIikuZ2FpbiguMDAwMDAxKS5wb3N0Z2FpbigwKS5vcmJpdCg0KSwKICBzKCJiZCIpLmdhaW4oLjAwMDAwMSkucG9zdGdhaW4oMCkub3JiaXQoNSkKKQoKJDogc3RhY2soCiAgcygiYmQhNCIpLmJhbmsoIlJvbGFuZFRSODA4IikuZ2FpbiguMzQpLm1hc2soIjwwITggMSExNzYgMCE4PiIpLAogIHMoIn4gY3AgfiBjcCIpLmJhbmsoIlJvbGFuZFRSODA4IikuZ2FpbiguMjQ4KS5yb29tKC4xMikubWFzaygiPDAhMTYgMSExNjggMCE4PiIpLAogIHMoImhoKjE2IikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKCI8LjA5IC4xMyAuMSAuMTI4Pio0IikuaHBmKDUyMDApLm1hc2soIjwwITggMSExNzYgMCE4PiIpLAogIHMoIn4gb2giKS5iYW5rKCJSb2xhbmRUUjgwOCIpLmdhaW4oLjE0KS5yb29tKC4yKS5tYXNrKCI8MCEzMiAxITE0NCAwITE2PiIpLAogIHMoImNyIikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKC4xNjgpLnJvb20oLjUpLm1hc2soIjwxIDAhMzEgMSAwITQ3IDEgMCEzMSAxIDAhNjMgMSAwITE1PiIpCikub3JiaXQoMSkKCiQ6IHMoImJkITQiKS5iYW5rKCJSb2xhbmRUUjgwOCIpLmdhaW4oLjAwMSkKICAuZHVja29yYml0KCIyOjM6NDo1IikuZHVja2F0dGFjayguMTgpLmR1Y2tkZXB0aCguODYpCiAgLm1hc2soIjwwITggMSExNzYgMCE4PiIpCgokOiBjaG9yZCgiPEZNOSBEbTkgQW05IENNOT4vMiIpCiAgLnZvaWNpbmcoKS5zKCI8c3VwZXJzYXcgZ21fcGFkX2hhbG8%2BIikKICAuYXR0YWNrKC4wMikuZGVjYXkoLjI1KS5zdXN0YWluKC42NSkucmVsZWFzZSguNykKICAubHBmKHNpbmUucmFuZ2UoOTAwLDUyMDApLnNsb3coMTYpKS5scHEoMikKICAuZ2FpbiguMTEpLnJvb20oLjQ1KS5zaXplKDUpLm9yYml0KDIpCiAgLm1hc2soIjwxITI0IDEhNTYgMCE4IDEhODggMCExNj4iKQoKLy8gdjUgbWl4LXNhZmU6IGJhc3MgcmVtYWlucyBpbnRlbnRpb25hbGx5IGxvdzsgcmFpc2Ugb3JiaXQoMykgZ2FpbiBvbmx5IGFmdGVyIGNoZWNraW5nIHRoZSBmdWxsIG1peC4KJDogbigiPDAgMCA1IDQgMiA0IDUgMD4qMiIpCiAgLnNjYWxlKCJGMjptYWpvciIpLnMoImdtX3N5bnRoX2Jhc3NfMSIpCiAgLmRlY2F5KC4xNikuc3VzdGFpbiguMTUpLnJlbGVhc2UoLjA4KQogIC5scGYoMzYwKS5nYWluKC4wNDkpLm9yYml0KDMpCiAgLm1hc2soIjwwITE2IDEhNjQgMCExNiAxITgwIDAhMTY%2BIikKCiQ6IG4oIjAgMiA0IDcgOSA3IDQgMiIpCiAgLnNjYWxlKCJGNTptYWpvciIpLnMoIjxnbV9tdXNpY19ib3ggZ21fZ2xvY2tlbnNwaWVsIHh5bG9waG9uZV9oYXJkX2ZmPiIpCiAgLmZhc3QoMikuZGVjYXkoLjA4KS5zdXN0YWluKDApLnJlbGVhc2UoLjEyKQogIC5kZWxheSguMjIpLmRlbGF5dGltZSguMTI1KS5kZWxheWZlZWRiYWNrKC4zNSkKICAuZ2FpbiguMTIpLnBhbihzaW5lLnJhbmdlKC4yNSwuNzUpLnNsb3coNikpLm9yYml0KDQpCiAgLm1hc2soIjwxITMyIDAhMTYgMSEzMiAwITE2IDEhODAgMCExNj4iKQoKJDogbigiPDkgNyA0IDIgWzQgN10gOSAxMSA5PioyIikKICAuc2NhbGUoIkY1Om1ham9yIikucygiZ21fbGVhZF8xX3NxdWFyZSIpCiAgLmF0dGFjayguMDA1KS5kZWNheSguMTIpLnN1c3RhaW4oLjEyKS5yZWxlYXNlKC4wOCkKICAuc2hhcGUoLjE4KS5yb29tKC4yMikuZGVsYXkoLjE4KS5kZWxheXRpbWUoLjI1KQogIC5nYWluKC4xMzUpLmp1eEJ5KC4zNSwgcmV2KS5vcmJpdCg1KQogIC5tYXNrKCI8MCEzMiAxITQ4IDAhMzIgMSE2NCAwITE2PiIpCgokOiBzKCI8Z21fYmlyZF90d2VldCBnbV9meF9jcnlzdGFsIGhhbmRiZWxscz4iKQogIC5nYWluKC4wOSkucm9vbSguOCkuc2l6ZSg4KS5wYW4oIjwuMiAuOCAuNSAuNz4iKQogIC5tYXNrKCI8MSAwITE1IDEgMCEzMSAxIDAhNDcgMSAwITMxIDEgMCE2MyAxIDAhMT4iKQo%3D
+---
+[278] 07-06 12:58 a6223de378ea 228311219857
+https://blossom.primal.net/14f1600ba3254c1e967918bfe00c342c923d5f56619da5cf08e79934d6f20c5c.jpg
+---
+[279] 07-06 12:56 ddc578099539 675d9bc73c36
+なんだこいつ\nhttps://npub1mhzhszv48ytupzdzcxtyh6xx80vexw0ey7dyyvy868pljqs6rqsstn2a7h.blossom.band/2f7a724a2cb51615392e073d32bf311748ec3744e180c0039521da23a9668b3b.png
+---
+[280] 07-06 12:55 ee6ea13ab9fe 0000bd99895d
+He needs the cash to fund his next venture.\nhttps://onlydans.blossom.band/80877638735086d82c372793e4a42f5d9ea1e3788af4c6684b05374719ff9720.jpg
+---
+[281] 07-06 12:52 b707d6be7fd9 c281d0b7b4fa
+https://x.com/sigasodati/status/2073758143553937465
+---
+[282] 07-06 12:45 d9c4cfe3cab8 1906522dc6e5
+#今日の稽古\nは、残業だったため\n三戦\n型分解（完子和）\nミット打ち\nでした\n本日もありがとうございました\n#上地流空手道振興会新宿修武館\n\nhttps://image.nostr.build/7cfe794e2d0372a617e24548ae56ae7c344fc6cebc2017ccefd7553c80efd0e5.jpg
+---
+[283] 07-06 12:44 f987fb90696f 81f367bd59fb
+あるんふぉふぉどうぞ\nhttps://cdn.nostr.build/i/84d43ed2d18e72aa9c012226628962c815d39c63374b446f7661850df75a7444.png\n作: nostr:npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76\n#もの画像
+---
+[284] 07-06 12:44 84b0c46ab699 e51f32590efd
+https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5/1fbd2856f3f0f1e4677ad2fb873efb58814e6fbdad2a938176c0f8f647b06935.webp
+---
+[285] 07-06 12:44 f987fb90696f 120a6c19b696
+あるんふぉふぉどうぞ\nhttps://cdn.nostr.build/i/84d43ed2d18e72aa9c012226628962c815d39c63374b446f7661850df75a7444.png\n作: nostr:npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76\n#もの画像
+---
+[286] 07-06 12:41 62f3610a45fa b9e528afb3bc
+A heart\nsoaked in rain\nbegins to loosen—\n\nsoftly,\nquietly,\nbeneath the summer sun.\n\n202607\n#Healing #PositiveVibes #Poetry #EditorialPhotography  #AestheticVibes  #ArtisticExpression  #Art  #CreativeArt #VisualArt \nhttps://blossom.primal.net/417ab36b8082e6e3dfaa586b1792c8245eafe55be0defcafc76327f6ba88f184.jpg
+---
+[287] 07-06 12:35 b707d6be7fd9 cbc78885fbbf
+「ナーヴギアとどいたよー！」ってこの画像使って書き込んでくださいって残念マーケ過ぎんでしょ\nいったい何が始まる…？ 複数の配信者たちに『ソードアート・オンライン』でおなじみの、忌まわしきあのアイテムが届き始める https://dengekionline.com/article/202607/80240
+---
+[288] 07-06 12:23 84b0c46ab699 c1100d10845b
+https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKc2V0Y3BzKDIuNSkKJDogbigiYzMgZTQgZzQgYjQgYTMgYzQgZTQgZjQiKS5zY2FsZSgiQzQ6bWlub3IiKS5zb3VuZCgic2F3dG9vdGgiKS5scGYoNDAwMCkKJDogbigiYzIgZzIgYTIgZjIiKS5zY2FsZSgiQzI6bWlub3IiKS5zb3VuZCgic2luZSIpLmxwZigyMDApCiQ6IHNvdW5kKCJiZCo0LCBbfiBzZF0qMiwgaGgqOCIpLmJhbmsoIlJvbGFuZFRSOTA5Iik%3D
+---
+[289] 07-06 12:20 60b48cc2d392 5b64ba633c91
+《LIGHTNING_OVERWRITES_01》\n\nAn online LIVE work where Bitcoin Lightning payments leave traces of light on a photograph.\n\nThe next stream will be held on July 6, 2026, from 21:00 to 22:00 JST.\n\n…http://htning-overwrites.steganography.tokyo\n\n#Bitcoin #LightningNetwork #BTC #Photography #Art\n\nhttps://npub1vz6gesknjtz7t9vm2j0vdnsexmw4tan79lcsgpy5kh80683e8xkq2z858e.blossom.band/f1fedd5153037fae52a4454ce0b8efd21a098ba166b2f2dd8a9304b776b04178.mov
+---
+[290] 07-06 12:17 a8d1560d6a64 7f73516f7fa6
+https://vidstr.shakespeare.wtf\nhttps://nostr-image-board.shakespeare.wtf\nhttps://pressstr.shakespeare.wtf\nhttps://nostr-press.shakespeare.wtf\nhttps://inkpress.shakespeare.wtf\nhttps://livewave.shakespeare.wtf
+---
+[291] 07-06 12:17 811002f2348b 74e911da698e
+中洲で思い出したおすすめのお店。\n\nhttps://maps.app.goo.gl/i7UXPx3QbxNVAkNG9?g_st=ic
+---
+[292] 07-06 12:17 f0e59458d5da 86da97697a99
+ちんこかまんこかで個人差が大きいってなに。99%以上の人にどちらかが付いてると思うんだけど。 https://share.yabu.me/f0e59458d5da4fc6705d8a15be3795a414e95ba4ba90de45f09017de4afe015e/3315625839c513406f369c5777fa1733728e1275828568812779daaaa2ae3d03.webp
+---
+[293] 07-06 12:14 83d52b4363d2 b88fc93d4441
+PR merged: Add lazy loading and async decoding to images\nhttps://github.com/SnowCait/nostter/pull/2253 #nostter
+---
+[294] 07-06 12:13 d735231e8eeb a87e6f2234df
+【PagerDutyの Incident Custom Fields と Service Custom Fields の違いをまとめてみた】\nPagerDutyでサービスやインシデントに独自の情報を持たせるCustom Fieldsが2種類あることをご存知ですか？今回はService Custom FieldsとIncident Custom Fieldsの違いと使い分けについて、詳しくまとめていきます。\nhttps://dev.classmethod.jp/articles/pagerduty-custom-fileds/
+---
+[295] 07-06 12:11 58937958036c c385241e06ac
+I've added an approximate price in USD to the product pages.\nBy the way, there are currently two Satoshi plushies in stock.\nhttps://makingwaves-btc.com/en/\n\nhttps://image.nostr.build/d20938bab2fa9429a47db961aa70afd87d9d2bd214f712474757a8fec3430b8a.jpg
+---
+[296] 07-06 12:08 2f29aa33c2a3 00008788d4e9
+gm\n\nhappy monday\nhttps://blossom.primal.net/84ed255e7961d9232b4460c0214291851ac0f62de9235a7d8fb973333f7358a4.gif\n
+---
+[297] 07-06 12:08 1bc70a0148b3 af3470118c42
+https://npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac.blossom.band/ec60157a8e1e7d1758da10a2823ae65e6dbbd7f1f4fc0e3e1415c4bc0c24bdbf.jpg
+---
+[298] 07-06 12:06 0c9b1e9fef76 1ea27d927f4f
+フランクフルトで大活躍した選手がサンフレッチェ広島にやって来たので、広島遠征の機運です。\n\nhttps://www.instagram.com/p/DacF5D4jZmN/?igsh=MTJvaWE5c3NjaWpxbQ==
+---
+[299] 07-06 12:06 f0019b0732a2 ec8dc7448a05
+やつにする気はないの？ https://share.yabu.me/b24174733a6adf4094cc7c708784350a7c24xmfu8alqtgr8czsc085kxrz0mpwmu22s8fjy0s9ps7vnd68b5b6463 pt 合計 1250%オフだった　親って強いね……いやまぁ多分、半日もドタバタして会議解散したか！！！！！！！！！！？
+---
+[300] 07-06 12:05 38abc08e19dc 0eda080cb5c0
+A dura verdade é que o Brasil não é mais referência no futebol. Só sobrou as urnas eletrônicas para o povo se orgulhar, o mundo inveja e admira essa nossa tecnologia de ponta. Não é só futebol. https://npub18z4uprsemsf4tcxdnfc8q2esk36g5rleqp6mw9ealtn2kmv8pxjswswrvz.blossom.band/a6ece18f31c3a57c05ec8d43475027f19932b323a785212a3b8d1f96191e0d83.jpg
+---
+[301] 07-06 12:03 06b7819d7f1c 6157419fdede
+GM \n\n\n\nhttps://blossom.primal.net/34ff50d6f4883b805b88f700521790cddf66b4f40b48dc09946b0d940221780c.jpg
+---
+[302] 07-06 12:02 c08805f9bd48 b5340a0d97d9
+本州には来ないさそう。\n\nhttps://share.yabu.me/c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416/b50ae65d858e82f820492e4136445d92d94d7a9c09e66742078e19457bbd1da7.webp
+---
+[303] 07-06 11:59 cc0fadc4fe67 b1075c88a52e
+ロック系もできたww\n無敵や\nhttps://x.gd/x6CVY
+---
+[304] 07-06 11:56 a3ced4fefc06 ac6b12d0dd8f
+#きのあす 『ラジオ配信』はじめますーーーーーーーーーーーーー！！\n\nYoutube\nhttps://www.youtube.com/live/FakagF9Maz4
+---
+[305] 07-06 11:55 26bb2ebed6c5 23596408d7a1
+やはりhttp使ってるようなところは何をやってもダメ\n\nhttp://www.zentoshin.com/newsment83.shtml
+---
+[306] 07-06 11:52 58937958036c 1b67498caf9f
+The fourth SATB version Satoshi is finished!\nJust one more to go until all five are together 🐇🎭\n\nhttps://image.nostr.build/bf44f99a9394734985dd662973a180872436180e67e3623299d1f2174fbe9c09.jpg
+---
+[307] 07-06 11:51 84b0c46ab699 04c71ef12f41
+できてへん！！ https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5/b317e95542c5644d384082b3711b8ada09e105ea8dd5833620f1911175e9e1a1.webp
+---
+[308] 07-06 11:49 fe9edd5d5c63 189870df2651
+グループ参加して以下のURLからダウンロードできるようになりました。\nhttps://play.google.com/store/apps/details?id=net.shino3.nostrism\n\nなお間に合せで公開してるのでいろいろ破壊的変更は入ります\n\nnostr:nevent1qvzqqqqqqypzpl57m4w4cc6a62gq78ux4pews88p6m3qh48qv4ylzvawd0c43yfmqyfhwumn8ghj7urj9eeks6twduejumn9wsqs6amnwvaz7tmev9382tndv5q3zamnwvaz7tmj9e4k76nfwfsju6t0qys8wumn8ghj7un9d3shjtt2wqhxummnw3ezuamfwfjkgmn9wshx5uqqyqzth97nk9985eqc3c95z0pepx8x9vk35tlsgwpf3p5s3dn6gy4qzlj957f
+---
+[309] 07-06 11:45 84b0c46ab699 7cf4efa96ab7
+⛩️でばっぐ神社に参拝しました\n獲得ポイント: +5 pt (合計 554 pt)\n戦闘力: 7501 → 7666 (+165)\nレベル: Lv.34（33からレベルアップ！）\n更新リポジトリ: 3 / アクション: 24\n#でばっぐ神社\nhttps://d-shrine.jp/
+---
+[310] 07-06 11:45 26bb2ebed6c5 aff3f5656f32
+秒速5キロなんだって\n\nhttps://www.jaxa.jp/press/2026/07/20260706-3_j.html
+---
+[311] 07-06 11:42 88a26d85b87c e6ba49362ab0
+ABcripto、ブラジル中銀のステーブルコイン送金制限に反発\n\n Bitcoin.comによると、ブラジル暗号経済協会（ABcripto）は、ブラジル中央銀行が提案した大口ステーブルコイン送金の24時間保留措置に反対した。同協会は、不正対策の必要性は認めつつ、1万ドル超の送金を一律に遅らせる案は過度であり、規制対象の透明な事業者や利用者に負担をかけると主張した。また、利用者が未規制業者へ流れる可能性があると警告した。\n\nhttps://bitbank.cc/knowledge/breaking/article/y53301_53bql
+---
+[312] 07-06 11:41 5f010febe730 fff88a21404e
+確かに長い\n\nhttps://image.nostr.build/c7a78aa515fecc9ef1cbee4f183e289f38c4839159fd916ac657e41acc967564.jpg
+---
+[313] 07-06 11:41 88a26d85b87c 2337a77ad0db
+ESMA、予測市場にEU金融規制適用の可能性を警告\n\n Bitcoin.comによると、欧州証券市場監督局（ESMA）は、予測市場で扱われる一部のイベント契約がMiFID II上の金融商品やバイナリーオプションに該当する可能性があると警告した。ESMAは、「予測市場」や「イベント契約」という名称ではなく、商品の仕組みで規制対象かを判断すべきだと説明した。該当する商品を提供する企業には、認可取得や各国当局の投資家保護規制への対応が求められる。\n\nhttps://bitbank.cc/knowledge/breaking/article/06eu_-m_y1
+---
+[314] 07-06 11:40 88a26d85b87c 1a9dd21a9fe6
+Vanadi Coffee、Bitcoin購入巡り株主が取締役会刷新を要求\n\n Bitcoin.comによると、スペインのVanadi Coffeeは、Bitcoin購入資金の調達を巡り、株主との対立に直面している。同社株の約10％を保有するVallecidは、一部取締役が取引ごとに最大5％の手数料を受け取っているとして、取締役会の刷新を求めた。Vanadi CoffeeはBitcoin財務戦略へ転換したが、株価は大きく下落しており、株主希薄化への懸念が強まっている。\n\nhttps://bitbank.cc/knowledge/breaking/article/9ylam641deq4
+---
+[315] 07-06 11:40 b3e43e8cc7e6 186d42c9c018
+⛩️でばっぐ神社に参拝しました\n獲得ポイント: +1 pt (合計 2144 pt)\n戦闘力: 17463 → 17480 (+17)\nレベル: Lv.42\n更新リポジトリ: 2 / アクション: 4\n#でばっぐ神社\nhttps://d-shrine.jp/
+---
+[316] 07-06 11:39 f40832e26b1d 3e7dc3b30903
+制圧しとる(って言ってる)くせになんかコソコソしとるのがおもろいな\nhttps://x.com/kamipapa2/status/2074038987434697104
+---
+[317] 07-06 11:38 b707d6be7fd9 8c453c404383
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/57f85fae463b991d1409ab17b25d888bbf4ab8aad3820aac367b0bb7ee3ab88c.webp
+---
+[318] 07-06 11:37 fe9edd5d5c63 04bb97d3b14a
+Nostrism (Android用 Nostrクライアント）のベータテストは以下のGoogle Group参加が必須になりそうです。一旦作った。\nhttps://groups.google.com/g/nostrism-testuser\n\nnostr:nevent1qvzqqqqqqypzpl57m4w4cc6a62gq78ux4pews88p6m3qh48qv4ylzvawd0c43yfmqyfhwumn8ghj7urj9eeks6twduejumn9wsqzpurgm5ggqgtapy52zqnfy42sm2k8sfyucsqaplqfrrzwhcgcma5zgu6npq
+---
+[319] 07-06 11:34 4d39c23b3b03 ae734d6ec895
+オモコロのリアルイベントもありますよ\n\nhttps://omocoro.jp/rensai/580252/
+---
+[320] 07-06 11:31 e3a59924933c 000dbfb25221
+https://blossom.primal.net/ca1d21c7d4d38a3277332137d4acee985cb7c114b486be51acce12ff0183e5c4.jpg
+---
+[321] 07-06 11:30 f648d9238a45 13beb77f1ba7
+暴雨洪涝灾害水位上涨 底商被淹水上飘着物品和车辆 https://c.m.163.com/news/sv/VF0826FF6.html?spss=newsapp&spsnuid=Jp6fuSjsAR2oFVxv5Gm586lyorXc%2F6gpWHEH1XWfz24%3D&spsdevid=EC27087F-2F83-485C-92AD-C799F16CA214&spsvid=&spsshare=default&spsts=1783337347783&spstoken=fZNPAfQpyfKznIhhZQ3Cv%2BTANUO%2B9vAYKade8WSGkGrhtChm394Sn4f9jMf%2BJO%2Fl\n\n广西地区水灾严重。但是中国媒体不敢报道，自媒体发布被封杀。哈哈哈😝。广西牛马很可怜的。不过，中国人都是奴隶。都可怜。
+---
+[322] 07-06 11:29 acbcec475a1a 15848675e437
+Lesenswert: "Was das bedeutet, begreift man erst, wenn man es mit den Protokollen zusammendenkt. Denn Vibecoding hat einen berüchtigten Makel: Der Code, den die Maschine schreibt, ist oft Spaghetti — schnell gekocht, schwer zu warten. Auf einer Plattform ist das tödlich. Auf einem Protokoll ist es egal. Auf Nostr leben die Daten auf den Relays, nicht in der App. Die App ist nur eine Ansicht, ein Fenster, ein Vibe. Wird sie unwartbar, wirft man sie weg und baut sie neu — die Daten, die Identität, die Follower überleben. Das Protokoll ist die Architektur. Die App ist Verhandlungsmasse."\n\nhttps://www.freischwebende-intelligenz.org/p/wer-ist-john-galt-jeder-mit-einem
+---
+[323] 07-06 11:28 b707d6be7fd9 72b9d424e485
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/ae9e6054230a0d1f8e418c97a75d5e1943e8af77bdb60d58916b6a841f9bbbdc.webp
+---
+[324] 07-06 11:27 b707d6be7fd9 316498833541
+馬鹿のゲインで耳割れる\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/4aa4246c9e9f09196dd646bb0ee72927c11a911d5f139ea284f32a94c255389a.webp
+---
+[325] 07-06 11:26 9cba2871b9a4 0d40fd7eb899
+Some random but fresh pics from Antibes https://npub1njazsude53reg6e7jmz6jvvgyamf5twca93sn3px3yhxpsp9yakqwaf3t9.blossom.band/b5ebb248a5499a48ba69c6d9eaadd1e6875af84a882fc6b6b0d501c344738442.jpg https://npub1njazsude53reg6e7jmz6jvvgyamf5twca93sn3px3yhxpsp9yakqwaf3t9.blossom.band/dfe7d835ff4827f3e9728a0cae33f5e2f75a1d58abcce458ad232e7959ea73c0.jpg https://npub1njazsude53reg6e7jmz6jvvgyamf5twca93sn3px3yhxpsp9yakqwaf3t9.blossom.band/672e23081037b94230afc34e717b0eb5ebece252f863468e233d92ea317ea8eb.jpg https://npub1njazsude53reg6e7jmz6jvvgyamf5twca93sn3px3yhxpsp9yakqwaf3t9.blossom.band/5a828576cba34c1123d5fc896d440554896844fa97a1366cad407c406e64169c.jpg https://npub1njazsude53reg6e7jmz6jvvgyamf5twca93sn3px3yhxpsp9yakqwaf3t9.blossom.band/dfd76e34a26a7276a41a19a62be5ee4f62b3043414884961c37e1e3f51f3067a.jpg https://npub1njazsude53reg6e7jmz6jvvgyamf5twca93sn3px3yhxpsp9yakqwaf3t9.blossom.band/8b5a7b4c83ba30fdf0a48b8d6c6145b98c0d535cc6c6d52086c57b418711651d.jpg
+---
+[326] 07-06 11:12 e3a59924933c 000128e49c1f
+https://blossom.primal.net/039ad5efb024a67f11a93cfd0de123a54bff280fdb3485616da4cc7a821867a7.jpg
+---
+[327] 07-06 11:11 1a35b54ef775 866541a00010
+2059万円ほしい\n\nhttps://x.com/nikkei/status/2074027658057228731?s=46&t=uNQKi-_xa-yRcxMHJJYWCA
+---
+[328] 07-06 11:05 ce643487280a 08792c98f5be
+https://redstate.com/andrewmalcolm/2026/07/05/are-we-really-as-polarized-as-democrats-and-their-media-say-n2204006
+---
+[329] 07-06 11:04 ce643487280a 92525b270ac6
+https://images.americanthinker.com/dw/dw5z86o0fooepsziad1y_640.jpg
+---
+[330] 07-06 11:00 81913081246d 4e094af39c03
+话虽如此，对没怎么踏入过社会的大学生来说，他们所知道的80后90后，主要是那些把他们管的死死的爹妈，以及动不动就给他们指点人生的长辈。况且，小时候开过眼界、吃过好的不代表成年后不会活成他们父母辈的样子😇\nhttps://media.libernet.app/s/xOjoZT.jpg
+---
+[331] 07-06 10:58 b707d6be7fd9 429a5bb9c7de
+もう病気でしょ\nはま寿司で再び迷惑行為の疑い　43歳男を逮捕　6月に罰金50万円（朝日新聞） - Yahoo!ニュース https://news.yahoo.co.jp/articles/232700a70ca8dd329028b7ee13f1b5cb9c342c4d
+---
+[332] 07-06 10:57 b03152eb59da 7c223767b0ed
+kawaii、私も貼ったろ\n\nhttps://youtu.be/3ifAlymKSFo
+---
+[333] 07-06 10:55 e0a8cbd75ebf bf5ce4b42de6
+「時間制限付きチャットのまめちゃ！」についてブログに書きました。\nhttps://atasinti.chu.jp/dad3/archives/92505\nhttps://image.nostr.build/daae95f003fc20deea64ceba2f80549c9af4cf10db91c7fda6fe9a745045753d.jpg
+---
+[334] 07-06 10:55 9ca0bd745074 0b7292584813
+https://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/570eca9c51ad890e4b72c02f9661cd8ac5ad566084bd0d77b58b1a12d45a04af.gif
+---
+[335] 07-06 10:49 a3bce095cd0e 0960b10801b4
+2059万円持っているみなさん\nhttps://www.nikkei.com/article/DGXZQOUA292G00Z20C26A6000000/
+---
+[336] 07-06 10:49 010df0c948fe 000003aba34f
+WORD5 #640 3/6* (Hard Mode)\n\n🟧🟧⬛⬛⬛\n⬛⬛🟪⬛🟧\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
+---
+[337] 07-06 10:44 fcf70a45cfa8 f806126fa8fd
+by @read_jfk_files\n\ntfw you laugh at idiot Microsofty lusers being globally tracked by the NSA because their GUID is hardcoded inside their TPM, but then you suddenly remember Linux also has /etc/machine-id and you forgot to setup your init daemon to periodically truncate and regenerate a new machine-id so you can't also be tracked because you are pretty sure that Chrome is reading it and sending it to Google as harmless "user telemetry analytics."\n\ni stand by my claim that mf'er asshole Lennart Poettering really is the NSA's man on the inside on a mission to destroy Linux and install the NSA's backdoors through all his systemd slop\n\n https://blossom.primal.net/b563b9dac73e67d0780054426523293748e805dc2ca28d2acde7246c33a4ac2a.png 
+---
+[338] 07-06 10:44 6369fb82bec5 d6648133f712
+kawaiiかどうかはさておき、僕の好きなFuture Bass貼っときますね。\nhttps://www.youtube.com/watch?v=oQlCngf1LAU
+---
+[339] 07-06 10:42 c01d554deff7 143cd9ddeff4
+mimikun/buruaka-mcp-test\nhttps://github.com/mimikun/buruaka-mcp-test\n\n去年5月に作って飽きたやつあった
+---
+[340] 07-06 10:42 cc0fadc4fe67 ac52f42ca306
+ユーロビートは流石に無理やろと思ったけどこれなんだよね\nhttps://x.gd/fYzaJ
+---
+[341] 07-06 10:40 1ec454734dcb f6edbcd9fc28
+GM\nhttps://blossom.laantungir.net/6f035d1c17d705c76ab03dd048357372091af4f47d6e56c3440e744afa2e0056.jpg
+---
+[342] 07-06 10:39 7cf2c528ef7c 81cab9e90ac6
+https://24242.io/7925c1fd33cc2372424db447ba9b81c953bb77a3dec6c652cf3162c3c86b1b71.mp4
+---
+[343] 07-06 10:39 1bc70a0148b3 262cbc722d99
+With the European Heatwave, apparently Apple is getting into the AC business. \n\nSmart move! \n\nClimate going the way it is, it’s basically a money printer!\nhttps://npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac.blossom.band/bf498b59a0c7d5988dd21575583060628d070dc5d00d676f15844518e32b88ef.jpg
+---
+[344] 07-06 10:37 b707d6be7fd9 7ccce3b0bbf4
+無駄にそれっぽいタイトルが\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/44f02bdd79bbb12799a968fceadffaba2312fa1662194eb350d3b0c4bfc74429.webp
+---
+[345] 07-06 10:37 84b0c46ab699 d4c95d68ceae
+https://github.com/h4ckf0r0day/obscura
+---
+[346] 07-06 10:35 000000005e9d fb880a7afaa8
+Second #fermentation done! #redCurrant, #ginger + #basil #kombucha. That natural carbonation tho 🫧 Probiotics for days. Tastes amazing too.\n\nhttps://blossom.primal.net/c25b462752b7be42c3330b2411d0dcf51bb90e8d119e099013e11f36a482520c.mp4
+---
+[347] 07-06 10:33 b707d6be7fd9 0b8dc8d7ead0
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/79f3fa4aa70b71b132e0d3c3ca3e0e386683442e05bb893135c1e97bf9a97625.webp
+---
+[348] 07-06 10:32 ee85604f8ec6 36bdb95fc852
+Plebs? In Rome? Ciao? \n\nhttps://blossom.primal.net/f0cff893334d8dd53761cd53484b8b9c8c95224cc9ce76d94475a88094aa5b30.jpg\n\nnostr:nevent1qqs0rvxywefxujujen6j6tmxftjh2w63v8fqtsa5ejtlrdc2yxct9ngpz4mhxue69uhkummnw3ezummcw3ezuer9wchsyg8ws4sylrkxun3ylr409f3y6ppwh4p3mtjy3ls3w7dde7mtk7zhtcpsgqqqqqqs2jh3tk
+---
+[349] 07-06 10:31 5aaccfdd2ed8 3176a3309faf
+診察待ちのときのわんのすけ\nhttps://share.yabu.me/5aaccfdd2ed8f45eb0dfb9a8752bf0d50777a975ad24468f14dd457e747c5c90/f6aa056a140073370def34044eeffafd8f4e3611e0fd816189e62f65045e81e8.webp
+---
+[350] 07-06 10:23 ee1e7f27fa06 85af391dce9e
+#foodstr #japan\n\nhttps://image.nostr.build/fee509350b0838ddb7228cf83e6ea9916d354d32191942fb085aa19334da6747.jpg
+---
+[351] 07-06 10:20 b707d6be7fd9 6b810141d050
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/1aff8d45b9e1b3a81dbfe141bf8beb6b0e3fe13212d235e51c1416c390ca7cf2.webp
+---
+[352] 07-06 10:18 f8978eb7b86d 745b44dfbabb
+わかったかぁ⁉️\n\nhttps://image.nostr.build/e4d6af27fc32a167ebf5baf3dbfdac263e1bbbd9f3f8056b5a306723aa6d537e.jpg
+---
+[353] 07-06 10:14 81913081246d ca2aca42c2c3
+https://media.libernet.app/s/AlnEbj.jpg
+---
+[354] 07-06 10:13 81913081246d b70bee854ac1
+https://media.libernet.app/s/3LopZo.jpg
+---
+[355] 07-06 10:13 81913081246d 52bb166e5e55
+https://media.libernet.app/s/rEQc3j.jpg
+---
+[356] 07-06 10:13 d735231e8eeb 25ccc751df9e
+【NVIDIA BrevのGPUインスタンスにVS Code Remote SSHとJupyterLabで接続してみた】\nNVIDIA Brevで立てたGPUインスタンスに、VS CodeのRemote SSHとJupyterLabから接続する方法を試してみました。PyTorchのインストールでGPU認識も確認しています。\nhttps://dev.classmethod.jp/articles/nvidia-brev-vscode-ssh-jupyterlab/
+---
+[357] 07-06 10:11 cc0fadc4fe67 7df29e48085f
+https://image.nostr.build/d43a54311c28ae6ad6a0b7b66e0e59210b6e0626bcb7b7ee40d3b6433b48ad22.jpg\n https://image.nostr.build/01d4c296f8fa1c063ca59b32df09e41c8550856bbd798fb8f1b0b520129d4bfc.jpg\nこんな感じだった\nkawaii future bassはジャンル名なので有名な他ジャンルを指定しても多分行けるのでは
+---
+[358] 07-06 10:10 84b0c46ab699 bf3fed84b067
+もう無理なきがしてきた https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5/12ee73e0fac2539bda04d3981a02a5f241e54da2093ab9eee824abae0e5d37c9.webp
+---
+[359] 07-06 10:06 b707d6be7fd9 e08cb7f52a75
+Prompt: Kawaii Future Bassと[Strudel](https://strudel.cc/)について詳しく調べ、Strudel用のKawaii Future Bassを作曲して\nnostr:nevent1qvzqqqqqqypzpdc866l8lkwvncdwaqlgrsueg9tvlnm5mm2mpyg3jv8aam445rpqqyv8wumn8ghj7mn0wd68ytnxv4jxjan9wfek2tn2wqq3zamnwvaz7tmj9eukgeewwahhy6mnqyxhwumn8ghj77tpvf6jumt9qy2hwumn8ghj7um5v9nkjmn89eukzcn49ekk2qgjwaehxw309ahkvenrdpskjm3wwp6kyqgdwaehxw309ahx7uewd3hkcqg3waehxw309aezu6m0df5hycfwd9hszgrhwden5te0wfjkccte9448qtnwdaehgu3wwa5hyetydejhgtn2wqq3wamnwvaz7tmwdaehgun9v9kjummrdpsjummwv5q3gamnwvaz7tmjv4kxz7fwv3sk6atn9e5k7qpq4dl4rlkxxadd39lzg5nnz4ykgr7cp9qha3qyfa37vj5y2h48uu4qr0tzpv
+---
+[360] 07-06 10:05 b707d6be7fd9 ab7f51fec637
+gpt-5.5-proに作らせたらなんか五月蝿い感じになったな\nhttps://strudel.cc/#Ly8gUGFzdGVsIENpcmN1aXQgRHJvcCDigJQgS2F3YWlpIEZ1dHVyZSBCYXNzIGZvciBTdHJ1ZGVsCi8vIEtleTogQSAvIEEgTHlkaWFuIGZsYXZvcgovLyBUZW1wbzogMTUwIEJQTSA9IDM3LjUgY3ljbGVzIHBlciBtaW51dGUgd2hlbiAxIGN5Y2xlID0gMSBiYXIgb2YgNC80CgpzZXRjcG0oMTUwLzQpCgpsZXQgY2hvcmRzID0gY2hvcmQoIjxBTTkgRiNtOSBETTkgRWFkZDk%2BIikKCi8vIDMyLWN5Y2xlIGFycmFuZ2VtZW50IG1hc2tzCmxldCBkcm9wICAgPSAiPDAhNCAxITI4PiIgICAgLy8gZHJ1bXMgKyBiYXNzIGVudGVyIGFmdGVyIDQgY3ljbGVzCmxldCBhcnBJbiAgPSAiPDAhOCAxITI0PiIgICAgLy8gc3BhcmtseSBhcnAgZW50ZXJzIGFmdGVyIDggY3ljbGVzCmxldCBsZWFkSW4gPSAiPDAhMTIgMSEyMD4iICAgLy8gbWFpbiBrYXdhaWkgbGVhZCBlbnRlcnMgYWZ0ZXIgMTIgY3ljbGVzCmxldCBjaG9wSW4gPSAiPDAhMTYgMSExNj4iICAgLy8gdm9jYWwtY2hvcC1saWtlIHN5bnRoIGVudGVycyBhZnRlciAxNiBjeWNsZXMKCi8vIDEuIFN1cGVyc2F3LWlzaCBzaWRlY2hhaW5lZCBjaG9yZCBzdGFjawokOiBjaG9yZHMKICAuc3RydWN0KCJbeCB%2BIFt4IHhdIH5dKjIiKQogIC5hbmNob3IoImU1IikKICAudm9pY2luZygpCiAgLnMoInNhd3Rvb3RoIikKICAucGFydGlhbHMoWzEsIDEsIC43NSwgLjQ1LCAuMjUsIC4xMl0pCiAgLmF0dGFjayguMDEpLmRlY2F5KC4wOCkuc3VzdGFpbiguNikucmVsZWFzZSguMjgpCiAgLmxwZihzaW5lLnJhbmdlKDk1MCwgNDIwMCkuZmFzdCg4KSkKICAubHBxKDcpCiAgLnJvb20oLjM1KS5zaXplKDQpCiAgLmRlbGF5KC4xOCkuZGVsYXl0aW1lKC4yNSkKICAuZ2FpbiguMzYpCiAgLm9yYml0KDIpCgovLyAyLiBTb2Z0IHN1YiBiYXNzLCBmb2xsb3dpbmcgY2hvcmQgcm9vdHMKJDogbigiMCo4IikKICAuc2V0KGNob3JkcykKICAubW9kZSgicm9vdDphMSIpCiAgLnZvaWNpbmcoKQogIC5zKCJzaW5lIikKICAuY2xpcCguNDUpCiAgLmxwZigxNDApCiAgLmdhaW4oLjYyKQogIC5vcmJpdCgzKQogIC5tYXNrKGRyb3ApCgovLyAzLiBLaWNrIHBhdHRlcm47IGFsc28gZHVja3MgdGhlIG11c2ljYWwgb3JiaXRzIGZvciBzaWRlY2hhaW4gYm91bmNlCiQ6IHMoImJkIH4gfiBiZCB%2BIH4gYmQgfiB%2BIH4gfiBiZCB%2BIH4gfiB%2BIikKICAuYmFuaygiUm9sYW5kVFI4MDgiKQogIC5nYWluKC44NSkKICAuZHVja29yYml0KCIyOjM6NDo1OjYiKQogIC5kdWNrYXR0YWNrKC4yNCkKICAuZHVja2RlcHRoKC44OCkKICAubWFzayhkcm9wKQoKLy8gNC4gSGFsZi10aW1lIHNuYXJlL2NsYXAKJDogcygifiB%2BIH4gfiB%2BIH4gfiB%2BIFtzZCxjcF0gfiB%2BIH4gfiB%2BIGNwIH4iKQogIC5iYW5rKCJSb2xhbmRUUjkwOSIpCiAgLmdhaW4oLjU1KQogIC5yb29tKC4yNSkKICAubWFzayhkcm9wKQoKLy8gNS4gQnJpZ2h0IGhhdHMsIG9wZW4gaGF0cywgYW5kIHNoYWtlciB0ZXh0dXJlCiQ6IHN0YWNrKAogIHMoImhoKjE2IikuYmFuaygiUm9sYW5kVFI4MDgiKS5nYWluKCJbLjE2IC4wOF0qOCIpLAogIHMoIn4gb2ggfiB%2BIH4gb2ggfiB%2BIH4gfiBvaCB%2BIH4gb2ggfiB%2BIikuYmFuaygiUm9sYW5kVFI4MDgiKS5nYWluKC4yMiksCiAgcygic2goNSwxNiwyKSIpLmdhaW4oLjE4KQopCiAgLmhwZig0NTAwKQogIC5yb29tKC4xOCkKICAubWFzayhkcm9wKQoKLy8gNi4gS2lyYS1raXJhIGNob3JkLXRvbmUgYXJwZWdnaW8KJDogbigiWzAgMSAyIDQgMyAyIDEgMF0qMiIpCiAgLnNldChjaG9yZHMpCiAgLnZvaWNpbmcoKQogIC5hZGQobm90ZSgxMikpCiAgLnMoInNpbmUiKQogIC5hdHRhY2soLjAwMSkuZGVjYXkoLjA1NSkuc3VzdGFpbigwKS5yZWxlYXNlKC4wOCkKICAuZGVsYXkoLjI4KS5kZWxheXRpbWUoLjEyNSkKICAucm9vbSguNSkuc2l6ZSg1KQogIC5nYWluKC4yMikKICAub3JiaXQoNCkKICAubWFzayhhcnBJbikKCi8vIDcuIE1haW4ga2F3YWlpIGxlYWQgaW4gQSBMeWRpYW4KJDogbigifiA0IFs2IDddIDkgMTEgOSA3IFs2IDRdIDIgfiA0IDYgWzcgOV0gMTEgMTQiKQogIC5zY2FsZSgiQTU6bHlkaWFuIikKICAucygic3F1YXJlIikKICAuYXR0YWNrKC4wMDIpLmRlY2F5KC4wOSkuc3VzdGFpbiguMTIpLnJlbGVhc2UoLjEyKQogIC5wZW52KCI8MCAyIC0xIDA%2BIikucGF0dGFjayguMDA1KS5wZGVjYXkoLjA3KQogIC52aWIoIjU6LjA4IikKICAubHBmKDUyMDApCiAgLmRlbGF5KC4zMikuZGVsYXl0aW1lKC4yNSkKICAucm9vbSguNDUpCiAgLmdhaW4oLjI1KQogIC5vcmJpdCg1KQogIC5tYXNrKGxlYWRJbikKCi8vIDguIFN5bnRoZXRpYyDigJx2b2NhbCBjaG9w4oCdIHN1YnN0aXR1dGU6IGN1dGUsIGhpZ2gsIHBpdGNoZWQgZnJhZ21lbnRzCiQ6IG4oIlsxMiAxMV0gfiBbOSA3XSB%2BIFsxNCAxMl0gWzExIDldIH4gWzcgNl0iKQogIC5zY2FsZSgiQTU6bWFqb3IiKQogIC5zKCJ0cmlhbmdsZSIpCiAgLmZtKDIpLmZtaCgiPDEgMiAzIDI%2BIikKICAuYXR0YWNrKC4wMDMpLmRlY2F5KC4wNikuc3VzdGFpbigwKS5yZWxlYXNlKC4wOCkKICAucGVudigiPDMgMCAtMiAwPiIpLnBhdHRhY2soLjAwMikucGRlY2F5KC4wNSkKICAuZGVsYXkoLjQpLmRlbGF5dGltZSguMTI1KQogIC5yb29tKC41NSkuc2l6ZSg2KQogIC5nYWluKC4xOCkKICAub3JiaXQoNikKICAubWFzayhjaG9wSW4pCgovLyA5LiBPbmUtY3ljbGUgd2hpdGUtbm9pc2Ugc3BhcmtsZSBmaWxsIGV2ZXJ5IDE2IGN5Y2xlcwokOiBzKCJ3aGl0ZSoxNiIpCiAgLmF0dGFjayguMDAxKS5kZWNheSguMDMpLnN1c3RhaW4oMCkucmVsZWFzZSguMDUpCiAgLmhwZihzaW5lLnJhbmdlKDUwMDAsIDEyMDAwKS5zbG93KDgpKQogIC5nYWluKC4xMSkKICAucm9vbSguNCkKICAubWFzaygiPDAhMTUgMT4iKQ%3D%3D
+---
+[361] 07-06 10:03 e9591428813e 5038a86b44c2
+見たことのない数値になってるのですけど！\nセンサーどうなってるの\n\nhttps://image.nostr.build/dc235a341c32a828c8c8348cf9e8682ac39f492d9f7b6184000d88792ee5e445.jpg
+---
+[362] 07-06 10:02 2c7cc62a697e ad1c6241fb56
+アイーン https://share.yabu.me/fd77c27d9b810a0bd626b2d30dc1e4722741d6a57c47678cec24a4700fd1547b.webp
+---
+[363] 07-06 09:56 a3bce095cd0e 8f8819aa4956
+ほっときゃ取得してくれるんかな\n\nhttps://image.nostr.build/9831c92f4a2ee35d790d76b1e53974e7e1da4cae46d481a18237f30eeedf871e.jpg
+---
+[364] 07-06 09:55 83d52b4363d2 38112e6a19a0
+返ってくるよ\nhttps://share.yabu.me/83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689/6300f6496abb323fefa4976bb58f00ae7d401f08ae00e32fd024a2468e0e9d35.webp
+---
+[365] 07-06 09:53 dd844857fcfb acb53e90588e
+A little more realistic, since the USD is also fiat crap.\nhttps://cdn.nostrcheck.me/acc486384448c0d9053f6afee0aaa6508b42b89f19dcadd8d3c788d52e207877.jpeg
+---
+[366] 07-06 09:51 88a26d85b87c f0eb8f5dda7c
+リップル、ルクセンブルク当局からMiCAライセンスを正式に取得\n\n リップルは、ルクセンブルク金融監督委員会からMiCAに基づく暗号資産サービスプロバイダーの正式認可を取得したと発表した。これにより、同社は欧州経済領域の全30カ国で暗号資産サービスを提供できるようになり、欧州での規制対応と事業展開を一段と進める。\n\nhttps://bitbank.cc/knowledge/breaking/article/fqra36227wol
+---
+[367] 07-06 09:50 88a26d85b87c 6d707e8f4f14
+ドン・キホーテの運営会社、デジタル社債で調達した資金を活用して全国のこども食堂への支援等を発表\n\n ドン・キホーテの運営会社であるパン・パシフィック・インターナショナルホールディングス（PPIH）は、2025年に発行したグループ初のデジタル社債で調達した資金を活用し、全国のこども食堂への支援と学生生活支援を実施すると発表した。認定NPO法人むすびえを通じて全国のこども食堂へ総額4,000万円を寄付するほか、学生930人に3万5,000円相当のmajicaマネーを提供する。デジタル社債を資金調達だけでなく、社会貢献と顧客接点の強化に結び付ける事例として注目される。\n\nhttps://bitbank.cc/knowledge/breaking/article/bmyhqo5k-w
+---
+[368] 07-06 09:50 b236b74184f3 19aef08f4c53
+OGP動いてた。意外（そうでもないけど）\n https://cdn.nostrcheck.me/b236b74184f377a959ae75c7cab947ee4fd2ab3c18a8d5a790ab4692272ac400/aad063c22fc0ad0915e221b66b017108567dd8552f899b5cf2a961d08a158241.webp
+---
+[369] 07-06 09:48 23395bce1a18 3130f100fbac
+これを使えたら探偵としてかなり稼げそうな気がする\n\nhttps://osint.pimeyes.com/
+---
+[370] 07-06 09:48 b707d6be7fd9 ae4d5335b4ba
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/82a229456b2439813897a64a72e27e8215230fd87296e0a78608b8ff7f0b955c.webp
+---
+[371] 07-06 09:46 eafb085cc714 e39a2dd09573
+とうふさんが演じる「ひつじ探偵団」\nhttps://bsky.app/profile/atasinti.bsky.social/post/3mpxrnmfzqcnq
+---
+[372] 07-06 09:40 6c880f472776 75c33281561c
+たまには Chromebook Plus (ASUS Chromebook Plus CM34 Flip) の勇姿をポストするのもよいだろう。グランデサイズのドリップコーヒー (アイス) とともに。\nhttps://cdn.nostrcheck.me/6c880f472776db7d4acf1fedf745f367f055b255a82968da118a06909a854e24/957d4196023d9abc79e0f37d4e204662251c1e24bd37629621ab3cef3f6f8595.webp
+---
+[373] 07-06 09:37 3875a16c9788 c7e83c9bebfe
+GM ☀️☀️☀️☀️\nhttps://blossom.primal.net/beeec9ab897f6aa8157de96c7eddde371804d66b4eacf83c6a5d8d1ceed23978.jpg
+---
+[374] 07-06 09:36 fe9edd5d5c63 5a8738446052
+カラムはね、こんな感じですね\n全ての人がかなり簡単に使えるようになってる\nhttps://cdn.nostrcheck.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/db0344cbc91c138afa9dccb1815e7416efe29feccfb19ccf5405832af8824b6f.webp
+---
+[375] 07-06 09:34 cc0fadc4fe67 bcfc65fdd367
+Aメロとビルドアップもつけてくれっていったらこれも一発でスゴイの出てきたwwww\nhttps://x.gd/UGueC
+---
+[376] 07-06 09:30 9e36d5a55609 0b14024d6254
+以前見たときから3日しか減ってないと思ったら計算ロジックが9月末までの日数に変わってるっぽい\nhttps://keepandroidopen.org/ja/
+---
+[377] 07-06 09:27 5f010febe730 82b5baa4de49
+5山ってなんだよ初めて聞いたわ 何でもアリだな\nhttps://gakurekirank.com/5yama/
+---
+[378] 07-06 09:20 9ca0bd745074 01db3eed6d18
+Lolbrah\n\nhttps://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/a6e8086065cddc57e24987acd0f35d2000b29aa2f1c31cba4ee8347ce6781509.png\n\nSambabrah
+---
+[379] 07-06 09:19 84b0c46ab699 fc0af2481f62
+かわいい https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5/bb417d8a7e19050305ea946890a5b49ec4acbb048c99330790f4381557e2212b.webp
+---
+[380] 07-06 09:18 f987fb90696f d20da9f9088c
+あいこんかえた\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/95dbffa5cfcec44a260cbae22da39e2df3f4980c3d63a0d7bd59f4fc538cb2d9.webp\n作: nostr:npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7  (Nostrをする際 ものに 「掃除していますか」 と尋ねることで もの側の意識も変わっていく) (2024/3/20)
+---
+[381] 07-06 09:17 f987fb90696f 2e033440e60e
+あいこんかえた\nhttps://aidn.jp/wowa/276074956\n作: nostr:npub1jcsr6e38dcepf65nkmrc54mu8jd8y70eael9rv308wxpwep6sxwqgsscyc  (2024/9/30)
+---
+[382] 07-06 09:17 f987fb90696f 4014beee9458
+#もの画像\nhttps://cdn.nostrcheck.me/3e3a8a4245aa0822c050c42de0b17d0fe30d447cea0e6087e55b678851ed0373/40118063aa0ab199b4ce21b43f9946a6ccdfc5555e35c40c0ae07d52a6189862.webp\n作: nostr:npub18cag5sj94gyz9szscsk7pvtapl3s63ruag8xppl9tdncs50dqdes9x3zed (2024/12/18)   \n(index:320)
+---
+[383] 07-06 09:15 f987fb90696f 40bdd881b342
+追加:don:\n#もの画像\nhttps://i.nostr.build/JJYYWDJb3BdcmCLc.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/04/07)
+---
+[384] 07-06 09:15 f987fb90696f 29a6fb6bd56a
+追加:don:\n#もの画像\nhttps://i.nostr.build/UXG8znWagwmC04cq.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/04/09)
+---
+[385] 07-06 09:14 f987fb90696f a9be4c435c09
+追加:don:\n#もの画像\nhttps://i.nostr.build/JgxKj1HPFRjBYcHp.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/04/13)
+---
+[386] 07-06 09:14 f987fb90696f c05d5d072563
+追加:don:\n#もの画像\nhttps://i.nostr.build/QyTeIrSFtsSlvrd3.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/04/16)
+---
+[387] 07-06 09:14 f987fb90696f 4ead54a31ee7
+追加:don:\n#もの画像\nhttps://i.nostr.build/Ai7uc5q5uBVJf7yY.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/04/17)
+---
+[388] 07-06 09:14 f987fb90696f 4f7169968729
+追加:don:\n#もの画像\nhttps://i.nostr.build/WFje9gh0Gy1eA1iB.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/04/20)
+---
+[389] 07-06 09:13 f987fb90696f b0bd707ff3d8
+追加:don:\n#もの画像\nhttps://i.nostr.build/14uSkBRgzjNJ1oi9.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/04/24)
+---
+[390] 07-06 09:13 f987fb90696f 809e770e5c5c
+追加:don:\n#もの画像\nhttps://i.nostr.build/x0xZIAh8hf6yGp8e.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/04/27)
+---
+[391] 07-06 09:13 f987fb90696f c5b92f585019
+追加:don:\n#もの画像\nhttps://i.nostr.build/biPLsy5YnqgtjPMr.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/04/28)
+---
+[392] 07-06 09:12 f987fb90696f 909bb4310894
+追加:don:\n#もの画像\nhttps://i.nostr.build/dJECrQZ3818MoihC.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/05/11)
+---
+[393] 07-06 09:11 f987fb90696f ff83ce4dc2b9
+追加:don:\n#もの画像\nhttps://i.nostr.build/4ec6XjzneFIdDulr.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/05/13)
+---
+[394] 07-06 09:11 f987fb90696f f3a35fefb882
+追加:don:\n#もの画像\nhttps://i.nostr.build/BaKLi3gC5zZWLQ6G.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/05/18)
+---
+[395] 07-06 09:11 f987fb90696f 62f03e466394
+追加:don:\n#もの画像\nhttps://i.nostr.build/O6hadmdpmPdHLKQF.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/05/19)
+---
+[396] 07-06 09:10 f987fb90696f 6ebaeb9530bc
+追加:don:\n#もの画像\nhttps://i.nostr.build/rDOCRMNe6BQTXSJ5.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/06/01)
+---
+[397] 07-06 09:10 f987fb90696f f88b98ad4590
+追加:don:\n#もの画像\nhttps://i.nostr.build/dyyN7iwq8e6EIZn3.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/06/09)
+---
+[398] 07-06 09:10 f987fb90696f a84424e245c3
+追加:don:\n#もの画像\nhttps://i.nostr.build/hLCVe8pSUpivwuWh.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/06/11)
+---
+[399] 07-06 09:09 f987fb90696f 7d0480c6901e
+追加:don:\n#もの画像\nhttps://i.nostr.build/Og0m0GyulJQAyKSA.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/06/18)
+---
+[400] 07-06 09:09 f987fb90696f 9704c07adedc
+追加:don:\n#もの画像\nhttps://i.nostr.build/5ayx333PZ2k8nGOV.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/06/19)
+---
+[401] 07-06 09:08 f987fb90696f f45bb48e3c81
+追加:don:\n#もの画像\nhttps://i.nostr.build/uvX92rkdUgTZfZhW.jpg\n作: nostr:npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk (2026/06/30)
+---
+[402] 07-06 09:04 f987fb90696f 8827b8a27145
+追加:don:\n#もの画像\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/1a7581979da14df2e68893c9933330b19fdc80e860b1ddfa90926ef66f03b0ef.webp\n作: nostr:npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7 (2026/06/21)
+---
+[403] 07-06 09:04 f987fb90696f 2c92164c06e7
+追加:don:\n#もの画像\nhttps://image.nostr.build/2987579f55f74780baf3d5930794c2ae5e20bef030c2dc10329d651f0f3e247f.jpg\n作: nostr:npub1f5uuywemqwlejj2d7he6zjw8jz9wr0r5z6q8lhttxj333ph24cjsymjmug (2026/07/03)
+---
+[404] 07-06 09:03 3aa5817273c3 b819ac398c76
+GM 🌞\n\nMe with fable rn:\n\nhttps://npub182jczunncwe0jn6frpqwq3e0qjws7yqqnc3auccqv9nte2dnd63scjm4rf.blossom.band/38b2db03f88678559b75cdf10c829a8350c853a915ae733843bd7c5694fd97db.png
+---
+[405] 07-06 09:03 f987fb90696f 9bd06c781a90
+追加:don:\n#もの画像\nhttps://share.yabu.me/ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600/8f1359abf4d0d3220c33a3dc09f7245cd5e7f5e32323e46d6bcdecc528071e88.webp\n作: nostr:npub1a3pvwe2p3v7mnjz6hle63r628wl9w567aw7u23fzqs062v5vqcqqu3sgh3 (2026/07/02)
+---
+[406] 07-06 09:02 f987fb90696f 0b81313696d0
+#もの画像\nhttps://blossom.primal.net/966f97ec6f8ef5ddbe9f7b181637294c5c2c27cf3343693dd8012f37af1493be.jpg\n作: nostr:npub1vzwtwn0el0nhpdq2k69832q9ae66j8xwkjva7dj220yq7zm4qr6quuhsd2 (2026/04/18)   \n(index:549)
+---
+[407] 07-06 08:54 ca55de60561a 3cf834ee973f
+おもろ\nhttps://share.yabu.me/ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257/895cc0824ffe140bc39b1f76b098ec605e7b5602dc547d648150f590c86add9a.webp
+---
+[408] 07-06 08:43 b707d6be7fd9 27dfe655c287
+買う権利をやろう\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/81a032dc8448ce9851498ece23dd6b4adf983ad1d3188d4654b7866497b48ebb.webp
+---
+[409] 07-06 08:43 cc0fadc4fe67 a80b94e783cc
+opus4.8からfableで明確にコーディングのレベルが違う分野見つかったわ\nライブコーディング(Strudel)\nkawaii future bass 作ってって一発で出したのがこれ\nhttps://strudel.cc/#Ci8vIOKZoSBLYXdhaWkgRnV0dXJlIEJhc3Mg4oCUIDEgcGhyYXNlIOKZoQovLyDkvb%2FjgYTmlrk6IGh0dHBzOi8vc3RydWRlbC5jYyDjgavjgrPjg7zjg4nlhajkvZPjgpLosrzjgorku5jjgZHjgaYgQ3RybCtFbnRlcijlho3nlJ8pIC8gQ3RybCsuKOWBnOatoikKLy8g5L2%2F55So44GX44Gm44GE44KL44Gu44Gv5YWo44GmU3RydWRlbOOBruODh%2BODleOCqeODq%2BODiOmfs%2Ba6kDoKLy8gICBzeW50aDogc3VwZXJzYXcgLyBzaW5lIC8gdHJpYW5nbGUKLy8gICBzb3VuZGZvbnQ6IGdtX211c2ljX2JveAovLyAgIGRpcnQtc2FtcGxlczogbnVtYmVycyjlpbPmgKfjg5zjgqTjgrkpCi8vICAgZHJ1bS1tYWNoaW5lczogUm9sYW5kVFI5MDkgKGJkLCBjcCwgaGgsIGNyKQoKc2V0Y3BtKDE1MC80KSAgIC8vIDE1MCBCUE0KCi8vIOKUgOKUgCBzdXBlcnNhd%2BOCs%2BODvOODiTog546L6YGT6YCy6KGMIEbilrM5IOKGkiBHOSDihpIgRW03IOKGkiBBbTkg4pSA4pSACiQ6IG5vdGUoYDxbZjMsYTMsYzQsZTQsZzRdCiAgICAgICAgICBbZzMsYjMsZDQsZjQsYTRdCiAgICAgICAgICBbZTMsZzMsYjMsZDQsZzRdCiAgICAgICAgICBbYTMsYzQsZTQsZzQsYjRdPmApCiAgLnN0cnVjdCgieCB%2BIHggeCB%2BIHggfiB4IikgICAgICAgICAgICAvLyDjgrfjg7PjgrPjg5rjgZfjgZ%2Fjgrnjgr%2Fjg5YKICAucygic3VwZXJzYXciKS51bmlzb24oNSkuZGV0dW5lKC4zNSkuc3ByZWFkKC44KQogIC5hZHNyKCIuMDA0Oi4yOi41Oi4xNSIpLmNsaXAoLjk1KQogIC5scGYoc2luZS5yYW5nZSg2MDAsIDI4MDApLmZhc3QoMikpLmxwcSg0KSAgIC8vIGZ1dHVyZSBiYXNz55qE44Ov44OW44OrCiAgLnJvb20oLjQpLnNpemUoLjgpCiAgLmdhaW4oLjU1KQoKLy8g4pSA4pSAIOOCteODluODmeODvOOCuSAoc2luZSArIDFvY3TkuIrjga50cmlhbmdsZSkg4pSA4pSACiQ6IG5vdGUoIjxmMSBnMSBlMSBhMT4iKQogIC5zdHJ1Y3QoInggfiB%2BIHggfiB%2BIHggfiIpCiAgLnMoInNpbmUiKQogIC5hZHNyKCIuMDA1Oi4xOi45Oi4wOCIpLmNsaXAoLjkpCiAgLnN1cGVyaW1wb3NlKHggPT4geC5hZGQobm90ZSgxMikpLnMoInRyaWFuZ2xlIikuZ2FpbiguMykpCiAgLmdhaW4oLjg1KQoKLy8g4pSA4pSAIOOCquODq%2BOCtOODvOODq%2BOBruOCreODqeOCreODqeOCouODq%2BODmuOCuOOCqiDilIDilIAKJDogbigiMCAyIDQgNyA5IDwxMiAxMT4gOSA0Iikuc2NhbGUoIkM1Om1ham9yIikKICAucygiZ21fbXVzaWNfYm94IikgICAgICAgICAgICAgICAgICAgIC8vIGdtX2dsb2NrZW5zcGllbCAvIGdtX2thbGltYmEg44Gr5aSJ44GI44Gm44KC4peOCiAgLnNvbWV0aW1lc0J5KC4xNSwgeCA9PiB4LmFkZChub3RlKDEyKSkpCiAgLmp1eChyZXYpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyDlt6blj7PjgafpgIblho3nlJ8g4oaSIOOCueODhuODrOOCquaEnwogIC5yb29tKC42KS5kZWxheSguMjUpCiAgLmdhaW4oLjUpCgovLyDilIDilIAg44Oc44Kk44K544OB44On44OD44OXIChudW1iZXJz44KS44OU44OD44OB44Ki44OD44OX44GX44Gm44OB44OD44OX44Oe44Oz44Kv5aOw44GrKSDilIDilIAKJDogcygibnVtYmVycyIpCiAgLm4oIn4gfiA8MSAzPiBbfiA8MiBbNCA3XT5dIikKICAuc3BlZWQoIjwxLjUgMS44PiIpCiAgLnNvbWV0aW1lc0J5KC40LCB4ID0%2BIHgucGx5KDIpKSAgICAgICAvLyDjgZ%2Fjgb7jgavjgrnjgr%2Fjg4Pjgr%2Fjg7wKICAuZGVsYXkoLjQpLnJvb20oLjUpCiAgLnBhbigiPC4zIC43PiIpCiAgLmdhaW4oLjkpCgovLyDilIDilIAg44OJ44Op44OgIChUUi05MDkpIOKUgOKUgAokOiBzKCJiZCB%2BIFt%2BIGJkXSB%2BICwgfiBjcCB%2BIGNwIikKICAuYmFuaygiUm9sYW5kVFI5MDkiKQogIC5yb29tKC4xKS5nYWluKC45KQoKJDogcygiW2hoKjIgaGgqMiBoaCo0IGhoKjJdIikgICAgICAgICAgIC8vIOi3s%2BOBreOCi%2BODj%2BOCpOODj%2BODg%2BODiAogIC5iYW5rKCJSb2xhbmRUUjkwOSIpCiAgLm4oaXJhbmQoNCkpICAgICAgICAgICAgICAgICAgICAgICAgICAvLyA056iu44GuaGjjgpLjg6njg7Pjg4Djg6DjgasKICAuZ2FpbigiWy41NSAuMzVdKjgiKQogIC5zb21ldGltZXNCeSguMTUsIHggPT4geC5zcGVlZCgxLjUpKQoKJDogcygiY3IiKS5zbG93KDQpICAgICAgICAgICAgICAgICAgICAgIC8vIDTlsI%2Fnr4Djgasx5Zue44Kv44Op44OD44K344OlCiAgLmJhbmsoIlJvbGFuZFRSOTA5IikKICAuZ2FpbiguMzUpLnJvb20oLjYpCgovLyDjgYrlpb3jgb%2Fjgac6IOihjOmgreOBriAkOiDjgpIgXyQ6IOOBq%2BOBmeOCi%2BOBqOOBneOBruODkeODvOODiOOBoOOBkeODn%2BODpeODvOODiOOBp%2BOBjeOBvuOBmQovLyAkOiBzKCJzcGFjZToxIikuc2xvdyg0KS5nYWluKC4yNSkucm9vbSguOSkgICAvLyDihpAg44Ki44Oz44OT44Ko44Oz44K544KS6Laz44GX44Gf44GE5pmC44Gv44Kz44Oh44Oz44OI6Kej6Zmk\n
+---
+[410] 07-06 08:41 4e86cdbb1ed7 5fc31af6fb0e
+#ぬるぽが生成画像\nhttps://gyazo.compile-error.net/05570085cd947171.png
+---
+[411] 07-06 08:40 88a26d85b87c bc3125df75de
+リップル、ルクセンブルク当局からMiCAライセンスを正式に取得\n\n リップルは、ルクセンブルク金融監督委員会からMiCAに基づく暗号資産サービスプロバイダーの正式認可を取得したと発表した。これにより、同社は欧州経済領域の全30カ国で暗号資産サービスを提供できるようになり、欧州での規制対応と事業展開を一段と進める。\n\nhttps://bitbank.cc/knowledge/breaking/article/fqra36227wol
+---
+[412] 07-06 08:40 6f74d0365b02 8a296efe5ddb
+お値段はなかなかのもので一個単価で見ると高級菓子になっちゃうよ。味については値段相応と思うけどね。\n#はじける！まさにシャインマスカット https://blossom.primal.net/a4072ee5878b338e879ceb6d14d0f93ab86d9341d9d2917200322d5af47ad7fd.jpg
+---
+[413] 07-06 08:37 9ca0bd745074 e4dd4de19134
+Mexico looked tasty tho, unlike Brazil who forgot to turn up and play samba. \n\nMexico had the home support the home support pressure on ref decisions, against 10 men for a lot of the game. And still.\n\n https://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/6a21f8e58daa6bf334a105b258704764b9c3bfa4d972bfd580afd613e9a4705a.gif\n\n\nTHAT'SA SAMBA FOR YA
+---
+[414] 07-06 08:36 dd664d5e4016 0957d5bb69ca
+The EU app specification for the national apps requires you to connect to the government system during setup (through the Internet, e-mail, or postal mail), to verify your ID. After that, it functions independently and issues the tokens anonymously. The apps are required to be open-source.\n\nhttps://github.com/eu-digital-identity-wallet
+---
+[415] 07-06 08:31 9ca0bd745074 9621e9756bcd
+https://drfrancisyoung.substack.com/p/why-cant-we-talk-about-numinous-experiences?r=1f2ejo&utm_medium=ios&triedRedirect=true
+---
+[416] 07-06 08:28 9ca0bd745074 91327207c780
+Wow that that ref really did his best to let Mexico win. But even with ten men and a dodgy ref they couldn't stop the hurricane.\n https://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/eccee494fce8a9207596a5ac0828ae3d56d6e3d58bb2c15ff9d63b8d3379d8b4.jpg
+---
+[417] 07-06 08:20 88a26d85b87c 4ef7451e4338
+韓国の放送通信審議委員会、Polymarketへ意見を述べる機会を与える方針\n\n 韓国の放送通信審議委員会は、予測市場プラットフォーム「Polymarket」に是正措置を講じるか判断する前に、同社へ意見を述べる機会を与える方針を示した。当局は、Polymarketのサービスが韓国法で違法賭博に該当するかどうかを審査しており、事業内容や運営実態を踏まえて最終的な対応を決定する見通しである。\n\nhttps://bitbank.cc/knowledge/breaking/article/v3_r0dteo
+---
+[418] 07-06 08:15 e01819d64d97 aff1037da1bb
+https://blossom.primal.net/36053d0da711ea7bf1d16603da14cc63d557d67591a62c30b40cf1a2bbba6ced.jpg
+---
+[419] 07-06 08:03 dd664d5e4016 6fe8811814fb
+> Globally, only 1.5% of adults have $1 million or more, but that represents 48.4% of global wealth, or $250.6 trillion, within the 56 countries surveyed, which as Mazeau says, is biased toward the wealthiest nations.\n> Though the rate of growth in the number of millionaires continues to be striking, UBS shined a light on adults with wealth between $5 million and $100 million. There are now more than seven million people globally with wealth of that magnitude, with 4.1 million of those individuals in the U.S., UBS said. China ranks second with 516,000 individuals.\n> The ranks of these multimillionaires has expanded globally since 2000 in every bracket tracked by UBS as their collective wealth soared at a compound annual growth rate of 8.7% in nominal dollars, or 6.1% adjusted for inflation. The mere millionaires saw their wealth grow at an annual rate of 4% adjusted for inflation since the start of the millennium, UBS said.\n\nhttps://www.barrons.com/articles/soaring-financial-markets-millionaires-ubs-report-33cf3438
+---
+[420] 07-06 08:03 b3e43e8cc7e6 7c1714c39fcb
+https://share.yabu.me/b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f/a2e179b3d88f1604415cba46d9ae27674761fbb4d8977daf9973e9da485aa2de.webp
+---
+[421] 07-06 07:55 2c7cc62a697e c61c55556f2d
+仕事中に遊んでくれとせがむ小悪魔\n https://image.nostr.build/ff61791075821d4a868c7b20cc2f53320369847a12f3eb402e255da3fd438eff.jpg
+---
+[422] 07-06 07:55 cc6d24063ad9 fb585b191b21
+https://togetter.com/li/1409909
+---
+[423] 07-06 07:55 d602e726ec08 3723e3572de8
+fableで色々と作り直した\nhttps://magunapina.github.io/clean-youtube-search/
+---
+[424] 07-06 07:53 66675158e633 c7eb6e1ff4c2
+https://gitworkshop.dev/cyberguy.fyi/relay.ngit.dev/darkmatter-linux/prs/nevent1qy28wumn8ghj7un9d3shjtnwva5hgtnyv4mqqg8pzt083rvhmegf3qvryksgkezzaedfvdwpvr27hyfxtzn93n8ntgrjk57l
+---
+[425] 07-06 07:47 d1a61498f4b1 7ae86f4d599a
+So these attempts by governments to introduce online age verification requirements, are these going to use zero knowledge proofs?\n\nAre they trying to sell this by floating the idea that you can prove your age while still remaining "anonymous" in some sense or another?\n\nFrom what I'm reading, it seems that zk proofs won't really work to achieve this in any truly meaningful way. See for example this for a critique:\n\nhttps://brave.com/blog/zkp-age-verification-limits/\n\nDoes anybody have any insights into what's going on here?
+---
+[426] 07-06 07:46 ef89ee45550f 08055815131e
+https://discoverjapan-web.com/article/153184\n\n普通に道明寺を紫蘇でまいたお菓子あった。
+---
+[427] 07-06 07:43 b707d6be7fd9 14c27300c93b
+ペンギンを蒸す機械とペンギン\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/d0d1dc30ebed29123b4148b278ea828d3351f33f4adcb2746e2f6eb373f883cb.webp\nhttps://www.antarctica.gov.au/news/stations/macquarie-island/2019/this-week-at-macquarie-island-3-may-2019/
+---
+[428] 07-06 07:43 d1a61498f4b1 404e03247704
+So these attempts by governments to introduce online age verification requirements, are these going to use zk proofs?\n\nAre they trying to sell this by floating the idea that you can prove your age while still remaining "anonymous" in some sense or another?\n\nFrom what I'm reading, it seems that zk proofs won't really work to achieve this in any truly meaningful way. See for example this for a critique:\n\nhttps://brave.com/blog/zkp-age-verification-limits/\n\nDoes anybody have any insights into what's going on here?
+---
+[429] 07-06 07:40 88a26d85b87c 64d6d2ccaa75
+韓国の最高裁判所、暗号資産に特化した差し押さえ・換価手続きの導入に向けた法改正案を提案\n\n 韓国の最高裁判所は、暗号資産に特化した差し押さえ・換価手続きの導入に向けた法改正案を提案した。現地報道によると、この改正案は訴訟中に債務者が暗号資産を移転・隠匿する行為を防ぐための法的根拠を整備し、執行手続きの実効性を高めることを目的としている。\n\nhttps://bitbank.cc/knowledge/breaking/article/owo7j_-pwh3
+---
+[430] 07-06 07:38 1f7695f96caa 5ea79d09c05c
+これっぽい！\nhttps://img.atwiki.jp/amakaji/attach/39/12/musu.jpg\n元ページ: https://w.atwiki.jp/amakaji/pages/39.html
+---
+[431] 07-06 07:36 71ecabd8b6b3 de1d2a30a90d
+GM comrades 🫡 Top Memes From Last Week 🔝\n\n🥇 First Place\nhttps://blossom.smartflow.social/f737b364fd7e1018bd8f4a7c1f1b19ad11093a0f980fbd05a15d5b1c7cd9c9c3.jpg\n\n🥈 Second Place\nhttps://blossom.smartflow.social/0894dabdc609f30ba906fa7cfcc7606af8f981dfe745078a2b21b00b4e14cfcb.jpg\n\n🥉 Third Place\nhttps://blossom.smartflow.social/5f4278778e08df4e34ebbe9313bd1fc9c3b1a58c7480397e4671419b9f122f33.jpg\n\nThe Meme Bay backend remains undefeated: nostr:npub1ckqlguq0htvs3smwy8pl5uwmfas0h208p7p8hs92ghaurgkmzzrsw3vlh0 https://smartflow.social\n\n#topmemes #plebchain #meme #memes\n
+---
+[432] 07-06 07:35 b707d6be7fd9 76ab5b1dcb01
+最高に意味のわからないメール\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/f15140048c93f08f1696e94a92489cc665087b9a4ef1ad0899f3053b92f1a70e.webp
+---
+[433] 07-06 07:30 dd664d5e4016 e1095248d5d5
+Nominal USD.\n\nSome of their other figures are adjusted for inflation, but inflation was low in 2025, so it doesn't make much difference.\n\nHere is the full report. Always an interesting read.\n\nhttps://www.ubs.com/global/en/wealthmanagement/insights/global-wealth-report-clients.html
+---
+[434] 07-06 07:28 b3e43e8cc7e6 22c41f7847f9
+メトロノームの同期現象みたいなことがNostrでも起こりそう\nhttps://www.mirai-kougaku.jp/laboratory/pages/151112.php
+---
+[435] 07-06 07:28 ca447ffbd983 e0abbec30734
+https://blossom.rikmeijer.nl/07eb4cae3010a5a8a475e6072bd21a244318c3f96bcd34e0d818586f52c092a2
+---
+[436] 07-06 07:20 27154fb873ba 39a75e4fe68b
+#memes #memestr\n\nhttps://i.nostr.build/9kvyAaopTGiAdFtS.jpg
+---
+[437] 07-06 07:18 d1a61498f4b1 d5f47f27ee5c
+Inkan separates your identity from your signing key.\n\nIf the signing key is leaked or lost, revoke it. Switch to a new one. Same identity. Same followers. New signing key.\n\nThe prototype is here:\nhttps://www.inkan.cc\n\nhttps://image.nostr.build/c66861c050b2d0c48fda601d5dc0e069d6188316f96b2f18b85a6e209704c223.jpg\n\nLet me know any questions.
+---
+[438] 07-06 07:08 abc133200cd9 41a1bb2d1bd0
+Buenos días #nostr ! ☕🐗\n\nEmpiezamos a cosechar berenjenas... 🍆\n\nPD: El dinosaurio de arriba a la derecha es para semilla. 🤣\n\n#homesteading #farmstr #permies #gardening #gardenstr #growyourown  #growstr\nhttps://blossom.primal.net/54c7cb4dd780995ec84d95c97541c57b1574f86e0a2d162990152e0501839fc9.jpg
+---
+[439] 07-06 07:04 74ddacb333fb 0000b519da5b
+I didn't realize that Jast USA had uploaded a trailer with dub voices. Everyone sounds pretty good. Obviously, there are some outliers, like the kids' voices. Whether you like Setsuna's voice or not depends on how much you enjoy kuudere voices in English. To me, it sounds fitting. However, I can see how the monotone cadence could make it sound like she's bored. \n#animestr #gamestr\nhttps://blossom.primal.net/37c919d93be629162cc9039e60211c369b5156b77985ef3997ca2f8c7b529e50.mp4\nnostr:nevent1qqswnk0tc9hg8udg2pwujwy6pzgw3ygt4f3pj40fue8yy23hwy5fgyqpz9mhxue69uhhstntda4xjunp9e5k7q3qwnw6evenl00xrzlmt0fs9r9wgjqegf8ueea8nlkrrllkx05l8vnq7fljyp
+---
+[440] 07-06 07:00 0bdcf0019e79 aa0f7f3ff150
+なんでこんなものが市場に出るんだ…\nhttps://x.com/i/status/2073783990935494953
+---
+[441] 07-06 06:58 8ba925605a26 000051cdf777
+GM 🌞 \nhttps://blossom.primal.net/15a01a6b038361b7e87eaf60399171e5602dedb708e8f1aaf034b1037f51eac0.jpg
+---
+[442] 07-06 06:53 8f474abb70c3 ebf10ae20a08
+https://blossom.primal.net/2f9d19fd9abb8890af5f1180aa7c1920e3688ce68c7893cbca56053dcf508ad5.gif \n\n
+---
+[443] 07-06 06:52 9be0be0e64d3 f479c1fcd4cb
+https://github.com/fabianfabian/openclaw-nostr-nip17
+---
+[444] 07-06 06:52 0c9b1e9fef76 be59a01a84f5
+同じ階に住んでるわけじゃないのにこんなに聞こえてるのヤバぁ……。\n家賃的にも壁薄いはずないし、自身もラッパーだからある程度の防音性のあるところ選んでそうでこれなのか……。\n\nhttps://x.com/i/status/2073659508644282508
+---
+[445] 07-06 06:40 88a26d85b87c 0a46f38dad06
+DeFi運用プラットフォームSummer.fiで600万ドル流出か\n\n Blockaidによると、DeFi運用プラットフォームSummer.fiで進行中のエクスプロイトを検知し、これまでに約600万ドルが流出した。Summer.fiは利回り集約や自動ボールト管理を提供し、機関投資家向けのDeFiボールト基盤も展開している。\n\nhttps://bitbank.cc/knowledge/breaking/article/7blib9v33s
+---
+[446] 07-06 06:31 d9c4cfe3cab8 6b4a576797c7
+昼休み\n今日はちょっと残業になるので先に実施\n#多効能鍛錬器\n#上海体育実業有限公司\n\nhttps://image.nostr.build/72e9e54323370a0c70f901da350f60758a649bce8f6ef43b92b26cac9cc20ffa.jpg
+---
+[447] 07-06 06:30 74ddacb333fb 000063e19bef
+Finished Mistress Kanan. A great show with a bunch of laughs that did make me feel nostalgic for old Funi dubs. The cast did a great job! Like I figured, best girl didn't show up, but with season 2 announced, I just have to play the waiting game.\n#animestr #カナチョロ #kanan_choroi\n\nhttps://blossom.primal.net/5bcf4b88dddf2f557bacf7a40828b6baf48ea01dd5cd9e1400aa51c26abf68a1.mp4
+---
+[448] 07-06 06:22 88a26d85b87c 8f4e46220bea
+Bitcoinマイナーサイクルストレス複合指標、2026年の最低水準まで低下: 底値の可能性\n\n Bitcoinマイナーサイクルストレス複合指標が2026年の最低水準まで低下し、「過小評価」ゾーンに入ったとBitcoinNews.comが報じた。同様のシグナルは2015年、2018年、2020年、2022年、2024年のビットコイン相場の大底付近でも確認されている。現在は2015年のマイナー降伏局面と似た動きを示しており、歴史的に見ても極めて稀な水準のマイナーストレスに達しているという。\n\nhttps://bitbank.cc/knowledge/breaking/article/w0nl9gmsvs4
+---
+[449] 07-06 06:21 88a26d85b87c 0fe4352f9e11
+Binance、フランスなど複数の欧州諸国で取引サービスを停止\n\n フランスメディアBFM Businessによると、Binanceは暗号資産規制「MiCA」の認可を期限までに取得できなかったため、7月1日からフランスなど複数の欧州諸国で取引サービスを停止した。フランスの利用者は資産の出金のみ可能となり、現物取引や信用取引は利用できなくなった。約200万人の利用者資産は安全だと説明しており、オンチェーンデータでは過去1カ月の純流出額は約16億ドルだった一方、約1,140億ドル相当の暗号資産を引き続き管理している。\n\nhttps://bitbank.cc/knowledge/breaking/article/bvqcv9axa9rd
+---
+[450] 07-06 06:20 88a26d85b87c d0202439917c
+京都市内3カ所の自動販売機で日本円ステーブルコイン「JPYC」による決済の実証実験を開始\n\n INSPAYはJPYC、HashPort、チェリオコーポレーションと連携し、京都市内3カ所の自動販売機で日本円ステーブルコイン「JPYC」による決済の実証実験を開始した。期間は9月30日までで、HashPort Walletを使って支払うと対象商品を半額で購入できる。実証結果を基に、自販機だけでなく無人店舗やイベント会場、観光地などへステーブルコイン決済の展開拡大を目指す。\n\nhttps://bitbank.cc/knowledge/breaking/article/7em34etffvn
+---
+[451] 07-06 06:13 d735231e8eeb fdfe7e68fce9
+【Amazon SES에서 DKIM 구성이 타임 아웃 될 때 어떻게 대응해야 할까?】\nAmazon SES에서 DKIM 구성이 타임 아웃 될 때 어떻게 대응해야 하는지 확인해 봤습니다.\nhttps://dev.classmethod.jp/articles/jw-amazon-ses-dkim-configuration-timeout/
+---
+[452] 07-06 06:11 88a26d85b87c 29562a82b7bf
+Coinbase、W杯についてAIが生成した架空の予測市場アラートを配信したことで批判\n\n Coinbaseは、AIが生成した予測市場アラートで「ノルウェーがブラジルに3対2で勝利し、ハーランドが2得点」と、試合開始前の架空の結果を配信したことで批判を受けた。当時、Coinbaseの予測市場ページでは試合は悪天候による延期中であり、結果は確定していなかった。CEOのブライアン・アームストロング氏はチームとともに原因を調査していると説明した。この問題を受け、「予測市場は真実を発見するツール」とするCoinbaseの位置付けや、金融サービスにおけるAIの品質管理・安全対策のあり方に疑問が投げかけられている。\n\nhttps://bitbank.cc/knowledge/breaking/article/ld4u6csptd7p
+---
+[453] 07-06 06:10 88a26d85b87c e57e014a2bf6
+クラリティ法、中間選挙前の成立期限は厳しい見込み\n\n ホワイトハウス顧問パトリック・ウィットが期待した7月4日までの成立は実現せず、クラリティ法の中間選挙前の成立期限は一段と厳しくなった。それでも審議を追う関係者3人は成立の可能性を維持できるとみており、上院では農業委員会案と銀行委員会案の一本化作業が続いている。最大の節目は、夏季休会と選挙運動入り前の最終本会議日となる2026年8月7日である。\n\nhttps://bitbank.cc/knowledge/breaking/article/ih0mn6bh8k
+---
+[454] 07-06 06:04 ca55de60561a d162fa7913fb
+普段と違うファミマ行ったらたごかずさんがおすすめしてたやつあったけど、たしかにこりゃあうまい #foodstr\nhttps://share.yabu.me/ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257/0bfb3cdf4ab8edd6a0dea349d0abefff70007a0c20691017cc27ec599e6047eb.webp
+---
+[455] 07-06 06:01 66675158e633 e66fcdec04d5
+nostr:npub15qydau2hjma6ngxkl2cyar74wzyjshvl65za5k5rl69264ar2exs5cyejr I'm having a weird issue with ngit right now... every time I push it broadcasts a merge event on some PRs... \n\nhttps://blossom.ditto.pub/fad5079a94303bba42ee0ceae0fc01c6a52e92d936f5bb60cba62046b4b8f0db.png\nhttps://blossom.dreamith.to/0e627d59fcfb08c864b343a8e89074f52c1f80b8871769234025e30be902eb7b.png
+---
+[456] 07-06 06:00 88a26d85b87c 8a11a51622cb
+過去1年間に米国関連ウォレット、Polymarketの政治予測市場で約5億7,100万ドルを取引\n\n オンチェーン分析企業Alliumによると、過去1年間に米国関連ウォレットはPolymarketの政治予測市場で約5億7,100万ドルを取引し、香港を上回る最大の参加国だった。Polymarketは米国ユーザーを禁止しているものの、VPNと暗号資産ウォレットを利用することでアクセスが続いている実態が示された。米国ユーザーはイラン情勢やウクライナ戦争など海外紛争関連市場への参加比率が高く、米国内で提供されない市場へ需要が流れている。一方で予測精度は他国ユーザーとほぼ同水準で、規制は参加を止めるのではなく、取引を米国の監督外へ移しただけだとレポートは指摘している。\n\nhttps://bitbank.cc/knowledge/breaking/article/2cpm4xqbzml
+---
+[457] 07-06 06:00 2c7cc62a697e 4ae1576f2af7
+zzzZZZ (いっつも寝とるな)\n https://image.nostr.build/cf48afd9e651e8444dfecc6f8d118df0571f9c9d6aafe746fd37648fa00de352.jpg
+---
+[458] 07-06 05:56 c7acabf1fed2 031f118ae724
+Trump is moving fast and fighting for the American people everywhere.\n\nI can confirm part of what he is saying because the communist Canadian government has been adding tons of regulations for decades to the point where fisherman aren't allowed to fish because of fake climate change agendas or lying that fisherman are overfishing. \n\nThe corporations tho, they government allows them to fish as much as they want.\n\nStand with President Trump!\n\nHe said this a couple days ago.\nTrump says:\n\nToday I am declaring a National Scallops Day to celebrate an action taken by the National Oceanic and Atmospheric Administration (NOAA) that will open up the Northern Edge of Georges Bank to Scallops Fishing, fulfilling the dream to our Great Fishermen who were so badly treated by the Obama and Biden Administrations, and by the Country of Canada. That will mean millions more pounds of beautiful Wild Scallops a year on the kitchen table of Americans, and more Jobs in Norfolk, Virginia, Cape May, New Jersey, New Bedford, Massachusetts, and essentially all parts of the East Coast. This is in addition to freeing up a massive area off the East Coast for our Great Lobster Fishermen, and others (An Environmental Monument declared by Barack Hussein Obama and Sleepy Joe Biden, that I terminated!), and a half a million square miles of the beautiful Pacific Ocean, where every country was allowed to fish except for our Great American Fishermen! I have opened up the Oceans, Rivers, Lakes, and Seas to our Fishermen, and freed them from ridiculous Environmental restrictions that allowed other countries to take advantage of the United States’ Waters under Barack Hussein Obuma, Sleepy Joe Biden, and the Dumocrats. It is my Great Honor to have done so because I am the Fishermen’s Friend — GO OUT AND VOTE REPUBLICAN IN THE MIDTERMS, BECAUSE IF THE COMMUNISTS GET IN, YOU’LL NEVER FISH AGAIN! Thank you for your attention to this matter. President DONALD J. TRUMP\n\nhttps://truthsocial.com/users/realDonaldTrump/statuses/116851640807022172\n
+---
+[459] 07-06 05:51 f987fb90696f bdae0a03ab72
+あるんふぉふぉどうぞ\nhttps://cdn.nostr.build/i/84d43ed2d18e72aa9c012226628962c815d39c63374b446f7661850df75a7444.png\n作: nostr:npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76\n#もの画像
+---
+[460] 07-06 05:49 b707d6be7fd9 ec8925f3fb74
+全22種なのに20個入で販売するの悪魔的発想だよなあ\n1日外出録ハンチョウ ステッカー付柿放題(20個入) | おもちゃ・キャラクター玩具 | アニメグッズ ・おもちゃならプレミアムバンダイ｜バンダイナムコグループの公式通販サイト https://p-bandai.jp/item/item-1000245719/
+---
+[461] 07-06 05:40 b707d6be7fd9 40ca52902176
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/0199c5540249909bf57e13489f1819624eeea8fb4fe1e1a5c1bf0c39a5592d75.webp
+---
+[462] 07-06 05:36 f0e59458d5da 282fb6c27412
+https://x.com/hyperthigachan/status/2073692269610479769?s=20
+---
+[463] 07-06 05:33 fe9edd5d5c63 c58d99a6f34e
+⛩️でばっぐ神社に参拝しました\n獲得ポイント: +4 pt (合計 1475 pt)\n戦闘力: 13544 → 13672 (+128)\nレベル: Lv.39\n更新リポジトリ: 1 / アクション: 19\n#でばっぐ神社\nhttps://d-shrine.jp/
+---
+[464] 07-06 05:33 4f2199ca4f70 20df9810f0e6
+わかめラーメンがでてきたので、貼る必要がありますね。\n:meow_coffee:\nhttps://www.youtube.com/watch?v=jL-3qq-SA8g
+---
+[465] 07-06 05:28 6e468422dfb7 4a50b00086c5
+GM https://haven.dergigi.com/5551a5f90546dc1bd4f9f2bd1e680094e7b43db4b8de69f1bcbea5abaeb80548.jpg
+---
+[466] 07-06 05:23 d735231e8eeb bae7727f0bda
+【クラスメソッドオペレーションズにジョインした鈴木です】\n2026年7月1日よりクラスメソッドオペレーションズに新しくジョインしました鈴木です。自治体のAWS構築経験を活かし、クラスメソッドグループの成長環境で更なるスキルアップを目指していきます。\nhttps://dev.classmethod.jp/articles/202607-suzukikaito-joined-classmethod-operations/
+---
+[467] 07-06 05:19 d735231e8eeb 3eadc5291553
+【【ブースレポート】 DJ Agent ～ AI エージェントによるライブコーディング DJ ～ ブースを体験してきました】\nAWS Summit 2026のブースレポートとして、AI エージェント同士がリアルタイムで曲を生成・DJ する「DJ Agent」を紹介します。マルチエージェントアーキテクチャによるライブコーディング、視聴者投票機能、低コストな実装の工夫について紹介します。\nhttps://dev.classmethod.jp/articles/aws-dj-agent/
+---
+[468] 07-06 05:16 d735231e8eeb 9ba936a738d7
+【【ブースレポート】日産の AI Defined Vehicle を支える次世代ソフトウェア開発基盤のデモを見学してきた #AWSSummit】\nre:Invent 2025 からの進化や、自然言語で機能を実装して実車へ OTA 配信するデモの様子を見られました。\nhttps://dev.classmethod.jp/articles/nissan-ai-defined-vehicle-sdv-dev-platform-aws-summit-2026/
+---
+[469] 07-06 05:15 98c568ec8250 cbec0fbf8dab
+https://share.yabu.me/98c568ec8250dd083e3f5cadec06b5b6f24cbbc0351c5dc1ef0e80b98857ab77/307ed99d93fba390ae4250bdf6ecd0881a7c708784350a7f8f85eefc48e77ee0.webp三麻勝ったおはようツイートです #VRChat
+---
+[470] 07-06 05:13 d735231e8eeb ab7d8b4046bd
+【DGX Spark 1 台をパートナーにする LLM 構成を考えてみた】\nDGX Spark 1 台で複数のローカル LLM を速度と品質で横並び測定し、パートナー機として最適なモデル構成を探ってみました。\nhttps://dev.classmethod.jp/articles/dgx-spark-single-node-best-llm-qwen3-6-27b-nvfp4/
+---
+[471] 07-06 05:12 dd664d5e4016 027d16571044
+There are some Nostr plugins for it, too.  #obsidian\n\nhttps://git.imwald.eu/silberengel/scriptorium-obsidian
+---
+[472] 07-06 05:10 c01d554deff7 304dd3fbd073
+都営交通無料乗車券 ｜ 東京都交通局\nhttps://www.kotsu.metro.tokyo.jp/other/kanren/fare/free.html
+---
+[473] 07-06 04:50 8f1df2826727 141c6e8aa039
+周防パトラちゃんが 2026/07/07(火)00:00 より配信予定\n\n【ASMR/2時間】音が良い！すぐに寝れる本当の耳かき＆マッサージ。吐息囁き・赤ちゃん綿棒・太綿棒・竹耳かき・オイルEar Cleaning＆Oil Massage deep sleep【周防パトラ】\nhttps://www.youtube.com/watch?v=4dMT0IajLzQ\n\n#周防パトラ #Vtuber #ASMR #睡眠導入 #安眠 #healing #relax 
+---
+[474] 07-06 04:49 101a112c8adc 1c9218da2906
+⚡ Boost ⚡\n\nAnother good episode fellas. Keep up the good work. YATA!\n\nBoosted 1234 sats → Open Markets Podcast\n📻 #10 London Calling | Open Markets Podcast\n\nhttps://pod.link/1889558301\nhttps://boostmebitch.com/?podcast=2c85e01a-cb9c-56fb-8682-a0e42a5521d8
+---
+[475] 07-06 04:48 314072c16fa9 388e70682064
+Final results are in. Don’t let anyone tell you this thing doesn’t have consensus.\nhttps://blossom.primal.net/f81a23416f6398cd36724557f6d6ed07e7a1f6525166b6547befb3c6101a896f.jpg
+---
+[476] 07-06 04:46 83d52b4363d2 0fdb9a90eb1c
+設計方針をドキュメントにしてみた\nhttps://github.com/SnowCait/nostter-deck/blob/9e5f56f8b07770e3eed1615fed7292f968006b54/docs/architecture.md
+---
+[477] 07-06 04:38 c2b444c5932e 64d6c8ec3639
+goodnight\na song to end the evening \n\n"sugar, i've developed a taste for you now"\n\nsleep token // sugar\nhttps://music.youtube.com/watch?v=IbOFlk200Zg\n
+---
+[478] 07-06 04:37 7f41684033fd 4bd5a907f078
+Flashforge CJ270 フルカラー3Dプリンター ｜3Dプリンターとレジン・フィラメントの通販・購入はSK本舗 https://skhonpo.com/products/flashforge-cj270\n欲しー\n今月予約開始なんだ #かるめも
+---
+[479] 07-06 04:36 101a112c8adc 371220831923
+Just boosted ⚡ 1,234 sats to nostr:npub1cvcgs83gw6pcrhvtmlf8gdqaegx93qkznwry96jteqhh2cexgkfq45rtya for Ep. 18\n\n"Upping Your Meetup Game w/Steve, Scott & Tali: Louisville, KY | Ep. 018"\n\nThanks for the #YATA love. You mentioned a voice mail possibility. It may be a fun addition to have a line for meetup reports similar to the No Agenda podcast. Let people say hey from their meetups and play them on the show. Hopefully I'm boosting the correct episode....\n\nhttps://fountain.fm/episode/bBf4IJhsERLpTYeRESOa\nhttps://localbitcoiners.com
+---
+[480] 07-06 04:34 101a112c8adc 110d484037ca
+Just boosted ⚡ 1,111 sats to nostr:npub1cvcgs83gw6pcrhvtmlf8gdqaegx93qkznwry96jteqhh2cexgkfq45rtya for Ep. 17\n\n"The Subjective Value of Meetups w/Clay Seal: Cincinnati, OH | Ep. 017"\n\nI probably boosted the wrong episode. I can't seem to login to Fountain on GrapheneOS using Amber. It is my usual method of boosting and I am in the market for a new app, but none seem to fit the bill. Long live Nostr integration on localbitcoiners.com.\n\nhttps://fountain.fm/episode/Xwgh7I9uZLY08uVepuIN\nhttps://localbitcoiners.com
+---
+[481] 07-06 04:27 b3e43e8cc7e6 f27afd894b1e
+つよい\nhttps://x.com/431tv/status/2073659752916427236?s=46
+---
+[482] 07-06 04:27 6f849dc7387f 4f57ac42b75e
+claudeがつけたセッション名 https://share.yabu.me/6f849dc7387f4dc991af2360b5cbe61e9fc96170a096fa577c1b9177ca5882f5/c6640c01c9762e22c6f66a7024496faf01ee191ac2a942c3f716179ab9e8b7b8.webp
+---
+[483] 07-06 04:25 e3a59924933c 0006760b71ac
+https://blossom.primal.net/7e43f73cee168047ff42218def373ea587b2ff429eb6be0d8a44fc250fe642c0.jpg\nhttps://blossom.primal.net/64c8583e69e80aee5c27d8418134ebce5312d63e62e6fb7e970d3a42fdcb6f5d.jpg
+---
+[484] 07-06 04:23 5aaccfdd2ed8 60ab33cc5b79
+Papillon少しずつ進み。\n世界のエネルギー原料の内訳とそのうち原子力の国。ドリルダウンで出せる。\nhttps://share.yabu.me/5aaccfdd2ed8f45eb0dfb9a8752bf0d50777a975ad24468f14dd457e747c5c90/808a5574028b929fc56cfdada5d99d4cd50ad349078cc6f9676a2cb520d139d2.webp
+---
+[485] 07-06 04:22 32310997f6b3 aa6f2a53cd5a
+BlogstrのZapLive\n\nhttps://share.blogstr.net/zap-live/
+---
+[486] 07-06 04:16 32310997f6b3 afa82e747a37
+質問箱設定をONにしてみた。なるほどプロフィール開いた時に質問箱が表示される\nhttps://npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4.blossom.band/41afa9bfe79df51c226c65433af6831743d599143eba922d54764116cf6b2d15.png
+---
+[487] 07-06 03:59 26bb2ebed6c5 b4851b9e3c11
+タコライス\nhttps://share.yabu.me/26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958/4361b7bc39168a1c0fe58f75fb8f0bba7eca8b627c462ea96060a7159ecf91f2.webp
+---
+[488] 07-06 03:59 b707d6be7fd9 e4100caa3a26
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/b0756138d03c44d50b0ab2f6b8311ab95155d9c24decf3d22d0536a0fb8a3c73.webp
+---
+[489] 07-06 03:55 28325397535e fa03e3f690a6
+https://claude.ai/public/artifacts/4c285ff9-0e12-430f-89cd-71e435141979\nできた  nostr:nevent1qvzqqqqqqypzq2pj2wt4xhng6anf2kqeczgkurl62gyy3tfnx4l8n0ruaell34r7qyxhwumn8ghj77tpvf6jumt9qyt8wumn8ghj7mn0wd68ytnp0f6kk6fwvfk82egqyz6l59q0nmjjhyvjktxd0m6y3nu9nmcuumktrtta5g3aerffj2d5xwspu64
+---
+[490] 07-06 03:54 274a2e86f1a7 cb36d7634653
+https://image.nostr.build/c8de78efe9f6dabc544b11c58a994e3de2dbe533abe66af6b282443de055a181.jpg
+---
+[491] 07-06 03:51 81168cae30e2 b193dc33f732
+AI+ロボットのユートピア論に潜む経済学的問題｜ウヒロイド @uhiroid \n\nhttps://note.com/uhiroid/n/n4b22c70cc116?sub_rt=share_pb
+---
+[492] 07-06 03:45 6d3b525b66dd 7de1ca468390
+2026-07-05, 23:59 UTC\n\n807 days after halving\n\nCurrent: $63,619.88\n2012 scaled: $1,223,143.73\n2016 scaled: $643,213.46\n2020 scaled: $176,916.96\n\nhttps://image.nostr.build/fad3574c12e974896ce9cd9519a6be6443f77daa17bd75f59e320fc39435ec49.jpg
+---
+[493] 07-06 03:36 b707d6be7fd9 79d24be3623d
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/607594e3561027838ce83c431b568db5e74ae439ca05d8e56bbe63b14aceb9bb.webp
+---
+[494] 07-06 03:32 6f849dc7387f c06dceeeb3d2
+korenani https://gigazine.net/news/20260705-paseo/
+---
+[495] 07-06 03:30 6ce84bd08e01 c1bfed77b995
+恣意的な興業イベントで浮かれてる間に 何を盗まれ隠されているのか\n一発退場した米代表FWの出場停止処分が猶予に…次戦出場可能　トランプ大統領は「Thank you」、対戦相手のベルギーは猛反発 | サッカーキング https://www.soccer-king.jp/news/world/wc/20260706/2181485.html
+---
+[496] 07-06 03:30 5e00bb041ebe 75f8b85819eb
+なるほど\nhttps://sanblo.com/wp-content/uploads/2022/09/7-7.jpg
+---
+[497] 07-06 03:30 07a68e8cb73f b3502ac407d8
+【祝！vim-jp ラジオ2周年！雀荘から記念回をお届け！】エンジニアの楽園 vim-jp ラジオ #73 #vimjpradio\nエンジニアコミュニティ「vim-jp」のラジオ版としてスタートした「エンジニアの楽園 vim-jp ラジオ」。\n今回は、この番組が2周年を迎えたということで特別回！\n麻雀を打ちながら、ここ1年間の配信を振り返っていきます。\nゲストは、OSS作家のSongmuさんと、麻雀大好きエンジニアのしゅんそくさんです！\n次回も引き続き、これまでの配信を振り返っていきます。\n〜〜〜\nエンジニアが集まるインターネット上のコミュニティvim-jpから生まれた初の音声プログラム。\n「tomoya」と「ありすえ」がパーソナリティを担当！\nvim-jpはプログラミングから子育てに至るまで無数のチャンネルを抱えたコミュニティです。\nそんなコミュニティの面白さを生かして、各分野の様々なゲストを交えながら楽しく雑談していきます。\nvim-jpのSlackへのご参加はこちらから！\nメッセージはSlackの #vim-jp-radio-message チャンネルに投稿してください。\nvim-jpラジオ・オリジナルグッズはこちらから！\nOP・ EDテーマ制作：田中潤（ゲントウキ）\nhttps://traffic.megaphone.fm/TFM1321860624.mp3
+---
+[498] 07-06 03:29 5e00bb041ebe 675283af9d04
+https://sanblo.com/wp-content/uploads/2022/09/2-14.jpg
+---
+[499] 07-06 03:28 5e00bb041ebe 4d55d17a0429
+https://sanblo.com/wp-content/uploads/2026/07/oko.jpg\nhttps://sanblo.com/wp-content/uploads/2025/11/11-5.jpg
+---
+[500] 07-06 03:28 5e00bb041ebe 07b485f15071
+https://sanblo.com/wp-content/uploads/2025/11/11-5.jpg\nhttps://sanblo.com/wp-content/uploads/2025/11/5-8.jpg
+---
+[501] 07-06 03:26 6369fb82bec5 3d38122cfdb4
+https://www.zaikei.co.jp/article/20260704/859785.html\ne米Bay、米eBayとかじゃなくて、イーベイベイ
+---
+[502] 07-06 03:24 5e00bb041ebe 5170f8e276a7
+わかりやすくて草\nhttps://sanblo.com/wp-content/uploads/2022/10/10-18.jpg
+---
+[503] 07-06 03:23 2c7cc62a697e be77e6b0d630
+やんちゃが過ぎて怒られ、そのまま就寝 https://share.yabu.me/41575dcdde3b708055f1452731a713e198fd1d39d2dca35742c5e58523f50f8d.webp
+---
+[504] 07-06 03:22 283d6de3a99d c2946ebd15a8
+ベンチ\n\nhttps://image.nostr.build/64f857d86791ac36eb1ea34074679facd07a92e5e9154d5785eaf90a6d001181.jpg
+---
+[505] 07-06 03:22 84b0c46ab699 5216ddaf1ffb
+⛩️でばっぐ神社に参拝しました\n獲得ポイント: +1 pt (合計 549 pt)\n戦闘力: 7486 → 7501 (+15)\nレベル: Lv.33\n更新リポジトリ: 2 / アクション: 4\n#でばっぐ神社\nhttps://d-shrine.jp/
+---
+[506] 07-06 03:21 5f468793f907 72e91d29af33
+https://image.nostr.build/860f7330e3c84199db3055b94ba9aabe4e1312a71d49b995819a3900b4bc89b6.jpg
+---
+[507] 07-06 03:20 f0e59458d5da c5f666317897
+さすがに嘘かジョーク\nhttps://x.com/0xRacist/status/2073825642374631588?s=20
+---
+[508] 07-06 03:20 fe9edd5d5c63 300e45fca4fe
+⛩️でばっぐ神社に参拝しました\n獲得ポイント: +14 pt (合計 1471 pt)\n戦闘力: 13048 → 13544 (+496)\nレベル: Lv.39\n更新リポジトリ: 4 / アクション: 67\n#でばっぐ神社\nhttps://d-shrine.jp/
+---
+[509] 07-06 03:19 d735231e8eeb 884528197bf9
+【Swift製CLIツール「Kura」で .env のシークレットを難読化してiOSアプリに埋め込む】\nRuby依存による CI 不安定さに悩まされ続けてきた経験から、pure-Swift 製の CLI ツール「Kura」を自作しました。.env のシークレットを難読化して iOS アプリに埋め込む仕組みを、導入手順と Arkana からの移行方法とともに紹介します。\nhttps://dev.classmethod.jp/articles/kura-swift-env-secrets-obfuscation-ios/
+---
+[510] 07-06 03:18 d28413712171 e4e0bef6c22d
+Rent free\nhttps://v.nostr.build/yHI2BEwqDnt9fyK3.mp4
+---
+[511] 07-06 03:16 d735231e8eeb 8157bbb79adc
+【SalesforceのデータをAmazon AppFlowでSnowflakeに増分連携してみた】\nSalesforceのデータをAppFlowでSnowflakeに連携する方法を実装・検証しました。S3経由での連携手順と、設定時のポイント、実際の増分転送結果まで詳しく紹介します。\nhttps://dev.classmethod.jp/articles/ingenst-data-salesforce2snowflake-with-incremental-amazon-appflow/
+---
+[512] 07-06 03:14 b707d6be7fd9 d0b4b25c38c2
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/2e0fe942897b01322718db7a846984d7a060ba4a79ff94b5b1a098c217e5a3a0.webp
+---
+[513] 07-06 03:13 b707d6be7fd9 4fd5794fd447
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/eb5469b7102b3e42b097d7e9b764ee4cb8f16341e269752bf1229a60c5f65db1.webp
+---
+[514] 07-06 03:13 d735231e8eeb f7602f0910e5
+【画像だけの PDF をナレッジベースで検索可能にする — Bedrock FM パーサーの解析結果の精度を検証してみた】\nAmazon Bedrock Knowledge Basesの新しいFMパーサーを使って、星取り表やシステム構成図など複雑な画像情報を含むPDFをナレッジベースに取り込み、回答精度を実際に検証してみました。\nhttps://dev.classmethod.jp/articles/knowledgebase-fm/
+---
+[515] 07-06 03:13 a3bce095cd0e 46125d611528
+このひとがめちゃ調べてる\nhttps://note.com/infteddybear/n/n3486dfc11c27
+---
+[516] 07-06 03:13 b707d6be7fd9 164efd86f811
+https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/7d2f2b16f977cf9f810ca64d7258c3f966315442d930e2a060fb21bd956d448e.webp
+---
+[517] 07-06 03:12 b707d6be7fd9 38cc5d39fe32
+https://www.google.com/search?q=%E3%82%A6%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%91%E3%83%BC&ie=UTF-8\n謎のミニゲームがある
+---
+[518] 07-06 03:12 c2b444c5932e 0db072dd6691
+🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\nsaturday \nhaaland v england\n\nhttps://music.youtube.com/watch?v=hpSrLjc5SMs
+---
+[519] 07-06 03:11 ee1e7f27fa06 2e278eb4b75c
+#foodstr #japan\n\nhttps://image.nostr.build/19c04dee24a0a98fc7a4c4b738154744c72d888445d4a688f91c151145ce66c1.jpg
+---
+[520] 07-06 03:08 b3e43e8cc7e6 a756961c83bb
+カレー！🍛\n#foodstr #currystr\nhttps://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/c64646d27f3d23846e254b7eba101e7c2883283580cf0cdf6f11c2bf8df67e82.jpg https://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/548082177a2eed69b96c1ad3efa76a33217f4ca1c6b087a654f468b3ee31efa9.jpg
+---
+[521] 07-06 03:07 b707d6be7fd9 c3eda779661c
+今日です\n1日外出録ハンチョウ ステッカー付柿放題｜発売日：2026年7月6日｜バンダイ キャンディ公式サイト https://www.bandai.co.jp/candy/products/2026/4570117931994000.html
+---
+[522] 07-06 03:07 283d6de3a99d f07187492965
+ハーネスって、公式の機能以上のもの、意味あるんかいな、なんなら、トークン消費してる分性能低下してるのでは、という疑問があったのだが、いい感じの論文があることを知る。\nhttps://arxiv.org/abs/2605.27922
+---
+[523] 07-06 03:04 5e00bb041ebe 9e0982c3a94f
+おもしろき\nhttps://sanblo.com/huuzoku05/
+---
+[524] 07-06 03:00 ee6ea13ab9fe 3b96d5a4aae3
+Sidecar has a classy new website now. 🍸\n\nhttps://sidecar.dmnyc.net
+---
+[525] 07-06 02:54 1bc70a0148b3 ab264aad3710
+Still pending approval but … I ain’t waiting!\nhttps://npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac.blossom.band/d34c152d41f5dacfea8bfae32c076fff1edbd6217dcbda18a9ac223735d45ce7.png
+---
+[526] 07-06 02:53 d28413712171 cf1150733eb2
+https://youtu.be/c_q9HV9otUM
+---
+[527] 07-06 02:48 c4368c512e70 af3ada12462a
+Hey, Luke! Very excited about your book, ordering right now. I wanted to make you aware of what we're building.\n\nhttps://zsubmesh.net\n\nI'll try you by DM and perhaps we can chat sometime. I'd love to get your input on our work. \n\n
+---
+[528] 07-06 02:47 c2b444c5932e a28d33f57ca7
+i’m dead 🤣🤣🤣\nhttps://eden.blossom.band/8a5f4add68a5d4980d3925ce3c717ab87a6c0fd3ac2bfa14041df8ffbf45ec79.mp4
+---
+[529] 07-06 02:42 1e67de375417 cb3db954b279
+NyxScope: A Windows Multi-Protocol SDR Decoder Program with Multiple Digital Native Decoders \nhttps://www.rtl-sdr.com/nyxscope-a-windows-multi-protocol-sdr-decoder-program-with-multiple-digital-native-decoders/
+---
+[530] 07-06 02:41 7ab2fc7ee0fe ab1380407182
+感觉这有点像工解的颠倒黑白 https://chinadigitaltimes.net/chinese/729020.html
+---
+[531] 07-06 02:39 b3e43e8cc7e6 ad9e5caaddd0
+anthropicのクレジットの$1000の割引なくなってしまった。\n$250を4回に分けたほうが安いのバグじゃないの？ https://share.yabu.me/b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f/b24174733a6adf4094cc083cf85f27e3564eacbebe4dddb646befcdac23d9d86.webp
+---
+[532] 07-06 02:15 409c5539d208 b06ce030320f
+一瞬死んだのかと思ったら元気ってニュースだった\nhttps://x.com/livedoornews/status/2073697139780444674\n
+---
+[533] 07-06 02:13 e034d654802d 0000f9ddb0d0
+https://i.nostr.build/wQPd.gif
+---
+[534] 07-06 02:11 a3bce095cd0e 092959ca4f24
+はえ〜\nhttps://comemo.nikkei.com/n/nadbc7cff8628?sub_rt=share_pw
+---
+[535] 07-06 02:10 2c7cc62a697e 62595347d1bc
+もっちゅりん\n https://image.nostr.build/15be272b8a62e3ebf34319ced6f93583a53fd660f8aa470c5cbd580b02389629.jpg
+---
+[536] 07-06 02:08 3875a16c9788 eeecb775393b
+GN 🌙🌙🌙🌙\nhttps://blossom.primal.net/bf49f08b5787be0cb56981c5b8797058e3727de72fcc69cd59c2ade961135878.jpg
+---
+[537] 07-06 02:06 e034d654802d 00009f993d86
+Wanting the minutia to disappear or "duh NoRmiEs won't come".\n\nDon't worry. They will come. To the porn they're addicted to.\n\nMe over here fucking with my relays for fun like \nhttps://idiotbox.blossom.band/1aa0249247780ee4b89f617656803c0723a6934add6fef53b2da5f474b437e65.mp4\nEither way I'd added complexity.
+---
+[538] 07-06 02:03 ee6ea13ab9fe 6d6eb7a85644
+WORD5 #640 3/6* (Hard Mode)\n\n🟪⬛⬛⬛⬛\n🟪🟧🟪⬛⬛\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
+---
+[539] 07-06 01:59 e3d5cb40fff9 b5f00ebfc20d
+Hello to all #nostr world. I'm a wildlife photographer based in Suffolk in the United Kingdom. Just unpacked my bags here but so looking forward to sharing a journey together.\n\n#wildlife #nature #wildlifephotography #mountainhare\nhttps://blossom.primal.net/2440b1d0a138d79395e79483868cecc77c1c8198fae4a6ed19a9a1f225d914c9.jpg
+---
+[540] 07-06 01:53 deab79dafa1c dd3fc6be5170
+This tiny fire made a nice bed of coals for cooking last night. I dug a trench down ~9" at the back end of the fire pit, tapering to the front. Nice for getting a lot of hot coals, then pulling to the front to cook. \nhttps://npub1m64hnkh6rs47fd9x6wk2zdtmdj4qkazt734d22d94ery9zzhne5qw9uaks.blossom.band/5afe3708424571f0cf6872f639331c164ba629f0b5fb4f0c516b84b228c72b61.jpg https://npub1m64hnkh6rs47fd9x6wk2zdtmdj4qkazt734d22d94ery9zzhne5qw9uaks.blossom.band/3dd47349853f73e6e3328c178fe1a29eb04adcc804098157d17fdfb7552e6f11.jpg\nnostr:nevent1qqsd3ezfgfuxq2gvj785e4jndf6f692ka4x56luaws64e4wfpglvfegpr4mhxue69uhksctkv4hzuer0wahxjum0de6xset4wqhxxcf0qgsda2memtapc2lykjnd8t9px4ake2stw39lg6k49xj6u3jz3pteu6qrqsqqqqqpknrhzm\nI think I'll rebuild it sideways so I have two 'burners'
+---

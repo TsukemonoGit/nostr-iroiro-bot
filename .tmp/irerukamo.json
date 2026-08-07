@@ -566,5 +566,61 @@
     "tool": "https://days-ai.com/",
     "note": "DaysAI（投稿者「Shorty(デジタルかめランド)」自作の AI イラスト創作 SNS/ゲーム）。「自分の好みのキャラクターを作って、さらにそのキャラをお台に出演させてイラストを作るソシャゲ（？）こんなん作ってみました」で作者本人確定。kind0 日本語 YES",
     "content": "自分の好みのキャラクターを作って、さらにそのキャラをお台に出演させてイラストを作るソシャゲ（？）\n\nこんなん作ってみました\nhttps://days-ai.com/posts/659c0270-18fc-4aa1-86d3-5a0ae0626868/"
+  },
+  {
+    "id": "ccda3d97eb4b2b68022e3625c54d331c2247f2708cd5508b922dca4bf6c0639f",
+    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+    "created_at": 1783462616,
+    "tool": "https://github.com/nikolat/jong-bari",
+    "note": "雀々BARIBARI（nikolat/Don 自作の「伺か」用麻雀サーバーゴースト。jong-rinrin / jong-chunchun / jong-whanwhan などクライアントゴースト3体を招いて対戦できる。2021年作・ニッチ）。作者本人（kind0 name=nikolat / displayName=Don、日本語）。日本語",
+    "content": "こいつ意外と操作性いいんだよな\nhttps://github.com/nikolat/jong-bari"
+  },
+  {
+    "id": "f2218fe3b2c31040a82dba23708330a2d63dfd6573be947482193a9d779104aa",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1783439834,
+    "tool": "https://github.com/mattn/moonbit-nostr-relay",
+    "note": "moonbit-nostr-relay（mattn 自作の MoonBit 製 Nostr リレーサーバ。wss://moonbit-nostr-relay.compile-error.net/ で運用。投稿は安定性・k8s でのメモリ動向などの運用報告で URL なしだが、作者本人が自作リレーに言及）。Nostr 向け",
+    "content": "moonbit-nostr-relay、けっこう安定してるやん\n https://image.nostr.build/3d525705975364410b26d11af064f241f535de754a8faebd569ed6f6366ae3d0.png"
+  },
+  {
+    "id": "5f4ca924ae20379c6d34e21cbc38e302e49713c67c2dbbf3e33d9bf6e183a6b0",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1783354115,
+    "tool": "https://github.com/koteitan/find-mine-fire",
+    "note": "find-mine-fire（koteitan 自作の「自分の Nostr 投稿」のローカルインクリメンタルサーチツール。自分の kind1/6 をリレーから strfry(NIP-77) に同期し、SQLite FTS5 のトリグラム索引で CLI/TUI/Web から検索）。作者本人（koteitan 確定、日本語）。Nostr 向け。関連: 同じく自作の sessionmv（my-skills 内の小スクリプト、投稿 93c8039c765f…・created_at 1783357615）は standalone でないため本エントリに統合",
+    "content": "自分のポストのインクリメンタルサーチローカルツール\nhttps://github.com/koteitan/find-mine-fire"
+  },
+  {
+    "id": "189870df2651dc2e1fd7bcbc74c9536008698b6f7092babfdade0f7d42b1906b",
+    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+    "created_at": 1783338583,
+    "tool": "https://play.google.com/store/apps/details?id=net.shino3.nostrism",
+    "note": "Nostrism（しのさん 自作の Android 用 Nostr クライアント。パッケージ id=net.shino3 は shino3.net 由来。2026年7月時点ベータ・破壊的変更あり）。作者本人（しのさん確定、日本語）。Nostr 向け",
+    "content": "グループ参加して以下のURLからダウンロードできるようになりました。\nhttps://play.google.com/store/apps/details?id=net.shino3.nostrism\n\nなお間に合せで公開してるのでいろいろ破壊的変更は入ります"
+  },
+  {
+    "id": "3723e3572de80734f24f1584eb56c864d22c75aa963751f8e307bc94c3a11aaa",
+    "pubkey": "d602e726ec089bcd6d368531e81cc71e50d034278b235e0aa50ac330acf44c8f",
+    "created_at": 1783324506,
+    "tool": "https://magunapina.github.io/clean-youtube-search/",
+    "note": "Clean YouTube Search（マグナピナ/magunapina 自作の広告なし YouTube 検索 Web アプリ。Fable/F# で作り直し）。作者本人（kind0 name=Magunapina の日本語アカウント）。",
+    "content": "fableで色々と作り直した\nhttps://magunapina.github.io/clean-youtube-search/"
+  },
+  {
+    "id": "3f1dc5336b660230c5f6bf3c2e3b130467d1299298f77d90595d0275f3862e28",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1783270373,
+    "tool": "https://nostr-restore.compile-error.net/",
+    "note": "nostr-restore（mattn 自作の Nostr プロフィール更新系イベントのバックアップ・リストアサービス。wss://nostr.compile-error.net にプロフィール更新系イベントを登録するとバックアップされ、リストア可能）。作者本人（mattn 確定、日本語）。Nostr 向け",
+    "content": "wss://nostr.compile-error.net に直近2年くらい、プロフィール更新系のイベントを1個でも登録しておくと、それらのバックアップがされる様になっていて、リストアも可能。\nhttps://nostr-restore.compile-error.net/"
+  },
+  {
+    "id": "32c7b67f8b8c890f7449ed2680e20ca0c36ae670c97648d6645e42047102bdd1",
+    "pubkey": "1066a05d1474e7e133a97208a5cb177a9c01e4b81f0f14370ad59f4a0a475681",
+    "created_at": 1783227771,
+    "tool": "https://github.com/ohac/midiguitareditor",
+    "note": "midiguitareditor（ohac/OHASHI Hideya 自作の MIDI ギター編集 TUI エディタ。リポジトリオーナー=投稿者で確定、日本語 README・大阪在住の日本語ユーザー）。Nostr ツールではないが投稿本人の開発物",
+    "content": "https://github.com/ohac/midiguitareditor\nバックアップついでにgithubにpushした。"
   }
 ]
