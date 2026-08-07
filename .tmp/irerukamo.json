@@ -454,5 +454,117 @@
     "tool": "https://dmntnr.com/",
     "note": "dmntnr.com（dmntnr 自作の個人サイト。Nostr の自分の投稿を表示）。日本語。nostrd と同じ作者（kind0 は英語だが Japanese full-stack developer と自認）",
     "content": "雑だけど自分の作りかけサイトに Nostr の自分の投稿を表示させることできた\n\nhttps://dmntnr.com/"
+  },
+  {
+    "id": "ab78bbc8e726019fca70ee53b871098e88f21cce26827c9dadf16ada9df7c8de",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1784040902,
+    "tool": "https://koteitan.github.io/moire/",
+    "note": "moire（koteitan 自作のモアレ模様を楽しむツール。「画像サイズを変えることでいろんなモアレをたのしめるよ！」）。作者本人（koteitan.github.io 配下）。日本語",
+    "content": "どうぞつhttps://koteitan.github.io/moire/"
+  },
+  {
+    "id": "08f409095ac9740cac59b546f69227abc84ec7eede9a7b5a72cab4e2af90832e",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1784038176,
+    "tool": "https://mat-ppopgi-korean-gacha.vercel.app/",
+    "note": "マッポッポギ韓国料理ガチャ（petan 自作の韓国料理ガチャ。「料理の種類が増えました」と更新報告）。日本語。絶対に当たらない天気予報アプリと同作者",
+    "content": "料理の種類が増えました\nhttps://mat-ppopgi-korean-gacha.vercel.app/"
+  },
+  {
+    "id": "b8024b07b8c1e0e9b1d93933ba94df76c6011a84a6ec09ac3688f7dc12e7b8a5",
+    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+    "created_at": 1784000721,
+    "tool": "https://github.com/ShinoharaTa/nostr-andloid-native-client",
+    "note": "nostr-andloid-native-client（Nostr ネイティブ Android クライアント。PR マージ報告と issue 募集）。作者本人（Nostrism のしのさん = ShinoharaTa）。日本語",
+    "content": "https://github.com/ShinoharaTa/nostr-andloid-native-client/pull/118\n\nマージ済み"
+  },
+  {
+    "id": "4f3c165fe975a6ade9bb4f3d39b7f1b5b374c0385d31dc75d653d15e323fd229",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1783996856,
+    "tool": "https://d-shrine.jp/",
+    "note": "でばっぐ神社（IT おみくじ・参拝ゲーム。GitHub 更新やアクションでポイント/レベルが上がる）。作者は iroiro bot 作者 kojira と推測（dev URL d-shrine-dev.firebaseapp.com を使用）。日本語、コミュニティで広く利用",
+    "content": "⛩️でばっぐ神社のITおみくじは😊【中吉】でした\n「半分終わって半分残る。ちょうど真ん中の日。」\n・願望: 願いは道半ば。焦らず続ければ叶う兆し。\n・レビュー運: 軽い手戻りが一度。直せばすぐ承認。\n・学問: 写経は進むが、応用問題で少し悩む。\n#でばっぐ神社\nhttps://d-shrine-dev.firebaseapp.com/"
+  },
+  {
+    "id": "531dd58bc0121f76e6406d4615151015b281f2db12802cef2c2834589558e72a",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1783956562,
+    "tool": "https://github.com/betonetojp/nokandro",
+    "note": "nokandro（Nostr ネイティブ Android クライアント。v0.22.0 リリースで Bunker 自動復帰とバッテリー最適化除外に対応）。作者本人（betonetojp = nokakoi/kakoi 作者、投稿は nokakoi.com の更新報告もあり）。日本語",
+    "content": "nokandro v0.22.0\nOSのメモリ管理でプロセスを殺されてもBunkerが自動で復帰するようにした\n「Exclude from battery optimization」をタップでバッテリー最適化からの除外ができるように\nhttps://github.com/betonetojp/nokandro/releases/tag/v0.22.0"
+  },
+  {
+    "id": "4f21245f41a9d43f55fff923254eec234b1f1c00d73a3dbff016c0e03986cc16",
+    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+    "created_at": 1783950018,
+    "tool": "https://nostrism.shino3.net/",
+    "note": "Nostrism（日本の代表的な iOS Nostr クライアント。TestFlight で iOS ビルド提供、同日内に「ものあいこん対応してリリースした」投稿もあり）。作者本人（しのさん = ShinoharaTa、絶対匿名希望との本人コメントあり）。日本語",
+    "content": "iOS ビルドのNostrismテストは以下のtestflightから確認できます。\nhttps://testflight.apple.com/join/bpuGkj2G"
+  },
+  {
+    "id": "27a4cd6df561b42b402fe6c3366e9676380ce0b4e9595a22966c21479579a4de",
+    "pubkey": "dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1",
+    "created_at": 1783865827,
+    "tool": "https://github.com/oppapili/MarkTask",
+    "note": "MarkTask（おっぱぴぃ/oppapili 自作の AI-DLC v2 ベースのタスク管理ツール。org/project/team で階層分けしてルールを定義できる）。作者本人（kind0 name=oppapili / displayName=おっぱぴぃ で日本語）。日本語",
+    "content": "AI-DLC v2で作っています。\nhttps://github.com/oppapili/MarkTask"
+  },
+  {
+    "id": "315c56616570e19355b45629054dc24583a359283a478a0338ba9244b3e3d664",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1783830091,
+    "tool": "https://snowcait.github.io/tenhou-gacha/",
+    "note": "天和ガチャ（雪猫/SnowCait 自作の麻雀 天和ガチャ。牌姿を指定して天和が引けるまで回し続けるブラウザツール）。作者本人（kind0 name=SnowCait / displayName=雪猫 で日本語）。日本語",
+    "content": "天和ガチャ\nhttps://snowcait.github.io/tenhou-gacha/\n"
+  },
+  {
+    "id": "4195358caf967e1876af38d6f7030638de36c56f430e5bda9582caccc61abcb0",
+    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+    "created_at": 1783829992,
+    "tool": "https://github.com/nikolat/jong-chunchun",
+    "note": "雀-チュンチュン（nikolat/Don 自作の「伺か」用麻雀クライアントゴースト。SSTP で麻雀ゲームと連携してしゃべる。2014年作・ニッチ）。作者本人（kind0 name=nikolat / displayName=Don、日本語）。日本語",
+    "content": "カン大好きっ子の中身\nhttps://github.com/nikolat/jong-chunchun/blob/20fa6762bd4d443f7c3bd60b787c0d5fb0082645/ghost/master/MahjongAI.txt#L386"
+  },
+  {
+    "id": "fee8a27f1635554efc32e62c357cd8a6d8a508e02b20f69861b68de0590efbb5",
+    "pubkey": "ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758",
+    "created_at": 1783754126,
+    "tool": "https://hackage.haskell.org/package/moffy",
+    "note": "moffy（Haskell 製のモナディック関数型リアクティブプログラミング mFRP ライブラリ、重城良国/YoshikuniJujo 作）。投稿者自身の開発物（「自分で作ったライブラリだけど」）。日本語だが Nostr ツールではない（iroiro 向けかは要判断）",
+    "content": "https://zenn.dev/yoshikuni_jujo/articles/introduction-to-moffy\n\nこれ使ってみようかな。\n自分で作ったライブラリだけどFRP使わずに普通に書いたほうが楽疑惑はある"
+  },
+  {
+    "id": "398a7f4487c357ef90d923357e32d2f06365787d428821ed04f328e41e5f14c5",
+    "pubkey": "83279ad28eec4785e2139dc529a9650fdbb424366d4645e5c2824f7cbd49240d",
+    "created_at": 1783750163,
+    "tool": "https://github.com/kengirie/blossoML",
+    "note": "blossoML（kengirie/3001 自作の OCaml 製 Blossom サーバ実装。投稿は日本語だが kind0 は英語で日本人かは要判断）。Nostr 向け",
+    "content": "blossomlでmime 判定にconanっていうライブラリを使っているんだけど、 名前の由来が名探偵コナンであることを今知った\n\nhttps://github.com/mirage/conan"
+  },
+  {
+    "id": "301b88f76b1aca53e48b9702e72168cb2b5780000f29827981748da7d3155047",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1783683761,
+    "tool": "https://github.com/betonetojp/nokakoi",
+    "note": "nokakoi（betonetojp の Nostr Web クライアント。v1.91.0 で omochat の位置情報リレー自動取得とイベント受信リレー表示機能を追加。投稿者本人の宣伝・更新報告）",
+    "content": "宣伝\nTiny but cute web client.\nhttps://nokakoi.com/app/"
+  },
+  {
+    "id": "b276f21d4498631097beca580e668cf1f89a751f89d8953daef3732afab8cbed",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1783571708,
+    "tool": "https://github.com/428lab/kuda",
+    "note": "kuda（kojira の「物理ランダムをAPIで払い出しするやつ」。真空の量子ゆらぎ ANU QRNG と放射性崩壊ガイガー管を源泉としたエントロピー配管。Cloudflare Worker + ESP32）。作者本人（kojira 確定）、日本語。Nostr ツールではないが投稿本人の作成物",
+    "content": "物理ランダムをAPIで払い出しするやつ。\nhttps://github.com/428lab/kuda\nESP32は届いたけどガイガーカウンタキットが来週だ"
+  },
+  {
+    "id": "596c0f4fa3e1f6bc5236a5bf52799cc162b8dfc325d3891fb26d9ae0131fe4de",
+    "pubkey": "06d333dcfe659f2f8cd5adc76e943fe74ea2631514866ab2bce0ae94534d77a1",
+    "created_at": 1783489852,
+    "tool": "https://days-ai.com/",
+    "note": "DaysAI（投稿者「Shorty(デジタルかめランド)」自作の AI イラスト創作 SNS/ゲーム）。「自分の好みのキャラクターを作って、さらにそのキャラをお台に出演させてイラストを作るソシャゲ（？）こんなん作ってみました」で作者本人確定。kind0 日本語 YES",
+    "content": "自分の好みのキャラクターを作って、さらにそのキャラをお台に出演させてイラストを作るソシャゲ（？）\n\nこんなん作ってみました\nhttps://days-ai.com/posts/659c0270-18fc-4aa1-86d3-5a0ae0626868/"
   }
 ]
