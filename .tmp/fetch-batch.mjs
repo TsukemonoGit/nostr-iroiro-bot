@@ -6,6 +6,53 @@ import { join } from "path";
 
 const urlRe = /https?:\/\/[^\s<>"')\]]+/;
 
+const EXCLUDED_DOMAINS = new Set([
+  // SNS系
+  "x.com", "twitter.com",
+  "www.instagram.com",
+  "www.facebook.com",
+  "www.youtube.com", "youtu.be",
+  "www.tiktok.com",
+  "discord.gg",
+  "mastodon.social",
+  "threads.net",
+  "bsky.app",
+  "t.me",
+  // 画像・メディア系
+  "files.catbox.moe", "litter.catbox.moe",
+  "image.nostr.build", "i.nostr.build",
+  "23img.com",
+  "blossom.primal.net", "blossom.yakihonne.com",
+  "cdnt-preview.dzcdn.net",
+  "serveousercontent.com",
+  "blossom.band",
+  // スパム系
+  "headlines-world.com",
+  "allgraph.ro",
+  "aepiot.com", "aepiot.ro",
+  "24hhotnewsai.com",
+  "rwatimes.io",
+  "searchcelebrityhd.com",
+  "loca.lt",
+  "blogspot.com",
+  "coinup.io",
+  "proxy.bostr.online",
+  "imgbox.com",
+  "img.toto.im",
+  "img.wangmoyu.com",
+  "shorturl.at",
+]);
+
+function excludedUrl(url) {
+  const m = url.match(/^https?:\/\/([^/\s]+)/);
+  if (!m) return false;
+  const domain = m[1];
+  for (const d of EXCLUDED_DOMAINS) {
+    if (domain === d || domain.endsWith("." + d)) return true;
+  }
+  return false;
+}
+
 const EXCLUDED_PUBKEYS = new Set([
   "1aff749bcecf", // ニュース速報 bot
   "53efc19ec1e2", // 下半身露出ニュース bot
@@ -51,6 +98,8 @@ const EXCLUDED_PUBKEYS = new Set([
   "5a54abdc84a5", // 反移民政治スパム
   "a723805cda67", // 感謝の言葉 bot (gratefulday.space)
   "3828b339214c", // 天気予報 bot
+  "9ce936615b0a", // 英語ループ投稿（USA250/GM Fren）
+  "34f2e819da2a", // Al Jazeera ニュース転載
   "877fb7cfc478", // 室温報告 bot
   "1634e999c5fc", // Microsoft Office 鍵販売スパム
   "3170406792be", // nostrmag ニュースレター bot
@@ -98,7 +147,10 @@ for await (const ev of iter) {
     excluded++;
     continue;
   }
-  if (!urlRe.test(ev.content)) continue;
+  const allUrls = ev.content.match(urlRe) || [];
+  if (allUrls.length === 0) continue;
+  const goodUrls = allUrls.filter(u => !excludedUrl(u));
+  if (goodUrls.length === 0) excluded++;
   seen.add(ev.id);
   events.push({
     id: ev.id,

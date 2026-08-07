@@ -102,6 +102,7 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt
 - 判定結果は注記にも残す（「日本語」or「kind0に日本語 → 日本人」等）
 - **除外**: スパム、bot（天気・ニュース・漫画・政治・感謝bot等）、ポルノ、他人のツールの共有、iroiro.json に既収載のツール、Nostr と無関係
 - Nostr ツールでなくても「投稿本人の作成物」なら候補に入れて良い（判断はユーザー任せ）
+- **禁止事項**: 投稿本文の日本語を自動抽出するフィルタ（スクリプト）を**絶対に追加しない**。手動で reviewN.txt を読むこと。日本語判定は kind0 も確認する必要があるため
 
 #### スパム発見時の除外追加
 
@@ -145,6 +146,14 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
 - 現時点の総ピックアップ数
 
 その後「さらに遡りますか？」と確認し、OK なら次のバッチ（1日分過去へ）を取得。ユーザーから別指示があれば従う。
+
+## 除外 URL リストの管理
+
+`fetch-batch.mjs` と `re-filter.mjs` に `EXCLUDED_DOMAINS` がある。レビュー中に「また同じ関係ない URL が出てきた」と思ったら適宜追加する。
+
+- ドメイン指定（`blossom.primal.net`）またはサブドメインマッチ（`*.loca.lt`）に対応
+- SNS系（x.com, instagram.com, youtube.com 等）、画像共有系（catbox, blossom 等）、スパム系（headlines-world.com 等）をまず除外
+- ツールURLが直接含まれる投稿だけが残るように調整
 
 ## 注意点
 
