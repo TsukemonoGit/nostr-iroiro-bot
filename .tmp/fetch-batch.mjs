@@ -128,6 +128,13 @@ const EXCLUDED_PUBKEYS = new Set([
   "71ecabd8b6b3", // The Meme Bay（英語ミーム bot・smartflow.social プロモ）
   "d735231e8eeb", // クラスメソッド記事共有 bot
   "4fc2e3f74d5e", // Furry Art AI画像スパム bot（trycloudflare 生成画像 + BTC tips）
+  "6c792fd0fc84", // Pinterest/ストック画像転載 bot（無テキスト 15連投）
+  "4eb88310d6b4", // ミーム動画転載 bot（ROCKY trains DANIEL 等 #IKITAO）
+  "096ec6d4c8be", // poder360 ポルトガル語ニュース bot
+  "09fbf8f3be5a", // 中国語ポルノ/政治スパム bot（#黄播 #台湾）
+  "9cb53e080594", // g1.globo.com ポルトガル語ニュース bot
+  "501f27ec1321", // soap21.com 商品スパム bot（重複投稿）
+  "ce643487280a", // redstate/americanthinker 右派政治スパム bot（計43バッチ）
 ]);
 
 const configPath = process.env.ALGIA_CONFIG || join(homedir(), ".config", "algia", "config.json");

@@ -328,252 +328,231 @@ lumilumiにblossoml3001.site追加してもらってる！！！\n気づいて�
 [109] 06-28 12:10 8c5923931963 477694241edd
 おいしい https://www.chateraise.co.jp/ec/g/g2265671/
 ---
-[110] 06-28 11:47 ce643487280a ce3903eb42ab
-https://cdn.creators.com/1054/418673/418673_image.jpg
----
-[111] 06-28 11:46 ce643487280a e6697834d7e3
-https://redstate.com/streiff/2026/06/26/hegseth-fired-donahue-n2203762
----
-[112] 06-28 11:46 9fe9ef2be97c 19e212fd2f1f
+[110] 06-28 11:46 9fe9ef2be97c 19e212fd2f1f
 Ame-chan and I are playing the compound of sudokus:\nhttps://sudokupad.app/6u61fsw0di\nThey gives new rules for sudoku, some of which are hard (for Ame-chan and me) to understan.
 ---
-[113] 06-28 11:44 6b6e19ce47a9 b9c2e6eed592
+[111] 06-28 11:44 6b6e19ce47a9 b9c2e6eed592
 顔がパワーちゃんすぎる\nhttps://youtube.com/shorts/s9q0HY-NSow?si=D684JH6BMkiiXdbF
 ---
-[114] 06-28 11:42 010df0c948fe 00000146522f
+[112] 06-28 11:42 010df0c948fe 00000146522f
 WORD5 #632 4/6* (Hard Mode)\n\n🟪⬛🟪⬛⬛\n🟪⬛🟪⬛⬛\n🟪🟧🟪⬛⬛\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[115] 06-28 11:36 1bc70a0148b3 1f16ae8c5f41
+[113] 06-28 11:36 1bc70a0148b3 1f16ae8c5f41
 x21\nhttps://x21.social/notes/nevent1qvzqqqqqqypzqx78pgq53vlnzmdr8l3u38eru0n3438lnxqz0mr39wg9e5j0dfq3qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qpq7unx3x95kwf6jt8hnhsycnyxh79d7fuznf225kgs7nmluy8evvkq4xnu4h
 ---
-[116] 06-28 11:34 b7ab2dc03c22 f15c1798d36a
+[114] 06-28 11:34 b7ab2dc03c22 f15c1798d36a
 https://www.itmedia.co.jp/business/spv/2606/25/news010_4.html\nセクシーなコンテンツもかなりの数見放題なのに、DMMよりそれがバレにくいからって本質を隠せるあたり、この記事は優しすぎる。
 ---
-[117] 06-28 11:29 82b30d304441 e5eb1e40b1f9
+[115] 06-28 11:29 82b30d304441 e5eb1e40b1f9
 開発者モードにして◯つけたとこタップしたら表示されるやつが多分そう\nhttps://share.yabu.me/82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003/f14e67e0d862804b4ea53aff5f101378dcca53189cd2bf254660ffdbd3222d05.webp
 ---
-[118] 06-28 11:27 9989500413fb 3af48865576c
+[116] 06-28 11:27 9989500413fb 3af48865576c
 Email for nostr.build!\n\nWe have extended our platform to support email addresses. This means;\n- Anyone can create an account with nostr.build, npub NOT required!\n- You can add your email to your existing nostr.build account for easier acct access, password changes, npub changes, support tickets, etc.\n\nhttps://nostr.build/plans\n\nhttps://i.nostr.build/KUxWYsS60PABSBwk.jpg\nhttps://i.nostr.build/MXrSz9Jk06mAD5Pe.jpg\n\nnostr:nevent1qqs8eda4pqupplsvcsg9ej9xdykrny8af6fkhzt89zepc5p9q8m7rpspzpmhxue69uhkummnw3ezuamfdejsz9mhwden5te0denxgc3wdehhxamgv4ex2tnrdakszrthwden5te0dehhxtnvdakqzyrhwden5te0dehhxarj9ekxzmnyqgsglv2qkn5dmmuhee9cy8fywfu2rfp4xd3xy0myqg2gfvmjl9yqqrqrqsqqqqqpu58x4x
 ---
-[119] 06-28 11:26 82b30d304441 7ce2a6cedb5b
+[117] 06-28 11:26 82b30d304441 7ce2a6cedb5b
 野木亜紀子脚本のアニメですと👀\nhttps://lona-animation.com/
 ---
-[120] 06-28 11:23 c7fe92f80c51 b23b570458ea
+[118] 06-28 11:23 c7fe92f80c51 b23b570458ea
 Always been my favourite dinosaur \n\nhttps://relay.plume.website/01f29b5242b7b61a2a0646c144d691e9ad1dd38c4cc68d3556899fb0687cbbbf.jpg
 ---
-[121] 06-28 11:15 b707d6be7fd9 453585670802
+[119] 06-28 11:15 b707d6be7fd9 453585670802
 https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/7b79a044c8f2ba0f94bf63323f45150959116b9abf3778b6c6703bf05e6558f7.webp
 ---
-[122] 06-28 10:43 ee6ea13ab9fe 0000282d6578
+[120] 06-28 10:43 ee6ea13ab9fe 0000282d6578
 It’s not publicly searchable while it’s in the limited preview stage. I want to get some feedback from testers before making it available to everyone.\n\nDirect install link is here:\n\nhttps://chromewebstore.google.com/detail/sidecar-a-classy-nostr-si/moimlikilhheabdafocpmneehpblhiln
 ---
-[123] 06-28 10:42 f0e59458d5da 8956bf5e2cad
+[121] 06-28 10:42 f0e59458d5da 8956bf5e2cad
 https://i.gyazo.com/bf57a048c4b81ca0705da5b4005f22fa.jpg
 ---
-[124] 06-28 10:39 ee6ea13ab9fe 00000982c7b1
+[122] 06-28 10:39 ee6ea13ab9fe 00000982c7b1
 Sure do, I was gonna ping you about it!\n\nhttps://github.com/dmnyc/sidecar
 ---
-[125] 06-28 10:34 6ce84bd08e01 13d4e6d5ea18
+[123] 06-28 10:34 6ce84bd08e01 13d4e6d5ea18
 有権者じゃないけど無関係じゃいられない\n#ダースレイダー x #プチ鹿島 #ヒルカラナンデス（仮）特別版 #ペヤンヌマキ\n#スギナミナンデス 2026 - LOFT PROJECT\nhttps://premier.twitcasting.tv/loftch/shopcart/439237
 ---
-[126] 06-28 10:11 ca55de60561a 1a7cf8bc150e
+[124] 06-28 10:11 ca55de60561a 1a7cf8bc150e
 じゃ今日みかけた野良流しとくね\nhttps://share.yabu.me/ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257/db614c8e652632798e6e02778adf46da5d9b032f0eb7a42705565af4d370863a.webp
 ---
-[127] 06-28 10:03 389ca4957911 3a4dd8023cb2
+[125] 06-28 10:03 389ca4957911 3a4dd8023cb2
 そも猫多すぎなんですね我が家 https://share.yabu.me/389ca4957911b126093f42a0a90786515b59311dc5a942b404d7e16f17287828/66c919d5fcdb378b1e9575c6fe63849ee5ce58d5c2b2c24ee9c36a3983e22e7a.webp
 ---
-[128] 06-28 09:57 389ca4957911 de52ac95169b
+[126] 06-28 09:57 389ca4957911 de52ac95169b
 なんか増えてる https://share.yabu.me/389ca4957911b126093f42a0a90786515b59311dc5a942b404d7e16f17287828/5ee7cb2359908a8d6acc91c64c78093a5cfcd5553d5693252d5a28eb72811678.webp
 ---
-[129] 06-28 09:45 9fe9ef2be97c d40391f2e407
+[127] 06-28 09:45 9fe9ef2be97c d40391f2e407
 あすけんって5点満点だったっけ？\nhttps://share.yabu.me/9fe9ef2be97cbeecc76e43b8fa6d2a0e889d4d80e4e5a2aeec959c7972fd6e89/2aede51be9c35d83aef9b57298b6911a2009e8e9db6e77c7aa5ae7821230474a.webp
 ---
-[130] 06-28 09:44 6e468422dfb7 6f803ede5cc9
+[128] 06-28 09:44 6e468422dfb7 6f803ede5cc9
 https://haven.dergigi.com/caafa92aa4893555a315710a58d73d5bf237608d0777928d351d57e1283d4ff8.jpg \nnostr:nevent1qqsfeh3r3kavu6z5d7xehzkf3ek5ugywv8xtd6gluf4t36339ec23jspr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9upzp7x4ggrwa3sszx93hk30sdkeelgg3g2jgrk3zu3nww7u0n9f08e6qvzqqqqqqyjapns0
 ---
-[131] 06-28 09:39 6b6e19ce47a9 3e9dd8d4a783
+[129] 06-28 09:39 6b6e19ce47a9 3e9dd8d4a783
 ところで、ここ、想像以上に良かったです。\nhttps://www.starbucks.co.jp/reserve/roastery/
 ---
-[132] 06-28 09:37 ca55de60561a b6a2c6338e98
+[130] 06-28 09:37 ca55de60561a b6a2c6338e98
 https://robohash.org/0V7.png?set=set4
 ---
-[133] 06-28 09:34 c08805f9bd48 e2f5cc584396
+[131] 06-28 09:34 c08805f9bd48 e2f5cc584396
 https://www.shinmai.co.jp/news/article/gf01d8tmov2n8tfj5flub68g\n　ジョウビタキの漂鳥、留鳥化か。何かの理由で生態が変わったのかな。海を超えるより留まることを選ぶようになった？\n
 ---
-[134] 06-28 09:32 6e468422dfb7 e0e65c89a244
+[132] 06-28 09:32 6e468422dfb7 e0e65c89a244
 Byung-Chul Han would agree.\nhttps://haven.dergigi.com/7188e2ee64ad00f82e185b0a2874ceb6fde5baf251e6939306f4f61dfa0060ef.jpg
 ---
-[135] 06-28 09:28 27065f15b644 27506623977b
+[133] 06-28 09:28 27065f15b644 27506623977b
 😋\nhttps://maps.app.goo.gl/9UfHzaueYCcvZ8zB9?g_st=ic \nhttps://maps.app.goo.gl/L8SHPwqtnSZGnHk47?g_st=ic\n\nhttps://image.nostr.build/8a0dc8d859caa387588e7b6e96779101622e8c8824920c96b9ee75acfbd12a25.jpg
 ---
-[136] 06-28 09:24 94cc9c38cf36 80e4d7d55acc
+[134] 06-28 09:24 94cc9c38cf36 80e4d7d55acc
 https://hobby.dengeki.com/news/3057730/\nシャツ買うた
 ---
-[137] 06-28 09:23 ca55de60561a 846906fe8052
+[135] 06-28 09:23 ca55de60561a 846906fe8052
 すがすがすぃー\nhttps://share.yabu.me/ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257/af3be150c004fd4fba49058e321ea9e10542b3e785e42c5fb09d6528750a7353.webp\nhttps://share.yabu.me/ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257/6db4de5157d3c6efdfe52f87e4a1aa17fcdbd75d4e6e1a62dd55d033495205c5.webp
 ---
-[138] 06-28 09:20 84b0c46ab699 6e5b340394a0
+[136] 06-28 09:20 84b0c46ab699 6e5b340394a0
 https://amzn.asia/d/02ESo80s べびーすたーうどんなんてあったんだ
 ---
-[139] 06-28 08:28 a3bce095cd0e 5c0977ac3c4a
+[137] 06-28 08:28 a3bce095cd0e 5c0977ac3c4a
 いつか自分にもこういう認知になってしまう日が来るのだろう\nhttps://news.ntv.co.jp/n/kkt/category/society/kk96914e3c478c444898c201fe7316a126
 ---
-[140] 06-28 08:25 bda6ed380c2c 9de99c516769
+[138] 06-28 08:25 bda6ed380c2c 9de99c516769
 こちらも\nhttps://shop.m5stack.com/products/stackchan-kawaii-co-created-open-source-ai-desktop-robot
 ---
-[141] 06-28 08:23 84b0c46ab699 2a72c571b0e6
+[139] 06-28 08:23 84b0c46ab699 2a72c571b0e6
 https://www.switch-science.com/products/11131
 ---
-[142] 06-28 08:05 c7fe92f80c51 928d79630fa4
+[140] 06-28 08:05 c7fe92f80c51 928d79630fa4
 GM #nostr fam - hope you're all having a great start/middle/end of the day 😀 \n\n#photography #sunset \n\nhttps://relay.plume.website/e565c786bb716fddf6abf28b64331607bacbf29bb104669e97d0ed1ad08b1f6b.jpg
 ---
-[143] 06-28 08:02 e9591428813e 61faa2a16c12
+[141] 06-28 08:02 e9591428813e 61faa2a16c12
 なん...だと...\nhttps://www.mcdonalds.co.jp/products/5010/
 ---
-[144] 06-28 08:00 6e468422dfb7 46838e7741f2
+[142] 06-28 08:00 6e468422dfb7 46838e7741f2
 GM https://haven.dergigi.com/075f219aad6bcefd8c1b3eb496db021324f966d22c2d681d35f2009a64ecd79a.jpg
 ---
-[145] 06-28 07:44 5aaccfdd2ed8 4d96343191ec
+[143] 06-28 07:44 5aaccfdd2ed8 4d96343191ec
 ↓デコ助野郎\nhttps://image2.b-ch.com/ttl2/205/205001a.jpg
 ---
-[146] 06-28 07:32 09fbf8f3be5a de6a8c40f430
-大领导吓死了\n#飞机撞楼 \n\nhttps://imgbed.lepidus.me/file/nostr/1782631902274_IMG_20260628_153104_951.jpg
----
-[147] 06-28 07:13 7dc1677112f0 fec4861c0b63
+[144] 06-28 07:13 7dc1677112f0 fec4861c0b63
 ステータスやば\nhttps://share.yabu.me/7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f/99a24efbf8fa318fd08bd450ee979698514d643a572a1e2c1ad9b6d5b339c15e.webp
 ---
-[148] 06-28 07:01 6b6e19ce47a9 39184d489ad4
+[145] 06-28 07:01 6b6e19ce47a9 39184d489ad4
 これ、うめぇ！\nhttps://menu.starbucks.co.jp/4524785383432
 ---
-[149] 06-28 06:58 0bdcf0019e79 d0d05bd7c8ff
+[146] 06-28 06:58 0bdcf0019e79 d0d05bd7c8ff
 https://unityroom.com/games/onedrawaomori
 ---
-[150] 06-28 06:51 101b30ee88c2 efe537cfc2c1
+[147] 06-28 06:51 101b30ee88c2 efe537cfc2c1
 QUIC実装\n\nまだ終わらなさそうこれ\nまあ放置してるだけだが\n\nhttps://share.yabu.me/101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45/87a8b17d0b11ff47f1ead76952b17e71b40a7f2c995dff05117ac7d7b29ed034.webp
 ---
-[151] 06-28 06:50 b7274d28e3e9 f6278640c07c
+[148] 06-28 06:50 b7274d28e3e9 f6278640c07c
 Though... nostr:npub1m4ny6hjqzepn4rxknuq94c2gpqzr29ufkkw7ttcxyak7v43n6vvsajc2jl what is going on here?\n\nI went to Spatia-Arcana's relay feed, selected that I wanted to post something to this relay, and the relays the compose screen says I will be posting to are nos.lol and freelay.sovbit.host.\n\nhttps://relay.brightbolt.net/4c54b1dc71b96b266df5b0ee9afb76669fb62fab5e386146857973fc24f67e9d.jpg\n\nhttps://relay.brightbolt.net/49363458833db5a6b2ed7a6d52243c1c80de37360c39f71021625f7303e14b01.jpg
 ---
-[152] 06-28 06:42 d475ce4b3977 f9c82b92c72b
+[149] 06-28 06:42 d475ce4b3977 f9c82b92c72b
 Decent Newsroom \nRead and publish long form articles and  create publications. \n\nhttps://decentnewsroom.com
 ---
-[153] 06-28 06:37 eeef8f1c33fe 1b6d1ceb6903
+[150] 06-28 06:37 eeef8f1c33fe 1b6d1ceb6903
 このクリエイティブはさすがに倫理的に許されないのでは? (注目情報の右の v も含めて広告クリックになる。初見で閉じる方法わかるかな?) https://cdn.nostrcheck.me/eeef8f1c33febecebc8fe0aabccf426685f56085ee8de10ebe9200aa8ae3f7ab/7abe582278d29e3ac991a180ab6575c5af19245587e2b7c6b0d6eb530e0a4457.webp
 ---
-[154] 06-28 06:31 389ca4957911 c795248cb0ac
+[151] 06-28 06:31 389ca4957911 c795248cb0ac
 ほげぇ\nhttps://share.yabu.me/389ca4957911b126093f42a0a90786515b59311dc5a942b404d7e16f17287828/7c5a4c98ebab77cfbe5a0dcc40c68eeaf1fc90ed40576308bc35b02a969bd64a.mp4
 ---
-[155] 06-28 06:20 26bb2ebed6c5 d0f6ba0145b7
+[152] 06-28 06:20 26bb2ebed6c5 d0f6ba0145b7
 「X落ちてる？」がnosskeyログインに対応しました。\nhttps://ocknamo.github.io/x-is-down/\nhttps://share.yabu.me/26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958/35af2edef3eb366f686456ce30be9e89a435b4ebbed7cddf686b8bcd1364643a.webp
 ---
-[156] 06-28 06:13 9fe9ef2be97c 8ef6105d8745
+[153] 06-28 06:13 9fe9ef2be97c 8ef6105d8745
 一応後年個人的に謝罪はしてるみたいだ\nhttps://en.wikipedia.org/wiki/Haidbauer_incident
 ---
-[157] 06-28 06:05 6b6e19ce47a9 07cf0175825e
+[154] 06-28 06:05 6b6e19ce47a9 07cf0175825e
 ねぇなんかすごい！！\nhttps://share.yabu.me/6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b/1731895d33ea0b14910224d106afa51574b0b8a1114aca83f106974965a45e9d.webp\nhttps://share.yabu.me/6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b/f4dcf3be59fcb56abb54e36a01283597859433d0d0a34d3502f565f9a33cec55.webp
 ---
-[158] 06-28 05:56 dffd3ffc3aab ed303d572b11
+[155] 06-28 05:56 dffd3ffc3aab ed303d572b11
 サブエージェントが返り血を返してこないことに苦言を呈するのおもろい\nhttps://share.yabu.me/dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1/370250f31d63e04ea1a15cba007865402a9be195180a1583bbeab64f00d23240.webp
 ---
-[159] 06-28 05:42 a2ee3c86c25f b7854dfc9a6c
+[156] 06-28 05:42 a2ee3c86c25f b7854dfc9a6c
 “人為的にバズらせる” SNS操る「農場」ビジネスを取材　「テスト」と書かれただけの投稿が6分で100万回表示… 選挙で悪用の懸念も【報道特集】\nhttps://newsdig.tbs.co.jp/articles/-/2763724?display=1
 ---
-[160] 06-28 05:21 5b9321f039b6 8e5f339ea2d0
+[157] 06-28 05:21 5b9321f039b6 8e5f339ea2d0
 更新しました。@ サンマルクカフェ \nその言葉は湿気に包まれて - カクヨム https://kakuyomu.jp/works/2912051600462137558
 ---
-[161] 06-28 05:09 4eb88310d6b4 ce859a77d9b2
-Sarah McLachlan - I Will Remember You\nhttps://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/63699b3810e9e8dbc35326b02adae5162ee75a76032513dd27b78fa33b2eeafc.mp4\n\nYT\nhttps://youtu.be/nSz16ngdsG0\n\n#SarahMcLachlan #Music
----
-[162] 06-28 04:56 f8978eb7b86d 8d1bf42fb2a1
+[158] 06-28 04:56 f8978eb7b86d 8d1bf42fb2a1
 00000JAPANとは大規模災害や通信障害時に誰でも無料で利用できる災害時統一SSIDの公衆Wi-Fiです　\nhttps://www.soumu.go.jp/menu_seisaku/ictseisaku/public_wi-fi/freewifi_00000japan.html
 ---
-[163] 06-28 04:56 07804b786c6a 8fedf813104b
+[159] 06-28 04:56 07804b786c6a 8fedf813104b
 デナリ https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8A%E3%83%AA
 ---
-[164] 06-28 04:51 4eb88310d6b4 d58a22f8cd3b
-Red Hot Chili Peppers - Higher Ground\nhttps://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/aa85be9d6a2e2e6ff903e7529d8f83db111c9d1430daa0afd59456df53a3b349.mp4\n\nYT\nhttps://youtu.be/X3mRasO5bvo\n\n#RHCP #Music
----
-[165] 06-28 04:41 dffd3ffc3aab 68f76ee7895f
+[160] 06-28 04:41 dffd3ffc3aab 68f76ee7895f
 こんな感じで出るようになった\nhttps://share.yabu.me/dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1/f83e7ec048c317e87a01ba7c54657993952c689eb8a21262b40fdbba50f38670.webp
 ---
-[166] 06-28 04:38 dffd3ffc3aab b0f11ee732f3
+[161] 06-28 04:38 dffd3ffc3aab b0f11ee732f3
 周期タスクテンプレートを作るぞをしている\nhttps://share.yabu.me/dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1/c7bdcc0351893baaad5d8f8812d4bf062ce0dd7cad1c87b7c1da087d7a07b25b.webp
 ---
-[167] 06-28 04:37 4eb88310d6b4 a8dfb49385b4
-Red Hot Chili Peppers - By The Way\nhttps://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/4756134e85e48bf52781771ee1e200c6207a7cde1f9ebfeb44046e386ba58632.mp4\n\nYT\nhttps://youtu.be/JnfyjwChuNU\n\n#RHCP #Music
----
-[168] 06-28 04:29 389ca4957911 20498cf225f9
+[162] 06-28 04:29 389ca4957911 20498cf225f9
 なんかでてきた https://share.yabu.me/389ca4957911b126093f42a0a90786515b59311dc5a942b404d7e16f17287828/923347b41f715833a25052902cb187c6dd30e4afec88ed83a74b76206f6366cb.webp
 ---
-[169] 06-28 04:22 a3bce095cd0e d4cf6f2c5f23
+[163] 06-28 04:22 a3bce095cd0e d4cf6f2c5f23
 何回読んでも忘れる\nhttps://zenn.dev/nikolat/articles/b5936ab157fcf7
 ---
-[170] 06-28 04:13 d8f38b894b42 87e926f7d32c
+[164] 06-28 04:13 d8f38b894b42 87e926f7d32c
 https://media1.tenor.com/m/Qb4QTiYvh3cAAAAd/gif.gif 
 ---
-[171] 06-28 04:10 21ac29561b5d 542d9b7adced
+[165] 06-28 04:10 21ac29561b5d 542d9b7adced
 ブラウザによるけどローカルアクセスの権限はここ\nhttps://share.yabu.me/21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df/1930dabb1418d1ec012d33bda0cf01305e7b561fef46a2bea7dca4204e6eb230.png
 ---
-[172] 06-28 04:06 4eb88310d6b4 814ab5b323af
-Brutal https://file.nostrmedia.com/p/4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d/913a9150edcf1392bd7b3c5f8b21f47c6cf563e93e982c854931381be69dec7c.mp4
----
-[173] 06-28 04:04 a3bce095cd0e 58d1d9de7a5b
+[166] 06-28 04:04 a3bce095cd0e 58d1d9de7a5b
 確かにエレベーターガールの人とかの発音は「さんがい」だった気がする\nhttps://crd.ndl.go.jp/reference/entry/index.php?id=1000382868&page=ref_view
 ---
-[174] 06-28 03:40 b707d6be7fd9 659aa5d94668
+[167] 06-28 03:40 b707d6be7fd9 659aa5d94668
 https://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/c67e74b3220edd26727b270142cc144d59e9851ad5ab874534f0249af169ee7a.webp
 ---
-[175] 06-28 03:38 aa5556df2d2a df778c9f7d7b
+[168] 06-28 03:38 aa5556df2d2a df778c9f7d7b
 生のとうもろこしから作ったポタージュだよだよ\nhttps://share.yabu.me/aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1/2ca607d8beb791c73eef828f6fffc5aac899b2fc13ad076d6d6aff6bbcc46d62.webp
 ---
-[176] 06-28 03:32 8d39a0f9a133 a9222feaff2c
+[169] 06-28 03:32 8d39a0f9a133 a9222feaff2c
 噂のバカスイーツ、うまい\nhttps://i.gyazo.com/6f6168321747de8741aa1f2c4b2aa504.jpg\nhttps://i.gyazo.com/6f4aa2f5bf8e611953acf4f9ee7bbf39.jpg
 ---
-[177] 06-28 03:31 e0a8cbd75ebf f9f78b674924
+[170] 06-28 03:31 e0a8cbd75ebf f9f78b674924
 「CurrentsのPinterestインポート完了」についてブログに書きました。\nhttps://atasinti.chu.jp/dad3/archives/92223\nhttps://image.nostr.build/0196cdac3e342ad2576c2b5c329cb9cc10b44f4f190446f3ba646c8abb5e6ea2.jpg
 ---
-[178] 06-28 03:28 f648d9238a45 ce2a1cf775ca
+[171] 06-28 03:28 f648d9238a45 ce2a1cf775ca
 儿子985毕业进大厂，我53岁送外卖供他租房，他说：爸我不想卷了 https://c.m.163.com/news/a/L0F150850556H1AQ.html?spss=newsapp&spsnuid=Jp6fuSjsAR2oFVxv5Gm586lyorXc%2F6gpWHEH1XWfz24%3D&spsdevid=EC27087F-2F83-485C-92AD-C799F16CA214&spsvid=&spsshare=default&spsts=1782617154736&spstoken=HzshYmGYnN%2Fimk5sjN7oKeRzigaRV9YN7RFg8%2BEyzKIK8SM6GiWbSGkMV2ymLWVFN9zJnEIAqjcEA%2Fe%2BwfFsBw%3D%3D\n\n女人和中国男人结婚生孩子都是这样下场。年轻女孩子嫁中国男人就是很凄惨下场。孩子继续当奴隶。女孩子趁年轻赶紧找老外男人结婚生孩子，跟欧美男人结婚生孩子当公民。与中国男人生孩子，孩子当奴隶贱民，没意义。嫁中国男人最凄惨最错误投资。是傻逼女人嫁中国男人生奴隶孩子，孩子很凄惨读985，211，读清华北大出来也是奴隶贱民。
 ---
-[179] 06-28 03:25 1ea4ae8405ad 191bfe103e7e
+[172] 06-28 03:25 1ea4ae8405ad 191bfe103e7e
 molokan - \n\nhttps://en.wikipedia.org/wiki/Karelia?wprov=sfti1#Geography\n\nhttps://image.nostr.build/3f02f51c4837788b1eca775f5af7223e25d5101c4ca8ca1d97f17fa5250308e6.jpg\nhttps://image.nostr.build/a1e3abf6f00db19d61818316efc8b4445b7b477de68a99e217ebd6387e3b71d0.jpg
 ---
-[180] 06-28 03:23 b7274d28e3e9 842f494655cf
+[173] 06-28 03:23 b7274d28e3e9 842f494655cf
 Maybe not? nostr:nprofile1qqsf07zg4hxyccnkdp07fppxmetpfzru3fg6mgzx3nk8r7af8qnjjygpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpzamhxue69uhky6t5vdhkjmn9wgh8xmmrd9skctcppemhxue69uhkummn9ekx7mp066595x \n\nhttps://relay.brightbolt.net/4b373c60fca426ff541304260731f5d737887158759f7ad032d60dfa77b7778e.jpg
 ---
-[181] 06-28 03:19 1ea4ae8405ad 319851f257db
+[174] 06-28 03:19 1ea4ae8405ad 319851f257db
 📍📌 essay for ankara tomorrow - \n\n\nhttps://en.wikipedia.org/wiki/Finland?wprov=sfti1\n\nhttps://en.wikipedia.org/wiki/Alexander_Stubb?wprov=sfti1\n\nhttps://en.wikipedia.org/wiki/Grand_Duchy_of_Finland?wprov=sfti1\n\nhttps://en.wikipedia.org/wiki/Republic_of_Karelia?wprov=sfti1\n\nhttps://en.wikipedia.org/wiki/Karelians?wprov=sfti1#\n\nnevent1qqst5x80py5cg36ykvza3kvgmtxfkrdet4h9zk5rx9hf5dcr4mf5ysch9usws
 ---
-[182] 06-28 03:14 d62679fe8b51 c3e498a57f88
+[175] 06-28 03:14 d62679fe8b51 c3e498a57f88
 #絵描きさんと繋がりたい\n#りとるらいと_日課フレーム\n#illust\n『加々美高浩が全力で教える「手」の描き方』を参考に手を描く練習\nhttps://amzn.to/3Buwxty https://image.nostr.build/aef93137ac0d9f44f320396754a41a1839713d56b0ce45656578803a80b3fab2.jpg
 ---
-[183] 06-28 03:08 8fb140b4e8dd 2ee86033bef7
+[176] 06-28 03:08 8fb140b4e8dd 2ee86033bef7
 WORD5 #632 4/6* (Hard Mode)\n\n⬛🟧⬛⬛⬛\n🟪🟧⬛⬛⬛\n🟪⬛🟧⬛🟧\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[184] 06-28 03:05 d650db35a292 613b2b5037f0
+[177] 06-28 03:05 d650db35a292 613b2b5037f0
 怒りのドラゴン5キロまとめ買い。90B（450円）最近市場に出てくるようになりました。味は他のフルーツに比べ控えめだが、ナイフで2つに割ってスプーンですくって食べられるので手間いらず🙆\n\n\nhttps://cdn.nostrcheck.me/d650db35a29279d50da1aaecb2e2379f4444ca6afdc67cc186b9265267a792fc/e0449de514868fc543da09c5e3c3602c0b662ae6d5df6a4f64d6af0d56b12740.webp
 ---
-[185] 06-28 02:57 e0a8cbd75ebf 730758e41796
+[178] 06-28 02:57 e0a8cbd75ebf 730758e41796
 「Blueskyの投稿専用クライアントSkyPutter」についてブログに書きました。\nhttps://atasinti.chu.jp/dad3/archives/92219\nhttps://image.nostr.build/871e566dc2791aacf528d1a3c599c599332f9cffdf6ef34850d33b99f5423741.jpg
 ---
-[186] 06-28 02:52 ee6ea13ab9fe 04e5e356e5ab
+[179] 06-28 02:52 ee6ea13ab9fe 04e5e356e5ab
 WORD5 #632 4/6* (Hard Mode)\n\n⬛⬛⬛⬛⬛\n⬛⬛🟧🟧⬛\n🟧⬛⬛🟪⬛\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[187] 06-28 02:39 627a79d20265 ddcd491db9e9
+[180] 06-28 02:39 627a79d20265 ddcd491db9e9
 Episode 60\n\nGet some decent music into your day\n\nhttps://open.substack.com/pub/baresoundsproject/p/episode-60?r=6gj0tk&utm_medium=ios
 ---
-[188] 06-28 02:26 19f9afb8f855 1c5f6cf44f1a
+[181] 06-28 02:26 19f9afb8f855 1c5f6cf44f1a
 #rupertsbackyardtoday is actually my parents' yard in south Louisiana. We're visiting to collect Kajoonior.\n\nStick bug tryin' to be bamboo on Mama Damnit's car. \nhttps://cdn.satellite.earth/9f0970ca2676076080b3618d7b73bb78b705144757f3c8e482455459185835c2.jpg\n\nI'm a Cajun Disney Princess, bitches!\nhttps://cdn.satellite.earth/8e1b5a24d4f8a65defb99ce8718f6647b77a40238cb6c7492c58525a41bc78dd.jpg\n\nCanna lilies in Mama Damnit's yard. https://cdn.satellite.earth/6fb48d41153ce4ede49299b569d05bcd22b60816253727a4afe5609589bc8ed4.jpg\nClimbing fern? Cool as shit.\nhttps://cdn.satellite.earth/9a2f7e48355230323f85cc94756c932bb396969ee85dbcf8696dcdaa650d9941.jpg\n\nWild clematis! https://cdn.satellite.earth/3e2bebcfc9b0afe5295d9b189c98286ee22e094e62dd09757a6c22e1ad1e5448.jpg\n\nBUNNY!! https://cdn.satellite.earth/471e554958836170714a5537b467242db2580321906820f7977016611dd524b2.jpg\n\nMassive cricket. 🤢 \nhttps://cdn.satellite.earth/cdd23198425671413992feb24f0af7736477f4f23dfd60585c85484d6baf6a0b.jpg
 ---
-[189] 06-28 02:25 f1d7db09beb1 6159df766325
+[182] 06-28 02:25 f1d7db09beb1 6159df766325
 美輪明宏さん亡くなったのか。\n御冥福をお祈りします\nhttps://news.yahoo.co.jp/pickup/6585969
 ---
-[190] 06-28 02:18 7dc1677112f0 54f403e73523
+[183] 06-28 02:18 7dc1677112f0 54f403e73523
 1話がよくて2巻とも買ってしまった\n\nhttps://comic-fuz.com/manga/3664
 ---
-[191] 06-28 02:06 813a2cfda49a 2337df79602c
+[184] 06-28 02:06 813a2cfda49a 2337df79602c
 💃 Catch the full #LivyLumi replay on nostr:nprofile1qyt8wumn8ghj7mn0wd68yetvd96x2uewdaexwtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsqgy9muq29a4frpzn2nyd9k0m4dqq9wu9ks39ht4tvra0kfv8c5pcagxg0wze \nhttps://shosho.live/live/naddr1qvzqqqrkvupzppwlsg4gvkvll05pg0d3u8sm7tgk97nql359ce23t937vl8awjvlqqjrxvehv5uxvd34956k2ef3956xzd3k943rwdtz95erqetzvsckzetyxqekz7drprm
 ---
-[192] 06-28 01:54 cac0e4323580 daf1550b1d19
+[185] 06-28 01:54 cac0e4323580 daf1550b1d19
 https://nostr.download/e544637a8b6afb3779ffc1ad9cce93190056338a61f06c18a3687da6a3264f80.jpg\n\nУ меня другой вопрос. Как госпожа Латынина их различает?
 ---

@@ -744,20 +744,20 @@
     "content": "まとめ「「役に立たないミニアプリ集」inspired by ぺぇ」を更新しました！\n#まとめたー\nhttps://matometr.naczuki.workers.dev/naddr1qvzqqqr4gupzpq4np5cygstsu65vsx0ggphrv23kj4z553sh39xwyur08pqvdsqrq"
   },
   {
-    "id": "73b291379cbd4d51b16a51c0680aa0da04c020e59ac1de5372bbe729bc8547f1",
-    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
-    "created_at": 1782539189,
-    "tool": "https://github.com/ocknamo/nostr-cache",
-    "note": "nostr-cache（ocknamo自作のブラウザで動くNostrリレー実装）。「claude codeのせいで放置してたプロジェクト引っ張り出して進めてる」。本人・日本語、Nostr向け",
-    "content": "claude codeのせいで放置してたプロジェクト引っ張り出して進めてる。\n\nhttps://github.com/ocknamo/nostr-cache"
-  },
-  {
     "id": "e4c05ebec9e41de56aeabf189ff3d7d7b20ab05b07e510f643e205a306caef01",
     "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
     "created_at": 1782570441,
     "tool": "https://10-tiny-useless-tools.vercel.app/",
     "note": "役に立たないミニアプリ集（ぺぇの自作ミニアプリ詰め合わせ、Oracle Gacha等）。「たまに遊ぶと楽しいかも」。本人・日本語。Nostr向けではないが本人作成",
     "content": "たまに遊ぶと楽しいかも\nhttps://10-tiny-useless-tools.vercel.app/"
+  },
+  {
+    "id": "73b291379cbd4d51b16a51c0680aa0da04c020e59ac1de5372bbe729bc8547f1",
+    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+    "created_at": 1782539189,
+    "tool": "https://github.com/ocknamo/nostr-cache",
+    "note": "nostr-cache（ocknamo自作のブラウザで動くNostrリレー実装）。「claude codeのせいで放置してたプロジェクト引っ張り出して進めてる」。本人・日本語、Nostr向け",
+    "content": "claude codeのせいで放置してたプロジェクト引っ張り出して進めてる。\n\nhttps://github.com/ocknamo/nostr-cache"
   },
   {
     "id": "d8d46c36ebc6b87fb3e6f2e530a7a5206f6470aafbc1ea50d1b7c9d969e0a2ca",
@@ -824,6 +824,14 @@
     "content": "「膀胱炎の気配」というきもちから、こんな恐竜が発掘されました。\n\n【マタイキタイドン】\nトイレに行ったばかりなのに、すぐまた行きたくなってしまう恐竜。\n絶滅理由：近くの茂みへ何度も駆け込むうち、群れがどこまで進んだか見失った。\n生息年代：約8100万年前のころ\n\n#きもち恐竜鑑定\nhttps://kimochi-dino.naczuki.workers.dev/"
   },
   {
+    "id": "d1f5d30c74eb3dad431d448e011cd791ce837ca2e7104a522f710b71e7eabbc9",
+    "pubkey": "ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758",
+    "created_at": 1782262216,
+    "tool": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs",
+    "note": "filepathnow（YoshikuniJujo 自作の、日時付きファイル名を生成する Haskell 小さなCLI）。作者本人、日本語",
+    "content": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs\n\nできた"
+  },
+  {
     "id": "ff82808a0893eddef6f03b765296124605bfdee19d994159402509128fc15085",
     "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
     "created_at": 1782189701,
@@ -840,20 +848,20 @@
     "content": "まだこれぐらい\nhttps://trailcast.shino3.net/did%3Aplc%3Arpwpuzu2yyiuufm3232d7pm5/1ih6onsfg801c"
   },
   {
-    "id": "d1f5d30c74eb3dad431d448e011cd791ce837ca2e7104a522f710b71e7eabbc9",
-    "pubkey": "ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758",
-    "created_at": 1782262216,
-    "tool": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs",
-    "note": "filepathnow（YoshikuniJujo 自作の、日時付きファイル名を生成する Haskell 小さなCLI）。作者本人、日本語",
-    "content": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs\n\nできた"
-  },
-  {
     "id": "5fa68868fffc55efe01aca71536c1005e06470943a8dfe7b0d83de9d326697a7",
     "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
     "created_at": 1782177330,
     "tool": "https://nsite.compile-error.net",
     "note": "nsite（NIP-5A 対応のファイル配信ウェブサーバ、mattn 自作。blossom とリレー指定で npub サブドメインをサーブ）。作者本人、日本語",
     "content": "NIP-5A nsite を実装したウェブサーバを作りました。\n\nhttps://nsite.compile-error.net\n\nblossom サーバとリレーサーバを指定してファイルをアップロードすると\n\nhttps://<あなたのnpub>.nsite.compile-error.net/\n\nというサブドメインでファイルがサーブできます。\n\n例:\n\nhttps://npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6.nsite.compile-error.net/"
+  },
+  {
+    "id": "1a42d7bb6b85be5b80e8733509f1b4395339e32bb54e188634c46a629ea1fbc6",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1782167080,
+    "tool": "https://tsukemonogit.github.io/meaningless-apps/",
+    "note": "meaningless-apps（もの=mono/tsukemonogit 自作の無意味アプリ集。GitHub Pages）。作者本人（NIP-05 mono@tsukemonogit.github.io）、日本語",
+    "content": "https://tsukemonogit.github.io/meaningless-apps/\nぱげずにあっぷできた"
   },
   {
     "id": "c64c47425cf17a36ae521148b77e4e2ea5e8661fa5db7ad16c0cfb64d68d346b",
@@ -864,12 +872,36 @@
     "content": "key-rest を lean で検証 https://github.com/koteitan/key-rest/blob/main/lean/README-ja.md"
   },
   {
+    "id": "d0fafcc8f5f269f151c7d3e5bce4ef72308638d67f2f444e7eeef11456330787",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1782143183,
+    "tool": "https://nokakoi.com/app/",
+    "note": "nokakoi（betoneto 自作の Nostr クライアント、開発進捗報告）。作者本人（WebSite/NIP-05 nokakoi.com）、日本語",
+    "content": "シンプル表示モード改めコンパクト表示をプロフィールモーダルにも適用した\nホームタブボタンの長押しで表示のクイック設定を開くようにした\nhttps://nokakoi.com/app/\nhttps://share.yabu.me/21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df/e09568d7cc81f53c9a6115ec513af4151dfb44408d3b7d654d8392b31452fa00.png"
+  },
+  {
     "id": "e7b70833e1209c8401d7c090b477bf8c00f56257bde6542e82c275328c0764aa",
     "pubkey": "527e583626b1a7dd99903578bcc26dc4b09cb840e55f47f7c602bbad9f9f4c0d",
     "created_at": 1782136802,
     "tool": "https://keitagame.github.io/FAMICOMU",
     "note": "FAMICOMU（kawase keita=かわせけいた 自作の Web 上のファミコンエミュレータ）。作者本人、日本語（kind0 も日本語）",
     "content": "FAMICOMUというweb上のファミコンエミュレータを作ってます。ぜひ見に来てネ。\nhttps://keitagame.github.io/FAMICOMU"
+  },
+  {
+    "id": "8daf5fe56883404e33d6d4d4502bdd9e80b61346545a8d3cd736935e1e0ae643",
+    "pubkey": "274a2e86f1a7acb45b01f290284a343c248cb913677b43d7f7615b513194d8b0",
+    "created_at": 1782128935,
+    "tool": "https://shiotanu.github.io/useless-mini-apps/",
+    "note": "useless-mini-apps（しお=shiotanu 自作の役に立たないミニアプリ集。何もしないタイマー等）。作者本人（NIP-05 _@shiotanu.github.io）、日本語",
+    "content": "で、できた……\nhttps://shiotanu.github.io/useless-mini-apps/"
+  },
+  {
+    "id": "05be50f7f7517409b089e3632b89690eab0a1cfbdbb9844a69812b494d1c2f62",
+    "pubkey": "ce0d385252733bd84c1e9ce7d7cdb5733b8021bb0b3740c84d184580bf403ea3",
+    "created_at": 1782128540,
+    "tool": "https://mouse484.github.io/kuso-app-10/",
+    "note": "kuso-app-10（mouse 自作の役に立たないミニアプリ集。ワンショット生成で作者本人も「ゴミ」と評す）。日本語",
+    "content": "ワンショットでつくらせたよ、ゴミ過ぎてパブリックにはできなかった\n\nhttps://mouse484.github.io/kuso-app-10/"
   },
   {
     "id": "a892374513b60f6ae70d47d7bc54d201acc38b2d77ec5ac96b2201b43bcc250d",
@@ -888,44 +920,12 @@
     "content": "とりあえずある程度動くようになったから適当に投げておくにゃ〜\nP2PはIPv6しか使ってないからIPv6使えない人は使えないにゃ、、、\nあとテストも自分の環境でしか試してないからにゃ〜\n\nhttps://github.com/Luna1029-VRChat/P2P-IRCLikeSNS"
   },
   {
-    "id": "8daf5fe56883404e33d6d4d4502bdd9e80b61346545a8d3cd736935e1e0ae643",
-    "pubkey": "274a2e86f1a7acb45b01f290284a343c248cb913677b43d7f7615b513194d8b0",
-    "created_at": 1782128935,
-    "tool": "https://shiotanu.github.io/useless-mini-apps/",
-    "note": "useless-mini-apps（しお=shiotanu 自作の役に立たないミニアプリ集。何もしないタイマー等）。作者本人（NIP-05 _@shiotanu.github.io）、日本語",
-    "content": "で、できた……\nhttps://shiotanu.github.io/useless-mini-apps/"
-  },
-  {
-    "id": "1a42d7bb6b85be5b80e8733509f1b4395339e32bb54e188634c46a629ea1fbc6",
-    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
-    "created_at": 1782167080,
-    "tool": "https://tsukemonogit.github.io/meaningless-apps/",
-    "note": "meaningless-apps（もの=mono/tsukemonogit 自作の無意味アプリ集。GitHub Pages）。作者本人（NIP-05 mono@tsukemonogit.github.io）、日本語",
-    "content": "https://tsukemonogit.github.io/meaningless-apps/\nぱげずにあっぷできた"
-  },
-  {
     "id": "adcea47a341afed4859ec4b9795837d666706e65dd0470461156547d25640bc2",
     "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
     "created_at": 1782122984,
     "tool": "https://10-tiny-useless-tools.vercel.app/",
     "note": "10-tiny-useless-tools（ぺぇ=petan 自作のカスアプリ集）。作者本人、日本語",
     "content": "あっ、ぽゎ、みてー\nカスアプリ集作ったー\nhttps://10-tiny-useless-tools.vercel.app/"
-  },
-  {
-    "id": "05be50f7f7517409b089e3632b89690eab0a1cfbdbb9844a69812b494d1c2f62",
-    "pubkey": "ce0d385252733bd84c1e9ce7d7cdb5733b8021bb0b3740c84d184580bf403ea3",
-    "created_at": 1782128540,
-    "tool": "https://mouse484.github.io/kuso-app-10/",
-    "note": "kuso-app-10（mouse 自作の役に立たないミニアプリ集。ワンショット生成で作者本人も「ゴミ」と評す）。日本語",
-    "content": "ワンショットでつくらせたよ、ゴミ過ぎてパブリックにはできなかった\n\nhttps://mouse484.github.io/kuso-app-10/"
-  },
-  {
-    "id": "d0fafcc8f5f269f151c7d3e5bce4ef72308638d67f2f444e7eeef11456330787",
-    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
-    "created_at": 1782143183,
-    "tool": "https://nokakoi.com/app/",
-    "note": "nokakoi（betoneto 自作の Nostr クライアント、開発進捗報告）。作者本人（WebSite/NIP-05 nokakoi.com）、日本語",
-    "content": "シンプル表示モード改めコンパクト表示をプロフィールモーダルにも適用した\nホームタブボタンの長押しで表示のクイック設定を開くようにした\nhttps://nokakoi.com/app/\nhttps://share.yabu.me/21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df/e09568d7cc81f53c9a6115ec513af4151dfb44408d3b7d654d8392b31452fa00.png"
   },
   {
     "id": "5737e8b79338003e6eea87d4c27999dac0a9391bd15ce87d81c85acdb46ef386",
@@ -950,5 +950,53 @@
     "tool": "https://github.com/TsukemonoGit/nostr-login",
     "note": "nostr-login（TsukemonoGit=もの 自作の Nostr ログインライブラリ、v1.16.1 リリース報告）。作者本人（NIP-05 mono@tsukemonogit.github.io）、日本語",
     "content": "https://github.com/TsukemonoGit/nostr-login/releases/tag/v1.16.1 ちゃんとできてんのかな"
+  },
+  {
+    "id": "d069fdd04492f3eb3475891e8adb0582f56a428c675c06d22ac743949ff66221",
+    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+    "created_at": 1782005550,
+    "tool": "https://github.com/Luna1029-VRChat/GuiltyAtomeis",
+    "note": "GuiltyAtomeis（宵猫ルナ自作のセキュリティ指向プログラミング言語。4D迷路VM上の暗号化バイトコードにコンパイルされる。リポジトリは公開/非公開分割のため現在404）。作者本人、日本語",
+    "content": "普通に\nhttps://github.com/Luna1029-VRChat/GuiltyAtomeis\nを作れたから\n指示の仕方でどうとでもなるにゃ、、、"
+  },
+  {
+    "id": "2fab14925ec5af8a02dce0eb86e821235005f6c8119aad759d3229a8ea6a5e37",
+    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+    "created_at": 1781929600,
+    "tool": "https://github.com/Luna1029-VRChat/NostrGD",
+    "note": "NostrGD（宵猫ルナ自作の Godot 製 Nostr クライアント兼 NostrSDK for GodotEngine。GDExtension で実装し直し .NET 版不要に）。作者本人、日本語",
+    "content": "GDExtensionで実装し直したから\n.NET版じゃなくても使えるようになったにゃ〜\n\nhttps://github.com/Luna1029-VRChat/NostrGD"
+  },
+  {
+    "id": "887643af621244eb534fd91365195a693a810d6dc17168f340cfb287c6b19ecf",
+    "pubkey": "e3168078608580b4eee1eaf9d47ac01e94a27c406f4f4477b8447e5510f13b2c",
+    "created_at": 1781925444,
+    "tool": "https://flowj.vercel.app",
+    "note": "FlowJournal（思考の流れを途切れさせない日本語ジャーナリングツール。サーバー保存なし。投稿はアプリのシェア形式で作者本人と推測されるが断定は不可）。日本語",
+    "content": "🖊 FlowJournalで5分0秒、605文字書き続けた（208CPM）\nhttps://flowj.vercel.app"
+  },
+  {
+    "id": "e179a23348ae320a188ded9e740958cc5d4bea28127e287ee3f045d35955b328",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1781919360,
+    "tool": "https://github.com/mattn/nostr-status-lastfm",
+    "note": "nostr-status-lastfm（mattn 自作。Last.fm の再生状況を Nostr の kind:30315 status に反映し、再生中かつ曲が変わったら更新するツール）。作者本人（mattn 確定、日本語）。Nostr ツール",
+    "content": "Last.fm から Nostr はこれを分間で動かしてます。再生中かつ曲が変わったら status 更新。\n\nhttps://github.com/mattn/nostr-status-lastfm"
+  },
+  {
+    "id": "17bf5ad08c51028071932ec1ee59fea6cbd8e466340c5cfcaebf3597c090089d",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1781907183,
+    "tool": "https://github.com/SnowCait/nostter",
+    "note": "nostter（SnowCait 自作の Nostr Web クライアント。開発報告として PR merged を投稿）。作者本人（SnowCait/雪猫、日本語）。Nostr ツール",
+    "content": "PR merged: Create gallery Swiper lazily and destroy it on unmount\nhttps://github.com/SnowCait/nostter/pull/2223 #nostter"
+  },
+  {
+    "id": "84be2cc164a18f076a8b58cb7969c16a3a138ad916b51c67829efe9baf4014aa",
+    "pubkey": "a19caaa8404721584746fb0e174cf971a94e0f51baaf4c4e8c6e54fa88985eaf",
+    "created_at": 1781860441,
+    "tool": "https://ompomz.github.io/mbti_analyzer/",
+    "note": "mbti_analyzer（ompomz の MBTI 診断ツール、ompomz.github.io で公開）。投稿者は本人か不明（プロフィール未確認）。日本語",
+    "content": "https://ompomz.github.io/mbti_analyzer/"
   }
 ]
