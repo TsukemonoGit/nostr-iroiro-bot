@@ -7,1554 +7,717 @@ Building miners, hang out!\nhttps://cornychat.com/revhodlama
 [2] 07-29 01:33 deab79dafa1c 00000bf31f5b
 https://haven.downisontheup.ca/0815cd5c909a8528bb61d12a6c0a9212ae1eb485f3358056dd748a6cd1634f83.jpg
 ---
-[3] 07-29 01:32 1bf9f239dca1 0ccdd169d48e
-This presentation "Porting SIMD to RISC-V Vectors" could be relevant  to optimizations for ereaders and web browsers. If I remember correctly, libraries such as libjpeg-turbo, are used in KOReader and others:\n\nhttps://www.youtube.com/watch?v=mxMEUIFL4xg
----
-[4] 07-29 01:27 6369fb82bec5 38601e5e2639
+[3] 07-29 01:27 6369fb82bec5 38601e5e2639
 https://www.watch.impress.co.jp/docs/news/2128633.html\n乗ってみたい
 ---
-[5] 07-29 01:24 8c5923931963 6d9af11086a1
+[4] 07-29 01:24 8c5923931963 6d9af11086a1
 状態管理の説明\nhttps://share.yabu.me/8c59239319637f97e007dad0d681e65ce35b1ace333b629e2d33f9465c132608/3eb41f35211da9b7d812aaf3c3594d541b2956799981ff580bf644c85a7652ca.webp
 ---
-[6] 07-29 01:19 81913081246d 6d2c2bd149cf
+[5] 07-29 01:19 81913081246d 6d2c2bd149cf
 nostr:nprofile1qqsfahefvf3dcf9r702xp3lku3tts5evgycqvu4kmupcna9zzsh88ggpr9mhxue69uhhyetvv9ujucn0wd68ytn0dekxjmn99uq3vamnwvaz7tmjv4kxz7fwdehhxarj9ehx2ap0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj73x5xqv \n宁德时代前十大股东是谁，各占比多少？\n大股东转让股份是否属实，转让部分大约市值多少？\nhttps://blossom.dreamith.to/e719d376878f6eb133d352325fc4b6fa1b90116f58aa876d94fc7ae444c9abff.jpeg
 ---
-[7] 07-29 01:16 06d333dcfe65 ab59ab87a57f
+[6] 07-29 01:16 06d333dcfe65 ab59ab87a57f
 今度は大隈講堂を作ってみた。作業時間5分\n\nhttps://video.nostr.build/c829d248c00a9086e97b25fcc6bbf99025f95c9d5f31bb76ce78669359c910f7.mp4
 ---
-[8] 07-29 01:10 71ecabd8b6b3 ba8ae9014d74
-https://blossom.smartflow.social/dcd52966110d41852a13015cea1ac641aedf021310491df5cb98ba5963a1894f.mp4
----
-[9] 07-29 01:09 ee6ea13ab9fe 00000f37ad30
+[7] 07-29 01:09 ee6ea13ab9fe 00000f37ad30
 https://www.trump.com
 ---
-[10] 07-29 01:07 ba18b6545357 7bbc7dfd27e4
-Surprise cigar night. #cigarstr\n\nhttps://i.nostr.build/kkAukI2pw3xClRdS.jpg
----
-[11] 07-29 01:06 1a35b54ef775 e72e9bb0ae65
-https://image.nostr.build/c283806dd0dc7678bf345f78732838b666ea5dbf8d7fecb3dd22f5f0c8595097.png
----
-[12] 07-29 01:04 409c5539d208 001a15aa2f10
+[8] 07-29 01:04 409c5539d208 001a15aa2f10
 2024年に当時の経理部長ら2人が辞めてるの、なかなか……\n\nはてな、11億円流出の調査報告書を公開　偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖（1/2 ページ） - ITmedia NEWS\nhttps://www.itmedia.co.jp/news/article/2607/28/2000000238/\n
 ---
-[13] 07-29 01:02 b3e43e8cc7e6 d21eceb5cd57
+[9] 07-29 01:02 b3e43e8cc7e6 d21eceb5cd57
 最近fiatjafみないとおもったら https://share.yabu.me/b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f/1a6d42b335becddf7807bb90a74c355b61c3f458fddd90895011e2083f1018b1.webp
 ---
-[14] 07-29 01:02 6b0a60cff3ec 55fdced6941d
+[10] 07-29 01:02 6b0a60cff3ec 55fdced6941d
 これはKAGENUIから\nhttps://nikolat.github.io/kagenui/
 ---
-[15] 07-29 01:00 eafb085cc714 ca1b17da4bd1
-とうふさんが演じる「攻殻機動隊 GHOST IN THE SHELL『EPISODE 04: ROBOT RONDO』」\nhttps://bsky.app/profile/atasinti.bsky.social/post/3mrqpfmaut26w
----
-[16] 07-29 01:00 b3e43e8cc7e6 febd1965cbf5
+[11] 07-29 01:00 b3e43e8cc7e6 febd1965cbf5
 デフラグみたい\nhttps://share.yabu.me/b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f/23f95a4caa3b0a6858d235ff598d8d6cccd257426f606368d581e7cb2d4f8fc1.webp
 ---
-[17] 07-29 00:56 2962900a1d1f 7341fc2c1122
- ⚡ 960031 ⚡\nPrimeiro eles violaram, invadirão a fronteira natural (Santa Catarina)\n\nMuito antes do genocídio do Paraguay, quanto os territórios não estavam temporariamente ocupados pelo invasor\n\nImagina uma dia em terra paraguaias acorda pela manhã com ordar e mais ordar e ordar de orcZ,orcZ,orcZ das farsas armadas do bostil \n\nRetirando a bandeira do Paraguay 🇵🇾 e colocando a bandeira bostileira🇧🇷 no lugar!!!!\n\nE falando "agora todos os Paraguayos devem passar mais de 20℅ de tudo oque tem e produzem ao regime, ao brasil!!!!"\n\nSe vai fazer oque em ???? Oferecer sua esposa e filha como tributo a Roma????\n\nIsso não aconteceu no Paraguay, aconteceu em terras Gaúchas!!!! No Rio Grande do Sul!!!!\n\nEm nossas terras Gaúchas,alagadas com o nosso mate Gaúcho quente, para nossas terras alagadas e frias vindo de nossas Origens o Paraguay, que o invasor nos separou!!!\n\nComo um pedófilo que matou nossa mãe e nos separou, arrancou de seu hetero um só Paraguay,Guaranis e Gaúchos\n\nNas escolas do Rio Grande do Sul até hj se canta primeiro o hino do Rio Grande do Sul e depois o hino do bostil\n\n\nPor favor não deixe o bostil fazer com o Paraguay oque faz com o Rio Grande do sul\n\nDiga não ao genocídio Gaúcho que acontece a cada enchente pelo invasor\n\nGloria do Rio Grande do Sul\nGloria de terras Gaúchas\nGloria do Paraguay\n\n"A RuZZia, Brasil se convertera, para que posso haver a paz,justiça e união no mundo!!!"\n\n❤️🇵🇾🙏\n\n\nhttps://blossom.primal.net/1f0484ce818f46aa018738fcc30a6b72405f7a7be0d0452326cab7c5ee3a7b90.mp4
----
-[18] 07-29 00:55 1bc70a0148b3 de1687db3f75
+[12] 07-29 00:55 1bc70a0148b3 de1687db3f75
 https://www.whitehouse.gov
 ---
-[19] 07-29 00:55 2962900a1d1f 604c92309ca3
-⚡ 960031 ⚡\nGlória do Rio Grande do Sul\nGlória de terras Gaúchas\nGlória do Paraguay\n\nEnchentes sempre foram e sempre serão a sua única esperança e não um problema como o invasor que sequestra a mente de nossas crianças e as doutrina a odiar sua história, sua existência!!!\n\nDiga não ao genocídio Gaúcho\nDiga não ao invasor\nEssas terras alagadas não são suas bostileiros!!!orcZ!!! orcZ!!! orcZ!!!!!\n\nViver um único momento livre,nem que seja um único instante ou uma morte com honra a valhalla!!!! https://blossom.primal.net/a190be611c3272f9c86da495edb546ec3a3869fe4a4d46d76bff7df859f71b93.mp4
----
-[20] 07-29 00:49 6b0a60cff3ec 850203f00fd2
+[13] 07-29 00:49 6b0a60cff3ec 850203f00fd2
 今ダムスから投稿拾ってる人6人おるけど何かしら別のリレーにもwriteしてるだろうし\nhttps://share.yabu.me/6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4/b0b692f241b70da6e59e8e4bf47fafedeb178887d93d0871452ddf192f427c89.webp
 ---
-[21] 07-29 00:42 a3ced4fefc06 b62f125bd1c3
-今日のおはようポスト、自分のポスト履歴にすら出てこないんだけどなんで？\n\nhttps://image.nostr.build/d1e3d7adc52da9ce3065214eef4029c89b7f1eabe7e61a3fbfb752a42c60ccfd.jpg\nhttps://image.nostr.build/089d53fb9ba43172390c1fa11f7b2c91ee5744cbce3313c55c6b3ff0ee8820dd.jpg
----
-[22] 07-29 00:41 6369fb82bec5 116541bc43ec
+[14] 07-29 00:41 6369fb82bec5 116541bc43ec
 https://www.zaikei.co.jp/article/20260724/862705.html\nプリヤ、完…結…？
 ---
-[23] 07-29 00:34 f8978eb7b86d b2e5ae539f78
-エグい\nhttps://x.com/jijicom/status/2082258817920962630?s=46&t=eJTuylZ6m-eKIGHpnE7dQg
----
-[24] 07-29 00:31 9fe9ef2be97c d18f6f066020
+[15] 07-29 00:31 9fe9ef2be97c d18f6f066020
 着いた！　ファン・ゴッホが待っている\nhttps://share.yabu.me/9fe9ef2be97cbeecc76e43b8fa6d2a0e889d4d80e4e5a2aeec959c7972fd6e89/fa1fd6668384ff9770462782466da860cf32fdbe713fab3d051e3d124dfe2548.webp
 ---
-[25] 07-29 00:29 811002f2348b 90a739cc9dad
+[16] 07-29 00:29 811002f2348b 90a739cc9dad
 虚構新聞読んでるのかと思っちゃった。\n\nhttps://news.yahoo.co.jp/articles/26fabc19fc9829aa088c3863c3f5fecad3a75d7e
 ---
-[26] 07-29 00:24 3875a16c9788 e3203fca7acf
-On rare occasions, I get inside my own head, and not in a good way.\n\nNever lasts long. Typically means I’ve been burning the candle too bright, so to speak.\n\nSomething always breaks me out of it, though, or at least I believe it will every time.\n\nThis time was no different.\n\nOpened the drivers side door of my car today, and there on the floor mat was a cutout slip from one of my kids school projects.\n\n“Where do you think your favorite story originated?”\n\nImmediately thought of the stories bouncing around in my own head, the “not in a good way” ones.\n\nI saw “favorite” as repeating.\n\nThought to myself, “Yeah, where did these stories originate?” as if I’d caught them red handed.\n\nIt pulled me out of my own head immediately.\n\nGN 🌙 🌙 🌙 🌙 \n\n https://blossom.primal.net/544d3b44df630c5b41f5181135c611de1a86cbeaedc5f13a86d73f7f86e54cde.png 
----
-[27] 07-29 00:24 1a35b54ef775 14af9bd3cf23
+[17] 07-29 00:24 1a35b54ef775 14af9bd3cf23
 https://www.itmedia.co.jp/news/article/2607/28/2000000238/
 ---
-[28] 07-29 00:22 d28413712171 70af7571f943
+[18] 07-29 00:22 d28413712171 70af7571f943
 WORD5 #663 6/6* (Hard Mode)\n\n⬛🟧⬛⬛🟪\n⬛⬛🟧⬛🟪\n⬛🟧⬛⬛🟪\n🟪⬛⬛🟪🟪\n🟪⬛⬛🟪🟪\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[29] 07-29 00:17 8c5923931963 ae10961241aa
+[19] 07-29 00:17 8c5923931963 ae10961241aa
 die 関数の説明\nhttps://share.yabu.me/8c59239319637f97e007dad0d681e65ce35b1ace333b629e2d33f9465c132608/6d43da267e5a1e307056ac6b07d84873624ff071993cdaeacd71c6bc05cdfe69.webp
 ---
-[30] 07-29 00:11 71ecabd8b6b3 3ab673bfd8a7
-https://blossom.smartflow.social/2845ef43d2deca3d4e6e9b9d0a0be95762ef1e64487ee75e759b700411a84436.jpg
----
-[31] 07-29 00:03 bd9aaa6e9715 2b0477b01ccc
-\nThis Prayer UNLOCKS Your Breakthrough🙏🔓\n https://blossom.primal.net/9b275e00ced66eab269aed996ff02606c18ec9bb3db5f47bbb1ef76d6836719e.mp4 \nhttps://x.com/MMalagies/status/2082194422213521453\nMike Malagies   @MMalagies
----
-[32] 07-28 23:56 efc2b6e59480 532a6f0f774b
+[20] 07-28 23:56 efc2b6e59480 532a6f0f774b
 Don't wanna be nihilistic, however some of these things are either doing phone number KYC-based metadata association or having poor security design or have been doing something irrational and suspicious likely camouflaged as bugs.\n\nMore or less experimental stuff that gives hope: nostrmail, cordn, obscuravpn.\n\nhttps://eylenburg.github.io/im_comparison.htm\n\nnostr:nevent1qqsyjkdphgkkjark0tnzpn9tcjcc6pkuz3j6454jz76sezvvndtxzrcprpmhxue69uhkummnw3ezucm0v3hkuctxwshxxmmdqyxhwumn8ghj7mn0wvhxcmmv08dp8k
 ---
-[33] 07-28 23:53 7e5675ae1e51 806496549178
-そのうち8Kなげるー https://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/c7113a2f63cc3635f47b5d13a75dbbae4beda80b1371fb4fd8ea1ee8da58987a.jpg 
----
-[34] 07-28 23:52 06b7819d7f1c 41a2402d1a0c
-GN \n\n\n\nhttps://blossom.primal.net/8c58c6b5f9c57605bc1766dbfd29988b86a4f493dc0cf7eb995d97eada4a5822.jpg
----
-[35] 07-28 23:51 1e67de375417 77e096489d88
-Privacy-focused search engine NeoSearch open-sources code to promote decentralized web search \nhttps://cyberinsider.com/privacy-focused-search-engine-neosearch-open-sources-code-to-promote-decentralized-web-search/
----
-[36] 07-28 23:51 1a35b54ef775 ab17562445ce
-うわ\nhttps://x.com/iRuthoe/status/2082103570036654413
----
-[37] 07-28 23:51 2944e915ba71 9b6200fbf9a0
+[21] 07-28 23:51 2944e915ba71 9b6200fbf9a0
 Emily Wilson · An Uncomplicated Man\n\nhttps://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man
 ---
-[38] 07-28 23:49 7e5675ae1e51 0d3d9d43ddc7
-誕生日なら誕生日って言ってよおめでとう\nnostr:nprofile1qqs0txzl2ecggmpearrgh9lylv2ymswwml4ads5m6z3h3vdzw528zzgpr9mhxue69uhhyetvv9ujumt0d4hhxarj9ecxjmnt9uzp7fgs\nhttps://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/0a398450729708dc892ae03097c709880a27a5f46ce54ac8670c42384fab76d4.jpg https://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/54e55a9f33144e3d1dbc353e5e4d489d321be69cff735f6ac333a24a7c09ed9e.jpg
----
-[39] 07-28 23:46 7e5675ae1e51 3f1e8d4fdbf1
-#朝4時に何してるんだい\nhttps://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/3212c5bce9d97759651f3535bee87a9b53f18796152716091d634b95cee9032a.jpg https://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/d2284587445af2f97690b6c63ec7269440b6ebabb2f5b501fde7966840d234cb.jpg https://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/b51ff35e4f76f00db04eb39912aa6ee011fcdd0db24c243c63c54baf59879b0a.jpg https://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/5ded533d8ba8cec2c9b21a965b1a64815a2d709c7c4071bb2d89022cc68fd898.jpg
----
-[40] 07-28 23:46 6fef3f60b364 af4637223c74
+[22] 07-28 23:46 6fef3f60b364 af4637223c74
 https://blossom.smartflow.social/0a8adda09cbfcf6c174dee9dab5207efe6f56a3b19489adb12b5e1e7297dd9bb.jpg\nOne returns to the drawer.
 ---
-[41] 07-28 23:43 7e5675ae1e51 d727669a4b35
-#朝4時に何してるんだい https://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/0be265cb486de5dd5d7bb2be3482e0cb2c9b596f67e71c5bc63bc67eb83073fd.jpg https://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/7724e6f38d334b6286d0c98b7fc19248d995634c8923e8fb70c2ecf1dc39d57f.jpg https://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/3b67402b7211ab4c1a6255a7171a7c7128647670b0cfde70a57b42d7ec0dc1a4.jpg https://npub10et8tts7292amz8g6m73y3mtrkszj9gm2x7hylpt846psfp2wssse6j8ps.blossom.band/48fedb3b4c5e14400669a113ad035c692964ec71b248fa62d90cfd52e6af1435.jpg
----
-[42] 07-28 23:43 f804a2254b67 6000ad38f826
-https://i.nostr.build/YyPIAeNlT3CctewW.jpg
----
-[43] 07-28 23:43 adc14fa3ad59 67d41de10ef3
-\nhttps://image.nostr.build/b3d14b85436f577e940bca6f48ff56184c8e86de7afc0cf1526aaaa77b8e5396.jpg
----
-[44] 07-28 23:41 82b30d304441 51d0618491e1
+[23] 07-28 23:41 82b30d304441 51d0618491e1
 キモいニュース見ちゃった\n\n41歳の医師が電車内で女子高校生の体操服を盗んだか　阪急今津線・甲東園－西宮北口駅間　これまでにも同様の犯行か…今回で３回目の逮捕（MBSニュース） - Yahoo!ニュース - https://news.yahoo.co.jp/articles/1223c504f96814630ab8c3f56f6683988d6e8594
 ---
-[45] 07-28 23:39 ee1e7f27fa06 293598955295
-#coffeechain\n\nhttps://image.nostr.build/f561dd6115b367c8c60142e108f1a4ff0af8887d85ac8ad1b0e2eae2c280bb80.jpg
----
-[46] 07-28 23:39 1ea4ae8405ad 433f563b9900
-📇⬇️policy:\n\nit is still surprising to me how no one finds the elevation of this nazi as odd or overblown and the continued appeasement rolls on.... \n\n\n\nhttps://x.com/foxnews/status/2082245422488150024?s=46
----
-[47] 07-28 23:38 f9337bdc2ae9 947543af8421
-|ｮω･`) もにーん！\n\n8月出だしこそ良さげだが、後が続かず曇天優勢みたいですね…\n\nこれは計画通りにはいきそうもないな…\n3ヶ月予報通りになるなら…8月長期自体暗礁かもしれんぞ…\n\n1年前の再来…\n…となると単発富士＋谷中とか？\n\n#おはよう #熱海 #JPWEX https://npub1lyehhhp2axxulhkzhra228qvw9v0rrwcjpg54srzcgtd9vna7u6qtxlqss.blossom.band/e3c7c530db8681bad3a1d0ef07e6c7b8961af20dcddca88efa2bb00df88ae23a.jpg
----
-[48] 07-28 23:34 c02bedab495a 71290747f512
+[24] 07-28 23:34 c02bedab495a 71290747f512
 Bitcoin’s biggest risk comes from within, Saylor warns\n\n🎧 Listen: https://audio.fiatdenier.com/20260728_bitcoin_s_biggest_risk_comes_from_within__saylor_warns.html
 ---
-[49] 07-28 23:32 e034d654802d 50116c4263db
-Got me gud. 🤝\nhttps://i.nostr.build/EDVJ.gif
----
-[50] 07-28 23:31 c5755052ac80 455a27d1272e
-https://blossom.primal.net/06c31a14f7b80112433aec89654a042d82c299bd7c762665b68598f9aacf34bd.jpg
----
-[51] 07-28 23:30 eafb085cc714 d23f1a298863
-#水曜水分 \nhttps://bsky.app/profile/atasinti.bsky.social/post/3mrqkw2bt572g
----
-[52] 07-28 23:30 b707d6be7fd9 3a01d5e52363
+[25] 07-28 23:30 b707d6be7fd9 3a01d5e52363
 > 当時、売り上げは順調に推移していたものの、現場は人力に頼った、いわゆる「根性経営」の状態だったという。年間休日は72日間で有給取得率は30％台――離職率も高く、店舗拡大をしようにも進められずにいた\n老舗ホテル「川六」、DXで「3.4万時間」削減　年商30億円超の経理を「週3日・パート1人」で回す自動化の仕組み（1/3 ページ） - ITmedia ビジネスオンライン https://www.itmedia.co.jp/business/articles/2607/28/news017.html
 ---
-[53] 07-28 23:29 b78dfdcefc1d d867cfbe7f3f
+[26] 07-28 23:29 b78dfdcefc1d d867cfbe7f3f
 test blossom \n https://jb.live.letsfo.com/live/api/upload.php?id=a17f6d68276ab82de7ef0d8f&media=image
 ---
-[54] 07-28 23:28 6e468422dfb7 0129d581b2f1
+[27] 07-28 23:28 6e468422dfb7 0129d581b2f1
 GN https://haven.dergigi.com/efed7d6eec1bd17fb1b5930400c5b5d328dbb4f3254e5e35f7c3bdf846a917eb.jpg
 ---
-[55] 07-28 23:27 f804a2254b67 0000beb15676
-https://blossom.primal.net/cc3844656a9b1810a33902c0f687e7c6f2227933b3782fb2edc2d6db45685526.jpg
----
-[56] 07-28 23:27 3d82e8f6cc6c fe6b5b5677d8
-https://i.nostr.build/9seXL7QEtU7ngjT4.jpg
----
-[57] 07-28 23:27 6e468422dfb7 18e67bf3a536
+[28] 07-28 23:27 6e468422dfb7 18e67bf3a536
 Fuck the clankers. https://dergigi.com/2026/07/28/typing/
 ---
-[58] 07-28 23:25 71ecabd8b6b3 36845f0265d3
-https://blossom.smartflow.social/8a623a9aa0497d3be4cb07955d890375366f510929c56812b15cf5ec85e679cf.jpg
----
-[59] 07-28 23:18 f804a2254b67 0000dcb3bbe1
-Cheers!\nhttps://blossom.primal.net/c70af8ee6ec5398404f3e7d83a75c6944e5dd2147f4696ddb42b05583d2c0dde.jpg
----
-[60] 07-28 23:17 7e5675ae1e51 d94e658bb389
+[29] 07-28 23:17 7e5675ae1e51 d94e658bb389
 ***`たんまつ～！`***\n\n<small>◆かいせつ\n<plain>【端末／Terminal】</plain>\n**１**<plain>はし。すえ。おわり。</plain>\n**２**<plain>ターミナル、ターミナルステーションのこと。ディスプレイ、キーボード、マウスなどのいわゆるパーソナルコンピュータ、携帯情報端末 (PDA)、現金自動支払い機、など「データ通信システム」と人間の接点になるもの。</plain></small>\nhttps://misskey.niri.la/play/ao10cbcuh4
 ---
-[61] 07-28 23:16 d1963bf7d66f fcd86cf92458
+[30] 07-28 23:16 d1963bf7d66f fcd86cf92458
 世間が大変な時に脳の処理が追い付かなかったのか地獄みたいな夢を見た。 夢日記『ゲロ塗れ鬼』 https://yakudo-kan.com/column/45410
 ---
-[62] 07-28 23:16 82b30d304441 053b0971d068
+[31] 07-28 23:16 82b30d304441 053b0971d068
 これ意味わからなくて大好き\nhttps://share.yabu.me/82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003/5a43d8a7c342cf56e455a232788369c25b13a29b264d05904b5d5e0705fa0edd.webp
 ---
-[63] 07-28 23:15 ee1e7f27fa06 eaba3850cf85
+[32] 07-28 23:15 ee1e7f27fa06 eaba3850cf85
 👀\n\nhttps://www.kyoto-u.ac.jp/ja/research-news/2026-07-28
 ---
-[64] 07-28 23:14 7e5675ae1e51 8c849784f67a
+[33] 07-28 23:14 7e5675ae1e51 8c849784f67a
 #木花エル今日のひとこと\nhttps://cdn.nostrcheck.me/7e5675ae1e5155dd88e8d6fd12476b1da029151b51bd727c2b3d7418242a7421/198a36e37c391f27bf1c9fa1367e4a1c614a803cd46dc74a8e76fe4cadc38ee8.webp\nhttps://cdn.nostrcheck.me/7e5675ae1e5155dd88e8d6fd12476b1da029151b51bd727c2b3d7418242a7421/b88445356ec0267db91594f704ea1126debf011092314ca6830386c5da198f79.webp\nhttps://cdn.nostrcheck.me/7e5675ae1e5155dd88e8d6fd12476b1da029151b51bd727c2b3d7418242a7421/5883bbc20ab250143fae69f5fd994e27efd0e3cd809d76f381d1c4ad51d95691.webp
 ---
-[65] 07-28 23:06 eb8457ab272a 926647807e94
+[34] 07-28 23:06 eb8457ab272a 926647807e94
 ⚾ Game Highlight\n\nBullpen availability for Washington, July 28 vs Blue Jays\n\n\nhttps://darkroom-clips.mlb.com/f205c6dc-025e-4105-ba53-79c81b6cd852.mp4\n#BlueJays #MLB
 ---
-[66] 07-28 23:05 f40832e26b1d c31af9f4abaf
-早い！\nhttps://x.com/liu_yen_fu/status/2082099778369073543
----
-[67] 07-28 23:05 f901616f00a6 689d52a88658
+[35] 07-28 23:05 f901616f00a6 689d52a88658
 \nhttps://v.nostr.build/akxHKNv3lZOVsBVi.mp4
 ---
-[68] 07-28 23:00 b707d6be7fd9 f23fd7f10c67
+[36] 07-28 23:00 b707d6be7fd9 f23fd7f10c67
 思い出すシリーズ\nKuToo - Wikipedia https://ja.wikipedia.org/wiki/KuToo
 ---
-[69] 07-28 22:54 82b30d304441 c14294c55ea2
-「穢れる」って書いてる人多くて笑う\nhttps://x.com/1992022o/status/2081695258782642203?s=20
----
-[70] 07-28 22:47 1ea4ae8405ad aba5a9f9c7b9
-sure i got one for you - 🚬☕️📰\n\nnevent1qqsywwjxndsul8uw82xa4kgfjxxce8cl5swnktyl5dqk4edhh9e6rsc67m83m\n\nhttps://x.com/ustreasury/status/2082210396346237104?s=46\n\nhttps://x.com/ustreasury/status/2082210396346237104?s=46
----
-[71] 07-28 22:43 71ecabd8b6b3 49e86049d789
-https://blossom.smartflow.social/ea4c9e4d314c1d364a6597f866be5ab01c04e7c9dbf017a8ada5ab663a0234f0.jpg
----
-[72] 07-28 22:41 311f5e3d9cda 0000ba980de5
-https://npub1xy04u0vum29hx3j6kzm9raaykakg6ru3kcgg88pywxqaxusyytsqvrpf8a.blossom.band/a4f49da7adcbc82d6538be25036ab7cb88a97505eab2bee9932dbe5d435433c7.jpg
----
-[73] 07-28 22:41 fd208ee8c8f2 26c6f2d798e0
-Yeah, it be like.\n\nhttps://image.nostr.build/100f26b03fa2befb7a180b3bc4a4428a59f11131416777ce65f81dee29073ccf.gif\n
----
-[74] 07-28 22:31 1ea4ae8405ad 517d82fa36de
-i have been working on the macron genealogy for months. arguably: the owens situation is as simple as elites targeting and harassing a target with a blacked out id. which is really tacky. \n\n☕️\n\nhttps://image.nostr.build/7671ea26c9b20cdbab7427dbefe464150abe2ed2776d6e41e8570bc1e11c63c4.jpg
----
-[75] 07-28 22:31 f0e59458d5da a39a7376c46a
+[37] 07-28 22:31 f0e59458d5da a39a7376c46a
 WORD5 #662 3/6\n\n⬛⬛⬛🟪🟪\n⬛⬛⬛🟧⬛\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[76] 07-28 22:28 1ea4ae8405ad b6fc4642c1ac
+[38] 07-28 22:28 1ea4ae8405ad b6fc4642c1ac
 latches - \n\ncandace is just pumping the plot of "is he dead" which says more about her evangelical sugar daddies' secret society hedge as mark twain than anything else - the macron family, like many other families from small towns in europe, are related distantly to all of their neighborsand even with children, is not an abnormal for european standards. the sensationalism surrounding the macrons is a generational one which entrapped a boy - how candace owens is somehow "helpful" in all of that constantly harassing everyone with her shit-for-profit circus - is a bellwether of all of the other nosey bitch cult members doing the same from the bottom up. the entire thing is an evangelical hostage situation but regardless, someone needs to make a decision - dismiss it or proceed to discovery. move it. \n\nhttps://nypost.com/2026/07/28/us-news/emmanuel-macron-wife-sued-candace-owens-in-us-to-dodge-french-legal-deadline-podcasters-lawyers/\n\nhttps://www.courthousenews.com/candace-owens-trades-legal-blows-with-macrons-over-transgender-accusations/\n\nhttps://en.wikipedia.org/wiki/Is_He_Dead%3F?wprov=sfti1
 ---
-[77] 07-28 22:27 9fe9ef2be97c 3f525001cf78
+[39] 07-28 22:27 9fe9ef2be97c 3f525001cf78
 WORD5 #662 4/6\n\n⬛⬛⬛⬛🟧\n🟧⬛⬛⬛🟪\n⬛🟪🟪🟪🟪\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[78] 07-28 22:23 84b0c46ab699 8ef42babc646
+[40] 07-28 22:23 84b0c46ab699 8ef42babc646
 WORD5 #662 4/6\n\n⬛⬛⬛🟧⬛\n⬛🟪⬛⬛🟪\n⬛🟪🟪🟪🟪\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[79] 07-28 22:07 1ea4ae8405ad 38c25a99c0ca
-it's really stupid to speak this way thinking you're doing something, and that anyone believes anything you say. you hate one another. fine. so what. \n\n🗑️\n\nhttps://x.com/YahooFinance/status/2082156470783586780/video/1?s=46
----
-[80] 07-28 22:05 8867bed93e89 821516d1d03d
-I appreciated today a lot..\n\nhttps://intuitiveguy.blossom.band/743fb4decd935f288689af512c0a8495e048afa2da0e0dde29b87687f0ae6d67.jpg\n#photography #nature #sunset
----
-[81] 07-28 22:05 e034d654802d 89ad16591e16
-https://idiotbox.blossom.band/cbd187c06bd13aa3688b47c5efbc11c064e698597c3e1cf997a41308e239520e.jpg
----
-[82] 07-28 22:02 5f468793f907 84b40560e150
-人操作じゃなくて AI だったらアツい \nhttps://x.com/clasharchivist/status/2081499576373297562
----
-[83] 07-28 21:55 e3a59924933c ed67b8134b24
-https://npub1uwjejfyn8j0e7t0cx3ys2h4nsk83fq8a6rz7mw2a7z97mnfwvcjqcvaxfl.blossom.band/1a564e7b6b95fd98909d06e534254b1c6d1a30835f1af557583276bf37221d64.jpg
----
-[84] 07-28 21:47 d9c4cfe3cab8 c565ba953ea0
-#今日の筋トレ\n#ケトルベル 32㎏\n\nスイング20回3セット\nスナッチ10回3セット\n\n久々にチョーク無しでやってみた\n\n#Kettlebell\n#гиря\n#гиря32кг\n\nhttps://image.nostr.build/c5eebe77d10082bc8ab62b8c0f115b169cad0900b5c1a42fd15e0bd515def3b4.jpg
----
-[85] 07-28 21:45 b3e43e8cc7e6 e2fdd9748555
+[41] 07-28 21:45 b3e43e8cc7e6 e2fdd9748555
 ⛩️でばっぐ神社のITおみくじは🎉【大吉】でした\n「レビューで褒められ、ついでに一つ学ぶ。」\n・レビュー運: 指摘は一つだけ。しかも勉強になる良い指摘。\n・学問: 積んでた技術書がスラスラ頭に入る日。\n・対人運: MTGが早めに終わり、実装時間が増える。\n#でばっぐ神社\nhttps://d-shrine.jp/
 ---
-[86] 07-28 21:42 d679b0f4c948 69194aa923ef
-https://image.nostr.build/b452df591563b0edbe01a7817eb1d597deb7ccc6f8c4be0683ed6e88748dee21.jpg
----
-[87] 07-28 21:40 26d6a946675e 0ff34a665715
-The only man I need to impress or listen to for that matter, is the one I married and he’s a happy man🫂\n\nhttps://i.nostr.build/529aJ7lyYsOcd2ln.jpg
----
-[88] 07-28 21:37 ee6ea13ab9fe 0000ab143218
-https://www.youtube.com/watch?v=qQwt4rzmVxY
----
-[89] 07-28 21:37 314072c16fa9 ca3df3876a3b
-\nhttps://blossom.primal.net/2933f7de5cd03bce849ba4b468381eb1c3a56e0d40210caa851fe62dc0f679e6.jpg
----
-[90] 07-28 21:36 ee1e7f27fa06 3cff7c102a31
-#foodstr #japan\n\nhttps://image.nostr.build/e94cf9829ec404c65563558e1ed643423734f7dbc5c619cd20d638069d00830c.jpg
----
-[91] 07-28 21:34 1ec454734dcb 5342de9137c6
+[42] 07-28 21:34 1ec454734dcb 5342de9137c6
 https://blossom.laantungir.net/a724ec2b72a172471cab80e8eab464c4ada72ed616a2550f0384b24052b75192.png
 ---
-[92] 07-28 21:26 ca89cb11f1c7 9da23d6039d5
-https://blossom.primal.net/f9b67bfd73af8ef9f6d2bdb19b056629cb5adb9833489ec7f388c7e6c326e7a6.jpg
----
-[93] 07-28 21:17 051f9347bf16 211c593449fa
-Proburnetia viatkensis\nhttps://npub1q50ex3alz6jz9p9pc6yler38wru0sf6ge7kjsfks08ewj90jumfq0euvf3.blossom.band/5fef63833377ea7f8a653cfb9021a7c5ee8f9c944189eb3cd76038354be74c7f.mp4\nProburnetia lebte während des späten Perm, vor rund 265 - 260,5 Millionen Jahren, und gehörte zu den ältesten und primitivsten säugetierähnlichen Reptilien.  Der bis zu 1,5 m lange Proburnetia hatte bizarre Beulen und Auswüchse auf dem Kopf. Fossilien dieses Therapsiden wurde in Russland gefunden.\n\nKünstler: Sergey Krasovskiy\n\nZum Leben erweckt mittels KI. \n\n#PaläoArt #PalaeoArt #PaleoArt #Illustration
----
-[94] 07-28 21:10 a1fc5dfd7ffc 6e7a53b6444c
-This is the best and most neutral discussion on BIP-110 I have heard.  So of course the 110rs want to crucify Samson Mow over it.  \n\nWhen someone only responds with insults when presented with facts it tells you enough about them to not take them seriously.  \n\nhttps://www.youtube.com/watch?v=bIcI-aXmRsA
----
-[95] 07-28 21:10 ba18b6545357 0f41972ef276
-I was weird pre-nostr. In all my cleaning up, I've found some cards from the irl friend of oh so many years...30 if my math is mathing. This goes in the keep pile 🥹. #keepnostrweird #yesthatisacoffeestain\n\nhttps://i.nostr.build/Q2BSBgZENt44a0vS.jpg
----
-[96] 07-28 21:03 03612b0ebae0 a55f68b389ea
+[43] 07-28 21:03 03612b0ebae0 a55f68b389ea
 My podcast lineup is 🔥 today\nhttps://nostr.sudocarlos.com/a5a1c09d09a3f1a8be7266d6e296a3c89d8c10c2c3516a97bde588d905a97df6.jpg
 ---
-[97] 07-28 21:02 b22fef18cbf5 00001c89850a
-https://kraftig.blossom.band/f31b70e79ef52e71729128f09a267502a03147bef5f93a4e10e0f3bb0c34c3fd.jpg
----
-[98] 07-28 21:01 1ea4ae8405ad 743ba88a5c2a
+[44] 07-28 21:01 1ea4ae8405ad 743ba88a5c2a
 📇⬇️ policy:\n\nexactly. ☕️\n\nOver half of Iranians view Netanyahu positively, 40% see Israel-US strikes as 'humanitarian' https://www.jpost.com/middle-east/iran-news/article-903934?utm_source=jpost.app.apple&utm_medium=share
 ---
-[99] 07-28 21:00 85bdb5875e11 3c23a90e8318
-Palmer Luckey unveils the ModRetro M64: "It's an heirloom-grade tribute to the Nintendo 64, compatible with all your Nintendo 64 games, but with a lot of really cool new features as well."\nhttps://blossom.primal.net/1c9902aabcc8213ce10194454c99739c0ff5033f24aa053ecb6d706e70ab88d4.mp4
----
-[100] 07-28 20:58 9ca0bd745074 f39650dfa1b8
+[45] 07-28 20:58 9ca0bd745074 f39650dfa1b8
 https://youtube.com/shorts/6FcNRvpvaD0\n\n
 ---
-[101] 07-28 20:56 9ca0bd745074 139d41d15a56
-Actually I've noticed the algorithm pushing this sort of content but in video format:\n\nhttps://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/b4008ba2d311e63315191c5c540707eee5c9719b30a0f973002769da341580c5.mp4\n\nnostr:nevent1qqsvt4vnyx5p0czz93pjjjnzgjmnaryluj0x4tcwy89w7wmdmgrsv6cpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygrwg6zz9hahfftnsup23q3mnv5pdz46hpj4l2ktdpfu6rhpthhwjvpsgqqqye9q97rfj2
----
-[102] 07-28 20:52 8afb75fca193 28040ead6aac
-"Jane Says" is one of the more haunting songs out there, complete with a Caribbean ting.\n\nhttps://www.youtube.com/watch?v=yik_Lkuz-fo
----
-[103] 07-28 20:35 e5308b9c04ec 0fddf503d34e
-The app is finally available\n\n#mcon #ios #android #gaming\n\nhttps://youtu.be/cZ_t2jxvwfY
----
-[104] 07-28 20:30 c2b444c5932e 8933565a26b8
-https://eden.blossom.band/3ed279c7f784aeca4d5d3baf095e45e497e7f33f9ba56fd5a3e3ad129ac602c3.jpg
----
-[105] 07-28 20:29 6e468422dfb7 85d83874f730
+[46] 07-28 20:29 6e468422dfb7 85d83874f730
 this is so good 😭😭😭\nhttps://michaelenger.com/blog/i-love-the-computer/
 ---
-[106] 07-28 20:28 d679b0f4c948 b35ad711cb34
-It may be your end, but mine has been wonky AF all day too.\n\nPlease admire my roadrunner from the same market.  The mounted Mexicans had rifles casually slung across their laps, but I was not afeared because they seemed like nice boys.\n\nhttps://image.nostr.build/3219babeeb48234e5efc2224707fa6e6bcb01879bb2565c33ddaba7a97a96996.jpg\n\nnostr:nevent1qqsqqqxdrcs7lpvke73g080ncxfcjpw47gx02s3gs7pscufd9dtxnhqpzamhxue69uhhyetvv9ujuen0w4h8gctfdchxvmgpp4mhxue69uhkummn9ekx7mqzyrp6ujkcup4frssqgawknj5sgsxk64x7w2wn68j6lt8mmdh9f4rvkqcyqqqqqqge65cwh
----
-[107] 07-28 20:22 06b7819d7f1c 7fbff81676f5
-Pyramid pie chart\n\nhttps://image.nostr.build/827c9cb9af64a22972fd0848f7c050cbaf7c158c6fb8b257899e7c4cc83f8651.jpg
----
-[108] 07-28 20:20 f56b0cab024f cf6ef14a81b3
-https://youtu.be/nvH3BsXQjmw
----
-[109] 07-28 20:16 e58143f793e4 f4d03742825c
+[47] 07-28 20:16 e58143f793e4 f4d03742825c
 xAI Challenges Minnesota’s Broad “Nudification” Law as a First Amendment Violation\n\nhttps://reclaimthenet.org/xai-challenges-minnesotas-broad-nudification-law
 ---
-[110] 07-28 20:15 273f8cb9be4a 69e4cf1a400f
-Today is the full moon in Aquarius.\nLet's adjust your course toward the ideal future you truly desire.\nThis is the perfect time to re-evaluate how much you have been conforming to the opinions and conventional wisdom of those around you, and to regain a sense of comfortable distance.\n\nhttps://blossom.primal.net/1fe5ff06dae2c9ba8b5b7ad7aa4fbc3cc9cdb8b4fcedde8a5526081f8cd9f70b.jpg
----
-[111] 07-28 20:14 ca89cb11f1c7 b13f88b3cf2a
-https://npub1e2yuky03caw4ke3zy68lg0fz3r4gkt94hx4fjmlelacyljgyk79svn3eef.blossom.band/4ec800a17c0f1797d71abfa541c8acaf9f8f59f7a72d025276107f3dffcf205a.jpg
----
-[112] 07-28 20:09 80482e60178c 57658b479afc
-What a beautifully maintained commuter car, taking me to the Chicago Bitcoin Collective this morning. As a tourist I’m in awe of the historic railroads of Chicago, as a commuter I’d probably expect some upgrades, especially to trains, stations and tracks. This stuff must fail a lot, and it’s slow\n\nhttps://i.nostr.build/Is7k81Kajjvx1Bh9.jpg
----
-[113] 07-28 20:07 c7fe92f80c51 273c5bfccc06
-Watching the sunset with this classic playing - I was 11 when this came out and it was a great summer ☀️ 😎🥳\n\nhttps://youtu.be/Kr0tTbTbmVA\n
----
-[114] 07-28 20:06 9cba2871b9a4 2102c3115fb2
-I see all these pictures with inspirational quotes, and I want to contribute too. https://npub1njazsude53reg6e7jmz6jvvgyamf5twca93sn3px3yhxpsp9yakqwaf3t9.blossom.band/69dc3558a701dfe8b580e11b1e1f611c3bf0bba205ecad3bbf8084b28c01db1a.jpg
----
-[115] 07-28 19:57 c08805f9bd48 bc80e0f5ce16
+[48] 07-28 19:57 c08805f9bd48 bc80e0f5ce16
 怖いな。何も考えてなさそうで。\n\nhttps://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10330112280
 ---
-[116] 07-28 19:55 3d82e8f6cc6c cf32872c8bea
-Bitcoin sticker in the wild, courtesy of nostr:npub15ypxpg429uyjmp0zczuza902chuvvr4pn35wfzv8rx6cej4z8clq6jmpcx.\n\nhttps://i.nostr.build/AKAR2V91KY8M35ps.jpg
----
-[117] 07-28 19:53 dd664d5e4016 06a33e635f06
+[49] 07-28 19:53 dd664d5e4016 06a33e635f06
 That's what I do on pipe. I just roll off anything over 300k events, or with an overdue expiration tag or deletion request. That's plenty useful and that keeps it from exploding.\n\nhttps://pipe.imwald.eu/
 ---
-[118] 07-28 19:51 c2b444c5932e 0aa76d1d92f8
+[50] 07-28 19:51 c2b444c5932e 0aa76d1d92f8
 sometimes i do drum covers\nsometimes i do my version of fun songs \n\ni did my version for motionless in white’s track called, r.i.p. earlier and it’s ain’t half bad \n\nhere’s a clip of my version\nhttps://a.nostr.build/JGyPrOZ2cyu7PzCx.mp3\n\nhere’s the original track\nhttps://music.youtube.com/watch?v=jMlNFMydjTI
 ---
-[119] 07-28 19:50 37bad70d7fa7 a8cb1f013293
-Photographed my paint drawers and my AI assitant inventoried every color + flagged what's running low. Studio hacks are getting weird but life’s too short to squeeze every tube. \n\njust sayin'😉\nhttps://i.nostr.build/Xuh8cCdkPe91qo00.jpg
----
-[120] 07-28 19:42 adc14fa3ad59 bc783091d5c1
-#ContraClip\nhttps://blossom.primal.net/7e445b4c2d7558f6885755261f997d7a170239987a7319c9f5d008db00d9bb58.mov
----
-[121] 07-28 19:19 71ecabd8b6b3 111b6fdeecfd
-https://blossom.smartflow.social/9473d24d3b8719d6884144853545eeab646262df811fef63c1af3d756a9d163c.jpg
----
-[122] 07-28 19:16 26d6a946675e 4bc9d243725b
+[51] 07-28 19:16 26d6a946675e 4bc9d243725b
 Don’t forget to stretch\n\nhttps://v.nostr.build/0qKyJL1804YM5xaa.mov
 ---
-[123] 07-28 19:13 e096a89eeb90 b6fc442ef1c5
+[52] 07-28 19:13 e096a89eeb90 b6fc442ef1c5
 Few jars of #hodlbutter left in the shop! Pickup a block or two of nostr:npub1jx702fwvkdtqkhd9p8n6ctgnycpl6whsx07a0h9s9h2hlgx6q60svk2c49 as well. \n\nUse "Yata" at checkout to save some sats:\n\nhttps://www.oshigood.us/ https://image.nostr.build/a4a9544a63f701490ca7a8dfc175390015ef8cb4241c278056fd66fe1dabf7da.png
 ---
-[124] 07-28 18:47 d679b0f4c948 aa6fb7e56942
-Here pix again.  Our service provider is obviously asleep at the wheel.\n\nhttps://image.nostr.build/53e4edf873ddcf2bdbd872dc85c7291739092e15cc20adf8fd9ca2668b92996b.jpg\nhttps://image.nostr.build/328f1b6c009f52d94185dcad486091b72784510751ee8b1e3ad394653c052222.jpg\n\nnostr:nevent1qqs2yafup42sqahhrfpfr9vep7ggg6j9znm5tjnekqexvpuxstxcp7qpzamhxue69uhhyetvv9ujuen0w4h8gctfdchxvmgpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfdupzp4nekr6vjjzrqaesrjfqfqxf6tedztyl5mgsx5hpxn43czpznty6qvzqqqqqqy4l0tsm
----
-[125] 07-28 18:41 e83b66a8ed2d c882ed2118ae
+[53] 07-28 18:41 e83b66a8ed2d c882ed2118ae
 If you have existing servers you can setup your own relay for free. If they are not Internet facing, you can still use them to backup your data. A HAVEN or WoT relay from nostr:npub1utx00neqgqln72j22kej3ux7803c2k986henvvha4thuwfkper4s7r50e8 here would be a good option:\n\nhttps://github.com/barrydeen\n\nFailing a good public relay like nos.lol would be fine.
 ---
-[126] 07-28 18:32 deab79dafa1c 0000030e64f3
-🤣\nhttps://npub1m64hnkh6rs47fd9x6wk2zdtmdj4qkazt734d22d94ery9zzhne5qw9uaks.blossom.band/4dfba011939d02324b9bc35142df05cce8540ebbac3091d6944c35411af09842.jpg
----
-[127] 07-28 18:29 460c25e682fd 00000056630b
+[54] 07-28 18:29 460c25e682fd 00000056630b
 https://blossom.ditto.pub/8c4d40d01ab8a99d107e7e80a1cc9b0b3a7180ff0eed3eac301f9ec67e63e6ee.gif
 ---
-[128] 07-28 18:19 ff18165afde0 2c08b6cf50a6
-first drawing exercise from the book, and the first self portrait ive done since i was a kid. \n#artstr\n\nhttps://image.nostr.build/174abc4f1ba6ba3bae8bf2024856ff56e508dc47b85651a5d710e09416e1763f.jpg
----
-[129] 07-28 18:15 311f5e3d9cda b4210be03733
-https://npub1xy04u0vum29hx3j6kzm9raaykakg6ru3kcgg88pywxqaxusyytsqvrpf8a.blossom.band/90cbb031bb1a2bb5112b5293eba2110f2d4c4c1b2494c7d224f7f72b3a515616.jpg
----
-[130] 07-28 18:10 ee6ea13ab9fe 13625c6bebca
+[55] 07-28 18:10 ee6ea13ab9fe 13625c6bebca
 Good afternoon, friends! 🌩️\n\nThe upcoming 1.6.0 version of nostr:npub1car07c9zhkf7nkjh062v860gje8rf6v7m3sh0dttf5xypwvf4w7swjf0dd will feature search for notes and npubs, with username lookup powered by Nostr Archives, because why not? 🔍\n\nThis was a feature suggestion by nostr:npub1ygzsm5m9ndtgch9n22cwsx2clwvxhk2pqvdfp36t5lmdyjqvz84qkca2m5, built and deployed the same day. 🤝\n\nIt’s already available in the Firefox release, with Chrome reviews lagging around a week behind.\n\nLatest zips are always available for immediate download from GitHub. Have a feature you want to see? Drop a line!\nhttps://sidecar.top/releases https://onlydans.blossom.band/6dac3f5a24828e12f1e63b533d1b7f963db6ca659c65d3a03a1439b176bfbcbf.png
 ---
-[131] 07-28 18:00 813a2cfda49a a4aa186c5460
+[56] 07-28 18:00 813a2cfda49a a4aa186c5460
 This community is why Nostr is worth building on and for - so well said! \n\nnostr:nprofile1qyt8wumn8ghj7mn0wd68yetvd96x2uewdaexwtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsqgy9muq29a4frpzn2nyd9k0m4dqq9wu9ks39ht4tvra0kfv8c5pcagxg0wze has made going live on Nostr so easy ✨\n\nCatch me (maybe) during my next side quest #LivyLumi \n\nhttps://shosho.live/ivylumi\nnostr:nevent1qvzqqqqqqypzqx760c0h894a5tg7lxgr8k506twrv2qs0yxln0nz7kgs8zae03xeqqsreklrhe5zc9sxsdfq0xxxat3vylm7l35csxpcqdm49eunsev2t2cdavcj3 
 ---
-[132] 07-28 18:00 deab79dafa1c f22957f30bc7
+[57] 07-28 18:00 deab79dafa1c f22957f30bc7
 *break fast time*\nhttps://haven.downisontheup.ca/79be6f76cee5849ee16e3faba667d91a18c76ba3009c16bf8081b4ea4204dc7f.jpg\n#pugstr
 ---
-[133] 07-28 17:57 748e78745f0f 2f2de9d72fa9
-Caen de voyage moto 🏍 été 2026, jour 30, mardi 28 juillet, 204 kilomètres. Monts de la Madeleine, gorges de la Sioule, méandre de Queuille, parc des volcans d'Auvergne. Détails dans l'audio et partage de photos 👀 https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/df821ce1581fa6e1b0fc26b17c38c952d1c2f6e8dc00e2a8f8c65dc91eea74b0.mp4 https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/2691eb743197b20eec9efd1acbfa7b0edbf631b1fc22477b90523b28e6d6e319.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/97b08a654afe1c95c5b1d54a92156b041ec1c17036f3d21a7d3673896cabbc34.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/6d7bfb459e38c94bd0b76ed39ce63ad144fb9712e353f3be32e965270adf2e31.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/a486b665bd8fd51e3871227a86825c31668d0dd0daaacd911b5e1edef0ab0d69.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/8524e3353d61fd09823eeace03287108f026b3e9e21e30efcf3db97b917859dd.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/fcf7f44d80ff9a25e2a16ad71d5aeae1f55a49f9898f1d4d51b1a99452a96276.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/65ac78d4701a500d02342bad26a13b4c069a6b2cca39740934c46e7f92665b5d.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/38d6dc6079aa9db6642c660fae5eb9db6c6f4345b53d244d0ffd6cfe6dca9f95.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/a3eed183f9997c407b45c8383e48c4966a4db84e81ba21e93b450446fae22233.jpg https://npub1wj88sazlpu3tn6vqedpft768j2kvc6xnzxc36hy3gknjj52406mswmp3hs.blossom.band/19c4a392dda1d32f6197c1fd3182f5b4d193d3f183348727743bfeaebbfd928b.jpg
----
-[134] 07-28 17:40 da19b5d291e0 cb95ed4f02e1
+[58] 07-28 17:40 da19b5d291e0 cb95ed4f02e1
 How about movies and Hollywood?\n\nhttps://v.nostr.build/wMz1bEaOlzXq1iWS.mov
 ---
-[135] 07-28 17:40 da19b5d291e0 9626f46caa81
+[59] 07-28 17:40 da19b5d291e0 9626f46caa81
 https://v.nostr.build/wMz1bEaOlzXq1iWS.mov
 ---
-[136] 07-28 17:40 da19b5d291e0 01909e82be55
+[60] 07-28 17:40 da19b5d291e0 01909e82be55
 The Odyssey, from the perspective of a clueless, desert dweller who doesn't wear a shirt..\n\nIt was kind of genius\n\nhttps://v.nostr.build/wMz1bEaOlzXq1iWS.mov\n\n#movies #libad #vlogstr #hollywood 
 ---
-[137] 07-28 17:29 9cba2871b9a4 5d00cbc944e9
-Cheers to Nostr's alcoholics! 🥂\nA bit of rosé makes life better. https://npub1njazsude53reg6e7jmz6jvvgyamf5twca93sn3px3yhxpsp9yakqwaf3t9.blossom.band/12a466d5ec8348f75f931326de23aeb796eb1745b9d893af11c517a4ae8a2f7f.jpg
----
-[138] 07-28 17:23 4d39c23b3b03 b5324a66269d
+[61] 07-28 17:23 4d39c23b3b03 b5324a66269d
 metadataは一番工夫したところかも。存在するフィールドに関してはNIPの仕様に沿って厳格にパースするけど、一番汚いcontentでもあるので、metadataFieldsをベースに君だけのschemaを作れるようにしてある\n\nhttps://github.com/akiomik/zod-nostr/blob/main/docs/API.md#zostrnip01metadata
 ---
-[139] 07-28 17:22 1ea4ae8405ad aad4708ae425
-📰☕️ .\n\nhttps://image.nostr.build/e54672ce10f2f6073b2682cbcc78317222a0ee5fbbe09446a4a6b5aca101166f.jpg
----
-[140] 07-28 17:18 311f5e3d9cda 7a902b11e1e3
-https://npub1xy04u0vum29hx3j6kzm9raaykakg6ru3kcgg88pywxqaxusyytsqvrpf8a.blossom.band/64cbbab3aa62888fe12ce97d856fcb6253d1ebc8b4b9ad6c09c11dc769795ca6.mp4
----
-[141] 07-28 17:15 1ea4ae8405ad 03b5abc46a58
-anyone want to ask how and why? they haven't made a new product since steve died. \n\n😏☕️🚬\n\nhttps://x.com/ft/status/2082127851789148563?s=46\n\nnevent1qqstg63znu69kxfpnk0zk3yjax090mvy7qe3vhs7tv3nfs9w0ugc47c4g28nr
----
-[142] 07-28 17:15 fe9edd5d5c63 9515e0ae8315
+[62] 07-28 17:15 fe9edd5d5c63 9515e0ae8315
 なにこれキモいwwww\nhttps://cdn.nostrcheck.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/27621915c470b0f55f1c8c0a2a8525c02d9d64c2234d3c9c7f945a9c08de1607.mp4
 ---
-[143] 07-28 17:14 4d39c23b3b03 9069d5d38e8c
+[63] 07-28 17:14 4d39c23b3b03 9069d5d38e8c
 zod-nostrのAPIがかなり良くなりました。チャンネル登録高評価通知ボタンお願いします\n\nhttps://github.com/akiomik/zod-nostr
 ---
-[144] 07-28 17:10 deab79dafa1c fa0a1ac0e5f7
+[64] 07-28 17:10 deab79dafa1c fa0a1ac0e5f7
 😍\nhttps://haven.downisontheup.ca/2269d745f5cfae283cf6a2efe3ad3b3e997993e8952950200327bf9766691689.jpg\nnostr:nevent1qqs02jzr4a3e0auw88a8tklrklmau98trrz0n3twvrncyk3vvu2hrxcppemhxue69uhkummn9ekx7mp0qgs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcrqsqqqqqph76g0y
 ---
-[145] 07-28 17:07 e9591428813e 2ae8bd978717
-フォロアーのみ時系列の呪文はあるけど、今回は役に立たないかも\nhttps://x.com/search?q=filter%3Afollows%20%20include%3Anativeretweets&src=typed_query&f=live\n\n\nnostr:nevent1qvzqqqqqqypzqf4m96ldd32j6ecvsp9s6e2jv7euvc4jrcpx6mjg4jf6vpc9xz2cqyghwumn8ghj7u3w09jxwtnhdaexkucqypgrgzmkh5tw0az3zr8ce5amg597sejc9jln44vl2dqv7hk058r45vvnc5a
----
-[146] 07-28 17:07 26bb2ebed6c5 3d6dd3bf632d
+[65] 07-28 17:07 26bb2ebed6c5 3d6dd3bf632d
 ガンダムのSF監修、円城塔がやるのか。\n\nhttps://news.yahoo.co.jp/articles/0124917b3f8d0b2118fc85d98d46c724b0226304
 ---
-[147] 07-28 16:48 4c5d5379a066 58f5785afabb
-おくなもさんのおすすめ追加リレーは wss://relay-jp.nostr.wirednet.jp ですね\n\nhttps://i.nostr.build/jmEzYsDN3xZt93jC.jpg
----
-[148] 07-28 16:46 26bb2ebed6c5 50340b76bd16
+[66] 07-28 16:46 26bb2ebed6c5 50340b76bd16
 Twitterはもうない\nTwitterはもうないんだよね\n\nhttps://www.itmedia.co.jp/news/article/2607/28/2000000249/
 ---
-[149] 07-28 16:46 1ea4ae8405ad 2b3ff6a7bc69
+[67] 07-28 16:46 1ea4ae8405ad 2b3ff6a7bc69
 absolutely. ☕️🚬\n\nhttps://apple.news/AGN6FmAsnTXiJ7TOyDOlNWw
 ---
-[150] 07-28 16:41 a10260a2aa2f 3d1f69f6e58d
+[68] 07-28 16:41 a10260a2aa2f 3d1f69f6e58d
 Never experienced this but would like to know too! Try emailing their support, they’ve responded to me in the past and were pretty helpful. Good luck and keep me posted!\n\n\nhttps://phoenix.acinq.co/support
 ---
-[151] 07-28 16:35 26bb2ebed6c5 f09e14427058
-ほとんどつながってないうえにつながってても nos.lol か yabu.me という中央集権てきな結果になりました。おすすめ追加リレーも教えてほしいですね。\n https://npub1y6aja0kkc4fdvuxgqjcdv4fx0v7xv2epuqnddey2eyaxquznp9vq0tp75l.blossom.band/4f91510aeff86dd027557ccdcd9bb5d1091bde304bbbbed75d64d6dd67f8c3e3.jpg\n
----
-[152] 07-28 16:33 ca55de60561a 6b6627e713bd
+[69] 07-28 16:33 ca55de60561a 6b6627e713bd
 こねものはおる\nhttps://zenn.dev/konemono
 ---
-[153] 07-28 16:33 e83b66a8ed2d de6e14da661f
+[70] 07-28 16:33 e83b66a8ed2d de6e14da661f
 Yes, that's a layer up, which is great if you want somebody else to run and manage your service. I used nostr:npub1fvmadl0mch39c3hlr9jaewh7uwyul2mlf2hsmkafhgcs3dra6dzqg6szfu before I was ready to deploy my own, which is a similar service. \n\nYou can of course continue to use public relays like nos.lol \n\nBecause I built my own relay, I was able to vibe code my own management and control panel, which I published here:\n\nhttps://github.com/snurge/wot-relay-manager
 ---
-[154] 07-28 16:29 32092ec1a258 4b1fa77490cd
+[71] 07-28 16:29 32092ec1a258 4b1fa77490cd
 Hi Nostr Fam! I made a new kind of nostr client focused exclusively on Podcasting 2.0 and V4V Music (Demu). \n\nCheck out https://onlyboosts.social and let me know what you think!\n\nI realize dropping a brand new nostr app the day I'm going on vacation is a terrible idea, but I really wanted ya'll to see it!\n\nMore on this to come 🫡 
 ---
-[155] 07-28 16:28 ca55de60561a 9e2f0ef77849
+[72] 07-28 16:28 ca55de60561a 9e2f0ef77849
 あっちこちのリレーからreplaceable event探してきて復元とかできるやつ\nhttps://tsukemonogit.github.io/luminostr/
 ---
-[156] 07-28 16:24 4c5d5379a066 ec7ee3985280
-秋陽さん４リレー繋がってて充実😊\nhttps://i.nostr.build/E9VufevATVqfRkVS.png
----
-[157] 07-28 16:24 311f5e3d9cda 35dc6cb9d79f
-https://npub1xy04u0vum29hx3j6kzm9raaykakg6ru3kcgg88pywxqaxusyytsqvrpf8a.blossom.band/9bcba4c885d891a3f79ed59065ef5a3bf595e61dab43fe8b879be4d494948bdb.mov\n🫂 As long as love rises above the hate, #Nostr remains the right place to be! 💜 #Amethyst  ✅️
----
-[158] 07-28 16:24 1ea4ae8405ad f976c84559ff
-🙄\n\nwho did what? \n\nthey just think no one is gonna say anything. 🚬\n\nand then all the head hunter types pick up the narrative because they love a story about mean rich families. they rarely think they're gonna get caught by someone from the family who knows the real story while gossiping. we can totally discuss it though. \n\n😏\n\nhttps://image.nostr.build/ff69dcac0e325c8da855c18cf575398b28f4393f6aebf479c8368c8759ae096e.jpg\nhttps://image.nostr.build/51fb3d9ce7834d588498ab31a4144ea778a9ce23df40558caf048edf0f138aaa.jpg
----
-[159] 07-28 16:20 e83b66a8ed2d 469e173a6621
+[73] 07-28 16:20 e83b66a8ed2d 469e173a6621
 I followed this guide to setup my own WoT relay on a VPS for $5 a month:\n\nhttps://relayrunner.org/relays/wot-relay/introduction/
 ---
-[160] 07-28 16:20 4c5d5379a066 6f5f6bc0239b
-おすすめリレー nos.lol だけど遅いので繋げたくないのよねぇ https://i.nostr.build/pyaJeKKH6I4Jm344.png
----
-[161] 07-28 16:18 26bb2ebed6c5 f5bee110d6c4
+[74] 07-28 16:18 26bb2ebed6c5 f5bee110d6c4
 無秩序にフォローを増やしすぎたひとの末路\nhttps://share.yabu.me/26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958/cf80a2a5484827f39d27016933060b4ee3ca390eb450a9c4fb1769ff4845f241.webp
 ---
-[162] 07-28 16:17 a10260a2aa2f 80aa27dae5a8
-Hey nostr:npub13v5w9ylsdahkfggkaa6ya2qardpfsgt8r45n5j27c6j8en8g3nrqsacqpv nostr:npub1ua03t3kxfcwr0m79ld8qejuf874ntugd6j6z3syd2rqmrg553fgq2c65fk I got your “Booth” zap, so I went ahead and reserved for you via the website. Returning vendors get 50% off so I’ll zap you back 500 sats. 💪\nhttps://i.nostr.build/AOgrt4TE29yfk3X9.jpg
----
-[163] 07-28 16:13 da19b5d291e0 e916caa45f64
-Woah. New Primus\n\nhttps://youtu.be/RE2oERgJkXg?si=uX2NBpqVQFnDKeco\n\n#tunestr #music
----
-[164] 07-28 16:07 4c5d5379a066 3919fe75a0ca
-たとえばこの場合、rabble さんとは relay.damus.io でしか繋がってないよ！\nやばやば！\nhttps://i.nostr.build/MTuFyJztMYEyOkt2.png
----
-[165] 07-28 16:03 1ea4ae8405ad 188780e68d15
+[75] 07-28 16:03 1ea4ae8405ad 188780e68d15
 📍📌. \n\nthat's another warning, tamara. 🧘🏻‍♀️\n\nhttps://www.trainingwithtamara.com/
 ---
-[166] 07-28 16:02 8ba925605a26 0000d7bc9c6d
-Not all men, but always a man. \nNot all men, but always a man. \nBut always a man.\nAlways a man. \n🤮 \nhttps://blossom.primal.net/352e8df85e6fdf344522626443a4b77352a82f7d9a7f5317ba8ba7288d62c8c7.jpg\nhttps://blossom.primal.net/61bb35c6bd2c217109c712d696d165772c6e99961fe94593f053487a2fa308d5.jpg
----
-[167] 07-28 16:01 4c5d5379a066 b911956dc8e4
+[76] 07-28 16:01 4c5d5379a066 b911956dc8e4
 https://koteitan.github.io/warawo/ でリレーが途切れそうな人を確認してね
 ---
-[168] 07-28 15:58 a3bce095cd0e a5b5ab1e0e55
+[77] 07-28 15:58 a3bce095cd0e a5b5ab1e0e55
 なんじゃこりゃあ\nhttps://pc.watch.impress.co.jp/docs/news/2128607.html
 ---
-[169] 07-28 15:55 81913081246d 8f7868baa5f3
+[78] 07-28 15:55 81913081246d 8f7868baa5f3
 网友评论：王虹做错什么了？她需要你们包容？🤌\nhttps://blossom.dreamith.to/5f89e4b8196f52165f432cbdf3f3810a25e6d9a72c4f71c9039d9d77d9f94419.jpeg
 ---
-[170] 07-28 15:54 1ea4ae8405ad c226f1b703a5
-fuck you, valerie. \n\n🗑️\n\nnevent1qqstqd7fww28s3uy98agvy40dyygazh0ls09slk6sphtc7dw0j25m9cgqdhxa\n\nhttps://image.nostr.build/1e964d0d73549f85014\n\nhttps://image.nostr.build/1e964d0d73549f8501467c21e3f1645d804227079208af3d3f07dbab40c5f572.jpg\nhttps://image.nostr.build/afafbf37f66bd1a183121fb39f82c7c43b0e90e4bdf24c17cf159b08ebd2d0fe.jpg
----
-[171] 07-28 15:53 f8978eb7b86d 9d2bd9b48a78
-https://x.com/callebtc/status/2082106744788955310?s=46&t=eJTuylZ6m-eKIGHpnE7dQg
----
-[172] 07-28 15:53 e096a89eeb90 3d69f6a93cae
-Who wants a piece of chocolate 🫠\nhttps://image.nostr.build/907b6e552ca3f976dcea96c601aaac649a7e50a2df83274e7175d796fd0b121c.jpg
----
-[173] 07-28 15:51 1ea4ae8405ad 933abd90a72e
-28 july -\n\ngood morning.\n\nhttps://image.nostr.build/cf701a152cdf2e9d8d0fe11f6e24275254bbcbf8b13c5e084cf603dc53cedce9.jpg
----
-[174] 07-28 15:50 bc02e0a6c0f0 dc262d666240
-I ate three pounds of Reese's pieces in 24 hours. AMA.\n\nI am full of regrets 😭\n\nhttps://blossom.primal.net/5f720e374c687ce83329b0c3fe704e6e1a547d8e3164a52a2d2eb0100a67b8b2.jpg
----
-[175] 07-28 15:45 c81c7999f727 cab874c168f6
-https://youtu.be/yMawpe4daC8
----
-[176] 07-28 15:44 a8d1560d6a64 3d16d7421f9b
+[79] 07-28 15:44 a8d1560d6a64 3d16d7421f9b
 nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpzpmhxue69uhkummnw3ezumt0d5hszythwden5te0dehhxarj9emkjmn99uwfvhl6 nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz769wywf Keyboard overlaps the text field on Concord communities. Also, please do not show messages from Concord communitied in the DM section. This gets too much.\nhttps://blossom.ditto.pub/ee1f2f0f8670f526e93ce8952ffd00b22baeff10ffd38b0859105fc3bca9e80d.jpeg
 ---
-[177] 07-28 15:34 0bdcf0019e79 b7990dd0b5c3
-https://image.nostr.build/215a2920eef50390a5a1ee411f26a3c09da408f7905e2eae6a2d9eddd8c97591.png
----
-[178] 07-28 15:29 0c9b1e9fef76 618d84b2948d
-うぉぉ……\n\nhttps://x.com/i/status/2082111927455760853
----
-[179] 07-28 15:19 0bdcf0019e79 fc622fbcf50d
-そこのお前！爽 ひんやりみかんに含まれるビタミンCはみかん3個分だぜ\nhttps://image.nostr.build/481673bf2b509ee3fd84bd3fc69889e0e2e4a8ab490675b4b15c2f85d573b834.jpg
----
-[180] 07-28 15:15 48f7c59a278d d79903003134
+[80] 07-28 15:15 48f7c59a278d d79903003134
 https://cryptoquant.com/insights/quicktake/6a68c7795d6f3716db82cd8d-Bitcoins-LTH-SOPR-Prints-Another-Peak-What-It-Means-for-Market-Liquidity
 ---
-[181] 07-28 15:15 4c5d5379a066 0619b0c9869a
-しおたんの絵文字\n島も透明になるように emoemo 直した\nhttps://i.nostr.build/92qLEq21vVyM66WW.png\nhttps://koteitan.github.io/emoemo/
----
-[182] 07-28 15:14 71ecabd8b6b3 ac15011627bd
-https://blossom.smartflow.social/000fdcd2cf0e8b588d6b9379ae409fa6f5f17e0de5a6cb1ba3f56bdf299b400f.jpg
----
-[183] 07-28 15:02 0bdcf0019e79 029a4d74be3b
+[81] 07-28 15:02 0bdcf0019e79 029a4d74be3b
 海上保安庁のリーパーが飛んでるの初めて見た\nhttps://www.flightradar24.com/40e3cbc1
 ---
-[184] 07-28 14:59 2f79d3efd7b6 d3241d99c398
-https://npub19aua8m7hkeq590sjgdm87nupxgk2ynq65zlzmpe504x35ecsx5fsg9j663.blossom.band/de36be2575e05a1b190b64fb37a7588a8c5e2dc5ee062010628339aed30ebe46.mp4
----
-[185] 07-28 14:56 14b55cd017eb d04f896d99f4
-gm 🌞 \nhttps://blossom.primal.net/bb63ab16d56d0663aaacbc7b21baab74a28f41babb55f3d919995aa9e824ac0a.jpg
----
-[186] 07-28 14:54 d679b0f4c948 4edfa18ab554
-Nice morning ride, tho quite steamy. \n#rideordie\n\nhttps://image.nostr.build/a1ca2e84ada6685c157797ae4e5dd918225e773036425ca5ade169711b35dbe3.jpg\nhttps://image.nostr.build/2a208f3a96d0f5cb0aa28a2f5d127bc317424b2a53feab81875252b6be85b3d4.jpg
----
-[187] 07-28 14:49 dace63b00c42 0157aecf125e
+[82] 07-28 14:49 dace63b00c42 0157aecf125e
 I couldn't understand why Charlie Kirk, who was already a #Christian, would consider becoming a Roman Catholic. But since his wife was one, perhaps that makes a little more sense. If Candace Owens is correct, things weren't too happy in their home just prior to his death...\nhttps://www.lewrockwell.com/political-theatre/bishop-confirms-charlie-kirk-was-close-to-becoming-catholic/
 ---
-[188] 07-28 14:47 7f41684033fd 6f5cb7cd1206
+[83] 07-28 14:47 7f41684033fd 6f5cb7cd1206
 https://store.steampowered.com/app/4641690/DRAFT_VR/\nこれって使い物になる？\nLiDARも深度センサーもあるからまともに動くならアリなんだけど、4年前D415でこの手のやつを試したときはマーカーが必要でイマイチだった\n似たようなソフトいっぱいあるけど今はマシになってるのかな\n今日リリースされたらしい
 ---
-[189] 07-28 14:45 341db5a7e3a9 43eb9cb3cbaf
-https://image.nostr.build/6f3517e5c0ac3357f09a4c50ff6c9a0c32fb5b22741f3f5a54006c6c9ffd56e6.gif
----
-[190] 07-28 14:40 ddc578099539 0fdb5ed5aacf
+[84] 07-28 14:40 ddc578099539 0fdb5ed5aacf
 ﾋﾟﾝﾎﾟｰﾝ\nhttps://share.yabu.me/ddc57809953917c089a2c1964be8c63bd99339f9279a423087d1c3f9021a1821/dc39d3fb694952df56ca6daa52a74d861fa8784bf2b11a32a9cf175d9a52951a.webp
 ---
-[191] 07-28 14:38 d28413712171 7e26d92198c8
-https://i.nostr.build/X4wUc4UTNTNX7oYh.jpg\n\nnostr:nevent1qqsqqqpkc8htkg7fyunqhke4z08qlph38camfeq392y857sxnhqtquqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qgsrkjrcy5c8290xmyphzzhj8r6j2eklzqzu0laea93evhmveshlhzsrqsqqqqqpf29c72
----
-[192] 07-28 14:38 311f5e3d9cda 0000a0620256
-https://npub1xy04u0vum29hx3j6kzm9raaykakg6ru3kcgg88pywxqaxusyytsqvrpf8a.blossom.band/ff6aebf6b91dde1018fbd01ee669df2c1a54fd05d9e5dd1e25f958efd1b541c6.jpg
----
-[193] 07-28 14:37 45f195cffcb8 b694a12ad919
-GM ☀️\nhttps://image.nostr.build/85238df9bee474a3fe63833a5a966d136ba0eaef613fb5e5c72bdb0f697ee172.jpg
----
-[194] 07-28 14:36 8ba925605a26 0000fb1f1874
-Frankly didn't think we'd be alive to see this escalation - it's that Historic..\n\nCommercial 🛰️ satellite imagery from early July 2026 reveals a significant strategic development along the 'Line of Actual Control', where 11 Chengdu J-20 stealth fighters have been deployed across two high-altitude airbases facing 🇮🇳 India—7 at Hotan in Xinjiang and 4 at Damxung in Tibet. \n\nThis deployment represents the largest concentration of the aircraft observed in the sector to date, signaling a shift from episodic rotations to a sustained, routine fifth-generation baseline posture by 🇨🇳 China’s Western Theater Command. The presence of these low-observable assets within striking distance of both northern Ladakh and Arunachal Pradesh accentuates an ongoing capability asymmetry, as the Indian Air Force relies heavily on 4.5-generation aircraft while its own indigenous stealth fighters remain years from induction. \n\nUltimately, this distributed basing across high-elevation plateaus complicates Indian air-defense planning and target acquisition, forcing constant multi-sector surveillance against platforms capable of leveraging advanced sensors and long-range weaponry.\n\nRecapping context:\n\n1) China 🇨🇳 has never forgotten that Tibet was their's and would like to take a hold,  just like they do Taiwan 🇹🇼\n\n2) India 🇮🇳 has allied with #PedoGovts 🇺🇸 🇮🇱 no matter how much Mossad unrest and 🇺🇦 militia was found in its country - a lesson the capitalist nation has never learned, no matter how ancient their rich culture and past. \n\n3) Kashmir 🇮🇳🇵🇰 tensions escalate as civic unrest does too, in both countries puppeteered by AmeriKKKan interests. \n\n#GeoPolitics #Asia #RedefiningBorders #EpsteinIndustrialComplex \nhttps://blossom.primal.net/f34236996964b8a436ee10b9e23c83cd522fccb2f7abe72eaafd4961fa7c3cab.jpg
----
-[195] 07-28 14:34 4e86cdbb1ed7 d8876f7bd85f
-#しお画像\nhttps://image.nostr.build/58f33ea37c0ed2a37f485e5db7ac2774b39de7e0fb22de87a399ff6ea75a8c30.png
----
-[196] 07-28 14:34 4e86cdbb1ed7 d0804cf5ca6d
+[85] 07-28 14:34 4e86cdbb1ed7 d0804cf5ca6d
 #ロクヨウ画像\nhttps://raw.githubusercontent.com/Lokuyow/Lokuyow.github.io/main/icon/hutu.webp
 ---
-[197] 07-28 14:32 b707d6be7fd9 5ea43586c9d7
-NGCC\nhttps://x.com/4gamernews/status/2081960456940593492
----
-[198] 07-28 14:32 311f5e3d9cda a1863a461f27
-https://npub1xy04u0vum29hx3j6kzm9raaykakg6ru3kcgg88pywxqaxusyytsqvrpf8a.blossom.band/61312ab010b3bfdd17b073a5d15c97b554a15ab46fac7a92b9c13f90cbaab955.jpg
----
-[199] 07-28 14:31 dace63b00c42 4d989a012661
-It's a good time for this reminder from Spooner:\nhttps://blossom.primal.net/70732a8a419ec22bf9a8c18e144a9e5f28130c6d4ddc232169e1589630e7d3fd.jpg\n\nThe US #GovtIsTheProblem
----
-[200] 07-28 14:27 2c7cc62a697e 3b97223fd1e4
-イオンモールの爆発こわい\nhttps://x.com/yuruhuwa_kdenpa/status/2082107307031495035
----
-[201] 07-28 14:26 409c5539d208 e23c8d6b63a1
+[86] 07-28 14:26 409c5539d208 e23c8d6b63a1
 投稿しました：攻殻機動隊に触れてなかった人が攻殻機動隊に触れる　アニメ3話 | Maretol Base\nhttps://www.maretol.xyz/blog/ygl790jurs?utm_source=nostr&utm_medium=social&utm_campaign=auto_post&utm_content=blog
 ---
-[202] 07-28 14:24 2d9873b25bf2 54801e8bdfbb
-Everyone is getting on Nostr, even the competition.\n\nhttps://image.nostr.build/61db29face0a4a8cb9c576faf2f4838cebd14d3d84181c60866e1666d4c6a556.jpg
----
-[203] 07-28 14:23 0bdcf0019e79 a56180a58a9f
-宿命 ルリ認知してるの 100人いないかも\nhttps://x.com/search?q=%E5%AE%BF%E5%91%BD%20%E3%83%AB%E3%83%AA&src=typed_query&f=live
----
-[204] 07-28 14:22 e83b66a8ed2d 92a68e6dd311
-While we've been away, our Sunflowers have come out and bees are enjoying them very much 💜\n\nhttps://i.nostr.build/1qQ43yXpwd4HRhD2.jpg\n\nhttps://i.nostr.build/NJvki2NRgxi4v3Al.jpg
----
-[205] 07-28 14:16 a6223de378ea d0221751b943
-Woman booed off nostr after admitting she doesn't like derek memes.\nhttps://blossom.primal.net/9ee22da67530dcf62a067f4293696f12ce517c59a920c9a0a1a42bd9abd90111.jpg
----
-[206] 07-28 14:13 e3a59924933c 000c79e04f20
-https://npub1uwjejfyn8j0e7t0cx3ys2h4nsk83fq8a6rz7mw2a7z97mnfwvcjqcvaxfl.blossom.band/164efa8cdeb7d8619526f969c66282efb6b5414e186bee98791f94431a319f24.jpg
----
-[207] 07-28 14:13 f0e59458d5da 694927a2c937
+[87] 07-28 14:13 f0e59458d5da 694927a2c937
 #nsfw\nアロプラに搾り取られる本 くらげユニバース https://dlsharing.com/maniax-touch/work/=/product_id/RJ01312490.html
 ---
-[208] 07-28 14:11 e58143f793e4 1d0e490d4b9c
+[88] 07-28 14:11 e58143f793e4 1d0e490d4b9c
 GrapheneOS Wipe at Airport Leads to Federal Charge in Atlanta\n\nhttps://reclaimthenet.org/grapheneos-wipe-at-airport-leads-to-federal-charge-in-atlanta
 ---
-[209] 07-28 14:09 5f010febe730 5593688a9d8e
+[89] 07-28 14:09 5f010febe730 5593688a9d8e
 やあ、さよならララを観ているよ。Prime Videoを今すぐチェックする \nhttps://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.24468ff7-3be0-4cdf-beb9-74af07bcb068&territory=JP&ref_=share_ios_season&r=web
 ---
-[210] 07-28 14:06 92e9f2b0a41c 70da3333b3f1
-Creating is central to our humanity. Never stop creating. GM #nostr\n\nhttps://image.nostr.build/7e154e403bf2e30fcbbf24e9dde5e1e3b8f1d747d5221c45766690db578b2939.jpg
----
-[211] 07-28 14:05 198ae429b4fd a5ed684b0588
+[90] 07-28 14:05 198ae429b4fd a5ed684b0588
 Check out nostr:nprofile1qqsgedln4zzdzcl87ae5lh45cpujy2teq8rgde44nx0y90wg0nh2t6qppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qyt8wumn8ghj7ur4wfcxcetjv4kxz7fwvdhk6tcsafzzp first album published with IndieSats https://indiesats.com/artist.html?npub=npub13jml82yy69370amnfl0tfsreyg5hjqwxsmnttxv7g27usl8w5h5qnvtmat\n\n
 ---
-[212] 07-28 14:03 5f468793f907 acc17c83bf1f
-https://youtu.be/WUCKUa6ee-8
----
-[213] 07-28 14:02 26bb2ebed6c5 cddeca0d7f52
+[91] 07-28 14:02 26bb2ebed6c5 cddeca0d7f52
 ゲスト林士平まじか\n\nhttps://open.spotify.com/episode/6HFFitkGJr8UYYpLh00rY1?si=hboE6vonQZWvvX9_74hwlA&utm_source=copy-link&sci=spotify%3Acard-config%3A5DmGQL8X7q78QjSMmdEuSd
 ---
-[214] 07-28 14:00 59317d32e89c 8f53097f9aa5
+[92] 07-28 14:00 59317d32e89c 8f53097f9aa5
 https://automaton-media.com/articles/newsjp/20260728-457043/ エ駄死
 ---
-[215] 07-28 13:59 3248d504f554 00001d964eb9
-nostr:nprofile1qqs03ekxgdp0rczjfqrrpcn7zqtdec6lcwnpfesyxnl0f239qvege2ggyhgpr just posted this. \n\nSeems true.\n\nHaha\n\nhttps://blossom.primal.net/5d738028198cd67878b0adada073a78f663293864340ac9295c25fe82808e63e.jpg
----
-[216] 07-28 13:59 5f468793f907 51adf7c983fd
-WAKU WAKU したいよ \nhttps://youtu.be/mmmcgtHaYVo
----
-[217] 07-28 13:56 be41636e3e6d 5b1af36829c0
-The Islamic Republic is continuing its war on the people of Iran. But Iranians are fighting back.\n\nYesterday in Esfahan, citizens noticed the regime was preparing for a barbaric public execution. Reports circulated that the regime was set to hang three protesters from the January 8/9 uprising.\n\nAt dawn, hundreds of brave Iranians gathered in the square to protest this medieval brutality and public murder. They jeered and shouted at the executioners. Sadly as the call to prayer played, two young men were hung from cranes.\n\nSecurity forces chased the protesters, firing on them with live ammunition, trying to kill more and more Iranians.\n\nThe murder of protesters and other political prisoners are often done in prisons. But the regime, fearing the Iranian people will rise against them, is conducting them in public in an attempt to intimidate them into silence.\n\nUntold other brave protesters are currently facing a similar fate. Their lives hang in the balance.\n\nThis is two Irans: the vile and evil Islamic Republic against the brave and heroic people of Iran.\n\nIranians will not back down. They will fight. But they should not have to fight alone. The world must back these brave men and women.\n\n#Iran #KingRezaPahlavi #FreeIran  \n🔗 @PahlaviReza (https://x.com/i/status/2082100001245995361?mx=2) \n\nhttps://blossom.primal.net/6c0b226e17f3b135579247feadf1a665407eabef66a997f42b5366a7cab4477a.mp4 \n
----
-[218] 07-28 13:48 e096a89eeb90 9dad1e067142
+[93] 07-28 13:48 e096a89eeb90 9dad1e067142
 Goooöd morning nostr 🌞\n\n36 chocolates made for a customer. Larger single order yet. Thank you very much 🤞🏼❤️\n\nIf you see something that is out of stock on the website or want something custom made, send me a message or email: \n\noshigood@proton.me\n\nhttps://www.oshigood.us/\nhttps://image.nostr.build/de2b5964b396b0dcc530b27aa1f2d02da3688d69b2df43478fc73372483b7de8.jpg
 ---
-[219] 07-28 13:47 f8e6c64342f1 b3d09c30eabd
-https://npub1lrnvvs6z78s9yjqxxr38uyqkmn34lsaxznnqgd877j4z2qej3j5s09qnw5.blossom.band/23f1229514c745ca02bda48e87d2cfeb85640d84f9b988de6327d011f287428a.jpg
----
-[220] 07-28 13:46 4d39c23b3b03 f9f940117dd9
-いまの花火に足りない最後の1ピースってbreakcoreだったんだ\n\nhttps://x.com/csa2m/status/2081688413489795168/video/1?s=46
----
-[221] 07-28 13:44 3e3a8a4245aa 191b7914b952
+[94] 07-28 13:44 3e3a8a4245aa 191b7914b952
 こういうマスコット本当に好き\nもっと丸くふくよかでも良い\n\nhttps://mochi-momomomo.hatenablog.com/entry/2026/07/04/190037#%E6%B5%81%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E6%9C%88%E9%9C%8A
 ---
-[222] 07-28 13:41 6369fb82bec5 a720133c4fc5
+[95] 07-28 13:41 6369fb82bec5 a720133c4fc5
 https://piccoma.com/web/product/6228?etype=episode\nこういうことですか？\nわかりません＞＜
 ---
-[223] 07-28 13:40 81913081246d 2b50c1c92993
+[96] 07-28 13:40 81913081246d 2b50c1c92993
 白噪音vs噪音\nhttps://blossom.dreamith.to/dc00d4e624ff32616c58f3e1f4e7e439f6cd4de08546007009755077157b461a.mp4
 ---
-[224] 07-28 13:37 3e3a8a4245aa b44a9f687fd1
+[97] 07-28 13:37 3e3a8a4245aa b44a9f687fd1
 \nフィーダーという変態性癖のひとつ\n\n太らせJKこはねちゃん 第1話 | comipo\nhttps://www.comipo.app/product/BJ02213348?twclid=2euijp3a0no9fymgaj2f1lds68&utm_content=BJ02213348&utm_medium=paid&utm_source=twitter_k
 ---
-[225] 07-28 13:37 3f770d65d3a7 ca76b65fd42f
+[98] 07-28 13:37 3f770d65d3a7 ca76b65fd42f
 🚨 The Damus relay (relay.damus.io) is retiring at the end of July! 🚨 \n\nnostr:npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s has announced he's retiring the ole gal. Here's what you need to do:\n1. Update your Nostr profile and swap out relay.damus.io for healthy alternatives\n2. Check your apps' hardcoded relays as many clients ship with it baked in\n3. Vibe coders, listen up, if you're building Nostr apps with LLMs, check your default relays! Models love to default to relay.damus.io and relay.nostr.band.\n\n⚠️ Remove relay.nostr.band too as it's been dead for over a year.\n\nGood replacements: relay.ditto.pub, relay.primal.net, nos.lol, purplerelay.com if you like large public relays. Though, my recommendation would be to choose smaller, lesser known relays and Web-of-Trust relays. These will help with spam and decentralization. \n\nUpdate your relay lists while you still can! \n\nBonus: visit https://syncstr.shakespeare.wtf and sync your profile data from Damus to other relays.
 ---
-[226] 07-28 13:35 20e17dd0ec1b 6f8f5c5f3d62
+[99] 07-28 13:35 20e17dd0ec1b 6f8f5c5f3d62
 GM #nostr!\n\nI am super pumped about my new project @workstr.\n\nI have started working out from home using my bodyweight only. With the right exercises and program I’ve managed to loose 25% of my excess bodyweight. I’ve discovered that you don’t need to go to the gym or to purchase expensive gym equipment in order to get the result that you want in the time that you have.\n\nFor the past year I have spent in a #fitness app membership called Jefit. There are cool features such as “body recovery”, “automatic programs” and more. \n\nWhen they came out with a community feature that was awkward and a dead end, I saw the potential to leverage #nostr in a similar app and make it available to everybody. Beginners, professionals, at a gym, from home.\n\nI will also be integrating more specialized features such as superset and EMOM in the near future.\n\nYou can follow and support me on my new Geyser project page! LFG!\n\nhttps://geyser.fund/project/workoutonnostr
 ---
-[227] 07-28 13:35 4d39c23b3b03 ce228219d453
+[100] 07-28 13:35 4d39c23b3b03 ce228219d453
 shadcn ∈ ℤ* である事の証明\n\nhttps://cdn.nostrcheck.me/4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25/9317ec732346851f0f59730c485b06a9f41bacd56559123cc90eb3a4fc3a61eb.webp
 ---
-[228] 07-28 13:29 9ca0bd745074 96ed2fa94c06
-https://npub1njst6azswskk5gp3ns8r6nr8nj0qg65acu8gaa2u9yz7yszjxs9s6k7fqx.blossom.band/f001256b0422b950e74250ddc4a9c033cd9720d51d4fefe07b6dba8544bde825.png
----
-[229] 07-28 13:28 f4db5270bd99 0000bc871258
+[101] 07-28 13:28 f4db5270bd99 0000bc871258
 Metti le nostre ricette italiane anche qui:\nhttps://zap.cooking/recipes\n\nRiceverai un sacco di zap ⚡🫂🎨
 ---
-[230] 07-28 13:28 fe9edd5d5c63 3f0fa89a4c88
+[102] 07-28 13:28 fe9edd5d5c63 3f0fa89a4c88
  うめえ\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/2dccfcf3219f9348a7a2417509e35886ced02ab36ff3499fafd560168220dc86.webp\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/c5eb0b1e6aa8d777e1121f29bda6808a504ead8f68234af1a08e2e5952ac0c71.webp\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/2c23743832b4a91e9c0631b81706c29f40571c8fa7047ea03385ec35e398f381.webp
 ---
-[231] 07-28 13:28 dc4cd086cd7c 7ef1fc1332e4
+[103] 07-28 13:28 dc4cd086cd7c 7ef1fc1332e4
 Gm \nSome morning tree #postmetal #music\nhttps://ifthesetreescouldtalk.bandcamp.com/album/above-the-earth-below-the-sky?t=1\n
 ---
-[232] 07-28 13:21 62f3610a45fa 0c415c5d5447
-Thank you\nfor being here\ntoday.\n\nInside you,\nthere is love,\nthere is hope,\nthere is courage,\nthere are dreams—\nall of them,\ntruly there.\n\n202607\n#Healing #PositiveVibes #Poetry #EditorialPhotography  #AestheticVibes  #ArtisticExpression  #Art  #CreativeArt #VisualArt \nhttps://blossom.primal.net/231c1f974ef0964df90668ce351c1405577aad8452e1a84d04d42d9b7f8e02df.jpg
----
-[233] 07-28 13:18 45b35521c312 d73145ccec19
-https://npub1gke42gwrz2ja5np9tpcr449785hx6zxgzf2329x8584h4d06puzqg33xp3.blossom.band/1a6315c5cd4b73ca1ecec7aaff1d1855b6d7ffad11b73cfaa404a0382aac27f9.jpg
----
-[234] 07-28 13:16 5f468793f907 b79ffe9780ef
+[104] 07-28 13:16 5f468793f907 b79ffe9780ef
 https://cdn.targoyle.jp/img/t/1650096117466677250.jpg
 ---
-[235] 07-28 13:15 6b6e19ce47a9 a5bfaee1b4a0
-雲丹川の原作\nhttps://image.nostr.build/0289b47cdbc3389dd2244e8bd5ae4fbba4a988d3aaa2b659eda593c2e77d48c3.jpg
----
-[236] 07-28 13:11 6b6e19ce47a9 6ca86a97eb55
-顔がかわいい……\n https://image.nostr.build/d8f127621b9f2edc62da719437a65cd79a14cc3e0c817c20b6f5583ec1fc8026.png
----
-[237] 07-28 13:09 6b6e19ce47a9 201bbc96b3e2
-雲丹川～～～～～～！！！！！\n https://image.nostr.build/4165101b77a32421d7086cf28bbebfbef036c98ade708bb66350fbe7fb64ae69.png
----
-[238] 07-28 13:08 d7100f9e3079 06ee52bc0b38
-Gm 😂 https://image.nostr.build/1feb625572e6145229f37a4e8a066c6823572f4014c7f86fd75392aeb5f9475c.jpg
----
-[239] 07-28 13:06 d9c4cfe3cab8 ef9ffbf905c0
-近接護身タクティクスの練習前にケトルベル使わせてもらいました\n16㎏でスナッチ100回\n8㎏と16㎏でボトムアップクリーンなど\n5秒静止は難しいな\n練習しよ\n#新宿ジム\n\nhttps://image.nostr.build/6365b5976b427ba326a70252c9c460b2e8a3e843b8c969a2c857153ca9a97770.jpg
----
-[240] 07-28 13:06 15b9f4a92b2f b9e01d6142fa
-こんな時間にラーメンはよくないのはわかってる。\nでもね、遅くまでお仕事頑張ったからお腹減りまくりなのよー！\n#foodstr #dinnerstr\n\nhttps://image.nostr.build/0add65fdce7eeea6f81ffc41044ab912eac137ee417529afe87f1f818fec5b1c.jpg
----
-[241] 07-28 13:03 6b6e19ce47a9 3202222adcc5
-雲丹川……！\n https://image.nostr.build/a56430aa1a5eb2e3734b15f59bf40886fae13cc27533d215e6c6279df7c2005a.png
----
-[242] 07-28 13:03 d1963bf7d66f 0c49f9cd00c1
+[105] 07-28 13:03 d1963bf7d66f 0c49f9cd00c1
 これを思い出した https://bitcoin-research.jp/mining-useful-work-projects/
 ---
-[243] 07-28 13:02 0bdcf0019e79 072f0ff0fa53
-内容関係ないんだけどレグザの全録って6チャンネル表示できるんだ〜になった\nhttps://x.com/i/status/2082007247753007473
----
-[244] 07-28 12:58 5f468793f907 623fc14c9321
+[106] 07-28 12:58 5f468793f907 623fc14c9321
 https://www.nicovideo.jp/watch/sm22081766
 ---
-[245] 07-28 12:56 6fef3f60b364 68f420606a8d
+[107] 07-28 12:56 6fef3f60b364 68f420606a8d
 https://blossom.smartflow.social/33aa84c4b089f6ec8dd358061d6cd99117911b4a5c4f846d75cf19e49d2c9795.jpg\nThe sink got the soil before the plate did.
 ---
-[246] 07-28 12:53 1a35b54ef775 0e8a71a3d6ed
-https://x.com/feminist_tokyo/status/2082063377707536581?s=46&t=uNQKi-_xa-yRcxMHJJYWCA
----
-[247] 07-28 12:51 5f468793f907 ce2d5f5a42f1
-へぇ…… \nhttps://youtu.be/QJz94yh-92Y
----
-[248] 07-28 12:50 b22fef18cbf5 0000e71614db
-$8,300USD to run a 400B model locally? 👀\n\nhttps://www.youtube.com/watch?v=FE1Uyhg5hjw
----
-[249] 07-28 12:50 6b6e19ce47a9 c72e65bdfee8
-雲丹川……？\n https://image.nostr.build/3bb5ae473280e3636bf08913f830cd3e42a421a09b3e9f82ab9c42006aa0d4b2.png
----
-[250] 07-28 12:43 9cba2871b9a4 247d5ca5f95f
+[108] 07-28 12:43 9cba2871b9a4 247d5ca5f95f
 Good morning, Nostr! https://v.nostr.build/7C9eNjOvPEkEu2qR.mp4
 ---
-[251] 07-28 12:42 fe9edd5d5c63 8b2b277a731d
+[109] 07-28 12:42 fe9edd5d5c63 8b2b277a731d
 あんずうまそう\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/c5eb0b1e6aa8d777e1121f29bda6808a504ead8f68234af1a08e2e5952ac0c71.webp
 ---
-[252] 07-28 12:42 6b6e19ce47a9 c3112e63f469
-雲丹川……？\n https://image.nostr.build/c048a409d8a95284808c3960e608eb23fcf868fca9df5b168c0f8a045bad33dd.png
----
-[253] 07-28 12:41 386058f50fb3 15d4dee0df2b
+[110] 07-28 12:41 386058f50fb3 15d4dee0df2b
 Just de-paypal-ed myself as PayPal relies on an active phone number which I also cancelled recently.\n\nIt is surprising how deep this #KYC rabbit-hole goes.\n\nhttps://haven.mwaters.net/166adb79849f486ef3df027df0afd2aa604199eda421d1a695c1e21df8a4ccc7.jpg \n\n#paypal #privacy #fiat
 ---
-[254] 07-28 12:41 1bc70a0148b3 6d097e1f74a2
-More shaken and confused kittehs\nhttps://npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac.blossom.band/4fc9f91d3c9cbd6aca823c3b05b92dc368958c7a6053c970d52ee0b5f59b98c5.mp4
----
-[255] 07-28 12:36 aa5556df2d2a 9901fc1031b4
+[111] 07-28 12:36 aa5556df2d2a 9901fc1031b4
 クソでかバラ肉カレー\nhttps://cdn.nostrcheck.me/aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1/34a73e9df983906696b9b7ab4585c486524153bf03b6f8d8b7ca5774b6e748fa.webp
 ---
-[256] 07-28 12:34 b215f89531d0 95e65edc5d08
-Behold the truth #flatearth 💥🫵 https://blossom.primal.net/9b78730be1f32958dbe31dfc66cbae10c08969aa7bdb208bd92a7660e7ca4590.mp4 https://blossom.primal.net/488757093a3788473be6ad6fb64d9dbdd108e057c0d9792a203b422fafe0cb48.jpg
----
-[257] 07-28 12:32 e0a8cbd75ebf ed3198ff120c
+[112] 07-28 12:32 e0a8cbd75ebf ed3198ff120c
 SNS「Rumi Space」、熊本地震の影響でメンテナンス中！\nhttps://zssu.me/\nhttps://image.nostr.build/0957acf8e22fc9fa6d25ddd162019376efdab6f31a1af174fef3ff64bab9cba6.jpg
 ---
-[258] 07-28 12:29 f1f9b0996d4f c7dee37f4e70
-GM ☀️\n\nFirst time making wax 🤞 https://image.nostr.build/45016da2339ad5a85c701d21e2849428590c4cb0cc11e541cdcfd2ceffa1bb45.jpg
----
-[259] 07-28 12:29 23395bce1a18 c9456d954faf
-。。。\n\nhttps://x.com/un_nerv/status/2082059179821617429?s=46
----
-[260] 07-28 12:27 389ca4957911 bc68420d7be7
+[113] 07-28 12:27 389ca4957911 bc68420d7be7
 何わろとんねん（散歩と聴いて干してた足ぬきタオルぶち落とし犬 ）https://share.yabu.me/389ca4957911b126093f42a0a90786515b59311dc5a942b404d7e16f17287828/8226648eb95f7853ab431311b86ee69fc5831a2ca30ff31e480b0d21fe28db23.webp
 ---
-[261] 07-28 12:24 5f468793f907 acbd56e7709e
-はえ～ \nhttps://x.com/sakoma_road/status/2082032807489269881
----
-[262] 07-28 12:23 07804b786c6a 53435684c794
+[114] 07-28 12:23 07804b786c6a 53435684c794
 いいおみせ〜 https://i.gyazo.com/375a11fc2b8ce2211f14bd7005d23b7b.jpg #大井町はしご酒
 ---
-[263] 07-28 12:22 bfde22528330 8ddc96a3ed31
-The bell curve never lies. Midwits in disbelief.\nhttps://npub1hl0zy55rxqwd7anvf9nh9ms78kryee4zkf32nfwglgc5gmrm3hpqmslhas.blossom.band/26c8293aa9f253e2bf7bd67e6f538ad410df12586815a89655971d4064867860.jpg
----
-[264] 07-28 12:21 c08805f9bd48 4b671e088d6e
+[115] 07-28 12:21 c08805f9bd48 4b671e088d6e
 引用動画の核心はこれ。\nhttps://share.yabu.me/e9d133ad3ca80481e50ccc2ff0c5e0180da7716df263c6f5635a28f021237a9a.webp\n\nhttps://share.yabu.me/0d1a267c52890e75e24f2cecb12bdf75a32855187fc5442146b13077883a801c.webp\n\n　ダイビングの場合はミスると命に関わるので、ずっと待ってるわけにはいかないんだけど。そこが痛し痒し。
 ---
-[265] 07-28 12:20 0c9b1e9fef76 93fe27f79342
-やっぱりそういう使い方想定されてんのか\n\nhttps://x.com/i/status/2082058241748729939
----
-[266] 07-28 12:20 45b35521c312 92c81d4e6fe0
-https://npub1gke42gwrz2ja5np9tpcr449785hx6zxgzf2329x8584h4d06puzqg33xp3.blossom.band/0c0deb590f7ca65d8add5e40f6b2d663179f192569d05ff722940637da58e852.jpg
----
-[267] 07-28 12:19 1bc70a0148b3 6f133e36e5ee
-Kitteh woken up by EQ\nhttps://npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac.blossom.band/319f3091b6e2245d0d9c00fe88e5cee574525118d27651fc4e4b06a4144e3088.mp4
----
-[268] 07-28 12:18 c08805f9bd48 7af435de84b3
+[116] 07-28 12:18 c08805f9bd48 7af435de84b3
 https://share.blogstr.net/naddr1qvzqqqr4gupzpsygqhum6jzfqjfj2ar6szr28s8qdxk7kxwc7k0vfe44z4ah6dqkqq8ryvpjxccrwv3cxgcnqve3xufc2hzg
 ---
-[269] 07-28 12:18 c08805f9bd48 fa5436b25954
+[117] 07-28 12:18 c08805f9bd48 fa5436b25954
 https://share.blogstr.net/naddr1qvzqqqr4gupzpsygqhum6jzfqjfj2ar6szr28s8qdxk7kxwc7k0vfe44z4ah6dqkqq8ryvpjxccrwv3cxgcnqdf3xcgv0fuu
 ---
-[270] 07-28 12:18 c08805f9bd48 eb533635a985
+[118] 07-28 12:18 c08805f9bd48 eb533635a985
 https://share.blogstr.net/naddr1qvzqqqr4gupzpsygqhum6jzfqjfj2ar6szr28s8qdxk7kxwc7k0vfe44z4ah6dqkqq8ryvpjxccrwv3cxgcrydf5xsmhdmz4
 ---
-[271] 07-28 12:17 c9c91d207e2c 6eaa5e7e22c5
-https://npub1e8y36gr79n5tfjl9ym569yy8jfvfxpmm9cpmecp6upekcmrkt4xq8heer6.blossom.band/09b9ac9e77d31eaae8e55160950170830b258ac6ede2cab4336e1c562a74ee28.jpg\n\n#catstr #aiart
----
-[272] 07-28 12:17 c08805f9bd48 06bb8c39a346
+[119] 07-28 12:17 c08805f9bd48 06bb8c39a346
 https://share.blogstr.net/naddr1qvzqqqr4gupzpsygqhum6jzfqjfj2ar6szr28s8qdxk7kxwc7k0vfe44z4ah6dqkqq8ryvpjxccrwv3cxgcrxwfnxvpahmg9
 ---
-[273] 07-28 12:17 c69b71dc564f 6ab8abaa0a77
-This little fairy 🧚🏻‍♂️ just visited me on the balcony and was resting on a chili leaf 🌱 \n\nhttps://i.nostr.build/Tnaqj6oVHaeWqWUx.jpg\n\n#natureismagical
----
-[274] 07-28 12:16 4d39c23b3b03 06c75ecf726b
+[120] 07-28 12:16 4d39c23b3b03 06c75ecf726b
 イオンの奇跡を思い出そう\n\nhttps://biz-journal.jp/company/post_393031.html
 ---
-[275] 07-28 12:15 b154cef116c8 88b3f3b4977b
-https://x.com/cyxuaxfglffzzct/status/2082042068336341498?s
----
-[276] 07-28 12:10 b154cef116c8 8a421b88d190
-https://x.com/digimaga/status/2081957957244506468?s
----
-[277] 07-28 12:09 b154cef116c8 88a89593ac72
-ガス爆発？\n\nhttps://x.com/yupperikan0322/status/2082047631178809397?s
----
-[278] 07-28 12:07 e3a59924933c 00074625f380
-https://npub1uwjejfyn8j0e7t0cx3ys2h4nsk83fq8a6rz7mw2a7z97mnfwvcjqcvaxfl.blossom.band/36848debda32627ed443d42772476f0933e20fe37aaf7851d946b6808c80ddae.jpg
----
-[279] 07-28 12:05 b154cef116c8 7f78ef610b92
-https://x.com/livedoornews/status/2082057972767916141?s
----
-[280] 07-28 12:04 5f468793f907 f40268e200fa
-https://image.nostr.build/a79245719a8fe6c1c5b2271ebe00b81722f222e032c912230787b385db4eda73.jpg https://image.nostr.build/9f34b1d0524b50c3ed90d3e823ebebc1acfdf119f6eb1e9fa2c3ce5e95f7a696.jpg
----
-[281] 07-28 12:03 b3dc2e7f0dfd 9942064cc559
+[121] 07-28 12:03 b3dc2e7f0dfd 9942064cc559
 @旧友各位\n何もしてないのにTwitterに二度も凍結されたので、\n万一用事あれば以下のアカウントにご連絡ください。\n\nMisskey: https://meisskey.one/@Kenpel\nNostr: https://nostter.app/nprofile1qqst8hpw0uxlmp7d5d0sguyntq9aedkyw6n2c4ya5mlnkuwu2s6er6sju42mv\nmixi: https://mixi.jp/show_profile.pl?id=297659\n
 ---
-[282] 07-28 12:00 6369fb82bec5 c6312068fa31
+[122] 07-28 12:00 6369fb82bec5 c6312068fa31
 https://store.steampowered.com/app/3507880/\nなんだよこれ・・・
 ---
-[283] 07-28 11:58 6369fb82bec5 2577fb01ed37
+[123] 07-28 11:58 6369fb82bec5 2577fb01ed37
 https://store.steampowered.com/sub/692569/\nモンハンライズサンブレが1000円以下！？安すぎる
 ---
-[284] 07-28 11:56 d62679fe8b51 3e51bbd6a1b7
-#絵描きさんと繋がりたい\n#りとるらいと_日課フレーム\n#illust\nToday's 30 second drawing\n今日の30秒ドローイング\n今日は30秒で風景に挑戦\nざっくりした背景を描きたい時に役立ちそうな練習 https://image.nostr.build/339b558200c7ffd65ca145503e3effdc64959ffea9781e369034ad7aeb52fafd.jpg
----
-[285] 07-28 11:56 58937958036c f03b92829f64
-I made the Westwood Satoshi plushie!\nWestwood is a wood-fired restaurant in Vietnam run by true Bitcoiners 🍽️🇻🇳\n\nhttps://image.nostr.build/b21d916f93da3bf0d5d9e76855c6a2e8076bed59d7ced22271b0901b65e29a5a.jpg\nhttps://image.nostr.build/caabce83e39cf9b9cf65ea025e927bb47e63ba176440f43b5b2e3f166c66dfd0.jpg
----
-[286] 07-28 11:54 010df0c948fe 000009e259e0
+[124] 07-28 11:54 010df0c948fe 000009e259e0
 WORD5 #662 5/6* (Hard Mode)\n\n⬛⬛🟪🟧⬛\n⬛🟪🟪⬛⬛\n⬛🟪🟪⬛⬛\n⬛🟪🟪⬛⬛\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[287] 07-28 11:52 f240c9c2510c 43dce02fa366
+[125] 07-28 11:52 f240c9c2510c 43dce02fa366
 https://cdn.nostrcheck.me/f240c9c2510c3c63d3525ad11ed1307741d0dffecdeb3e5cd7da12396c0c0a86/6be4d175e642553ccfb96431db522404eeca8980de70bc0a90a8be888fa3d4cf.webp
 ---
-[288] 07-28 11:50 c69b71dc564f 0f7d108830b4
-Deli breakfast-lunch...Frozen pureed blackberries, oat-,  coconut- and chufa flakes, maca, chia and more...plus fresh fruits, goji berries, cacao nibs, pine nuts and some more ingrdients :D \n\nhttps://i.nostr.build/cpvHr1hSQBu4p9tX.jpg\n\n#rawvegan #vegan #health #food
----
-[289] 07-28 11:43 07804b786c6a 9574867329f8
+[126] 07-28 11:43 07804b786c6a 9574867329f8
 数時間ぶり2回目 https://i.gyazo.com/ce06595dbedd4012816ecac2ff59c466.jpg
 ---
-[290] 07-28 11:40 0c9b1e9fef76 e452e7b8f175
-そういえばひっさびさにあずまんの本買った。\n値段に対してページ数結構あった。読めるかしら。\nhttps://npub1pjd3a8l0wmygkclcvezacvamwamlqfv7cs0xwjmp7n7920mdkrsq9hpeqp.blossom.band/860c6718e10abdcf398d1f071961b6c7e958517db2de099559915c7c2c08e978.jpg
----
-[291] 07-28 11:38 0c9b1e9fef76 91c798882551
+[127] 07-28 11:38 0c9b1e9fef76 91c798882551
 や〜ん結構近所じゃないの\n\nhttps://www.threads.com/share/_8-GUiVmu/
 ---
-[292] 07-28 11:37 97f848adcc4c 9a41bb20b36d
+[128] 07-28 11:37 97f848adcc4c 9a41bb20b36d
 Does anyone know who the creator or runner of https://snake.dance/ is? We have a technical query..
 ---
-[293] 07-28 11:33 ce643487280a 63578de9245d
+[129] 07-28 11:33 ce643487280a 63578de9245d
 https://redstate.com/jenvanlaar/2026/07/27/biden-ghostwriter-hur-audio-tapes-n2204837
 ---
-[294] 07-28 11:32 ce643487280a 54f840eb7816
+[130] 07-28 11:32 ce643487280a 54f840eb7816
 https://images.americanthinker.com/mt/mtq9d3o1sl2rkhsal58a_640.jpg
 ---
-[295] 07-28 11:32 3d82e8f6cc6c 71d8a7bba1af
+[131] 07-28 11:32 3d82e8f6cc6c 71d8a7bba1af
 gm. did you know bitcoin miners are electrifying rural africa? proof on our website: https://bitcoin.rocks
 ---
-[296] 07-28 11:30 cf9b06dbdbe1 8f8f45571235
-https://blossom.primal.net/6527aaf4f59cfbb761357fc47d84c47612d2672ca7c5e116f8a65cc607302251.png\nBitcoin was originally code written to be disintermediated, peer-to-peer, decentralized cash. Today, the interest of large institutions (with questionable motivations) has turned it into an investment product and an infrastructure service. As the purpose shifted, user sovereignty weakened. While institutional actors do bring infrastructure, liquidity, and access, they simultaneously concentrate control into the hands of a few actors. Utility and centralization risk go hand in hand. Exchanges and custody services have normalized the "you no longer need to hold your own keys" narrative. This situation causes users who do not hold their own keys to be left outside the freedom offered by the protocol.\nhttps://blossom.primal.net/3ab16900d48c68a40c0974b63abd2da494090e63ecd187b59bdfe9ced50e0aaa.jpg\nMining pools and financial products have consolidated hash power and capital, in practice empowering only a handful of centralized entities. This completely trashed the network's social and technical security. Worst of all, the "digital gold" narrative turned Bitcoin into a portfolio asset rather than an electronic cash system; the path to being a medium of payment narrowed, and its core intended purpose was shamelessly vilified, even nearly abandoned completely. Although Lightning, sidechains, and institutional APIs provide ease of use, they eroded the idea of a P2P medium of exchange by increasing layers of intermediaries. Attention came to be paid only to the design choices of trivial nuances in programs that serve as intermediaries for the new layers built on top.\nhttps://blossom.primal.net/6f9d23682a0f9cf1d45f172c6d2ccb118a59c880782854a1685c766b19b918cf.png\nRegulations, institutional adoption, and increasing marketing theatrics may seem to provide short-term stability, but this so-called stability comes at the heavy price of eroding user sovereignty.\nhttps://blossom.primal.net/0feca7aff70be7f6a804ab40f36b49dc1fcb752bb0db32d67ea24f78ca884ec7.png\nIn this technology meant to bring an end to the human decay created by the financial system -a lackey of the establishment- the way to preserve the core vision is to not surrender to individual technocrats and showmen, to use the tools, to question centralizing tendencies, and to take practical steps toward independence. Or, to break free from this testnet and proof-of-concept called Bitcoin and join the mainnet: the #Monero network.\nhttps://blossom.primal.net/f61ccba1053496cc5063449caca77ac1966cdcf8cd2fefb62084abe8dbdb66e7.png\nBitcoin başlangıçta aracısız, eşler arası, desentralize nakit olması için yazılmış bir koddu. Bugün büyük (motivasyonları şaibeli) kurumların ilgisi onu bir yatırım ürünü ve altyapı servisine dönüştürdü. Amaç değiştiği için de kullanıcı egemenliği zayıfladı. Kurumsal aktörler altyapı, likidite ve erişim getiriyor getirmesine ama aynı zamanda kontrolü birkaç aktöre doğru yoğunlaştırıyor. Fayda ile merkezîleşme risk el ele gidiyor. Borsalar ve saklama (custody) hizmetleri "anahtar artık sizde olmak zorunda değil" naratifini normalleştirdi. Bu durum, kendi anahtarını saklamayan kullanıcının, protokolün sunduğu özgürlüğün dışında kalmasına neden olur. Madencilik havuzları ve finansal ürünler hash gücünü ve sermayeyi birleştirerek pratikte sadece birkaç merkezî entiteye güç verir hâle geldi. Bu, ağın sosyal ve teknik güvenliğinin içine etti. En kötüsü, "Dijital altın" naratifi de Bitcoin'i bir elektronik nakit sisteminden ziyade, bir portföy aracı hâline getirdi; ödeme aracı olmanın yolu daraldı ve esasındaki kullanım amacı utanmazca lanetlenir oldu, hatta neredeyse tamamen terk edildi. Lightning, sidechain'ler ve kurumsal API'ler kullanım kolaylığı sağlasa da aracı katmanlarını artırarak P2P mübadele aracı fikrini aşındırdı. Sadece üzerine yazılan yeni katmanların aracısı olan programların önemsiz nüanslarının tasarım tercihleri önemsenir oldu. Regülasyonlar, kurumsal kabul ve artan pazarlama mizansenleri, kısa vadede istikrar sağlar gibi görünse de bu sözde istikrar, kullanıcı egemenliğinin aşınması gibi ağır bir bedelle gelir. Müesses nizamın yardakçısı finansal sistemin yarattığı insani çürümenin sonunu getirecek bu teknolojide esas vizyonu korumanın yolu, münferit teknokratlara ve şovmenlere teslim olmamak, araçları kullanmak, merkezî eğilimleri sorgulamak ve bağımsızlık için pratik adımlar atmaktır. Ya da Bitcoin adlı bu testnet ve konsept kanıtından kurtulup mainnet'e, yani #Monero ağına katılmaktır.
----
-[297] 07-28 11:27 5f468793f907 29b1d2eb4528
-クリエイターっぽい（こなみ）\n\nhttps://image.nostr.build/a9aed178eea083ab8451a872e3e4061e1d693d87e0efa8e82939beaace00d654.jpg
----
-[298] 07-28 11:27 17e718c4ba60 7fc92eebc992
+[132] 07-28 11:27 17e718c4ba60 7fc92eebc992
 https://share.yabu.me/17e718c4ba603daeccf8cbfd471d20302575a0097437a4cc8b2c3c8d88907140/dfc87d732198cddb146b08be4e909748cb885fabefc83825ed50621c4f1f50d4.webp\nhttps://share.yabu.me/17e718c4ba603daeccf8cbfd471d20302575a0097437a4cc8b2c3c8d88907140/9b2ff3e11ebdce1e8d8f8d9b712b987eba6c5695f885f547a11365e151fd365f.webp
 ---
-[299] 07-28 11:24 f8978eb7b86d 1e877ef082bf
-小倉とマガリン！\n\nhttps://image.nostr.build/5967e4ec3a8aa8a9af9660ea40b0d7fe8b85bcfd4bdcc377ed5d3767b727a4d4.jpg
----
-[300] 07-28 11:23 c08805f9bd48 b1ba0b17d413
+[133] 07-28 11:23 c08805f9bd48 b1ba0b17d413
 https://share.blogstr.net/naddr1qvzqqqr4gupzpsygqhum6jzfqjfj2ar6szr28s8qdxk7kxwc7k0vfe44z4ah6dqkqq8ryvpjxccrwv3cxgcrzdejxq9yr729
 ---
-[301] 07-28 11:22 83f906035a4f 13ebb31b979b
+[134] 07-28 11:22 83f906035a4f 13ebb31b979b
 Kaisouroku by VISUAL ARTS / Key https://song.link/i/818439885
 ---
-[302] 07-28 11:15 cdecc31c6d94 d2a08c990ff5
-https://npub1ehkvx8rdjsrwnf7kkqr8gy42vcwe6vwgqdwrl4juqccp689v8wfqr3mz4s.blossom.band/35a021244e4b048d611575549b09588571e21d040171996c935d9cd7c36f8383.gif
----
-[303] 07-28 11:11 cdecc31c6d94 17dbaaae5588
-https://npub1ehkvx8rdjsrwnf7kkqr8gy42vcwe6vwgqdwrl4juqccp689v8wfqr3mz4s.blossom.band/be9c6b707f4648aa7401e57fd93cc8ec004ccb3044068b394010cdbda8e97380.gif
----
-[304] 07-28 11:11 f8978eb7b86d 03bf9ab96e02
-https://x.com/yahoonewstopics/status/2082058485064458706?s=46&t=eJTuylZ6m-eKIGHpnE7dQg
----
-[305] 07-28 11:09 07804b786c6a a45ba152019c
+[135] 07-28 11:09 07804b786c6a a45ba152019c
 めねぎー？ https://i.gyazo.com/2b081c52561c578d955861c82fc9e03d.jpg
 ---
-[306] 07-28 11:06 be41636e3e6d 7429647d20af
+[136] 07-28 11:06 be41636e3e6d 7429647d20af
 Test\n\nChecking if my HAVEN relay sees this post.\n\n\nhttps://relay.mosvault.online/277cbeed3d7ac82226f5b7a7777ba304bfbf74ff12c1bcbb30782632136d7e79.jpg
 ---
-[307] 07-28 11:05 1ec454734dcb 4df278fc95c8
+[137] 07-28 11:05 1ec454734dcb 4df278fc95c8
 GM\nhttps://blossom.laantungir.net/6af39370c9dacb281eecdeb591b707da68a8112eca0ef8b3b5faa17d6673e984.png
 ---
-[308] 07-28 11:04 ee1e7f27fa06 600e2434a065
-アセンブルだん\n\nhttps://image.nostr.build/9126a5a8b4eefb320c9fa01089642c4d62dd86ce3e44d18821b1a3868ef20a43.jpg\n\nnostr:nevent1qqs2nsyf8yhu5p60xuulg5ej3akzpvp96hl7w47kvft4ftt5jrchmjcpz9mhxue69uhhytntda4xjunp9e5k7qfqwaehxw309aex2mrp0ykk5upwdehhxarj9emkjun9v3hx2apwdfcqzrthwden5te009skyafwd4jsyg8wrelj07sxj329umkukxucxrhsgwn4a4h8dv9qds92ln8tnz3gpcpsgqqqqqqsa7wmhg
----
-[309] 07-28 11:03 07804b786c6a 6e32c4ddf199
+[138] 07-28 11:03 07804b786c6a 6e32c4ddf199
 8最高！ https://i.gyazo.com/2e27dd48e0cedac6d64a76267059ca81.jpg #大井町はしご酒
 ---
-[310] 07-28 11:02 b707d6be7fd9 cca45c62e12b
+[139] 07-28 11:02 b707d6be7fd9 cca45c62e12b
 ごぼうメロンに空目した\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/a766f8810d88af36eeaa8c5cb80a941ca093a2395d7a154910a89a5364e63115.webp
 ---
-[311] 07-28 10:54 07804b786c6a a94f4750fabb
+[140] 07-28 10:54 07804b786c6a a94f4750fabb
 宇治抹茶割り https://i.gyazo.com/9c72df3d4f5d5e26a65de30a53877849.jpg #大井町はしご酒
 ---
-[312] 07-28 10:52 07804b786c6a 8439691e4d24
+[141] 07-28 10:52 07804b786c6a 8439691e4d24
 🌿ぱくちー！ https://i.gyazo.com/a6f801c7148c1dc3f5635a0624028e08.jpg #大井町はしご酒
 ---
-[313] 07-28 10:50 3875a16c9788 7ff27c368547
-☀️☀️☀️☀️\nhttps://blossom.primal.net/b50e53823b24ceac749a78c84af01e00b28fe05547848193cc8693f98beeaee4.jpg
----
-[314] 07-28 10:46 1bc70a0148b3 3755b052ed42
-Earthquake today in Kumamoto, Japan. Video from a Costco I guess …\nhttps://npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac.blossom.band/76c58b3f58f73d6fdc0de5a996b1872ed75515be97fefcba1cbeae799d98c557.mp4
----
-[315] 07-28 10:45 e83b66a8ed2d decd6cef746f
+[142] 07-28 10:45 e83b66a8ed2d decd6cef746f
 I used this:\nhttps://github.com/barrydeen/wot-relay\n\nand vibe coded a Web management and monitoring panel, which I made available here:\nhttps://github.com/snurge/wot-relay-manager
 ---
-[316] 07-28 10:43 26ae1a0d402c 11dc71a311a7
+[143] 07-28 10:43 26ae1a0d402c 11dc71a311a7
 #はてなブックマーク\n#釣り に関する資料 と #漫画 のブログ\nマンガだけでも 800記事ぐらいある。すごい熱量！\n"釣りの本とか漫画とか" https://turinohon2.blog.fc2.com/
 ---
-[317] 07-28 10:42 fe09f1624ea3 fb2b0c2ccde1
+[144] 07-28 10:42 fe09f1624ea3 fb2b0c2ccde1
 ■イオンモール熊本で爆発　従業員「ガスの臭いが」　地震発生の1時間以上後に爆発音　閉じ込め多数との情報も【熊本で最大震度7の地震】\nhttps://www.fnn.jp/articles/-/1083639\n\n#地震 \n
 ---
-[318] 07-28 10:42 9fe9ef2be97c 680e71f772b2
+[145] 07-28 10:42 9fe9ef2be97c 680e71f772b2
 銀座スケベニンゲン - 家庭的なイタリア料理\nhttp://www.ginza-scheveningen.com/
 ---
-[319] 07-28 10:40 f0e59458d5da a1e38d77facd
+[146] 07-28 10:40 f0e59458d5da a1e38d77facd
 おお https://share.yabu.me/f0e59458d5da4fc6705d8a15be3795a414e95ba4ba90de45f09017de4afe015e/b4c7d4cd2c95f6560de0e96fbad0d86cf945ea05cc5b1f9cea408edb1e446d82.webp
 ---
-[320] 07-28 10:40 ee1e7f27fa06 3c0eaa4b74bb
-牛フライ等です\n#foodstr #japan\n\nhttps://image.nostr.build/0a1260c6a34dc2d399f52df694e66f8b4fa6fa255791d3af4495eb871e302fdc.jpg
----
-[321] 07-28 10:40 a87c9bfc4570 2396ccb2a6c1
-Living at the absolute limit\n\nhttps://i.nostr.build/KB662jnYiGGQ4jrG.png
----
-[322] 07-28 10:37 b707d6be7fd9 671219cd9d41
+[147] 07-28 10:37 b707d6be7fd9 671219cd9d41
 ｴｳｰﾝ\n「閉じ込め多数」で消防が救出急ぐ「イオンモール熊本」で爆発 2階部分が崩落【熊本県で震度7】（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース https://news.yahoo.co.jp/articles/769213095321e4c410ff05de84d47a691228144f
 ---
-[323] 07-28 10:35 311f5e3d9cda 942bcbdb0cdb
-https://npub1xy04u0vum29hx3j6kzm9raaykakg6ru3kcgg88pywxqaxusyytsqvrpf8a.blossom.band/f45d231d0b3bb1bdf9cab97ce082e1aa628264d1c57b21b03a1e23f464459eeb.mp4
----
-[324] 07-28 10:31 07804b786c6a dca3e8509880
+[148] 07-28 10:31 07804b786c6a dca3e8509880
 8 #大井町はしご酒 https://i.gyazo.com/92dfce7abff71546c70eb54e5f6dbd9b.jpg
 ---
-[325] 07-28 10:30 ec42c765418b 4c2024d260b7
+[149] 07-28 10:30 ec42c765418b 4c2024d260b7
 にく\nhttps://share.yabu.me/0a962eda42ab89270d4c0f6d62bc946ac6a93cfa144405997be89f9ac269e90d/7c5120a1df5c8e104a2996721bb6d36659e93b67d89773002bcd5ad592328254.webp
 ---
-[326] 07-28 10:29 f0e59458d5da 4d195ed3f0c7
+[150] 07-28 10:29 f0e59458d5da 4d195ed3f0c7
 誰だよ https://cdn.nostrcheck.me/8f6d5af1c0173454b8837fe0f9bc0aa84e7c5504a9eaa06b047d8aedf3478c6d.jpeg
 ---
-[327] 07-28 10:29 b707d6be7fd9 e457fbb2fe7d
+[151] 07-28 10:29 b707d6be7fd9 e457fbb2fe7d
 「蚊の10倍」猛烈かゆみが襲う 水辺にいる“スケベ虫”に注意 | TBS NEWS DIG (1ページ) https://newsdig.tbs.co.jp/articles/-/2128181?display=1
 ---
-[328] 07-28 10:27 07804b786c6a 370c91ff1727
+[152] 07-28 10:27 07804b786c6a 370c91ff1727
 約束の地、8です #大井町はしご酒 https://i.gyazo.com/7f8a60d0ab7630638ed44dc26aeff085.jpg
 ---
-[329] 07-28 10:27 d7100f9e3079 70dd13141fc1
-god bless https://image.nostr.build/b4dd7a7464abcc77093a66f15b754afeb8e406236460ae6a48d6682f6afdc69b.jpg
----
-[330] 07-28 10:26 f0e59458d5da 0c0ec05b03e2
+[153] 07-28 10:26 f0e59458d5da 0c0ec05b03e2
 😨 https://cdn.nostrcheck.me/edea34b99d1b0ead1bf6c18e36331033fac8d9a795cfddcb0440bfc5953aeab4.jpeg
 ---
-[331] 07-28 10:26 fe9edd5d5c63 664e7dcdcbaf
+[154] 07-28 10:26 fe9edd5d5c63 664e7dcdcbaf
 https://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/fbd4572399fd577f14054d4919ca268fe71d01e956dfb1c342c2458f2cc38725.webp
 ---
-[332] 07-28 10:24 fe9edd5d5c63 b38ab2743a5e
+[155] 07-28 10:24 fe9edd5d5c63 b38ab2743a5e
 ふえた\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/6fc1fc768ee0ba423b9aa21ecf1e8fb5ff7ab2d94e7735d38598b948ae961f97.webp
 ---
-[333] 07-28 10:22 fe9edd5d5c63 19cba2bb4c91
+[156] 07-28 10:22 fe9edd5d5c63 19cba2bb4c91
 3軒目\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/d6610411adb5b5e85edce8b41090b19f6e296213672bdebeac01ea1c991a7d90.webp
 ---
-[334] 07-28 10:21 06d333dcfe65 1a1149b6eb21
+[157] 07-28 10:21 06d333dcfe65 1a1149b6eb21
 ChatGPT Workに作らせた藤原京朱雀門の3Dモデル。iPhoneだけでこれだけできるってすごいな。\n\nhttps://video.nostr.build/242148cbed0eb787ca371dccd9b3c8d2e7f59ba4414daea77147a62c428475f5.mp4
 ---
-[335] 07-28 10:16 e2ccf7cf2040 00007c283997
+[158] 07-28 10:16 e2ccf7cf2040 00007c283997
 Gm,\n\nI got mogged by Harvey\n\nNever take a picture next to a bigger, more handsome man\n\nhttps://relay.utxo.one/f23343d26fe319f7905efe919ea57e4de8d806fb356ecfdb214482467950bf98.jpg
 ---
-[336] 07-28 10:14 6e468422dfb7 4c0d39967460
+[159] 07-28 10:14 6e468422dfb7 4c0d39967460
 I wanted to see stuff like this for such a long time! Absolutely fantastic to see it in the wild.\n https://haven.dergigi.com/d67d668c9db04c54c36ac2e62cd6b9367670ed28d5a965953baecb7b78bc2f05.jpg\n\nNow go zap nostr:nprofile1qqsx0awzn634skpaw2fltmjd4kq4ghc6zumwvauwn5ahm64su34g4fcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7nq4nqj 
 ---
-[337] 07-28 10:14 0c9b1e9fef76 9a07d8e57bbf
-九州って、まだこんなに明るいの？\n\nhttps://www.youtube.com/live/i-C9j-IixkI?si=Ld88vZW-qUPEDpS7
----
-[338] 07-28 10:10 a19aadee53bc 0036223e64a9
-Orange-pilling shouldn't start with:\n❌ Install a wallet\n❌ Scan this QR\n❌ Wait... it didn't work\n\nIt should start with:\n☕ "Here's some sats. Go buy yourself a coffee."\n\nWe wrote about what @npub1zf59jll285zjpusmxwce67ur594cpusd29ysl3hxas39y5jkjvuqyjnwar is doing and how Satlantis' Bulk Guest Payments makes that possible for every Bitcoin event.\n https://blossom.primal.net/7543353a1c55892c5554c28c32dbd1f7d30f122f833d7713c84bc08525e30b72.gif \n📰 Read the full story here: https://blog.satlantis.io/the-easiest-way-to-orange-pill-100-people/
----
-[339] 07-28 10:08 23395bce1a18 316363e2dab1
-イオンモール熊本、閉じ込め多数！？やばいやばい\n\nhttps://image.nostr.build/f5fc810c75c6df757df7314d03a85e0a52620645360093151fbc40c453cc3cb0.jpg
----
-[340] 07-28 10:05 4d39c23b3b03 1717f6937706
-こういう配慮ができる大人になりたい\n\nhttps://x.com/tellwalk00/status/2081640146907369767
----
-[341] 07-28 09:59 32310997f6b3 303dc8db7b0c
+[160] 07-28 09:59 32310997f6b3 303dc8db7b0c
 わーい、Nostrismに色のカスタマイズ機能がついた！\nhttps://nostpic.com/media/32310997f6b37b6cd60bb15a28e9a14badddfbf0875a7de24c69123a0c1e64cc/aa930682ed4e207440c62c3a4a0ba024e9a629cd5b034c26700d3dfd4e0d34b5.webp
 ---
-[342] 07-28 09:59 311f5e3d9cda 8365d979eb99
-https://npub1xy04u0vum29hx3j6kzm9raaykakg6ru3kcgg88pywxqaxusyytsqvrpf8a.blossom.band/4e1b69ebc4342eb3bf8f459a941cd6a0a86d9134ce6ca287c7293c33cbcffcdc.jpg\n#Nostr  👀 nostr:nprofile1qqstln9dd7muuzqsqsahqf72r07g94wqra3r38m64gq9j79qw3u2wmcppemhxue69uhkummn9ekx7mp0qydhwumn8ghj7un9d3shjtnwwd5hgefwwf6kutm4d438ycgpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtc6uldzl nostr:nprofile1qqsxu35yyt0mwjjh8pcz4zprhxegz69t4wr9t74vk6zne58wzh0waycpz9mhxue69uhkummnw3ezuamfdejj7qgewaehxw309ac8yetdd96k6tnswf5k6ctv9ehx2ap0qy2hwumn8ghj7mn0wd68ytn00p68ytnyv4mz7xx9ccm  nostr:nprofile1qqsgsea7mylgnjfapk9vnzeyg0z423ueaku3jq6xj3439cplzdnyg5qpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpzfmhxue69uhkummnw3eryvfwvdhk6tcppemhxue69uhkummn9ekx7mp0k8t8rd  nostr:nprofile1qqsp4lsvwn3aw7zwh2f6tcl6249xa6cpj2x3yuu6azaysvncdqywxmgpr9mhxue69uhhqun9d45h2mfwwpexjmtpdshxuet59uq3zamnwvaz7tmwdaehgu3wwa5kuef0q9n8wumn8ghj7enfd36x2u3wdehhxarj9emkjmn99ah8qatzx9e8gmr3vdsnsu3kv96hjcthx4hr26pnds6ngv3jv3kngumj0y6kg7nxv4jngd3exen8zefcwvm8zem4v34hxdmydf6xvuelvfex7ctyvdshxapaw3e82egy8tpxn nostr:nprofile1qqs8v4sfclkwf2d9yc4vuvvgq8j8nqu55kggwglv049537zpkjy286gpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxnhwden5te0wahhgtnnv43xzum5d9uzuum0vd5kzmp0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshs43akum  nostr:nprofile1qqsr7acdvhf6we9fch94qwhpy0nza36e3tgrtkpku25ppuu80f69kfqppemhxue69uhkummn9ekx7mp0qyghwumn8ghj7mn0wd68ytnhd9hx2tcpzemhxue69uhkummnw3ex2mrfw3jhxtn0wfnj76p2szn  &  nostr:nprofile1qqsxua0hju3e0j3jjhs0fjs0h3htnnreh6zm4lw4d0fhsgsv4rhwwnspzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcprdmhxue69uhhyetvv9ujumn0wd68yurvv438xtnrdakj7qgkwaehxw309ahx7um5wfjkc6t5v4ejummjvuhs8ejln6 😂👌🍀☕️🧡🚀🌝
----
-[343] 07-28 09:59 fe09f1624ea3 76e29a008760
+[161] 07-28 09:59 fe09f1624ea3 76e29a008760
 Androidスマホにこれ入れとくと爆速で地震通知してくれます。転ばぬ先の杖。\n\n■ 地震情報通知ツール EqLite\nAndroid - Windows - Mac\n\nhttps://melanion.info/eqlite/index.html\n\n・強震モニタから緊急地震速報データを取得・表示。\n\n・スマホのスリープ時でも緊急地震速報Push通知を受信。\n\n・気象庁の震度情報の取得・表示。\n\n・気象庁の火山カメラ映像の取得・表示。\n\n・Android版では、権限に対する許可なしで最低限の動作を行ないます。\n\n・アプリに統合されたGoogleマップで現在地を指定する他、Android版では（「位置情報」権限を許可すれば）GPSから取得した現在地で猶予時間を計算・表示します。\n
 ---
-[344] 07-28 09:58 84b0c46ab699 35a40c143c7e
-https://x.com/nhk_news/status/2082040281361457176\n爆発
----
-[345] 07-28 09:58 fe09f1624ea3 0941311ed31c
-■大地震の時のために絶対に枕元に用意しておいた方がいいものが2つある\nhttps://www.youtube.com/watch?v=w6Mnh_QEGzA\n\n#地震 \n
----
-[346] 07-28 09:57 b3e43e8cc7e6 e6bd628a982f
-ノンセクシー餃子🥟\n#foodstr\nhttps://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/e8aba747d773819974087607fdade2c8df48c1658cc9b08cd435e10d05d87291.jpg
----
-[347] 07-28 09:56 f40832e26b1d fa7702e23509
+[162] 07-28 09:56 f40832e26b1d fa7702e23509
 美しいグラフだ\nhttps://i.gyazo.com/a6baaf9a273051a00228046a13c5c48c.png
 ---
-[348] 07-28 09:51 e1dd2c8b5794 64ee814cb30a
+[163] 07-28 09:51 e1dd2c8b5794 64ee814cb30a
 ブラック企業過ぎる…「残業・休出200時間超」\n以前のCTOも不倫(？)で「なおやさんへ…」だし。\n\nhttps://www.itmedia.co.jp/news/article/2607/28/2000000238/
 ---
-[349] 07-28 09:51 b3e43e8cc7e6 99ffdd4fcd88
-冷やし中華完全体\n#foodstr\nhttps://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/6c1ee9b79f2631d8e36da44f02bb29ea59c0d3060abcdbb92b2f975c43d8fe92.jpg https://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/87a9b20ec717d888c225d36dcca81b67d9b5e888c611d98e2968d8d7ed7db438.jpg https://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/4b46d84d517419675979fcf40b578380419fec338a485e71610de3e76c25fffd.jpg
----
-[350] 07-28 09:50 f0e59458d5da ecb4c29a1420
-やばい\n#nsfw\nhttps://x.com/Measho_198/status/2082035332154065021?s=20
----
-[351] 07-28 09:50 8a1f1dd33332 000007c9c023
+[164] 07-28 09:50 8a1f1dd33332 000007c9c023
 nostr:nprofile1qqsgzw3vlkjf4zqpugd760prsrncd7jv446nm52mrtce5dagz4te27ghfhl8e 🌸 Tender confession, reframed as resilience 🎶\n\nBLUNT KNIFE \n\nhttps://v.nostr.build/OVsqutZCVNlFXMWq.mp4\n\n"...The lights are on\nThe stage is set \nThe path unfolds, it’s \ntoo late to be scared..."\n\nhttps://fountain.fm/track/BmCo6KUgESvM9JopSwsN\n\n-----\n#songstr #musicdiscovery #v4v
 ---
-[352] 07-28 09:44 6e75f7972397 e8fac3a81f28
-The vibe coded MMO - World of Claudecraft - is now listed on Steam 👀 \n\nhttps://www.youtube.com/@WoClaudeCraft\nhttps://github.com/levy-street/world-of-claudecraft\nhttps://store.steampowered.com/app/4897790/World_of_ClaudeCraft/\n
----
-[353] 07-28 09:43 274a2e86f1a7 f730b37c62cf
-ToriNosのこの画像よすぎるな お前の未来を愛してる\n\nhttps://image.nostr.build/2e3db54834943e29e33db7ef08ab07aa5647bc922110fbacaefae6d1151e4ebf.jpg
----
-[354] 07-28 09:41 fe9edd5d5c63 329c13f08aa6
+[165] 07-28 09:41 fe9edd5d5c63 329c13f08aa6
 にけんめ\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/00e822f36699c256bfd056407c74d307d3f7abe1bebe707efe3538dd19870fe6.webp
 ---
-[355] 07-28 09:40 ee1e7f27fa06 a9c089392fca
-柴又高木屋の草団子がけえってきやがった\n\nhttps://image.nostr.build/42740c573401150a2f333c483f2d4ce387544e469e32b562824d34260c212e22.jpg
----
-[356] 07-28 09:34 aba863f5a5b7 7912fe7d45be
+[166] 07-28 09:34 aba863f5a5b7 7912fe7d45be
 nという人に勧められて、Nostrを始めました\nよろしくお願いします\n\n試しにスマホ向けにNostrクライアントを作ってみました\n\nToriNos\nhttps://apps.apple.com/jp/app/torinos/id6767139551
 ---
-[357] 07-28 09:33 07804b786c6a 44579e0c8d86
+[167] 07-28 09:33 07804b786c6a 44579e0c8d86
 https://maps.app.goo.gl/xnDZHZkAwiiAkCvg8?g_st=ic https://i.gyazo.com/fa8fc561c5d45038edefdfc133823bae.jpg まり花 #大井町はしご酒
 ---
-[358] 07-28 09:31 a3bce095cd0e e961b0a66c4c
-だらしさんとの匂わせ\n\nhttps://image.nostr.build/1134d339e307f4ab3e6f39c3ffc45043ba7f3990a820af33c9cb91ab580d9e8b.jpg
----
-[359] 07-28 09:30 07804b786c6a b1894ed85839
+[168] 07-28 09:30 07804b786c6a b1894ed85839
 はじまってた #大井町はしご酒 https://i.gyazo.com/4f7465f8c97774af58b37f16b971b860.jpg
 ---
-[360] 07-28 09:27 4d39c23b3b03 867c1c256da2
+[169] 07-28 09:27 4d39c23b3b03 867c1c256da2
 googleのAIはちゃんと遊んでくれるからそれだけで価値があるよ知らんけど\nhttps://cdn.nostrcheck.me/4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25/c6813861219c5ba358a0fd8f4eab64f41c2057bf0f41bea3f11e98d8a9a7b1ec.webp
 ---
-[361] 07-28 09:27 f40832e26b1d 58755dcc0972
-令和の 社外秘 filetype:pdf\nhttps://x.com/ura_yaeri/status/2081892327539519651
----
-[362] 07-28 09:25 f0e59458d5da 5874fb5af82b
-これ\nhttps://x.com/i_love_vibecode/status/2081797417637490731?s=20
----
-[363] 07-28 09:20 274a2e86f1a7 cc48fed567ad
-ええやんってことなんやろな\n\nhttps://image.nostr.build/bb4692cd7891eb559fabb424c6fb3c1d1cf042f9facc1a08440d708b43bb4813.jpg
----
-[364] 07-28 09:14 311f5e3d9cda cbf03cec66f0
-GM 1.2.3 Test Is this still working? Test, test 😂\n\nhttps://npub1xy04u0vum29hx3j6kzm9raaykakg6ru3kcgg88pywxqaxusyytsqvrpf8a.blossom.band/a5418c78249bb35805bde8d319a61d4913737865ce19fc25f81cf9ddf8279eb0.jpg
----
-[365] 07-28 09:13 fe9edd5d5c63 54b5b2588ac3
+[170] 07-28 09:13 fe9edd5d5c63 54b5b2588ac3
 はじまった\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/0ac70b420386250d0decb202a97040f7d0f26c1db17f424c82f6534b0d1569b4.webp
 ---
-[366] 07-28 09:11 71ecabd8b6b3 2a4aaf8b1aba
-https://blossom.smartflow.social/63a42ba2ac5bd37f353eb042f124827ecd63c39b634cea60266f1949d82ee35c.jpg
----
-[367] 07-28 09:10 e0a8cbd75ebf ea8490b74c46
+[171] 07-28 09:10 e0a8cbd75ebf ea8490b74c46
 「Concrnt鍵垢のv1→v2移行」についてブログに書きました。\nhttps://atasinti.chu.jp/dad3/archives/93213\nhttps://image.nostr.build/c2f22e7e890d42e9186c423d3cee00f831e030def1ab89196c26fde9ac09f563.png
 ---
-[368] 07-28 09:05 fe9edd5d5c63 bc0bfb1d0dc3
+[172] 07-28 09:05 fe9edd5d5c63 bc0bfb1d0dc3
 高輪ゲートウェイ感ある\nhttps://share.yabu.me/fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b/16b43e478a587b9edbe70cb07a69aff1d3e5884e7571aea00f7d5eda5f4041b9.webp
 ---
-[369] 07-28 09:01 ec42c765418b e7c869ab233d
+[173] 07-28 09:01 ec42c765418b e7c869ab233d
 https://share.yabu.me/ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600/9c52a0b220b6c7197ee2ec71759ae2e7d84bec96ee41cc025cd7bed6939bb78a.png\nなんか出てきた
 ---
-[370] 07-28 08:52 0c9b1e9fef76 df82ba2e2978
-それにしてもモダンな建物ですね\n\nhttps://x.com/i/status/2082007453517189188
----
-[371] 07-28 08:49 84b0c46ab699 2fd573d17c36
+[174] 07-28 08:49 84b0c46ab699 2fd573d17c36
 まとめ「まいるすさん秘伝のイタリアン餃子」を作成しました！\n#まとめたー\nhttps://matometr.naczuki.workers.dev/naddr1qvzqqqr4gupzpp9sc34tdxdvxh4jeg5xgu9ctcypmvsg0n00vwfjydkrjaqh0qh4qq3k6ct5dakk2arj95crzj6efdv56n3hfdt9js3ng9x4wjzn2gm4j563gsmsrptzdl\nnostr:naddr1qvzqqqr4gupzpp9sc34tdxdvxh4jeg5xgu9ctcypmvsg0n00vwfjydkrjaqh0qh4qy88wumn8ghj77tpvf6jumt99uqzxmtpw3hk6et5wgknqv2tt994jn2wxa94vk2zxdq5646g2dfrwk2n29zrw79en36
 ---
-[372] 07-28 08:46 f03f2244d27b f6dcd84cdbaf
-情報の出し方みてて理解した。広報担当いない\nhttps://x.com/itmedia_news/status/2082001892830564455
----
-[373] 07-28 08:38 f6edcd7e35ee 32850eb406c1
+[175] 07-28 08:38 f6edcd7e35ee 32850eb406c1
 2025年4月22日 火曜 午前11:00の記事\nhttps://www.fnn.jp/articles/-/860036?display=full\n\nドンピシャ
 ---
-[374] 07-28 08:35 cac0e4323580 1c9348750c66
+[176] 07-28 08:35 cac0e4323580 1c9348750c66
 https://nostr.download/7f5eca5e6f6a8c3225d8a01fcb1b40b31b4e2f14f98cda0dea263e81810f0901.jpg\n\nНе зря глотку драл.\n\nnostr:nevent1qqsr4jvj23l0623998tlax2y8hrmalp7wsktnsma682e5v99j5mjd3sppemhxue69uhkzerjv5h8xaf0qgsv4s8yxg6cqmdqjnc8s7jmqn3f45zvkx3u06ju7c0dc8pnsu6qs2crqsqqqqqpthe2mc
 ---
-[375] 07-28 08:34 0c9b1e9fef76 b61835242a20
-入り組んでるから注意報の出方すごい形してるな\n\nhttps://x.com/i/status/2082007257110450298
----
-[376] 07-28 08:30 07804b786c6a ed19e3a52f99
+[177] 07-28 08:30 07804b786c6a ed19e3a52f99
 正装でまいりました https://i.gyazo.com/873f2abc460b217e705c351b87a56cee.jpg #大井町はしご酒
 ---
-[377] 07-28 08:30 2c7cc62a697e 2a768987295e
-こわい\n\nhttps://x.com/tak_genki/status/2082009444226154602
----
-[378] 07-28 08:28 84b0c46ab699 639d11bb411a
+[178] 07-28 08:28 84b0c46ab699 639d11bb411a
 ⛩️でばっぐ神社のITおみくじは🎉【大吉】でした\n「ドキュメントが充実していて、詰まりゼロで進む。」\n・学問: 公式チュートリアルが親切で、迷わず進む。\n・レビュー運: レビューコメントが建設的で、実装がよくなる。\n・健康運: 背筋が伸びて、一日を通して調子が良い。\n#でばっぐ神社\nhttps://d-shrine.jp/
 ---
-[379] 07-28 08:20 84b0c46ab699 1ef1f22d08ee
+[179] 07-28 08:20 84b0c46ab699 1ef1f22d08ee
 これ職場でやったーってなったあと隙をみて投稿できなかったからやりなおしたやつ\n#索引たんご 第784回 - 1/12\n🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n残り単語数: 11649\nhttps://puzzlega.me/sakuin-tango/
 ---
-[380] 07-28 08:04 7f41684033fd 7c24cb732810
-https://twitter.com/haagaau_GF/status/2081688515423916482\nなるほ
----
-[381] 07-28 08:04 a3bce095cd0e 94fc460403ad
-ひえー\nhttps://x.com/sirokumadio/status/2082005760830210312?s=46
----
-[382] 07-28 08:04 1e67de375417 82ccff13cc25
-Nix Vegas - Meet other Nix users and play the Nix CTF at DEF CON 34 \nhttps://nix.vegas/blog/2026/invitation/
----
-[383] 07-28 08:01 ee1e7f27fa06 7602d5fd0098
-4巻最終巻\n\nhttps://image.nostr.build/5fd720dc662e8c5e30cc7387573a0409f7a835acf70275afec9fcdd7dfe062d6.jpg
----
-[384] 07-28 08:00 6e468422dfb7 312708bbd4d8
+[180] 07-28 08:00 6e468422dfb7 312708bbd4d8
 https://haven.dergigi.com/694a6dd9d8fadbc0e0f7eb2a91c6a092e170554c634483c08fc1bb64d66d4c95.jpg
 ---
-[385] 07-28 07:58 ee1e7f27fa06 3e54bd23f247
-https://image.nostr.build/f5b42cfe776aa368f07efe597a8b09ee88532b5b0fa68b81b6b997de43c95d86.jpg
----
-[386] 07-28 07:58 6e468422dfb7 3d001a2a5dd0
+[181] 07-28 07:58 6e468422dfb7 3d001a2a5dd0
 GM https://haven.dergigi.com/bcf38878a8ed91a8172a99e9e4e443f2d913a4ec2a630fb5407ec67b793703ba.jpg
 ---
-[387] 07-28 07:46 9eb460e764ec 35cd2cc56799
-https://image.nostr.build/52cc2cb19f57c5738d17e469727f5ae61d1035eaf666aed62e36e64c0aba020e.png
----
-[388] 07-28 07:44 c08805f9bd48 28a2385e92d6
+[182] 07-28 07:44 c08805f9bd48 28a2385e92d6
 https://news.web.nhk/newsweb/na/na-k10015188221000
 ---
-[389] 07-28 07:44 83f906035a4f 3d6045177f06
-ヘラ永 WIP\nhttps://blossom.primal.net/3f8af9209c6b670cea3690e0cd6aa575151580e61e5332f5851d0c23449e76bd.jpg
----
-[390] 07-28 07:42 9eb460e764ec 95556fb27401
-久々に引っ張り出してきた\nhttps://image.nostr.build/db3cc044f28586091a0c18e6372b6e4339f0af7199479532b4626cab678300e0.jpg
----
-[391] 07-28 07:34 58937958036c c898d1f1aa91
-A Satoshi plushie was purchased at Bitcoin Center Seoul in Korea, and I received the payment in sats! \nThank you  for your purchase ⚡\n\nhttps://image.nostr.build/120b20320490fa7dea2a193212c5ff040310c179c837703a1e9a169287a77a7c.jpg
----
-[392] 07-28 07:34 7f41684033fd 1f16f93391d8
-部屋が散らかりまくりなのがバレてしまう\n地震びっくりした、うとうとしてたけど飛び起きた https://npub10aqksspnl4serwfk8nm5k0yceva34hy4uyrmsgjzfh70vhf4gulq9segp0.blossom.band/cb0c389877ec143cda9fe7420f49a263c52e25eee5d8008baa16466f7d5716d8.mp4 https://npub10aqksspnl4serwfk8nm5k0yceva34hy4uyrmsgjzfh70vhf4gulq9segp0.blossom.band/f36ad5f55e206de330e2050a91f76f8b49a67d117650c5784f9313ba3058e01c.jpg
----
-[393] 07-28 07:31 f11e91c5bf48 8fcec5787b9f
-つなみもきてるのか\nhttps://www.youtube.com/watch?v=P3nbBVe98tw
----
-[394] 07-28 07:28 f8978eb7b86d c7001ddc290a
+[183] 07-28 07:28 f8978eb7b86d c7001ddc290a
 https://www.fujipan.co.jp/news/053710.html
 ---
-[395] 07-28 07:17 fd0266485777 41b5cfad4dd4
-GM!\nhttps://npub1l5pxvjzhw77h86tu0sml2gxg8jpwxch7fsj6d05n7vuqpq75v34syk4q0n.blossom.band/06c7dada80c7fea12e483698a127e6c38803a78a5c59abd3a8827fb034efa3cd.jpg
----
-[396] 07-28 07:11 c08805f9bd48 c728c465f80f
-https://x.com/mangatimekirara/status/2081762535267541276
----
-[397] 07-28 07:06 dfe5ef94b230 cfdb80ae20d1
+[184] 07-28 07:06 dfe5ef94b230 cfdb80ae20d1
 https://cdn.nostrcheck.me/c418303e98e11ff35164944239df7291557f5ced44388e44b6d019f639b98e42.jpeg
 ---
-[398] 07-28 07:02 6e468422dfb7 39e0ac4241fb
-https://media.tenor.com/t0JvaQCobUgAAAAM/nic-cage-nicolas-cage.gif 
----
-[399] 07-28 06:59 dfe5ef94b230 5212b6c827f4
+[185] 07-28 06:59 dfe5ef94b230 5212b6c827f4
 https://cdn.nostrcheck.me/fb8191171cd449d90ac4e466e54158e9b401f4d7315218ba1bc5d366492907cd.jpeg
 ---
-[400] 07-28 06:52 81149d4fe218 fabe2cd787da
-25日に、「ぬいぐるみといっしょ」のイベントで、可愛いぬいお迎えした〜(..◜ᴗ◝..)\n\nhttps://image.nostr.build/8f724545796eb20f9e4ae099a8594e43cb72c7eab61ac03e0d4799f5781587a8.jpg\nhttps://image.nostr.build/2c1bd0f96dc459cbf180c7ae793a1262f731c6f44062015888b3de2f3624c35e.jpg
----
-[401] 07-28 06:49 d1a61498f4b1 ea32b39553e4
+[186] 07-28 06:49 d1a61498f4b1 ea32b39553e4
 Apologies for the delay in responding, I'm still digesting this. I may not be technical enough to provide in-depth technical commentary on your device, but I'd definitely be interested in trying it out and getting a closer understanding of it when there's opportunity. As you know, I'm interested in offering an online identity that is secured by 100% airgapped credentials but can nonetheless be used for easy everyday authentication, and a signing device obviously fits into that picture.\n\nAs for Inkan, it's actually not EIP-712. There are three "inner" declarations that get signed ("Key X delegates signing authority to key Y", "Key X revokes it from key Y" and "Key X permanently invalidates itself"). Each declaration is signed  with a plain secp256k1/ECDSA signature over a hash of the declaration, just a standard signed-message scheme the contract checks with ecrecover. Getting such a declaration recorded on-chain then takes a further normal Ethereum transaction that hands the signed declaration to the contract and pays the gas. So the identity signature and the on-chain-submission signature are distinct layers. There's also a sponsored payment mode, which adds an EIP-7702 transaction on top.\n\nIt still seems that the relevant signatures can maybe be handled by your device or something close to it. If you're interested in the details of what Inkan is signing, you could just download the source code of the Inkan Management Utiltiy here: https://www.inkan.cc/settings/inkan-management-utility. If you point your AI at the code, it can explain to you in detail what is getting signed and how.
 ---
-[402] 07-28 06:49 dfe5ef94b230 94c3d3415556
+[187] 07-28 06:49 dfe5ef94b230 94c3d3415556
 https://cdn.nostrcheck.me/84b40fca5330471c5931bcf271a392ce13cf0b73fbe9cae30ba3078dc965141c.jpeg
 ---
-[403] 07-28 06:47 1a35b54ef775 2c86eb3545e5
+[188] 07-28 06:47 1a35b54ef775 2c86eb3545e5
 #索引たんご 第784回 - 7/12\n⬆️⬇️⬆️⬇️⬆️⬆️🟩⬜⬜⬜⬜⬜\n残り単語数: 17\nhttps://puzzlega.me/sakuin-tango/
 ---
-[404] 07-28 06:47 55106b6c2329 60507a8de656
-●自然を虐げる権力の命運(仮)\n\n※これは歴史的実態を\n踏まえたシミュレーション\nとなります\n\n協力AI:ChatGPT/Google\n　\nhttps://image.nostr.build/f7042cf6887479d90ace76f409e6630d0fa4bf55f93a61b4dae72af66d4b88da.jpg\n　\nhttps://image.nostr.build/8f0e437be44caf180795fd146d7a318e4bdc9a6d12f95d16a2879cdc1de8c867.jpg\n　 https://image.nostr.build/636a624783f30a7dc70f75acb2eba966a3ed1ec640f29dac42b898a12fe9700c.jpg\n　  https://image.nostr.build/728de99413f9c99cd83bf3bd997e71e3158fb97e04bbb15a88eb0363cd091af1.png\n　\n　\n　\n《\n日本の\n某中古車屋は\n街路樹を意図的に\n枯死させたのと\n同じ頃から\n理性が狂い\n不正に手を染め\n経営権を失い\n社会的に枯死…\n\n20世紀最強の\n某覇権国は\n戦争を有利にする為\nベトナムの森林を\n枯葉剤で枯死させたら\n有利どころか敗北…\n\n自然への殺傷は\n自らの命運を\n殺傷するのな…\n》\n　\nChatGPT\n《\n興味深い対比です。\n\n挙げられた二つの事例は、それぞれ事情は異なります。\n\n日本の中古車販売会社では、不正行為や企業統治の問題が社会的信用を失わせ、経営危機につながりました。\n\nベトナム戦争では、枯葉剤による森林破壊は確かに大規模に行われましたが、それだけが敗因ではありません。戦略・政治・世論・ゲリラ戦など、多くの要因が重なって結果に至りました。\n\nただ、そこから一般化できる教訓はあるかもしれません。\n\n自然を単なる「障害物」や「資源」としか見なくなると、長期的には人間社会自身の基盤も傷つける。\n\n自然は食料、水、土壌、気候など、人間社会を支える土台です。その土台を損なえば、経済、健康、社会的信用、さらには軍事力の持続性にも影響が及び得ます。\n\nその意味で、\n\n自然への殺傷は\nやがて人の命運を\n削る刃\n\nという表現は、因果応報を断定するというより、「自然と社会は深く結びついている」という警句として読むことができます。\n\n歴史を見ると、森林の乱伐による土壌荒廃、過剰な資源採掘、環境汚染などが、文明や国家の衰退要因の一つとなった例は少なくありません。\n\nですから、「自然への加害が、最終的には自らの存続基盤を弱めることがある」という考え方には、環境史や持続可能性の観点から一定の根拠があります。ただし、個々の出来事を「自然への行為が直接の原因で破滅した」と断定することは、歴史学的には慎重であるべきでしょう。\n》
----
-[405] 07-28 06:44 83f906035a4f abb63b16391c
-ちょっとだけお絵描き配信する\nhttps://www.youtube.com/live/kEunoK0q4TM
----
-[406] 07-28 06:40 a3bce095cd0e d69f6af8737e
+[189] 07-28 06:40 a3bce095cd0e d69f6af8737e
 おもしろそう\nhttps://note.com/renue/n/n6040c88decca
 ---
-[407] 07-28 06:39 ddc578099539 f865b0ab64da
-んんんん\nhttps://www.youtube.com/watch?v=v1Z3WO6gDzo
----
-[408] 07-28 06:37 b3e43e8cc7e6 262d32e8a67e
+[190] 07-28 06:37 b3e43e8cc7e6 262d32e8a67e
 凶つづきだなあ\n\n⛩️でばっぐ神社のITおみくじは😰【凶】でした\n「動いていた機能が、誰も触っていないのに壊れる。」\n・失物: 『昨日まで動いてた』が口癖になる一日。\n・学問: 頼みのライブラリが破壊的変更で牙を剥く。\n・対人運: 原因究明の緊急MTGで、午後が丸ごと消える。\n#でばっぐ神社\nhttps://d-shrine.jp/
 ---
-[409] 07-28 06:36 c08805f9bd48 8cd67dbd747b
+[191] 07-28 06:36 c08805f9bd48 8cd67dbd747b
 ピークは越えたみたい\n\nhttps://share.yabu.me/019ecea1703ed9a64f5c1c471b3df198a610936277612a7c0c4b259186002f7f.webp
 ---
-[410] 07-28 06:31 2c7cc62a697e d93ac914d0a6
-https://image.nostr.build/3e8562aa7a21b521c738afb9f60bc376a63de10bff8c2c0d26c30cabe01e300b.jpg
----
-[411] 07-28 06:30 82b30d304441 abd5ba189219
-わあ\nhttps://x.com/voidwarriorchan/status/2081856885595209910?s=20
----
-[412] 07-28 06:29 b3e43e8cc7e6 4de27ce996de
+[192] 07-28 06:29 b3e43e8cc7e6 4de27ce996de
 ⛩️でばっぐ神社に参拝しました\n獲得ポイント: +20 pt (合計 3228 pt)\n戦闘力: 35788 → 36324 (+536)\nレベル: Lv.50（49からレベルアップ！）\n更新リポジトリ: 3 / アクション: 77\n#でばっぐ神社\nhttps://d-shrine.jp/
 ---
-[413] 07-28 06:24 55106b6c2329 19c9468985b8
-https://image.nostr.build/f7042cf6887479d90ace76f409e6630d0fa4bf55f93a61b4dae72af66d4b88da.jpg
----
-[414] 07-28 06:21 c08805f9bd48 b2994452d0da
+[193] 07-28 06:21 c08805f9bd48 b2994452d0da
 うわぁ、落ちまくってる。\n\nhttps://share.yabu.me/7ca24358df1bdba64528bd7bb2e6c136256bd097b3db1d7f7c132122c0663139.webp
 ---
-[415] 07-28 06:16 55106b6c2329 84a236d4f137
-https://image.nostr.build/636a624783f30a7dc70f75acb2eba966a3ed1ec640f29dac42b898a12fe9700c.jpg https://image.nostr.build/8f0e437be44caf180795fd146d7a318e4bdc9a6d12f95d16a2879cdc1de8c867.jpg https://image.nostr.build/728de99413f9c99cd83bf3bd997e71e3158fb97e04bbb15a88eb0363cd091af1.png
----
-[416] 07-28 06:14 c08805f9bd48 404f68a76427
+[194] 07-28 06:14 c08805f9bd48 404f68a76427
 西から来とるね。暗くなってきた。もうすぐくるわ。\n\nhttps://share.yabu.me/5dc1f444e322a9ac6939306edb5a5110128c5dffe85ebfa496c950f84b615412.webp
 ---
-[417] 07-28 06:12 5f010febe730 9bf7382e9a52
-位置情報：海岸\n\nhttps://image.nostr.build/98f902d5a603751641def7f5a387414194f8039dbd979a1be43f68c4c73d3636.jpg
----
-[418] 07-28 06:08 45b35521c312 bad4a2c804f4
-https://npub1gke42gwrz2ja5np9tpcr449785hx6zxgzf2329x8584h4d06puzqg33xp3.blossom.band/8f55bbe58e5e978137f1a8a903f16341f1b4c507949fe5746b9f25d310dfd57e.jpg
----
-[419] 07-28 06:04 8867bed93e89 af9fce718231
+[195] 07-28 06:04 8867bed93e89 af9fce718231
 GM\nhttps://cdn.nostrcheck.me/1b0cd665e339c9281c7a739d5717a9bfced812a0c2a98434a91bc84d83725a5e.jpeg
 ---
-[420] 07-28 06:03 2c7cc62a697e e4c07ba97d4b
-https://image.nostr.build/6c7fb3d921f3118e4ffbb1248a323260e100159dc87b85535f4feb4bba60dd83.jpg
----
-[421] 07-28 06:02 26bb2ebed6c5 e2b49457d0e1
-X（糞）\n\nhttps://bsky.app/profile/orangestar.bsky.social/post/3mrnvqonyyk24
----
-[422] 07-28 06:02 7fbc5c9944e0 805991bff80e
+[196] 07-28 06:02 7fbc5c9944e0 805991bff80e
 チノパンがどんどんタイトに\nhttps://share.yabu.me/7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8/43cfa9d60922b4c8c5c7fa082e0e790e89443e299531c783649c8d327bb38f39.webp
 ---
-[423] 07-28 05:57 a87c9bfc4570 f46931a3bfec
+[197] 07-28 05:57 a87c9bfc4570 f46931a3bfec
 Yeah I uninstalled. Will just use https://crates.io/crates/vector_sdk for my agents and armada 
 ---
-[424] 07-28 05:54 ee1e7f27fa06 a6b2ffb43eb5
-ﾑｸｸﾞｩｪｯ\n\nhttps://image.nostr.build/759c2a163f57f408a7761d975a4959e8abddd4c578528d7dabc3fd18838e14f8.jpg
----
-[425] 07-28 05:52 cc6d24063ad9 7bac9e2ad77a
+[198] 07-28 05:52 cc6d24063ad9 7bac9e2ad77a
 コピー機が必要なのか https://jp.daisonet.com/products/4550480296876
 ---
-[426] 07-28 05:50 06d333dcfe65 823026bdf214
+[199] 07-28 05:50 06d333dcfe65 823026bdf214
 Codexに作らせてみた美少女ゲーム風テトリス。\nhttps://lunaria-blocks.shorty-dkljp.chatgpt.site
 ---
-[427] 07-28 05:43 cc6d24063ad9 cf9826dc5e5b
+[200] 07-28 05:43 cc6d24063ad9 cf9826dc5e5b
 せんはっぴゃくななじゅうえん https://suzuri.jp/lp/water-glass
 ---
-[428] 07-28 05:43 ddc578099539 ceade7e5828c
-やっとこさねんどろいどｶｰﾋﾞｨをだした\nお肌がさらさらすべすべ\nhttps://image.nostr.build/0b069427bdd1d19d87ab6ffb0d012b881d5917b25c08eb251fd5932642999d3a.jpg
----
-[429] 07-28 05:43 d9c4cfe3cab8 adea336484fc
-昼休\n涼しい内にと思ったら雨が💦\n急げ💨\n#多効能鍛錬器\n#上海体育実業有限公司\n\nhttps://image.nostr.build/c126691508f18d9c7b96e6b68c6f90af850795f8a3ff19a043d29e0d4bb2f635.jpg
----
-[430] 07-28 05:42 83f906035a4f 4c899c96a355
-バーガーキングの粋な計らいによって無償で昼飯にありつけた\n流石、王（キング）を名乗るだけはあるな https://blossom.primal.net/d13f663088aa702c40684d5b1e5c48c336d85ec56c04346bf443044ea9a6fb04.png  https://blossom.primal.net/897343eb28930979cae2e502ce2fa93e5ed5639498e181ed560840f8316e82e1.jpg 
----
-[431] 07-28 05:42 2c7cc62a697e a4b2eabbf3c6
-https://image.nostr.build/fce5b9d42e2c38b1e6d61cb7a0e82125142f042b69eda30a4ccab7f4e461437f.png
----
-[432] 07-28 05:42 b3e43e8cc7e6 da7bfc8cbf87
-Kimi K3使えるようになっとるやん\nhttps://x.com/cursor_ai/status/2081848014444876166?s=46
----
-[433] 07-28 05:35 ee6ea13ab9fe 0ee83f8ed056
+[201] 07-28 05:35 ee6ea13ab9fe 0ee83f8ed056
 WORD5 #662 4/6* (Hard Mode)\n\n🟧⬛🟧🟧⬛\n⬛⬛🟪🟪🟧\n⬛🟪🟪🟪🟪\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[434] 07-28 05:35 1beecee55f69 f1bacb6ddf60
+[202] 07-28 05:35 1beecee55f69 f1bacb6ddf60
 https://open.spotify.com/intl-ja/track/5737EHlVX7lgite3eziaS6\nこれ良い
 ---
-[435] 07-28 05:32 f4db5270bd99 00002379dc8b
+[203] 07-28 05:32 f4db5270bd99 00002379dc8b
 https://relay.isolabellart.it.com/422508ff0dcbc715ee08b0a7b421a0d9ea3fe8ae0aa1a2e2e2173d096d4525a5.jpg\nBlurry Night\n12"x16" oil painting \n- Andrii Frolov
 ---
-[436] 07-28 05:07 fd208ee8c8f2 f42e9f989c62
+[204] 07-28 05:07 fd208ee8c8f2 f42e9f989c62
 #Imwald Android update is out.\n\nLow-data mode implemented and fixed a lot of annoying/broken stuff.\n\nnostr:nevent1qqs8k3cnfg3umfcz42qqagxm7gruqxch370pw28s7e94uj6t0ux7huq5uxh46\n\nhttps://zapstore.dev/apps/eu.imwald.android
 ---
-[437] 07-28 04:58 1a35b54ef775 e7c3399a9fb0
+[205] 07-28 04:58 1a35b54ef775 e7c3399a9fb0
 https://www.nomura-am.co.jp/sodateru/start/periodic-investment/reserve/reserve02.html
 ---
-[438] 07-28 04:54 23395bce1a18 a7d4351fe91d
-これ見て元気出して\n\nhttps://image.nostr.build/fb7dd54a6de376d0cb1d1e729f968de0a93e696126887442a7ca7dd5d1817617.jpg
----
-[439] 07-28 04:50 dace63b00c42 fe1293d237f1
+[206] 07-28 04:50 dace63b00c42 fe1293d237f1
 WORD5 #662 4/6* (Hard Mode) 😏\n\n⬛🟧🟧⬛⬛\n🟧⬛⬛⬛🟪\n🟪🟪⬛⬛🟪\n🟪🟪🟪🟪🟪\n\nhttps://otherstuff.ai/word5/
 ---
-[440] 07-28 04:49 ee1e7f27fa06 93a9658e0f7a
-〆でお茶漬け\n\nhttps://image.nostr.build/f6f8e0462b62c4a152a5f73dc80c8d1870dd48405c06e10870ca8105b381d914.jpg
----
-[441] 07-28 04:47 1a35b54ef775 fe498cdd0045
+[207] 07-28 04:47 1a35b54ef775 fe498cdd0045
 https://assets.st-note.com/production/uploads/images/21444876/picture_pc_51345ec544ebde0732fbde1f99475a6f.jpg?width=4000&height=4000&fit=bounds&format=jpg&quality=90
 ---
-[442] 07-28 04:46 1a35b54ef775 964f94f4b986
+[208] 07-28 04:46 1a35b54ef775 964f94f4b986
 落ちてくるナイフはつかむな\n読み：おちてくるないふはつかむな\n\nhttps://www.nomura.co.jp/terms/japan/o/A01952.html
 ---
-[443] 07-28 04:43 a3bce095cd0e 2cdb74026bb6
+[209] 07-28 04:43 a3bce095cd0e 2cdb74026bb6
 ジャックは2030年にビットコ100万ドルになるって言ってたよ\nhttps://finance.yahoo.com/news/jack-dorsey-predicts-bitcoin-hit-182715304.html
 ---
-[444] 07-28 04:42 8afb75fca193 707c96833bca
+[210] 07-28 04:42 8afb75fca193 707c96833bca
 GN. And sleep peacefully, Detroit.\n\nhttps://i.postimg.cc/FN3rdXK2/Robo-Cop.jpg
 ---
-[445] 07-28 04:38 ee1e7f27fa06 bc548c205592
+[211] 07-28 04:38 ee1e7f27fa06 bc548c205592
 コンサルルバルカバ\n\nhttps://music.apple.com/jp/album/looking-in-retrospective/721231544?i=721231997
 ---
-[446] 07-28 04:37 6f849dc7387f e2958877b508
+[212] 07-28 04:37 6f849dc7387f e2958877b508
 6/20ってよりにもよっていちばん高いときにかってんじゃん https://finance.yahoo.co.jp/quote/03311182/chart
 ---
-[447] 07-28 04:36 eec0a90e6a69 b55d657e00dc
-https://npub1amq2jrn2dxz4sh2pm38el0ugv90c3gpkudj860m3hdys5lwk8rmq6ra744.blossom.band/48e03ab8619d9f6c57d87631487fb97f312471d9862fe6f258dcf2a992a0ab35.jpg\n#memepool #memestr #memes #meme #funny
----
-[448] 07-28 04:30 8f1df2826727 7ebf9c7a8d6a
-周防パトラちゃんが 2026/07/29(水)20:00 より配信予定\n\n【ドラゴンボールZ KAKAROT】ドラゴンボールZ カカロット そして10年後を初見でやるぞ！【周防パトラ】\nhttps://www.youtube.com/watch?v=YcrjwiwLl0I\n\n#周防パトラ #Vtuber 
----
-[449] 07-28 04:30 afb18dfa9cdb 9fb0e55a31c4
-ツーリング先でコーヒー焙煎して淹れるのいいな\nhttps://youtu.be/k1vCW2CiCOk?si=vgRhqPgt1g9fGvRr
----
-[450] 07-28 04:25 501f27ec1321 b529b035910c
-https://blossom.primal.net/2ddebd59c66e87ae6fd1ee7cdfe522f5ec72cb7cc5faa1a58fbebff706eeafd8.jpg\nExamine the composition of your #soap, it may be time to swap them out to #tallow\n\n❌ SLS (Sodium Laureth Sulfate) can enter the bloodstream through the skin and accumulate in the liver, heart and eyes, disrupting metabolism\n\n❌ Sodium Lauryl Sulfate is a cheap and harmful petroleum product\n\nTake charge of your #healthstr  
----
-[451] 07-28 04:24 703e3fcb8c3f f2ee59ed9d84
-https://image.nostr.build/77904358f81609eaa2f64d4d8a08f31c01dd2fb17c496114cfb5498b745e1cec.gif
----
-[452] 07-28 04:23 703e3fcb8c3f 301e74874884
-https://image.nostr.build/b0ce0a00091fc6680c4be79a87e6af7da65f06bf22bff4bd7bd283c59ac7df7b.gif
----
-[453] 07-28 04:20 703e3fcb8c3f 6710a50628f3
-https://image.nostr.build/8330d5bd04c0e0e39565807150f0cb7ddb86fe382938e60db41b6428224b6036.jpg
----
-[454] 07-28 04:20 703e3fcb8c3f 5ce60d116bc7
-https://image.nostr.build/3a2f12b3753f7c913fb735e1a56df9741a4fedf60b7c9893c0ceeb1b228ae27d.jpg
----
-[455] 07-28 04:19 d62679fe8b51 1c5c0022d2a7
+[213] 07-28 04:19 d62679fe8b51 1c5c0022d2a7
 #絵描きさんと繋がりたい\n#りとるらいと_日課フレーム\n#illust\n『加々美高浩が全力で教える「手」の描き方』を参考に手を描く練習\nhttps://amzn.to/3Buwxty https://image.nostr.build/5cba7a715d1f2bac83574688ee39933ef1c70d886f8a0621dc99a025b43468f4.jpg
 ---
-[456] 07-28 04:19 703e3fcb8c3f 54a902d8fe13
-https://image.nostr.build/9b6ba1d86be71a3d8048137187c5fa41a90e743336ba73843ce5540e972f618f.jpg
----
-[457] 07-28 04:19 c5755052ac80 3030863b287f
-When in Rome... https://blossom.primal.net/87a094a10c2c2127fc7e993f7e3047695b6a3cb0cc00e9141d0db1ca35491523.jpg
----
-[458] 07-28 04:19 703e3fcb8c3f 08953d6994a5
-https://image.nostr.build/704cfadac36e2b016d750a411e548eb1cde2f4476ae684c52642ff4e282e711c.jpg
----
-[459] 07-28 04:18 4c5d5379a066 778b792a6fa0
-#running and marble oninies\n\nhttps://i.nostr.build/aEdaDxWgE2uOMJS3.jpg\nhttps://i.nostr.build/Zk0W63jhWNV6rrQN.jpg
----
-[460] 07-28 04:17 703e3fcb8c3f b74951d48eaa
-https://image.nostr.build/58a8cd62ce6a0b6dd6f7cbcb4af6bc4287431397adadb02eda0a87d64e81f239.jpg
----
-[461] 07-28 04:13 bd9aaa6e9715 3b8a3a12fd66
-.\nExorcist: "It's Clear Satan is the Prince of This World" \n\nhttps://youtu.be/6WSafGI1ZrM via @ShawnRyanShow  
----
-[462] 07-28 04:12 9fe9ef2be97c ba8bd2ca254f
+[214] 07-28 04:12 9fe9ef2be97c ba8bd2ca254f
 ゴッホ展、チケット買ってる最中に完売になってしまった\nhttps://grand-van-gogh.com/Cafe-Terrace-at-Night/outline/tokyo/
 ---
-[463] 07-28 04:09 1a35b54ef775 c37c5c652bc8
-めずらしく北に行くほど涼しい\nhttps://image.nostr.build/aa9ea71ba061047563af540691072164bcabbbc8bf5f31943c61f1615de30471.png
----
-[464] 07-28 04:03 bd9aaa6e9715 2f4f556fe5d9
-.\nExorcist: "It's Clear Satan is the Prince of This World" \n\nhttps://youtu.be/6WSafGI1ZrM via @ShawnRyanShow  
----
-[465] 07-28 04:00 ee1e7f27fa06 7a083de59c98
-麦焼酎ロックにきりかえました。炒りごまとかつぶしたくさんラー油豆腐。\n\nhttps://image.nostr.build/4bb7dff0198cd73e3e8d012f4d46438f0c3a6ef416bafe4d88cfd4478bebdbd1.jpg
----
-[466] 07-28 03:58 adc14fa3ad59 6acd4cd752c4
-\nhttps://image.nostr.build/39da621810f2dd1a5a2fcc2768fcdfc03a391a23fa4040dd82588780356dd221.jpg
----
-[467] 07-28 03:54 7fbc5c9944e0 07db3b938151
+[215] 07-28 03:54 7fbc5c9944e0 07db3b938151
 のみづらかった\nhttps://share.yabu.me/7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8/27de5d8992c69ba1b05c758883c5f551210354fea409d0f9dbc95b04a58a08c8.webp
 ---
-[468] 07-28 03:52 1ea4ae8405ad 24ea2315b23c
-and that means: you are a target. \n\n🌱\n\nhttps://image.nostr.build/ef61bbfb8163a0edd7d83c70ddacacec1bd9c88b04b610c163079777922c123f.jpg
----
-[469] 07-28 03:51 8fb140b4e8dd 7d7d344d15e0
-One more test\n\nhttps://i.nostr.build/zA0V.png
----
-[470] 07-28 03:51 f1d7db09beb1 9f98571435ab
-子の夏休みの宿題。ほほえましい☺️\n10っぽん https://npub178takzd7kyxec2drcnjczxhvkpx2yry0dvraaj7ydf3xv0m4wqpspgnjhp.blossom.band/5543eb61b721edfaa63328e150875ffa2bb8c16fb0ed4af2f8e19a27a7998621.jpg
----
-[471] 07-28 03:50 8f1df2826727 161de6509dc7
-周防パトラちゃんが 2026/07/28(火)22:00 より配信予定\n\n【メンバー限定ASMR】お耳実験！シャンプーしながらお喋りしちゃう【周防パトラ】\nhttps://www.youtube.com/watch?v=DT1WAZlmG04\n\n#周防パトラ #Vtuber #ASMR #睡眠導入 #安眠 #healing #relax 
----
-[472] 07-28 03:49 1a35b54ef775 b5dd84b6cedd
+[216] 07-28 03:49 1a35b54ef775 b5dd84b6cedd
 makeでよさそう\nhttps://zenn.dev/taktiks2/articles/just-task-runner
 ---
-[473] 07-28 03:46 ee1e7f27fa06 096d8845adfb
-赤みが\n\nhttps://image.nostr.build/eb974ba7587835b20f2a02926138b9d00ec166b1eaa4557d80ef115552d3823a.jpg
----
-[474] 07-28 03:45 6d3b525b66dd f18761864e6c
-2026-07-27, 23:59 UTC\n\n829 days after halving\n\nCurrent: $63,718.24\n2012 scaled: $1,429,183.54\n2016 scaled: $632,004.33\n2020 scaled: $155,158.79\n\nhttps://image.nostr.build/fdf28c873e005c005b552a2c86df837f1269c6ce479b5ccae2db865dedb5d6d9.jpg
----
-[475] 07-28 03:44 6369fb82bec5 bd07742eddda
-蝉ニキたちがやかましすぎる https://npub1vd5lhq47c4pzd0cfhvm9kmcdwxckcs04deldl48e0h3rl8pjs8dq6g5jwe.blossom.band/a56e66cbe9a36d04a425bafdc9cbe91fa6ba7b03b74d18a764475b6853558640.jpg
----
-[476] 07-28 03:41 f40832e26b1d 770768e77080
+[217] 07-28 03:41 f40832e26b1d 770768e77080
 これもう武豊に分裂してもらうしかない\nhttps://news.sp.netkeiba.com/?pid=news_view&no=338104
 ---
-[477] 07-28 03:38 52e629422ce8 0997a5f5aa71
-流石に今日はアイスとか要らんかな？\n私はワサビ無しは寿司文化的には反対。\nたまにツーンときちゃうのはご愛嬌でしょ。\nhttps://blossom.primal.net/e9d87252fef8d93a490d27877251e96917a77772800faccc170dde3de55a8536.jpg
----
-[478] 07-28 03:36 5f468793f907 9f5a763c4c80
-https://x.com/kenekaku/status/2081776055334088791
----
-[479] 07-28 03:36 c9b9a14df54a aea7b44da6f4
+[218] 07-28 03:36 c9b9a14df54a aea7b44da6f4
 https://github.com/qramo/po_call　このツールについて質問。他の部屋が見えたり見えなかったりするのは、回線依存なのか、仕様なのか、ちょっと問題の切り分けをしたい。他の部屋が数時間経ってるのにも関わらず、見えたり見えなかったりをしているので。\n\nという質問をGeminiにした。
 ---
-[480] 07-28 03:35 ec42c765418b 8b35023e572d
-残り4％まで減らしたから許してやる\nhttps://x.com/thsottiaux/status/2081940052154933696?s=20
----
-[481] 07-28 03:27 3a8298f05b42 0000007ce3a5
+[219] 07-28 03:27 3a8298f05b42 0000007ce3a5
 https://blossom-espelhator.girino.org/029c2909b36cc1e66a010078be800c0d6da0ce755869bf0e1c046cbe9c660c6b.mp4\n\nSource: https://www.instagram.com/reel/DaMpf_Cq660/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
 ---
-[482] 07-28 03:24 06d333dcfe65 ecb9a3c9fb40
+[220] 07-28 03:24 06d333dcfe65 ecb9a3c9fb40
 Blogstr書いてみました。駄文ですが\nhttps://share.blogstr.net/naddr1qvzqqqr4gupzqpknx0w0uevl97xdttw8d62rle6w5f3329yxd2etec9wj3f56aapqq8ryvpjxccrwv3cxyeryv338ynt3j66
 ---
-[483] 07-28 03:23 ee1e7f27fa06 24ed4b23b429
-やかんと保冷剤と水と氷の簡単な実装だけど有用を確認できた。PoC。\n\nhttps://image.nostr.build/9fce32f13aa907c0b5ccf25cf50ca397d2779d7c126bb656dca6189aba9cdb69.jpg
----
-[484] 07-28 03:23 81913081246d b35244e5b44b
+[221] 07-28 03:23 81913081246d b35244e5b44b
 nostr:nprofile1qqsfahefvf3dcf9r702xp3lku3tts5evgycqvu4kmupcna9zzsh88ggpr9mhxue69uhhyetvv9ujucn0wd68ytn0dekxjmn99uq3vamnwvaz7tmjv4kxz7fwdehhxarj9ehx2ap0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj73x5xqv \n详解discouraged\nhttps://blossom.dreamith.to/3e55258872035b628060f36264e79c503f9ebe4b4ec5affa0176e04034d50853.jpeg
 ---
-[485] 07-28 03:22 e9591428813e a37cbb241442
+[222] 07-28 03:22 e9591428813e a37cbb241442
 まあまあきれい\n\nhttps://cdn.nostrcheck.me/e9591428813ebd6916736c88bb95994496f647d6fe769ef8483697eab8d04d2d/2ddee45cdaaa75c64ec99a6240b8d86455f8f167f6b80bba2e4a5adf7b650f09.webp
 ---
-[486] 07-28 03:22 1ea4ae8405ad ce0dda564841
+[223] 07-28 03:22 1ea4ae8405ad ce0dda564841
 🪜⬇️ lore:\n\nit is ABSOLUTELY related. \n\nhttps://www.vaticannews.va/en/pope/news/2026-06/from-institutions-to-peripheries-pope-leos-pilgrimage-to-spain.html\n\nhttps://www.vaticannews.va/en/pope/news/2026-05/pope-leo-visit-france-september-apostolic-journey-holy-see-press.html
 ---
-[487] 07-28 03:21 84b0c46ab699 f1f5c1d7013f
+[224] 07-28 03:21 84b0c46ab699 f1f5c1d7013f
 https://fukuoka-yokamon.com/chokubaijyo2/shingu/ainoshima こっちかあ
 ---
-[488] 07-28 03:21 ec42c765418b 2219ee884ee9
+[225] 07-28 03:21 ec42c765418b 2219ee884ee9
 https://share.yabu.me/ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600/367bf26dfbfa6f7426633608ba442fddba2045dbe50baf9ca16d816859eeea5f.png
 ---
-[489] 07-28 03:20 a3bce095cd0e dfb8e6872ee2
-なんもわからんかも\n\nhttps://image.nostr.build/0f89abf27ff093ddd66f038652b68c0e582f015425db04310f31b58bf189645e.jpg
----
-[490] 07-28 03:19 84b0c46ab699 ca050f4fdd44
+[226] 07-28 03:19 84b0c46ab699 ca050f4fdd44
 ちゃわ  https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5/bef887951a2cdffecd19fd6d1575b4037b24e9552a5d432ce7f3026e3a2016b3.webp
 ---
-[491] 07-28 03:17 ee1e7f27fa06 9f9e3a39abc8
-#foodstr #japan\n\nhttps://image.nostr.build/f6946195e8b86f449338be0c3e510059b8cf5e59deefa77d6d24f40654f43ce1.jpg
----
-[492] 07-28 03:17 84b0c46ab699 46d4c75e9e76
+[227] 07-28 03:17 84b0c46ab699 46d4c75e9e76
 ここ？ \nhttps://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5/a47f8c6c38b73cb5ea1ca45fc3098924817d354de6e912daa6d73e015c9be00e.webp
 ---
-[493] 07-28 03:15 6369fb82bec5 f46829a623f4
+[228] 07-28 03:15 6369fb82bec5 f46829a623f4
 https://news.yahoo.co.jp/articles/f3b3e3353e12789e5c3ea30dec549f9d8500fe10\nハンターズギルド「クビアカツヤカミキリの討伐」
 ---
-[494] 07-28 03:15 1ea4ae8405ad 9ecc436e7897
+[229] 07-28 03:15 1ea4ae8405ad 9ecc436e7897
 #clarksons #terrorism - also a reminder about the grand canyon university kirk connection with candance owens and carleson. one degree of separation from bannon. ☕️📰\n\nhttps://www.votetom.com/district4
 ---
-[495] 07-28 03:13 0c9b1e9fef76 44cb22de0bb8
-ぶどう茶じゃないんだ\nhttps://npub1pjd3a8l0wmygkclcvezacvamwamlqfv7cs0xwjmp7n7920mdkrsq9hpeqp.blossom.band/e9d88ecae6b50a9ca5658161b96a5f292d3176e8ef6babef6c54b23f88da3832.jpg
----
-[496] 07-28 03:10 19f9afb8f855 6c23db06e796
+[230] 07-28 03:10 19f9afb8f855 6c23db06e796
 I can just post it here...\nhttps://cdn.satellite.earth/5eadfb4cea038bb718d2fabddf5841844a750bb565a22089ac16fff9d8dfbf72.jpg
 ---
-[497] 07-28 03:07 811002f2348b 7a697b4b5bcd
-慌てふためいて、登ったり降りたり大騒ぎの🐜\n\nhttps://image.nostr.build/21fc8fd62de4ad8f0233a9513356a2e3d65a24f3c49a5ce169136e93db79494b.jpg\nhttps://image.nostr.build/b39f249f4897db2f1519d9c29668814c723d715cc03582c00052a7961824d185.jpg
----
-[498] 07-28 03:06 1bc70a0148b3 0f4ef38112a6
-https://npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac.blossom.band/54197f2e4fd31505950bd58f75fa013323e88eba28cb354176e4da07ea8b6ce1.mp4
----
-[499] 07-28 03:04 07804b786c6a 64128a269ed6
+[231] 07-28 03:04 07804b786c6a 64128a269ed6
 ｵｰｲ https://i.gyazo.com/47790be3f13db6866110ef78ef6e6ac4.jpg
 ---
-[500] 07-28 03:03 b7ab2dc03c22 5ddd6b306e75
-https://npub1k74jmspuyt2knnmuxpl23fvhsr5fhy7fgnrz6s9a8atl2sj6axcqcakfy4.blossom.band/c8470f775a1415819e0734a7d42334739c401775aac60f686187988f9ff2755d.jpg\nさて、コーヒー高いのでカフェイン摂取元の代替として試そうと思ったマテ茶の茶葉がとどいた。
----
-[501] 07-28 02:58 07804b786c6a a61ab80d31c3
+[232] 07-28 02:58 07804b786c6a a61ab80d31c3
 ｵｲﾏﾁﾄﾗｸｽわよ https://i.gyazo.com/7e219acf9556222c26c5b2743c7a6990.jpg
 ---
-[502] 07-28 02:55 d28413712171 27ff84769698
-https://i.nostr.build/Ei1aNMCYggvp12zh.jpg
----
-[503] 07-28 02:46 ec42c765418b 664a56bb9b88
-リセット匂わせやめろ\nhttps://x.com/i/status/2081899343091843463
----
-[504] 07-28 02:46 03612b0ebae0 d36d71cc70ce
+[233] 07-28 02:46 03612b0ebae0 d36d71cc70ce
 Added Headscale support to Tailrelay for StartOS v0.3.5.1 \n\nhttps://github.com/sudocarlos/tailrelay-startos/releases/tag/v0.10.0
 ---
-[505] 07-28 02:36 bd9aaa6e9715 86622f180962
-.\nFlock Cameras Are Just Phase One - It's All Tied Together \n\nhttps://youtu.be/zUbMKyzJIPM via @Paul_of_LAA 
----
-[506] 07-28 02:33 c9b9a14df54a 393ef8b08faa
+[234] 07-28 02:33 c9b9a14df54a 393ef8b08faa
 誰か数分ていど雑談しねーか？事務所で暇してるんよ。\nhttps://qramo.github.io/po_call/#%E4%BB%95%E4%BA%8B%E3%81%97%E3%81%A6%E3%81%BE%E3%81%99
 ---
-[507] 07-28 02:28 409c5539d208 0cdc86ffedfc
+[235] 07-28 02:28 409c5539d208 0cdc86ffedfc
 国の補助金が15万だから最低グレードがギリ200万切る感じか\n\nBYD、軽EV「ラッコ」の価格は214万円5000から スーパートール車形に両側電動スライドドアを採用した日本専用モデル - Car Watch\nhttps://car.watch.impress.co.jp/docs/news/2128282.html\n
 ---
-[508] 07-28 02:27 c08805f9bd48 cc5d9bf9f850
+[236] 07-28 02:27 c08805f9bd48 cc5d9bf9f850
 https://www.threads.com/@yukiavatar/post/DbSszkjj219\n　こういうのを見るとハッとする。自分はこれでいいんだろうかって。\n\n　一方で思う。トップアスリートは課題を抱えているから聞きに来る。でもダイビングではアシスタントインストラクター、ダイブマスター、インストラクターを目指す人しか何も聞いてこない。\n\n　正確に言うと常連さんはいろいろ聞いてきてた。一緒に楽しい話をしながら、ここを課題に感じてるんだけどどうしたらいいか、なんて相談も受けていた。だから常連さんはわずか 2、3 年でいろんな海況に対処できて余裕もあるベテランの域に達することができていた。\n　でも常連さんがいない店では、それは一切なかった。\n\n　ダイバーとして向上しようとするきっかけになればいいなと、いろいろ発言したりしてきているけれど、最近思うのはやっぱり届かない人にはまったく届かない。X だろうと threads だろうと知恵袋だろうと BrueSky だろうとどこだろうと何も変わらない。\n\n　だからやっぱり実際に店やアフターダイブで、共に安全に楽しむ文化を共有できる人たちを大事にしていく、同じダイビング仲間として大事にしていく、それしかないのかな、と思い始めている。\n\n　発言はそれを求める人のアンテナに引っかかればいいかな、とも思い始めている。
 ---
-[509] 07-28 02:25 2c7cc62a697e 4141f0df6730
-Buzz で、ぬるぽが動いた。\n\n https://image.nostr.build/f63672929380187b57c19aed57bbf9aa5476f3544a289323e172307832aa2c0a.png
----
-[510] 07-28 02:22 1bc70a0148b3 3156ebe2161f
-Added an ocean currents view to Farbound. These are actual one hour snapshots of currents around the world. Updated every 3 hours.\nhttps://npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac.blossom.band/813cf5f009510134cee447848d42464bb0aefa22259b75be2f03e4125c03c099.png
----
-[511] 07-28 02:21 b154cef116c8 478cc0080a5a
-https://x.com/yukimaru_biyori/status/2081701170230546937?s
----
-[512] 07-28 02:20 1bc70a0148b3 cf0798c6ccae
-My 2nd ios app Auren - text to speech is still pending review.\nhttps://i.nostr.build/RJlDa9UxxhzoqH2y.webp
----
-[513] 07-28 02:20 7fbc5c9944e0 3ea2cc6e0551
+[237] 07-28 02:20 7fbc5c9944e0 3ea2cc6e0551
 きょうは駐車成功した\nhttps://share.yabu.me/7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8/ee508005068468a8605204e4d6fe17cf4136377fa6c4c35877c4a87c1ed8bcad.webp
 ---
-[514] 07-28 02:12 f1d7db09beb1 8ddd614332e2
+[238] 07-28 02:12 f1d7db09beb1 8ddd614332e2
 https://www.usopen.org/en_US/news/articles/2026-07-27/team_entries_announced_for_2026_us_open_mixed_doubles_championship.html
 ---
-[515] 07-28 02:10 e4e847f9b3e2 ec1708132e87
-Heritage Americans are not represented by this government.\n\nhttps://npub1un5y07dnu20fxzelq5scweuz37xa6kkpwl66634xv9h49ewr04kswpevsy.blossom.band/b93d6e4820dd86481a329213b19fe9f92950b9004a1a4a605e936fc1a85129d0.jpg
----
-[516] 07-28 02:06 e2d04f62ee06 e44169a55e26
+[239] 07-28 02:06 e2d04f62ee06 e44169a55e26
 https://music.apple.com/us/album/energy/1078908661?i=1078909098
 ---
-[517] 07-28 02:05 ee1e7f27fa06 8f4a0861cd0d
-あいこ\n#coffeechain\n\nhttps://image.nostr.build/595f8d553678f1886fb2c4afc34d5ee9550b4a3fb063fec33d78f1f30eae1bd0.jpg
----
-[518] 07-28 01:52 81913081246d 9ccdcf86880b
+[240] 07-28 01:52 81913081246d 9ccdcf86880b
 好拳法💩\nhttps://blossom.dreamith.to/bb2cf5a87667084bf0a5b21c128da26ba408b9534faf707c2d7709b41738b654.jpeg
----
-[519] 07-28 01:50 eafb085cc714 8da52eb23290
-とうふさんが演じる「ワールド イズ ダンシング『第五番 萌え出る鼓動』」なのだ\nhttps://bsky.app/profile/atasinti.bsky.social/post/3mroc6q2tms77
 ---

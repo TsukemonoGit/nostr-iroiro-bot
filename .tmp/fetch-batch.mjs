@@ -41,6 +41,8 @@ const EXCLUDED_DOMAINS = new Set([
   "img.toto.im",
   "img.wangmoyu.com",
   "shorturl.at",
+  "projekto-epekto.netlify.app", // フィリピン政治キャンペーン bot ネットワーク
+  "nadezhda.netlify.app", // 政治キャンペーン bot ネットワーク
 ]);
 
 function excludedUrl(url) {
@@ -125,6 +127,7 @@ const EXCLUDED_PUBKEYS = new Set([
   "8f1b628ef24c", // AWS whats-new スパム bot（英語・同刻大量投稿）
   "71ecabd8b6b3", // The Meme Bay（英語ミーム bot・smartflow.social プロモ）
   "d735231e8eeb", // クラスメソッド記事共有 bot
+  "4fc2e3f74d5e", // Furry Art AI画像スパム bot（trycloudflare 生成画像 + BTC tips）
 ]);
 
 const configPath = process.env.ALGIA_CONFIG || join(homedir(), ".config", "algia", "config.json");

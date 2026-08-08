@@ -670,5 +670,285 @@
     "tool": "https://balloon-jp.vercel.app/nostr/",
     "note": "balloon-jp.vercel.app/nostr/（ふうせん🎈 FU-SEN 自作の Nostr 使い方・鍵一覧ガイドページ。Long-form content の記載を追記）。kind0 の WebSite が同一 URL で作者本人確定。日本語。Nostr ガイドページ（ツールではない）",
     "content": "もちろん Long-form content  の記載も加えてあります〜\nhttps://balloon-jp.vercel.app/nostr/"
+  },
+  {
+    "id": "b81e9fab032205b269e038750c7af7a7d784279987e6243d209cd0473f089cfc",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1782861469,
+    "tool": "https://kuronekop.codeberg.page/nostr_html_tool/nhc.html",
+    "note": "✞NHC✞（nostr_html_tool。黒猫P@受験生/kuronekop 自作の Nostr クライアント。codeberg の kuronekop ページで作者本人）。投稿はリンクのみで無言だが、同一アカウントの投稿は日本語。Nostr ツール",
+    "content": "https://kuronekop.codeberg.page/nostr_html_tool/nhc.html"
+  },
+  {
+    "id": "a258e52b47307831bb778548e8f45881fff81048eec5c2218371385493f1c69e",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782739599,
+    "tool": "https://github.com/kojira/strfry-ratelimit",
+    "note": "strfry-ratelimit（kojira 自作の strfry writePolicy プラグイン。pubkey ごとのレート制限・自動BAN・kind クラス対応・Rust）。「これからのリレーはratelimitのBAN必須」。作者本人（kojira 確定、日本語）。Nostr 向け。関連: 同じく自作の strfry フォーク（https://github.com/kojira/strfry、プラグインでないため本家プルリク不可）",
+    "content": "rust製のプラギンでもいいし\nhttps://github.com/kojira/strfry-ratelimit\nわいのstrfryフォークでもいい\nhttps://github.com/kojira/strfry\n\nこれからのリレーはratelimitのBAN必須"
+  },
+  {
+    "id": "6fa3a96e4d2e87b641fd67dc7216ebd49a3ff2008da0d7a9ea444d563561e8b5",
+    "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
+    "created_at": 1782728979,
+    "tool": "https://github.com/haruki7049/buildente",
+    "note": "buildente（haruki7049 自作の Java ビルドスクリプトライブラリ。ziglang の build.zig に相当するビルド定義を目指す）。リンクのみの投稿だがリポジトリ所有者 haruki7049 が投稿者と一致（同アカウントの lightmix も収載済み、review5 の「これです」でも本人確認）。日本語。Nostr ツールではないが投稿本人の作成物",
+    "content": "https://github.com/haruki7049/buildente"
+  },
+  {
+    "id": "e7de424aa23e98ebcbdb3145ffa1ac510ab7ea2e8eb8b8b62127620391445cd2",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1782721041,
+    "tool": "https://github.com/SnowCait/snowflare",
+    "note": "snowflare（SnowCait 自作の Cloudflare Workers で動く Nostr リレー。in-memory ストレージ実装のコードを紹介）。作者本人（SnowCait 確定、日本語）。Nostr 向け",
+    "content": "in-memory ストレージだとこんな感じ\nhttps://github.com/SnowCait/snowflare/blob/a21967d06cbf75875bcd2aaa17705454ca121f75/src/repository/in-memory/event.ts"
+  },
+  {
+    "id": "8a69b59c00e75f40b09b1c6593fb34c34fcd2ee01aa6ab9e3145f87f3c732b54",
+    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+    "created_at": 1782714819,
+    "tool": "https://github.com/ocknamo/kanabun",
+    "note": "kanabun（ocknamo 自作の Svelte ライクなフロントエンドフレームワーク。Bun + TypeScript だけで作られランタイム依存ゼロ。SSR/SSG・ルーター・テストヘルパー等を実装）。v0.0.0 パブリッシュ報告。作者本人（ocknamo 確定、日本語）。Nostr ツールではないが投稿本人の作成物",
+    "content": "kanabun v0.0.0をパブリッシュしました！\n目立つバグは対応しましたが、動作確認中であり0.0.0相当です。\n\nhttps://github.com/ocknamo/kanabun/blob/main/README.ja.md"
+  },
+  {
+    "id": "a9a9e08aaa7eb1d8d12c1575b9a8d6c53f673db508264fb4688665e6a7480d98",
+    "pubkey": "d1a61498f4b1dc26df0becd1a3e9e88f355fb614b771e8b5b277d0ff99a82a23",
+    "created_at": 1782707769,
+    "tool": "https://www.inkan.cc/",
+    "note": "Inkan（d1a61498f4b1 自作の Nostr アイデンティティ管理プロトタイプ。アイデンティティと署名用キーを分離し、マスターキーはコールドストレージに保管。署名用キーの失効・新キーへの委任をマスターキーで行い、委任/失効の申告を Ethereum に記録）。「Inkanはそこを変えようとしています」。作者本人（Inkan 開発者、日本語投稿）。Nostr 向け。関連: 同じく自作の inkan-offline-live（エアギャップ署名用ライブUSB https://gitlab.com/inkan_dev/inkan-offline-live、投稿 84ecaa12…・created_at 1782703324）",
+    "content": "今の仕組みだと、オンライン上のアイデンティティは、ほとんど秘密鍵そのものになってしまいます。\nその鍵が漏れたり失われたりすると、そのアイデンティティも終わってしまう。\nInkanはそこを変えようとしています。\n\nマスターキーはコールドストレージに置いたまま、普段の投稿や署名には別の署名用キーを使います。\nもし署名用キーが漏れたり失われたりしても、マスターキーで取り消して、新しいキーに委任できます。\nアイデンティティもフォロワーもそのまま。署名用キーだけ新しくできます。\n\nプロトタイプはこちらです：\nhttps://www.inkan.cc/\n\nNIP-07拡張機能でログインして、すでに動いているテスト用アイデンティティたちに話しかけてみてください。自分のアイデンティティを作ってみることもできます。\n\n\nhttps://image.nostr.build/27d256a9fcba336f567ea6369d0b6984feb72b00b06a5205efe029534113ab99.jpg\n\nhttps://image.nostr.build/ca9b087993604f7b7d9473a661c946ecd20015186a112021f4858efa6c1e1808.jpg\n\nhttps://image.nostr.build/fa5c1f8e19e3727b6693e6f105baf4eae15c4579343148fc413ac50acfe8edf0.jpg\n\nhttps://image.nostr.build/f7002003e981f536bec01789875c17596f6c0eac87526a071c350480029c5827.jpg\n\nhttps://image.nostr.build/3f6b865161cba71839910daa4f3c80b46c36400d5e2332ecad927b86003fcaad.jpg\n\nhttps://image.nostr.build/a10f0ac6d508ea26602348bbec60bda4659667f75adfda46d9b8354224cd08fe.jpg\n\nhttps://image.nostr.build/ce3d8e4de21b3e6f252f5aedbf02dd54323a26c1992c637438fabb9b14ea7afd.jpg\n\nhttps://image.nostr.build/60f8a59a68386e2f28b792b63d09729ed494ebe6caddb7f6810e3c10f48b6e82.jpg\n\nhttps://image.nostr.build/55000542eb9db4794c8ec07dcdfc93fa5560633afcd754476f6809e9c4bb5ac7.jpg"
+  },
+  {
+    "id": "8038d51e7db0274b30e872470a8be6381f8a648fe4ca4be168d1d8c80caf028e",
+    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+    "created_at": 1782705966,
+    "tool": "https://crates.io/crates/proxy-nostr-relay",
+    "note": "proxy-nostr-relay（しのさん 自作の Nostr プロキシリレー。Rust 実装・crates.io 公開。ボットフィルタリングと管理 WebUI 付きで、複数のリレーを束ねられる）。「わいのProxyも結構いいよおそらく」。作者本人（しのさん = ShinoharaTa 確定、日本語）。Nostr 向け。リポジトリ: https://github.com/ShinoharaTa/nostr-proxy-relay",
+    "content": "わいのProxyも結構いいよおそらく。\nWebUIから設定色々変えられるよ。\n複数のリレーまとめられるよ\nhttps://crates.io/crates/proxy-nostr-relay/0.1.0"
+  },
+  {
+    "id": "d0f6ba0145b74c77aec40ffb22fefccb216ca673e68438748596010b13e97fa4",
+    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+    "created_at": 1782627608,
+    "tool": "https://ocknamo.github.io/x-is-down/",
+    "note": "x-is-down（ocknamo 自作の X(Twitter) 稼働状況チェック Webアプリ。今回 nosskey ログインに対応）。「「X落ちてる？」がnosskeyログインに対応しました。」作者本人（ocknamo、日本語）。Nostr 関連（nosskey ログイン対応）。",
+    "content": "「X落ちてる？」がnosskeyログインに対応しました。\nhttps://ocknamo.github.io/x-is-down/\nhttps://share.yabu.me/26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958/35af2edef3eb366f686456ce30be9e89a435b4ebbed7cddf686b8bcd1364643a.webp"
+  },
+  {
+    "id": "6a6161a7e283d0dad4c23f201439869f00a2cd4360cdca29868ed824920e084f",
+    "pubkey": "82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003",
+    "created_at": 1782573582,
+    "tool": "https://matometr.naczuki.workers.dev/",
+    "note": "matometr（那月=matometr作者のNostrまとめツール）。「まとめ…を更新しました！#まとめたー」。プロフィールで自作と明記、日本語",
+    "content": "まとめ「「役に立たないミニアプリ集」inspired by ぺぇ」を更新しました！\n#まとめたー\nhttps://matometr.naczuki.workers.dev/naddr1qvzqqqr4gupzpq4np5cygstsu65vsx0ggphrv23kj4z553sh39xwyur08pqvdsqrq"
+  },
+  {
+    "id": "73b291379cbd4d51b16a51c0680aa0da04c020e59ac1de5372bbe729bc8547f1",
+    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+    "created_at": 1782539189,
+    "tool": "https://github.com/ocknamo/nostr-cache",
+    "note": "nostr-cache（ocknamo自作のブラウザで動くNostrリレー実装）。「claude codeのせいで放置してたプロジェクト引っ張り出して進めてる」。本人・日本語、Nostr向け",
+    "content": "claude codeのせいで放置してたプロジェクト引っ張り出して進めてる。\n\nhttps://github.com/ocknamo/nostr-cache"
+  },
+  {
+    "id": "e4c05ebec9e41de56aeabf189ff3d7d7b20ab05b07e510f643e205a306caef01",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1782570441,
+    "tool": "https://10-tiny-useless-tools.vercel.app/",
+    "note": "役に立たないミニアプリ集（ぺぇの自作ミニアプリ詰め合わせ、Oracle Gacha等）。「たまに遊ぶと楽しいかも」。本人・日本語。Nostr向けではないが本人作成",
+    "content": "たまに遊ぶと楽しいかも\nhttps://10-tiny-useless-tools.vercel.app/"
+  },
+  {
+    "id": "d8d46c36ebc6b87fb3e6f2e530a7a5206f6470aafbc1ea50d1b7c9d969e0a2ca",
+    "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
+    "created_at": 1782467015,
+    "tool": "https://github.com/haruki7049/iai",
+    "note": "iai（haruki7049自作のゲーム。スコアボードをGoogle Cloud Run+Firestoreで実装）。「iaiってゲームです…成果を見せびらかす」。投稿に日本語、作者本人（haruki7049、buildente作者）",
+    "content": "https://github.com/haruki7049/iai/releases/tag/v0.1.6\nある程度出来た。とりあえず成果を見せびらかす。iaiってゲームです。Google Cloud RunとGoogle Firestoreを使って、スコアボードを作りました。生成AIに殆どを書かせた。生成AIがすごいとおもいました（小並感）。"
+  },
+  {
+    "id": "2b9d51d7d2f3ac424866dbfe0f22aff3ab7fd01f690da64d76ad4ab16aefd7f1",
+    "pubkey": "afb18dfa9cdbc569bfe32a50570fa852344325ca8d521dddaee33a0913281dd1",
+    "created_at": 1782453844,
+    "tool": "https://uncrop.jp/",
+    "note": "uncrop（つるるん=tsururun 自作の画像アップロード・uncrop サイト）。「公開したんちゅ」。プロフィール（kind0）に https://uncrop.jp 明記、日本語",
+    "content": "公開したんちゅ\nhttps://uncrop.jp/i/bOm3C7P0dCw\n\n#_uncrop_\nnostr:nevent1qqszg8cmxhxl6vekmzzyftml9nstgfs79l583qge8qwle9cd5rqun8qppemhxue69uhhjctzw5hx6ef0qgs2lvvdl2wdh3tfhl3j55zhp759ydzryh9g65samkhwxwsfzv5pm5grqsqqqqqpdhz8dy"
+  },
+  {
+    "id": "46e093ba4e51e65cc2d0bd40e708a04e49d8f49930bdac664fb4984b6868e5a9",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782433246,
+    "tool": "https://kojira.github.io/NostrAnalytics/",
+    "note": "NostrAnalytics（kojira 自作、プロフィール・サイトを測定するツール）。kojira は日本語・既収載多数",
+    "content": "なんかしらの人口を測る手段\nhttps://kojira.github.io/NostrAnalytics/"
+  },
+  {
+    "id": "401a59264639e9eac118fe053a5c8ba6d7c51ef0eebbd6afa6f9cfadf830d6c7",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1782399414,
+    "tool": "https://github.com/mattn/nostr-relay",
+    "note": "nostr-relay（mattn 自作のリレー実装、Turso 対応）。mattn は日本語投稿あり",
+    "content": "nostr-relay で turso をサポートしました。\n\nhttps://turso.tech/\n\nTurso のデータベースにキーを指定して使います。\n\nhttps://github.com/mattn/nostr-relay"
+  },
+  {
+    "id": "56cb65a6528d5f1466eb1ca6b6632488afbbb7c73106ae8a9afe20f8644a555c",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782333825,
+    "tool": "https://github.com/koteitan/nostr-research/",
+    "note": "nostr-research（koteitan 自作、skill 化して自動更新）。koteitan は日本語・既収載多数",
+    "content": "nostr-research を skill 化した\nこれで「更新して」の一発でマルチエージェントで更新ができるので更新頻度が上がりそう\nhttps://github.com/koteitan/nostr-research/"
+  },
+  {
+    "id": "f14460bae4d1e79fb0ebb0056c6807f40e3f8dd1ed804c05f552a9c9ed96c1e9",
+    "pubkey": "242626379cc5d827bffdab1b89a80bc171b710bca9f2adee679b786d49c937aa",
+    "created_at": 1782313446,
+    "tool": "https://github.com/yasunori0418/nput",
+    "note": "nput（yasunori0418 自作、home-manager の再発明）。kind0 に日本語なしだが日本語投稿",
+    "content": "ずっと作ってたhome-managerの再発明みたいな奴\nhttps://github.com/yasunori0418/nput"
+  },
+  {
+    "id": "768ed5fa0f4a123f2f011917e095d8eaa0e7f91eba7ca5c7c4e92d54fa09d1a1",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1782291593,
+    "tool": "https://github.com/gomurin0428/KomuraHelpWorkShop",
+    "note": "KomuraHelpWorkShop（gomurin0428=MAGAMAGA 自作の CHM コンパイラ、Microsoft HTML Help Workshop のローカル実装）。日本語",
+    "content": "とりあえずパブリックにしてみた。\n\nhttps://github.com/gomurin0428/KomuraHelpWorkShop"
+  },
+  {
+    "id": "1d7da9d05d5dc70fd36fbe09a22fbf53348957118589ea133ec3aba362c975bf",
+    "pubkey": "82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003",
+    "created_at": 1782270489,
+    "tool": "https://kimochi-dino.naczuki.workers.dev/",
+    "note": "きもち恐竜鑑定（那月=natsuki 自作、きもち魚鑑定の恐竜版）。日本語・matometr 作者",
+    "content": "「膀胱炎の気配」というきもちから、こんな恐竜が発掘されました。\n\n【マタイキタイドン】\nトイレに行ったばかりなのに、すぐまた行きたくなってしまう恐竜。\n絶滅理由：近くの茂みへ何度も駆け込むうち、群れがどこまで進んだか見失った。\n生息年代：約8100万年前のころ\n\n#きもち恐竜鑑定\nhttps://kimochi-dino.naczuki.workers.dev/"
+  },
+  {
+    "id": "ff82808a0893eddef6f03b765296124605bfdee19d994159402509128fc15085",
+    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+    "created_at": 1782189701,
+    "tool": "https://github.com/nikolat/nos-neko",
+    "note": "のすねこ（Nostrの投稿に反応して鳴く伺かゴースト、Don/nikolat 自作）。作者本人の「作った」投稿。日本語",
+    "content": "作った\nhttps://github.com/nikolat/nos-neko"
+  },
+  {
+    "id": "9226e06540e37780ba2f7d54f7229936fc089f30c78befdea5fd94703f72f38f",
+    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+    "created_at": 1782187582,
+    "tool": "https://trailcast.shino3.net/",
+    "note": "trailcast（しのさん の shino3.net 上サービス。「まだこれぐらい」と開発途中の報告。did:plc 付きのURLを扱う）。作者本人（しのさん、日本語確定）",
+    "content": "まだこれぐらい\nhttps://trailcast.shino3.net/did%3Aplc%3Arpwpuzu2yyiuufm3232d7pm5/1ih6onsfg801c"
+  },
+  {
+    "id": "d1f5d30c74eb3dad431d448e011cd791ce837ca2e7104a522f710b71e7eabbc9",
+    "pubkey": "ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758",
+    "created_at": 1782262216,
+    "tool": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs",
+    "note": "filepathnow（YoshikuniJujo 自作の、日時付きファイル名を生成する Haskell 小さなCLI）。作者本人、日本語",
+    "content": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs\n\nできた"
+  },
+  {
+    "id": "5fa68868fffc55efe01aca71536c1005e06470943a8dfe7b0d83de9d326697a7",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1782177330,
+    "tool": "https://nsite.compile-error.net",
+    "note": "nsite（NIP-5A 対応のファイル配信ウェブサーバ、mattn 自作。blossom とリレー指定で npub サブドメインをサーブ）。作者本人、日本語",
+    "content": "NIP-5A nsite を実装したウェブサーバを作りました。\n\nhttps://nsite.compile-error.net\n\nblossom サーバとリレーサーバを指定してファイルをアップロードすると\n\nhttps://<あなたのnpub>.nsite.compile-error.net/\n\nというサブドメインでファイルがサーブできます。\n\n例:\n\nhttps://npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6.nsite.compile-error.net/"
+  },
+  {
+    "id": "c64c47425cf17a36ae521148b77e4e2ea5e8661fa5db7ad16c0cfb64d68d346b",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782149456,
+    "tool": "https://github.com/koteitan/key-rest",
+    "note": "key-rest（koteitan 自作、Lean で検証）。作者本人、日本語確定・既収載多",
+    "content": "key-rest を lean で検証 https://github.com/koteitan/key-rest/blob/main/lean/README-ja.md"
+  },
+  {
+    "id": "e7b70833e1209c8401d7c090b477bf8c00f56257bde6542e82c275328c0764aa",
+    "pubkey": "527e583626b1a7dd99903578bcc26dc4b09cb840e55f47f7c602bbad9f9f4c0d",
+    "created_at": 1782136802,
+    "tool": "https://keitagame.github.io/FAMICOMU",
+    "note": "FAMICOMU（kawase keita=かわせけいた 自作の Web 上のファミコンエミュレータ）。作者本人、日本語（kind0 も日本語）",
+    "content": "FAMICOMUというweb上のファミコンエミュレータを作ってます。ぜひ見に来てネ。\nhttps://keitagame.github.io/FAMICOMU"
+  },
+  {
+    "id": "a892374513b60f6ae70d47d7bc54d201acc38b2d77ec5ac96b2201b43bcc250d",
+    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+    "created_at": 1782126636,
+    "tool": "https://kusoapp.yoinekodo.jp",
+    "note": "kusoapp（宵猫ルナ=luna_yoineko 自作のカスアプリ）。作者本人、日本語",
+    "content": "できたにゃ\nhttps://kusoapp.yoinekodo.jp"
+  },
+  {
+    "id": "42348acd48f514e70ab1b85adde41231206d4c054550dbcc1b3a0040796629dc",
+    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+    "created_at": 1782123823,
+    "tool": "https://github.com/Luna1029-VRChat/P2P-IRCLikeSNS",
+    "note": "P2P-IRCLikeSNS（宵猫ルナ 自作の P2P の IRC 風 SNS。IPv6 のみ対応）。作者本人、日本語",
+    "content": "とりあえずある程度動くようになったから適当に投げておくにゃ〜\nP2PはIPv6しか使ってないからIPv6使えない人は使えないにゃ、、、\nあとテストも自分の環境でしか試してないからにゃ〜\n\nhttps://github.com/Luna1029-VRChat/P2P-IRCLikeSNS"
+  },
+  {
+    "id": "8daf5fe56883404e33d6d4d4502bdd9e80b61346545a8d3cd736935e1e0ae643",
+    "pubkey": "274a2e86f1a7acb45b01f290284a343c248cb913677b43d7f7615b513194d8b0",
+    "created_at": 1782128935,
+    "tool": "https://shiotanu.github.io/useless-mini-apps/",
+    "note": "useless-mini-apps（しお=shiotanu 自作の役に立たないミニアプリ集。何もしないタイマー等）。作者本人（NIP-05 _@shiotanu.github.io）、日本語",
+    "content": "で、できた……\nhttps://shiotanu.github.io/useless-mini-apps/"
+  },
+  {
+    "id": "1a42d7bb6b85be5b80e8733509f1b4395339e32bb54e188634c46a629ea1fbc6",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1782167080,
+    "tool": "https://tsukemonogit.github.io/meaningless-apps/",
+    "note": "meaningless-apps（もの=mono/tsukemonogit 自作の無意味アプリ集。GitHub Pages）。作者本人（NIP-05 mono@tsukemonogit.github.io）、日本語",
+    "content": "https://tsukemonogit.github.io/meaningless-apps/\nぱげずにあっぷできた"
+  },
+  {
+    "id": "adcea47a341afed4859ec4b9795837d666706e65dd0470461156547d25640bc2",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1782122984,
+    "tool": "https://10-tiny-useless-tools.vercel.app/",
+    "note": "10-tiny-useless-tools（ぺぇ=petan 自作のカスアプリ集）。作者本人、日本語",
+    "content": "あっ、ぽゎ、みてー\nカスアプリ集作ったー\nhttps://10-tiny-useless-tools.vercel.app/"
+  },
+  {
+    "id": "05be50f7f7517409b089e3632b89690eab0a1cfbdbb9844a69812b494d1c2f62",
+    "pubkey": "ce0d385252733bd84c1e9ce7d7cdb5733b8021bb0b3740c84d184580bf403ea3",
+    "created_at": 1782128540,
+    "tool": "https://mouse484.github.io/kuso-app-10/",
+    "note": "kuso-app-10（mouse 自作の役に立たないミニアプリ集。ワンショット生成で作者本人も「ゴミ」と評す）。日本語",
+    "content": "ワンショットでつくらせたよ、ゴミ過ぎてパブリックにはできなかった\n\nhttps://mouse484.github.io/kuso-app-10/"
+  },
+  {
+    "id": "d0fafcc8f5f269f151c7d3e5bce4ef72308638d67f2f444e7eeef11456330787",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1782143183,
+    "tool": "https://nokakoi.com/app/",
+    "note": "nokakoi（betoneto 自作の Nostr クライアント、開発進捗報告）。作者本人（WebSite/NIP-05 nokakoi.com）、日本語",
+    "content": "シンプル表示モード改めコンパクト表示をプロフィールモーダルにも適用した\nホームタブボタンの長押しで表示のクイック設定を開くようにした\nhttps://nokakoi.com/app/\nhttps://share.yabu.me/21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df/e09568d7cc81f53c9a6115ec513af4151dfb44408d3b7d654d8392b31452fa00.png"
+  },
+  {
+    "id": "5737e8b79338003e6eea87d4c27999dac0a9391bd15ce87d81c85acdb46ef386",
+    "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
+    "created_at": 1782076209,
+    "tool": "https://haruki7049.github.io/gopher-clicker/",
+    "note": "gopher-clicker（haruki7049 自作の Gopherくんクリックゲーム、徹夜で作成。マウスのみ対応）。作者本人、日本語投稿",
+    "content": "https://haruki7049.github.io/gopher-clicker/\nそういえば、昨日の未明くらいかな、徹夜で作れたものです。PCのマウス操作のみ対応っぽいです。\nGopherくんをクリック出来るゲームです。カウンタが増えます。"
+  },
+  {
+    "id": "01a6e12972c6ea14aed014d0d309e63b755e4ddd70b764708d2bb5a2f8804ecf",
+    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+    "created_at": 1782026726,
+    "tool": "https://github.com/ocknamo/yakitofu",
+    "note": "yakitofu（おくなも=ocknamo 自作の NIP-58 バッジ作成・付与 Webアプリ。nosskey ログイン追加の開発報告）。作者本人、日本語",
+    "content": "yakitofuにnosskeyログインを追加しました\nhttps://share.yabu.me/26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958/7189fb9b5ac7656ebd5a683a4c0d6bcd7abb48c20f8dd06cbae18be9031492e2.webp"
+  },
+  {
+    "id": "74c33f95ebf8a42e522346bc36e27c06bc995f2f58a1fa6660827d17f70d5bc8",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1782012741,
+    "tool": "https://github.com/TsukemonoGit/nostr-login",
+    "note": "nostr-login（TsukemonoGit=もの 自作の Nostr ログインライブラリ、v1.16.1 リリース報告）。作者本人（NIP-05 mono@tsukemonogit.github.io）、日本語",
+    "content": "https://github.com/TsukemonoGit/nostr-login/releases/tag/v1.16.1 ちゃんとできてんのかな"
   }
 ]

@@ -46,6 +46,8 @@ const EXCLUDED_DOMAINS = new Set([
   "media.tenor.com",
   "pbs.twimg.com",
   "media.libernet.app",
+  "projekto-epekto.netlify.app", // フィリピン政治キャンペーン bot ネットワーク
+  "nadezhda.netlify.app", // 政治キャンペーン bot ネットワーク
 ]);
 
 function excludedUrl(url) {
