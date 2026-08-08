@@ -1,5 +1,7 @@
 # いろいろボット追加候補ピックアップ 手順書
 
+.tmp/内で作業すること
+
 日本人ノスターユーザーの投稿から「いろいろボットのリストに追加したほうがいいやつ」= **投稿本人が作成したツール** に言及している投稿をピックアップして `irerukamo.json` に追加する。
 
 この手順書は既に batch1〜batch7（2026-07-30 01:50 UTC 〜 2026-08-06 01:50 UTC）まで実施済みの内容をもとに、引き続き同じ手順で過去へ遡るためのもの。
@@ -74,7 +76,17 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt
 - `re-filter.mjs` が除外リスト適用 + URL 付き判定 + 重複除去 + created_at 降順ソートを行う
 - 取得直後は fetch-batch.mjs 側にも同じ除外があるので re-filter と結果は一致するはず
 
-### 3. レビュー
+### 3. pubkey頻出度チェックと除外
+
+`reviewN.txt` を開く前に、まずpubkeyの出現順位を調べる。
+
+```bash
+node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8');const map=new Map();for(const line of lines.split('\n')){const m=line.match(/^\[(\d+)\] (\d+-\d+ \d+:\d+) (\w+) (\w+)/);if(m)map.set(m[3],(map.get(m[3])||0)+1)}const sorted=[...map.entries()].sort((a,b)=>b[1]-a[1]);for(const [pk,c] of sorted)console.log(c+' '+pk)"
+```
+
+出現頻度上位のpubkeyを**上から3つ**レビューし、明らかにbotまたは外国人であれば `EXCLUDED_PUBKEYS` に追加する。
+
+### 4. レビュー
 
 `reviewN.txt` を全部読む。書式:
 
@@ -98,6 +110,11 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt
 - 投稿本文に日本語がある → 日本人。ピックアップ対象
 - 投稿に日本語がなければ kind0（プロフィール）を取得し、プロフィールに日本語がある → 日本人。ピックアップ対象
 - **どちらにも日本語がなければ「日本人か不明」としてピックアップしない（リストに入れない）**
+- kind0 の取得は **algia** を使う（`fetch-profiles.mjs` 等のスクリプトは使わない）:
+  ```bash
+  algia profile -u <pubkey全文>
+  ```
+  `name` / `displayName` / `about` に日本語（ひらがな・カタカナ・漢字）があるかで判定する。
 - この判定基準は今後も適用する
 - 判定結果は注記にも残す（「日本語」or「kind0に日本語 → 日本人」等）
 - **除外**: スパム、bot（天気・ニュース・漫画・政治・感謝bot等）、ポルノ、他人のツールの共有、iroiro.json に既収載のツール、Nostr と無関係

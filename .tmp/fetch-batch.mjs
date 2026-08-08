@@ -104,6 +104,22 @@ const EXCLUDED_PUBKEYS = new Set([
   "1634e999c5fc", // Microsoft Office 鍵販売スパム
   "3170406792be", // nostrmag ニュースレター bot
   "343cf71f28c6", // nostrmag ニュースレター bot
+  "e6bef2fc320d", // 外人
+  "08c6657385c5", // 外人
+  "c239c0f994c4", // 外人
+  "ae1bbe3a1fe7", // 外人
+  "d981591e0ea6", // 外人
+  "ee35b535d48d", // 外人
+  "4e62f14445cc", // bot
+  "4f7e61faeb06", // bot
+  "a6259c888ca8", // bot
+  "3fdf8b43d2e6", // bot
+  "996e2d213612", // bot
+  "2d0154e14033", // bot
+  "7fd3d6c88899", // bot
+  "7febe2a59aa8", // GitHub Pages リソース集 宣伝 bot
+  "a3c13ef4c9ec", // リレー流速計測 bot
+  "88a26d85b87c", // 暗号資産ニュース bot
 ]);
 
 const configPath = process.env.ALGIA_CONFIG || join(homedir(), ".config", "algia", "config.json");

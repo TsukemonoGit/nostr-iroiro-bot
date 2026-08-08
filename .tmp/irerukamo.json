@@ -622,5 +622,21 @@
     "tool": "https://github.com/ohac/midiguitareditor",
     "note": "midiguitareditor（ohac/OHASHI Hideya 自作の MIDI ギター編集 TUI エディタ。リポジトリオーナー=投稿者で確定、日本語 README・大阪在住の日本語ユーザー）。Nostr ツールではないが投稿本人の開発物",
     "content": "https://github.com/ohac/midiguitareditor\nバックアップついでにgithubにpushした。"
+  },
+  {
+    "id": "0e8dae1604f308af271ce48dcc4704fb1f1c30024e44469ba1b2dc65c704d5ab",
+    "pubkey": "148755e670adb36ebba529ff46b9f3580a499928249dd79a749b2853450c107f",
+    "created_at": 1783149702,
+    "tool": "https://utopia25.github.io/saborasenai/",
+    "note": "saborasenai（投稿者自作の質問サイト。「むらぴぃもちょぴ完全インスパイアで作ってみた」で作者本人）。GitHub utopia25（東京・日本語プロフィール）がリポジトリ所有者で投稿者と一致。kind0 に日本語（Name: 人生をサバイブしろ❗️）。日本語",
+    "content": "むらぴぃもちょぴ完全インスパイアで質問サイト作ってみた\n\nhttps://utopia25.github.io/saborasenai/"
+  },
+  {
+    "id": "28c7862af9a91dbf4b834f0be4093dce11cd62b292ac62400401dd8a415c406f",
+    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+    "created_at": 1783140907,
+    "tool": "https://nostr-flowmeter.shino3.net/",
+    "note": "nostr-flowmeter（しのさん自作の Nostr 日本リレー流速のリアルタイムグラフ表示サイト。kind 30078 データを DB とした nostr-key-value のサンプル兼運用サイト。サイト管理者: shino3 で作者本人、日本語）。Nostr 向け",
+    "content": "https://nostr-flowmeter.shino3.net/"
   }
 ]

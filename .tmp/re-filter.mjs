@@ -1,7 +1,8 @@
 import { readFileSync, writeFileSync } from "fs";
 
 const fetchSrc = readFileSync(new URL("./fetch-batch.mjs", import.meta.url), "utf8");
-const block = fetchSrc.slice(fetchSrc.indexOf("const EXCLUDED_PUBKEYS"), fetchSrc.indexOf("];"));
+const pkStart = fetchSrc.indexOf("const EXCLUDED_PUBKEYS");
+const block = fetchSrc.slice(pkStart, fetchSrc.indexOf("]);", pkStart));
 const excluded = new Set([...block.matchAll(/"([0-9a-f]{12})"/g)].map((m) => m[1]));
 
 const urlRe = /https?:\/\/[^\s<>"')\]]+/;
