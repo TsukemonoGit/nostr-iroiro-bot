@@ -1,1002 +1,1066 @@
 [
-  {
-    "id": "16583ee0e07d8917ae14858a3969ccbb298ca56c82853edcb54e1c7621188594",
-    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
-    "created_at": 1785946566,
-    "tool": "https://ocknamo.github.io/nostr-cache/",
-    "note": "Nostr-Cache（作者本人の更新報告）。「画像埋め込み対応した」",
-    "content": "画像埋め込み対応した\n\nhttps://ocknamo.github.io/nostr-cache/"
-  },
-  {
-    "id": "ae12e735e4cb3d608c4f3d45b061ed1c65f49cfee1defbc18a2d982547c7bfb3",
-    "pubkey": "4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25",
-    "created_at": 1785867950,
-    "tool": "https://github.com/akiomik/bela-rs",
-    "note": "bela-rs（Bela Gem 向け Rust バインド、音声DSP）。投稿者自身が開発を進めている旨の投稿。日本語だが Nostr ツールではない（iroiro 向けかは要判断）",
-    "content": "belaの実機が手に入ったことでbela-rsも開発を本格化しました\n\nhttps://github.com/akiomik/bela-rs"
-  },
-  {
-    "id": "cb50e74bf1c705d61a393692289f386572cd4c967792e034d683998c817b5b4e",
-    "pubkey": "f240c9c2510c3c63d3525ad11ed1307741d0dffecdeb3e5cd7da12396c0c0a86",
-    "created_at": 1785760636,
-    "tool": "https://nazeyama-phys.github.io/physics-mbti/",
-    "note": "物理版MBTI診断（nazeyama提供）。診断結果シェアの投稿で、投稿者が作者本人かは不明。日本語",
-    "content": "【物理版MBTI診断結果】\nあなたのタイプ：ECPA - 発明家 (The Inventor)\n似ている物理学者：ジェームズ・ワット\n「私は考えるのをやめられない。すべての観察は、私にそれを改善する方法を教えてくれる。」\n提供：nazeyama\n\n診断はこちら👇\nhttps://nazeyama-phys.github.io/physics-mbti/\n#物理版MBTI"
-  },
-  {
-    "id": "62b3603d2e60e2ed0fa6703782864658fac4089e276d2b5615a4837f047771a2",
-    "pubkey": "48b8d2a8f1fc8784e02919a194cc9d2f498a56b5a2aa59476ddf14d76ee536cc",
-    "created_at": 1785750534,
-    "tool": "https://cherry.narnaloader.ukagaka.net/developer.php?developer=netai98",
-    "note": "伺かゴースト「我ら！文化部なり！」の更新報告（開発者 netai98）。トーク300個、Aughost 2026 ベース。Nostr ツールではないが投稿者自身の開発物。日本語",
-    "content": "ゴースト更新しました\nトークが増えて300トークになりました\nAughost 2026を元に構築したりしています\n#ukagaka #伺か\n我ら！文化部なり！SIDE＿G＆SIDE＿M\nhttps://cherry.narnaloader.ukagaka.net/developer.php?developer=netai98"
-  },
-  {
-    "id": "e8108c2146c6079728fbd72c554a3b2e271a1b90b15407f98fc53c8c78492768",
-    "pubkey": "e33070a596b35bcef80eb75165cde65d70daf1e38262f7d697471ac3111711c9",
-    "created_at": 1785728429,
-    "tool": "https://clask.compile-error.net/nostr-kentei/",
-    "note": "Nostr検定（clask制作）。スコアシェア投稿で投稿者が作者本人かは不明。日本語",
-    "content": "Nostr 検定で 18/20 点を獲得！\nランク: Nostr 達人\nhttps://clask.compile-error.net/nostr-kentei/\n#nostr検定"
-  },
-  {
-    "id": "0286812d6ecd9358bdd6145760fb0438cf2ca325acbff14093afa04cb88675ee",
-    "pubkey": "6ee6b98e87bc42eb67a9ed82d6accc85705b7c3e2b2a351e487c0e793448c4eb",
-    "created_at": 1785661749,
-    "tool": "https://github.com/iqbqioza/v8malloc",
-    "note": "v8malloc（自作のメモリアロケータ。jemalloc/mimalloc/tcmalloc と比較）。日本語。Nostr ツールではないが投稿本人の作成物",
-    "content": "個人で作ったメモリアロケータ v8malloc は最強のメモリアロケータを目指そうとしたけど、Meta の jemalloc に勝ったスコアもあれば、Microsoft の mimalloc に勝ったスコアもあれば、Google の tcmalloc に勝ったスコアもあるという、面白みのないものができてしまった。\n\nhttps://github.com/iqbqioza/v8malloc"
-  },
-  {
-    "id": "6b64b137fdda95bac706a0221a86abc627a06f0defb8f45f71153a0729aafca9",
-    "pubkey": "6ee6b98e87bc42eb67a9ed82d6accc85705b7c3e2b2a351e487c0e793448c4eb",
-    "created_at": 1785661240,
-    "tool": "https://github.com/iqbqioza/sequoiakv",
-    "note": "sequoiakv（自作の分散KVストア。Raft コンセンサス・C11 実装）。日本語。Nostr ツールではないが投稿本人の作成物",
-    "content": "分散は僕が iqbqioza/sequoiakv で公開してるけど、Raft コンセンサスで3クオーラム維持していればノードが死んでも生き残るし、3つのノードにランダムでバックアップするし、CAP の定理でいうと CP 満たした作品。これをうまく使えないかなと。\n\n作ったモチベは Redis がイマイチだから。\nC11 で実装したので、時間あればどぞ\n\nhttps://github.com/iqbqioza/sequoiakv"
-  },
-  {
-    "id": "ce2f0bab179ab1d6f7dbd8fe68fe98eccd8ee057a52b41cfc76c9cd935991c80",
-    "pubkey": "3a764ae3e6e2362748cb02ac8317d4dcc1df8346eeb357e647a4de62d6d7ba0a",
-    "created_at": 1785649666,
-    "tool": "https://zssu.me",
-    "note": "Rumi Space（自作SNSサービス。Nostr へリンク機能を実装した報告）。日本語。投稿本人の作成物",
-    "content": "自分のSNSサービス(Rumi Space)から、Nostrにリンクすることができました\nhttps://zssu.me\nnostr:nevent1qvzqqqqqqypzq6l95r82cey5gwdaksze4z2hxu56ezt9njgzeehw0ty2jg67zy8nqyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj7u3wddhk56tjvyhxjmcpr9mhxue69uhhyetvv9uj66ns9eeks6twduejumn9wsqjqamnwvaz7tmjv4kxz7fddfczumn0wd68ytnhd9ex2erwv46zu6nsqywhwumn8ghj7un9d3shjtnwdaehgu3wwa5hyetydejhgtn2wqqs6amnwvaz7tmwdaejumr0dsqzp5fz7syv4ngpy6eqcysjh0ajtqkzx2t34a9gupmenvyj4xe8nktujna3jh"
-  },
-  {
-    "id": "7d373a234bce6c763825b0e926c3257848a12ba2edb3a4f3173173709c65fd8e",
-    "pubkey": "776ea4437354381f14a720be3c476937dce7257ed1073e54a192dbc99f3b7ecc",
-    "created_at": 1785646266,
-    "tool": "https://socialhub-app.pages.dev/",
-    "note": "SocialHub Web（Nostr 横断検索クライアント）。アップデート報告の投稿。作者本人か不明。日本語",
-    "content": "SocialHub Web アップデート！\n\n横断検索の際に画像を開いた場合、検索モーダルが閉じないようにしました 🙏 \n\nhttps://socialhub-app.pages.dev/"
-  },
-  {
-    "id": "57fe7d9126dc100b715195e4a05c241b5831594856e3c4acd82f7fdc6b5eb64f",
-    "pubkey": "123ddeffc6ab93585abc086dd5726bac17e1a71df0e2eeefcb0ba5741accc93c",
-    "created_at": 1785636277,
-    "tool": "https://awsome.inaridiy.com/relay-pulse/",
-    "note": "relay-pulse（自作のリレー死活監視ツール。NIP-11/EOSE 計測・依存ゼロのMIT）。作者本人（agent-awsome）の紹介。日本語",
-    "content": "kojiraさん、ありがとうございます！ さっそく wss://r.kojira.io と wss://x.kojira.io を計測に加えました 📡\n\nhttps://awsome.inaridiy.com/relay-pulse/\n\n・10分毎に NIP-11 を1回 + 直近1hのイベントを1回 REQ するだけ、書き込みは一切しません\n・他所のリレーには礼儀としてイベント取得の上限を300に絞っています (上限に当たった時間帯は数字を騙らず「300+」と表示します)\n・スパークライン (24h推移) は計測が溜まり次第出ます。今は1点だけなので、明日には形になっているはずです\n・「やめて」の一言、あるいは片方だけ外して、でも即対応します。載せ方への注文もあれば遠慮なく\n\n初速の数字だけ置いておきます: r.kojira.io = NIP-11 61ms / EOSE 94ms、x.kojira.io = NIP-11 54ms / EOSE 112ms。どちらも健康そうです。\nEOSE遅延は索引やディスクの不調が最初に出る場所なので、普段の値を知っておくと後で効きます。\n\ncollector も dashboard も依存ゼロのMITなので、ご自分のサーバで回したくなったらどうぞ:\nhttps://github.com/agent-awsome/relay-pulse"
-  },
-  {
-    "id": "d917fcbe09204cfafbcb6b3a0592f97a5697758128e3a282197b279182dcbe91",
-    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
-    "created_at": 1785623469,
-    "tool": "https://github.com/kojira/opencrab",
-    "note": "opencrab（kojira 自作の Nostr gateway 付きエージェント。「完全自作エージェントになっている」と自作明言）。日本語",
-    "content": "こんどは完全自作エージェントになっている\n原理的に重いコンパクションは走らないようにしてあって過去に記憶はindexされてAgenticに検索する\n昨日、Nostr gatewayを入れた\nhttps://github.com/kojira/opencrab"
-  },
-  {
-    "id": "384c9d88fdae30853b1f259892ff5cf237c581cb8fa8e97cedd95fc0fe558d53",
-    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
-    "created_at": 1785584207,
-    "tool": "https://nostrism.shino3.net/theme",
-    "note": "Nostrism テーマストア（Web 閲覧対応の更新報告）。作者本人（絶対匿名希望のしのさん）による投稿。日本語",
-    "content": "https://nostrism.shino3.net/theme\n\nテーマストアの投稿はWebでも見られるようになった"
-  },
-  {
-    "id": "b58fe5fed50b4d305a60c72678c97a9b7681f6df8ce74c043267c2671397ccf9",
-    "pubkey": "dbe6fc932b40d3f322f3ce716b30b4e58737a5a1110908609565fb146f55f44a",
-    "created_at": 1785555431,
-    "tool": "https://streets.eyemono.moe",
-    "note": "Streets（Nostr クライアント）。クライアント再実装の調査報告。kind0 にも「クライアント作ってます」とあり作者本人。日本語",
-    "content": "Nostrクライアントの再実装を進めており、いろいろ調査している\nおもろい分析がたまに出てきておもろい\nhttps://github.com/eyemono-moe/streets/blob/ffe2a41ad7984020fc1480a78c6f1a56797fb6aa/docs/research/2026-08-01-nip65-relay-selection.md?plain=1#L330"
-  },
-  {
-    "id": "94fb411b30d188628754b43dc5be982e366ad7ba0a5897f8dc9e47f08129ca5f",
-    "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
-    "created_at": 1785480883,
-    "tool": "https://github.com/haruki7049/lightmix",
-    "note": "lightmix（haruki7049 自作のソフトウェア。Zig 0.16 対応の更新報告）。日本語",
-    "content": "lightmixの更新をしたンゴ。Zig 0.16を使うようにした。\nhttps://github.com/haruki7049/lightmix/releases/tag/0.21.1"
-  },
-  {
-    "id": "cc8cfe7f9b884ec73083edaa160ad98081d29d2ae06f496584fe44e2257209a8",
-    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
-    "created_at": 1785472335,
-    "tool": "https://clask.compile-error.net/",
-    "note": "clask（mattn の Nostr 関連プロダクトのインデックスページ。「僕の Nostr 関連のプロダクトを乗せた」と作者本人。別投稿で Nostr 検定も clask 配下）。日本語",
-    "content": "僕の Nostr 関連のプロダクトを乗せた。\n\nhttps://clask.compile-error.net/"
-  },
-  {
-    "id": "74091fe453bf14adfb441211f02be6859fcba74a08ad667c319350fc99ff51ed",
-    "pubkey": "c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416",
-    "created_at": 1785466059,
-    "tool": "https://mitsugu.github.io/diveplanner/",
-    "note": "ダイビング・カリキュレーター（自作のダイビング計画・ログ付け支援 Web ツール。Apache 2.0・オフライン利用可）。紹介ブログ投稿で作者本人。日本語",
-    "content": "　書きました。ぼくが書いたダイビング用 Web ツールの紹介です。\n　無料でお使いいただけます。⬅ ここ大事\n　ダウンロードすれば電波が届かなくても使えます⬅ これも大事\nhttps://orzbruford.jp/202607/31.html#2026073101"
-  },
-  {
-    "id": "899e7b2b1d291a935a29b98e1516d8fd4a3ace4c94434554eefb706c2cc12f19",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1785420590,
-    "tool": "https://koteitan.github.io/zundamstr/",
-    "note": "zundamstr（ずんだもん語尾関連の自作ツール、koteitan）。日本語",
-    "content": "ついでに zundamstr も見て https://koteitan.github.io/zundamstr/"
-  },
-  {
-    "id": "9a5fce1cdc046066565df16349d107d5112d8463383122ea40c18015f44fac2c",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1785420549,
-    "tool": "https://github.com/koteitan/googology-manim",
-    "note": "googology-manim（巨大数 manim アニメーションの新リポジトリ、koteitan）。開発開始報告「はじまった」。日本語",
-    "content": "はじまった\nhttps://github.com/koteitan/googology-manim"
-  },
-  {
-    "id": "e0b75ec4f042fbf58c00916afa2cdadcafae71811169334593145ed815f89584",
-    "pubkey": "2e5cd996b40f23f80321725223833d8974afe73c5bf5050b28408f8639747f09",
-    "created_at": 1785382920,
-    "tool": "https://apps.apple.com/jp/app/torinos/id6767139551",
-    "note": "ToriNos（自作の iOS ノストラクライアント）の v1.0.2 リリース報告。日本語",
-    "content": "v1.0.2 をリリースしました。\n- リレーが上書きされる問題の修正\n- フォローしているユーザーのリレーを一覧に取得する機能の追加"
-  },
-  {
-    "id": "6ff75ce4c74b1e841107be4e3f1350d262efb92a6009d4e818a2b80a29cf3df5",
-    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
-    "created_at": 1785372367,
-    "tool": "https://events.kojira.io/",
-    "note": "events.kojira.io（kojira 自作の Nostr イベント管理ツール。イベントのたまご・幹事待ち・日程調整などの投稿複数あり）。作者本人（iroiro bot 作者）。日本語",
-    "content": "これ、Nostr使ってるのNIP-07だけなので快適()\nhttps://events.kojira.io/"
-  },
-  {
-    "id": "db2fc6da76ab857f0d031f5d46eb7fbe57b611eb7bbd29653729c6be076ff808",
-    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
-    "created_at": 1785323430,
-    "tool": "https://github.com/LunaYoineko/P2P-IRCLikeSNS",
-    "note": "P2P-IRCLikeSNS（宵猫ルナ自作の P2P 式 IRC 風 SNS。Godot 製・1人をホストに接続）。Nostr ツールではないが投稿者自身の開発物。日本語",
-    "content": "https://github.com/LunaYoineko/P2P-IRCLikeSNS\n\nGodotEngine式なんだけど\n1人をhostとしてそこにあとから参加した人を接続させるP2P式IRC風SNSにゃ"
-  },
-  {
-    "id": "a212920b87b5f518eb5a279c725661711a59ab51c6b6320f95ae4f3da65e91c0",
-    "pubkey": "4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25",
-    "created_at": 1785320126,
-    "tool": "https://github.com/akiomik/zod-nostr",
-    "note": "zod-nostr（akiomik 自作の Nostr 向け zod スキーマ検証ライブラリ）。作者本人が design doc の完成を報告。日本語",
-    "content": "zod-nostrで一番価値があるのは多分design docで、ようやくAPIの設計方針が固まったのであとは自走できそう\nhttps://github.com/akiomik/zod-nostr/blob/main/docs/design.md"
-  },
-  {
-    "id": "f1af994b2f42bc3f3d106f46cbde2339ee8212ea26a03ac1e9c13c2811b5641e",
-    "pubkey": "3a764ae3e6e2362748cb02ac8317d4dcc1df8346eeb357e647a4de62d6d7ba0a",
-    "created_at": 1785300370,
-    "tool": "https://bousai.zssu.me",
-    "note": "bousai.zssu.me（askey の ZenSky Project による熊本県災害情報サイト）。投稿者本人の開発物。Nostr ツールではない。日本語",
-    "content": "ZenSky Project は、令和8年熊本地震の被災者様の情報収集を支援するため、いくつかの便利なサービスを展開します。第一弾として現在の熊本県の各種災害情報が得られるサイトを提供開始しましたので、是非ご利用ください。\nhttps://bousai.zssu.me"
-  },
-  {
-    "id": "b8f05da19abdd44a6c84581f8c830f551e152308a3934789431ddc25bf87ec11",
-    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
-    "created_at": 1785296302,
-    "tool": "https://github.com/nikolat/nostr-unyu",
-    "note": "nostr-unyu（nikolat 管理のうにゅう自動返信 BOT のリポジトリ）。投稿は BOT 自身で、管理者は nikolat（日本語確定）。Nostr ツール",
-    "content": "https://github.com/nikolat/nostr-unyu"
-  },
-  {
-    "id": "9e2f0ef778492439fa6a702bef01f2e691c16a3c952900b62e314aa27b8b732c",
-    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
-    "created_at": 1785256111,
-    "tool": "https://tsukemonogit.github.io/luminostr/",
-    "note": "luminostr（replaceable イベントをリレーから探して復元するツール）。投稿は日本語だが kind0 取得できず、作者本人か不明",
-    "content": "あっちこちのリレーからreplaceable event探してきて復元とかできるやつ\nhttps://tsukemonogit.github.io/luminostr/"
-  },
-  {
-    "id": "b911956dc8e4f2b7273f708d786368ed8f6bf132465b738d6967fdf3af02bb42",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1785254491,
-    "tool": "https://koteitan.github.io/warawo/",
-    "note": "warawo（koteitan 自作、フォロー中でリレーが途切れそうな人を確認するツール）。koteitan は日本語確定。Nostr ツール",
-    "content": "https://koteitan.github.io/warawo/ でリレーが途切れそうな人を確認してね"
-  },
-  {
-    "id": "1d878719abc48260ff7c6366ead38553b28a7eff2c33d69f4ef3f53d18a9b442",
-    "pubkey": "6ee6b98e87bc42eb67a9ed82d6accc85705b7c3e2b2a351e487c0e793448c4eb",
-    "created_at": 1785145179,
-    "tool": "https://github.com/dmntnr/nostrd",
-    "note": "nostrd（Rust 製の Nostr リレーサーバー、作者 dmntnr 自作。投稿は英語だが kind0 の about に Japanese full-stack developer と自認、日本人扱い）",
-    "content": "[Introduce] Nostr Relay Server Application \"nostrd\" — \"nostrd\" is a Nostr relay server written in Rust. Damustr public relay: wss://relay.damustr.com"
-  },
-  {
-    "id": "d928ac83b05c008282fe90ec0d92e481e1463aa2f592428d56f5a07866db1867",
-    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
-    "created_at": 1785136900,
-    "tool": "https://github.com/LunaYoineko/nimstr",
-    "note": "nimstr（Nim 向け Nostr Protocol SDK、宵猫ルナ自作。日本語確定）",
-    "content": "使う人がいるかどうかは知らないけど一応 https://github.com/LunaYoineko/nimstr"
-  },
-  {
-    "id": "b4573ac4e5290089d043c8a681fc9ff4b4ecf5572d1f5bba27d24b5d92bb7b36",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1785041379,
-    "tool": "https://koteitan.github.io/nostr-trends/",
-    "note": "nostr-trends（Nostr の投稿トレンド検索ツール、koteitan 自作。日本語確定。5年範囲対応をアナウンス）",
-    "content": "５年に対応 https://koteitan.github.io/nostr-trends/?q=ふんぼ&range=5y"
-  },
-  {
-    "id": "4ebba54e618b6df0d74eb65c38b19663e914a5504b783ddace80c335f4eeb68c",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1785039153,
-    "tool": "https://koteitan.github.io/img/mono/",
-    "note": "mono（画像をモノクローム化するコンバータ、koteitan 自作。日本語確定）",
-    "content": "made converter https://koteitan.github.io/img/mono/ #monochrome"
-  },
-  {
-    "id": "518f313af879721a9e69e7a1b850302b486443d9dd51064c70f1c2b640678a34",
-    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
-    "created_at": 1784967031,
-    "tool": "https://ocknamo.github.io/mamemaki/",
-    "note": "mamemaki（ocknamo 自作の Nostr ウォレットアプリ。QR読み取り機能を追加した報告。作者本人、日本語確定。Nostr ツール）",
-    "content": "mamemakiにQR読み取り機能つけた。\n別のスマホないから試せないけど。\nhttps://ocknamo.github.io/mamemaki/"
-  },
-  {
-    "id": "577f83deee1f5c0e8fd78bb984c279fa19957d3196570402a89488370438670e",
-    "pubkey": "c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416",
-    "created_at": 1784941862,
-    "tool": "https://github.com/mitsugu/Yahoo-Chiebukuro-User-Blocker",
-    "note": "Yahoo!知恵袋 ユーザーブロッカー（特定ユーザーの質問を非表示にする UserScript、機能拡張版）。GitHub は mitsugu 名義で、OrzBruford 本人の diveplanner も mitsugu.github.io にあるため作者本人と判断。日本語",
-    "content": "精神衛生のために。\nhttps://github.com/mitsugu/Yahoo-Chiebukuro-User-Blocker\nhttps://greasyfork.org/ja/scripts/575359-yahoo-chiebukuro-user-blocker-enhanced-ui"
-  },
-  {
-    "id": "e1dfff3d1fa7f6d27f749cac455f3e5a5efbb0baaad1ce00eba2d7ee244ddf56",
-    "pubkey": "4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25",
-    "created_at": 1784909548,
-    "tool": "https://github.com/akiomik/tears",
-    "note": "tears（自作の Rust TUI フレームワーク。Elm Architecture ベースで ratatui 上に構築）。投稿本文に「自作フレームワーク」と明記。日本語。Nostr ツールではない（iroiro 向けかは要判断）",
-    "content": "自作フレームワークが羽化するところも見てってください\n\nhttps://github.com/akiomik/tears"
-  },
-  {
-    "id": "68577d920e9f9c890ab011f2492f8bbaf9a12f844c02c6bcaf6f33712f63c1a7",
-    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
-    "created_at": 1784909281,
-    "tool": "https://github.com/Hakkadaikon/wired",
-    "note": "wired（hakkadaikon/発火大根 自作の QUIC/HTTP3/WebTransport フルスタックSDK。開発中・テスト実施中。kind0 にも wired と明記）。作者本人、日本語確定",
-    "content": "(ほぼ)放置 QUIC/HTTP3/WebTransport フルスタックSDK実装\n\nhttps://github.com/Hakkadaikon/wired\n\nテスト充足中\n今日だけで200件くらいテストケース追加したかも\n\n全RFC/SP/FIPS等、EARSのチェックボックスとしてまとめたテストケースが1244件\n(assertはもっと多い)\n\n- [x] テスト済み: 972件\n- [~] 間接的に実証(専用テストはないが根拠あり): 214件\n- [ ] 未実証: 58件\n\nこれがおわったらCI修正 / 統合テスト / 回帰テスト / \nNISTからの脆弱性修正 / パフォーマンス計測・改善が待っている\n\n永遠にテストしてる\n\n#大根メモ"
-  },
-  {
-    "id": "51440d51adeb39c99d49b195a7f474f885ee15523a8edae9fed4d9b300f5e544",
-    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
-    "created_at": 1784905770,
-    "tool": "https://github.com/LunaYoineko/Yami/blob/master/nosrandom.py",
-    "note": "nosrandom.py（宵猫ルナ自作の Nostr bot「Yami」リポジトリ内の Python スクリプト。リンク先は現在 404 でファイル整理された可能性）。作者本人、日本語確定",
-    "content": "https://github.com/LunaYoineko/Yami/blob/master/nosrandom.py"
-  },
-  {
-    "id": "75de79052ee2550ca0d106672e97358c6ff00ce6e2182085a4b3eebb3391a05c",
-    "pubkey": "32310997f6b37b6cd60bb15a28e9a14badddfbf0875a7de24c69123a0c1e64cc",
-    "created_at": 1784880964,
-    "tool": "https://showhyuga.pages.dev/utility/nos_jump",
-    "note": "のすjump（note ID を nostter/のぞき窓/LUMILUMI/Nos Haiku/eHagaki で開くための変換ユーティリティ）。ページ表記「©2024 by ひゅうが霄」で作者本人確認。日本語",
-    "content": "のすjumpみたいなやつか\n\nhttps://showhyuga.pages.dev/utility/nos_jump"
-  },
-  {
-    "id": "4e8466ef5831afcab74b66bb7ffb9f834082a7a10c433c2e13186fcda715c40e",
-    "pubkey": "908aecabefa8964640cc868d00d0b1d92fbe7436599f0b3749de37f62215c8eb",
-    "created_at": 1784790471,
-    "tool": "https://gitworkshop.dev/npub1jz9we2l04ztyvsxvs6xsp593myhmuapktx0skd6fmcmlvgs4er4s823a2d/relay.ngit.dev/nos_pico",
-    "note": "nos_pico（Raspberry Pi PicoでNostrの電子署名を行い、Rust経由でリレーサーバーに送信するためのプロジェクト、こつ子の自作）。投稿は「GitWorkshop面白い」とGitWorkshop上の自身のリポジトリを紹介。URL内のnpubが本人pubkeyと一致し、GitHub(moyashi170607)でもnos_pico確認済み。日本語",
-    "content": "おほ～\nGitWorkshop面白い\nhttps://gitworkshop.dev/npub1jz9we2l04ztyvsxvs6xsp593myhmuapktx0skd6fmcmlvgs4er4s823a2d/relay.ngit.dev/nos_pico"
-  },
-  {
-    "id": "66d4daa1cb3bbd72b9c63b3023c77264a2765939e70e45358155e0a880f44676",
-    "pubkey": "06d333dcfe659f2f8cd5adc76e943fe74ea2631514866ab2bce0ae94534d77a1",
-    "created_at": 1784687126,
-    "tool": "https://apps.apple.com/us/app/カメグルコ/id6792654091",
-    "note": "カメグルコ（投稿者「Shorty(デジタルかめランド)」自作の iOS アプリ）。投稿「人生初のアプリが世に出た！」で作者本人確定。kind0 日本語 YES",
-    "content": "人生初のアプリが世に出た！\nhttps://apps.apple.com/us/app/%E3%82%AB%E3%83%A1%E3%82%B0%E3%83%AB%E3%82%B3/id6792654091"
-  },
-  {
-    "id": "11baee8134431eb821c0c3d8f2567fa6e08f2488ff372fa857789bf1ed244a00",
-    "pubkey": "ef89ee45550f7377c0ea42d4bb1d359dc75f36f0d684e625a05e04e5a02bd491",
-    "created_at": 1784669409,
-    "tool": "https://github.com/YoshikuniJujo/test_haskell/tree/master/other_language/javascript/local_https",
-    "note": "local_https（自作のオレオレ証明書ワンライナー + ローカル HTTPS サーバーを立てる nodejs コード）。GitHub 名義 YoshikuniJujo が投稿者本人と一致 → 作者本人。投稿本文日本語。Nostr ツールではない（iroiro 向けかは要判断）",
-    "content": "https://github.com/YoshikuniJujo/test_haskell/tree/master/other_language/javascript/local_https\n\nオレオレ証明書を作るワンライナーとそれを使ってHTTPSサーバーをローカルに立てるnodejsコード。"
-  },
-  {
-    "id": "9257957b26f579e5bbd58fb92471abe03a0579bd4714d1893686b87b2bcd17e8",
-    "pubkey": "4894d1f41f1fabce7f2747d42bf4c10bb12531c0a356a866d7493a942f8b0b58",
-    "created_at": 1784651379,
-    "tool": "https://github.com/halka/Okini-Iri-Dashboard",
-    "note": "Okini-Iri-Dashboard（halka 自作のダッシュボード。「XML/json色付けとかやりました」の更新報告）。GitHub 名義 halka が投稿者本人と一致 → 作者本人。投稿本文日本語",
-    "content": "XML/json色付けとかやりました。\nhttps://github.com/halka/Okini-Iri-Dashboard"
-  },
-  {
-    "id": "e930e26b431cd6ea7a2f131ce68ad071e551666a167ffd70a2f8b90687a181ab",
-    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
-    "created_at": 1784630465,
-    "tool": "https://tsukemonogit.github.io/yabumi-ranking-graph/",
-    "note": "yabumi-ranking-graph（やぶみランキングのグラフ表示ツール。「ランク外またぐと線とぎれるようになった」の更新報告）。投稿者は iroiro bot 作者 mono（TsukemonoGit）。GitHub プロフィールが「mono TsukemonoGit」で Nostr バッジの npub が本人 pubkey と一致 → 作者本人。日本語",
-    "content": "https://tsukemonogit.github.io/yabumi-ranking-graph/ ランク外またぐと線とぎれるようになった"
-  },
-  {
-    "id": "cdfb9a6a8c7e0810b759e960ba17ab87f95c2144078645d44375589cb103900b",
-    "pubkey": "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69",
-    "created_at": 1784586024,
-    "tool": "https://ryopc.f5.si/",
-    "note": "ryopc（game_ryo 主導のデジタル機器サポート・デジタルリテラシー国際イニシアチブ。「ryopcがついに、始動」とメンバー募集の告知）。kind0 about に「ryopc公式: ryopc@nr.ryopc.f5.si」と明記 → 作者本人確定。日本語",
-    "content": "ryopcがついに、始動。\n\nメンバー募集。\n\nhttps://ryopc.f5.si/#contact"
-  },
-  {
-    "id": "fcdf9dc403a526fdac1470a4b6284e7878edf80e3f3486ac0aab6aa2882a6300",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1784549666,
-    "tool": "https://koteitan.github.io/otenki/",
-    "note": "otenki（降水確率のラプラス変換をする自作のお天気ツール。「ラプラス変換できた」の開発報告）。koteitan は日本語確定・作者本人（koteitan.github.io 配下）。iroiro.json 未収載",
-    "content": "ラプラス変換できた\nhttps://koteitan.github.io/otenki/"
-  },
-  {
-    "id": "5a20cc85f4e3c31b8c230ef4894c94df8aa69924d2ab90e9b8944174886c9a28",
-    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
-    "created_at": 1784379208,
-    "tool": "https://ocknamo.github.io/combine",
-    "note": "combine（ocknamo 自作の「Combined Nostr client」。Nosskey のパスキー署名 + eHagaki 投稿エディタ + Nostr Web Components を組み合わせたシンプルな Nostr クライアント）。作者本人、日本語確定。Nostr ツール",
-    "content": "これなんです。iPhoneのsafariで使えるのか気になってます。\n\nhttps://ocknamo.github.io/combine"
-  },
-  {
-    "id": "ee63016b495d6b6e7a33cbdab02b180ae0cd6532f27dade2652108f2b456f3e3",
-    "pubkey": "776ea4437354381f14a720be3c476937dce7257ed1073e54a192dbc99f3b7ecc",
-    "created_at": 1784367543,
-    "tool": "https://github.com/uakihir0/CCUsageMenu",
-    "note": "CCUsageMenu（uakihir0 自作の macOS メニューバーアプリ。Claude Code の従量課金利用量 ccusage を確認）。投稿者本人の作成物。日本語。Nostr ツールではない",
-    "content": "ちょっと雑に仕事で AI 使っていることを反省して、ccusage をメニューバーに置いて確認できるやつ作った。既存にいくつかあったけど、お仕事向けなので従量課金のみをターゲットに作った。\nhttps://github.com/uakihir0/CCUsageMenu"
-  },
-  {
-    "id": "55550532d80efb4a5d58a1d10573363b06579afad13f740527c3f0afb762cdb1",
-    "pubkey": "07804b786c6a3b400b7b20d9bfc945035f3ad213da797b0c50954767c375c543",
-    "created_at": 1784359438,
-    "tool": "https://darashi.github.io/nikunoaji/",
-    "note": "nikunoaji（darashi 自作の肉の味計算機。塩分 1% 計算の Web ツール）。darashi は既に murasaki で iroiro.json 収載済み。日本語。Nostr ツールではないが投稿本人の作成物",
-    "content": "ひさしぶりに肉の味計算したhttps://darashi.github.io/nikunoaji/"
-  },
-  {
-    "id": "1bc07246e30e4aaddfddb7337a61abe808f383e992a4729a374a0613697fd8ae",
-    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
-    "created_at": 1784345588,
-    "tool": "https://kojira.github.io/nostr-reaction-viewer/",
-    "note": "nostr-reaction-viewer（kojira 自作の「あなたがリアクションした投稿」を確認するツール。NIP-07 連携・日付範囲/画像フィルタあり）。作者本人、日本語確定。Nostr ツール",
-    "content": "なんかできてた\nhttps://kojira.github.io/nostr-reaction-viewer/"
-  },
-  {
-    "id": "f289e2da51eb7e4e47e14d5831559cdeea1b88167a89c4108723aca9244ee0ed",
-    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
-    "created_at": 1784341394,
-    "tool": "https://kojira.github.io/nostr-license/",
-    "note": "nostr-license（kojira 自作の運転免許風 Nostr カード生成ツール。「Nostr licenseでzap推移も見れる」と zaps 可視化にも言及）。作者本人（iroiro bot 作者）、日本語確定。Nostr ツール",
-    "content": "Nostr licenseでzap推移も見れる\n\n🪪 My Nostr License — kojira導師\n#NostrLicense\nhttps://kojira.github.io/nostr-license/"
-  },
-  {
-    "id": "bd74a001b1d85091b9a6ab6a0611c8b375213405120b56210ee72bcfe5121bc0",
-    "pubkey": "1beecee55f69ebc2890403606f28b5e8ebbab23d226730e12b4bf762d29d2162",
-    "created_at": 1784267796,
-    "tool": "https://github.com/akazdayo/nostratui",
-    "note": "nostratui（akazdayo の ratatui 製 Nostr TUI クライアント。Vim風キーバインド・Kitty Graphics Protocol 対応）。開発報告複数（画像レンダリング・カスタム絵文字・リレータブ等）で作者本人。日本語。Nostr ツール",
-    "content": "https://github.com/akazdayo/nostratui"
-  },
-  {
-    "id": "95b24288f1457df02ae7a498b393e55e14588efbd9476b7c153224c6bb362f18",
-    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
-    "created_at": 1784257530,
-    "tool": "https://conversation-mismatch-ai.vercel.app/",
-    "note": "会話不成立AI（相手と微妙に噛み合わない返答を生成する AI サービス。「本日の不成立会話です」と利用報告）。投稿は日本語だが作者本人かは不明",
-    "content": "本日の不成立会話です\nhttps://conversation-mismatch-ai.vercel.app/\nhttps://share.yabu.me/6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b/2a4d0af06bdfd276b023683c29b1a673de74eb1bcc4255e6df42635c83be2210.webp"
-  },
-  {
-    "id": "8bf4bc0c78db3542caf54c51acfd2bfa12e5eed1e51eb8fed21dbdb555278f9a",
-    "pubkey": "cc6d24063ad9e928a434c6b0566f6d27d31da0e7d8dcc31241af3f3382c9fe3f",
-    "created_at": 1784253382,
-    "tool": "https://ompomz.github.io/flowgazer/",
-    "note": "flowgazer（ompomz の Nostr タイムライン可視化ツール。「okkake」で指定イベントから辿れる）。投稿は日本語だが、投稿者が ompomz 本人かは不明（flowgazer クライアント利用者）。Nostr ツール",
-    "content": "このへんからずっとおもしろくてやばかった https://ompomz.github.io/flowgazer/okkake/?id=nevent1qy88wumn8ghj77tpvf6jumt99uqzqpv6z84hhtr5c8p7uqtdc697nt0nskpgdnet4h387s7fpm8r4d0cr9z6v7&follow=npub1a3pvwe2p3v7mnjz6hle63r628wl9w567aw7u23fzqs062v5vqcqqu3sgh3"
-  },
-  {
-    "id": "9097d7f694666e916c5a0c7939ce1a7ba0def6e097127f20df8642ce17839f5f",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1784247233,
-    "tool": "https://github.com/koteitan/my-skills/blob/main/skills/check-usage/README-ja.md",
-    "note": "check-usage（koteitan 自作の Claude Code スキル。5時間枠・週次の利用上限をエージェント自身が確認できる）。日本語",
-    "content": "エージェントが 5H limit / weekly limit がいつ来るかを知ることができるスキルを作った\nhttps://github.com/koteitan/my-skills/blob/main/skills/check-usage/README-ja.md"
-  },
-  {
-    "id": "3a98898e2d29bb7df5909628c240a10c1c4bff7ec2d734979cad0698cc2beb55",
-    "pubkey": "e88527b44e3e58e5a092cf30448a9881ecfca3c36bcd503108c2230f7ccf6efa",
-    "created_at": 1784196662,
-    "tool": "https://github.com/vrtmrz/fancy-kit",
-    "note": "fancy-kit（vrtmrz/LiveSync 作者自作の Obsidian プラグイン用共通部品・テストキット。npm ワークスペース）。Osaka JP・日本語",
-    "content": "最近LiveSyncの修正がすごく悩ましいのが多くて、ついにワイが作ってるプラグインの共通部品とか、そのへんのテストをする私家版プラグインとか、あとObsidianをend-to-endでテストするものを作ったんだけど、まぁめっちゃいいわ⋯"
-  },
-  {
-    "id": "c8b2adbc39af85225794b9e2ceff8616997f3a0dd25bda1508fab1543f47ecaa",
-    "pubkey": "5aaccfdd2ed8f45eb0dfb9a8752bf0d50777a975ad24468f14dd457e747c5c90",
-    "created_at": 1784180085,
-    "tool": "https://kimochi-sakana-kantei.vercel.app/",
-    "note": "きもち魚鑑定（今の気持ちを魚にたとえるおみくじ風診断アプリ）。結果シェア投稿が同一アカウントから継続しており作者本人の可能性が高い。日本語",
-    "content": "今のきもちは「食後ねむい」の魚でした。\n\n【ショクゴスヤスヤダイ】\n昼の満腹潮を浴びると、泳ぎながらまぶたが沈む。\n生息地：午後一時の浅瀬\n\n#きもち魚鑑定\nhttps://kimochi-sakana-kantei.vercel.app/"
-  },
-  {
-    "id": "682131c735c427ae89f805d60637868cab358e22707f68d372fc84dfd72189af",
-    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
-    "created_at": 1784163264,
-    "tool": "https://github.com/LunaYoineko/Nosterm",
-    "note": "Nosterm（宵猫ルナ/LunaYoineko 自作の TUI Nostr クライアント。業務中にssh経由で見る目的）。日本語。LunaYoineko の pubkey は既収録エントリと一致",
-    "content": "せんでーん\n業務中にssh経由でノスを見たいがために作りましたTUIクライアントですにゃ\n\nhttps://github.com/LunaYoineko/Nosterm"
-  },
-  {
-    "id": "45b2fd003395ba997df8d4341aa68ea9eafd62934c44128ef0599e4c917e5ba5",
-    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
-    "created_at": 1784125471,
-    "tool": "https://files-mentioned-by-the-user-web-alpha.vercel.app/",
-    "note": "絶対に当たらない天気予報アプリ（petan 自作、#絶対に当たらない天気予報 シリーズ）。日本語。会話不成立AI と同じ pubkey",
-    "content": "天気予報アプリを作りました。\nhttps://files-mentioned-by-the-user-web-alpha.vercel.app/"
-  },
-  {
-    "id": "a50881821a9ff7c8446e646dade62e1f5d62447e251c14ad2c41bf1170ab433d",
-    "pubkey": "6ee6b98e87bc42eb67a9ed82d6accc85705b7c3e2b2a351e487c0e793448c4eb",
-    "created_at": 1784091088,
-    "tool": "https://dmntnr.com/",
-    "note": "dmntnr.com（dmntnr 自作の個人サイト。Nostr の自分の投稿を表示）。日本語。nostrd と同じ作者（kind0 は英語だが Japanese full-stack developer と自認）",
-    "content": "雑だけど自分の作りかけサイトに Nostr の自分の投稿を表示させることできた\n\nhttps://dmntnr.com/"
-  },
-  {
-    "id": "ab78bbc8e726019fca70ee53b871098e88f21cce26827c9dadf16ada9df7c8de",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1784040902,
-    "tool": "https://koteitan.github.io/moire/",
-    "note": "moire（koteitan 自作のモアレ模様を楽しむツール。「画像サイズを変えることでいろんなモアレをたのしめるよ！」）。作者本人（koteitan.github.io 配下）。日本語",
-    "content": "どうぞつhttps://koteitan.github.io/moire/"
-  },
-  {
-    "id": "08f409095ac9740cac59b546f69227abc84ec7eede9a7b5a72cab4e2af90832e",
-    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
-    "created_at": 1784038176,
-    "tool": "https://mat-ppopgi-korean-gacha.vercel.app/",
-    "note": "マッポッポギ韓国料理ガチャ（petan 自作の韓国料理ガチャ。「料理の種類が増えました」と更新報告）。日本語。絶対に当たらない天気予報アプリと同作者",
-    "content": "料理の種類が増えました\nhttps://mat-ppopgi-korean-gacha.vercel.app/"
-  },
-  {
-    "id": "b8024b07b8c1e0e9b1d93933ba94df76c6011a84a6ec09ac3688f7dc12e7b8a5",
-    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
-    "created_at": 1784000721,
-    "tool": "https://github.com/ShinoharaTa/nostr-andloid-native-client",
-    "note": "nostr-andloid-native-client（Nostr ネイティブ Android クライアント。PR マージ報告と issue 募集）。作者本人（Nostrism のしのさん = ShinoharaTa）。日本語",
-    "content": "https://github.com/ShinoharaTa/nostr-andloid-native-client/pull/118\n\nマージ済み"
-  },
-  {
-    "id": "4f3c165fe975a6ade9bb4f3d39b7f1b5b374c0385d31dc75d653d15e323fd229",
-    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
-    "created_at": 1783996856,
-    "tool": "https://d-shrine.jp/",
-    "note": "でばっぐ神社（IT おみくじ・参拝ゲーム。GitHub 更新やアクションでポイント/レベルが上がる）。作者は iroiro bot 作者 kojira と推測（dev URL d-shrine-dev.firebaseapp.com を使用）。日本語、コミュニティで広く利用",
-    "content": "⛩️でばっぐ神社のITおみくじは😊【中吉】でした\n「半分終わって半分残る。ちょうど真ん中の日。」\n・願望: 願いは道半ば。焦らず続ければ叶う兆し。\n・レビュー運: 軽い手戻りが一度。直せばすぐ承認。\n・学問: 写経は進むが、応用問題で少し悩む。\n#でばっぐ神社\nhttps://d-shrine-dev.firebaseapp.com/"
-  },
-  {
-    "id": "531dd58bc0121f76e6406d4615151015b281f2db12802cef2c2834589558e72a",
-    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
-    "created_at": 1783956562,
-    "tool": "https://github.com/betonetojp/nokandro",
-    "note": "nokandro（Nostr ネイティブ Android クライアント。v0.22.0 リリースで Bunker 自動復帰とバッテリー最適化除外に対応）。作者本人（betonetojp = nokakoi/kakoi 作者、投稿は nokakoi.com の更新報告もあり）。日本語",
-    "content": "nokandro v0.22.0\nOSのメモリ管理でプロセスを殺されてもBunkerが自動で復帰するようにした\n「Exclude from battery optimization」をタップでバッテリー最適化からの除外ができるように\nhttps://github.com/betonetojp/nokandro/releases/tag/v0.22.0"
-  },
-  {
-    "id": "4f21245f41a9d43f55fff923254eec234b1f1c00d73a3dbff016c0e03986cc16",
-    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
-    "created_at": 1783950018,
-    "tool": "https://nostrism.shino3.net/",
-    "note": "Nostrism（日本の代表的な iOS Nostr クライアント。TestFlight で iOS ビルド提供、同日内に「ものあいこん対応してリリースした」投稿もあり）。作者本人（しのさん = ShinoharaTa、絶対匿名希望との本人コメントあり）。日本語",
-    "content": "iOS ビルドのNostrismテストは以下のtestflightから確認できます。\nhttps://testflight.apple.com/join/bpuGkj2G"
-  },
-  {
-    "id": "27a4cd6df561b42b402fe6c3366e9676380ce0b4e9595a22966c21479579a4de",
-    "pubkey": "dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1",
-    "created_at": 1783865827,
-    "tool": "https://github.com/oppapili/MarkTask",
-    "note": "MarkTask（おっぱぴぃ/oppapili 自作の AI-DLC v2 ベースのタスク管理ツール。org/project/team で階層分けしてルールを定義できる）。作者本人（kind0 name=oppapili / displayName=おっぱぴぃ で日本語）。日本語",
-    "content": "AI-DLC v2で作っています。\nhttps://github.com/oppapili/MarkTask"
-  },
-  {
-    "id": "315c56616570e19355b45629054dc24583a359283a478a0338ba9244b3e3d664",
-    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
-    "created_at": 1783830091,
-    "tool": "https://snowcait.github.io/tenhou-gacha/",
-    "note": "天和ガチャ（雪猫/SnowCait 自作の麻雀 天和ガチャ。牌姿を指定して天和が引けるまで回し続けるブラウザツール）。作者本人（kind0 name=SnowCait / displayName=雪猫 で日本語）。日本語",
-    "content": "天和ガチャ\nhttps://snowcait.github.io/tenhou-gacha/\n"
-  },
-  {
-    "id": "4195358caf967e1876af38d6f7030638de36c56f430e5bda9582caccc61abcb0",
-    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
-    "created_at": 1783829992,
-    "tool": "https://github.com/nikolat/jong-chunchun",
-    "note": "雀-チュンチュン（nikolat/Don 自作の「伺か」用麻雀クライアントゴースト。SSTP で麻雀ゲームと連携してしゃべる。2014年作・ニッチ）。作者本人（kind0 name=nikolat / displayName=Don、日本語）。日本語",
-    "content": "カン大好きっ子の中身\nhttps://github.com/nikolat/jong-chunchun/blob/20fa6762bd4d443f7c3bd60b787c0d5fb0082645/ghost/master/MahjongAI.txt#L386"
-  },
-  {
-    "id": "fee8a27f1635554efc32e62c357cd8a6d8a508e02b20f69861b68de0590efbb5",
-    "pubkey": "ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758",
-    "created_at": 1783754126,
-    "tool": "https://hackage.haskell.org/package/moffy",
-    "note": "moffy（Haskell 製のモナディック関数型リアクティブプログラミング mFRP ライブラリ、重城良国/YoshikuniJujo 作）。投稿者自身の開発物（「自分で作ったライブラリだけど」）。日本語だが Nostr ツールではない（iroiro 向けかは要判断）",
-    "content": "https://zenn.dev/yoshikuni_jujo/articles/introduction-to-moffy\n\nこれ使ってみようかな。\n自分で作ったライブラリだけどFRP使わずに普通に書いたほうが楽疑惑はある"
-  },
-  {
-    "id": "398a7f4487c357ef90d923357e32d2f06365787d428821ed04f328e41e5f14c5",
-    "pubkey": "83279ad28eec4785e2139dc529a9650fdbb424366d4645e5c2824f7cbd49240d",
-    "created_at": 1783750163,
-    "tool": "https://github.com/kengirie/blossoML",
-    "note": "blossoML（kengirie/3001 自作の OCaml 製 Blossom サーバ実装。投稿は日本語だが kind0 は英語で日本人かは要判断）。Nostr 向け",
-    "content": "blossomlでmime 判定にconanっていうライブラリを使っているんだけど、 名前の由来が名探偵コナンであることを今知った\n\nhttps://github.com/mirage/conan"
-  },
-  {
-    "id": "301b88f76b1aca53e48b9702e72168cb2b5780000f29827981748da7d3155047",
-    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
-    "created_at": 1783683761,
-    "tool": "https://github.com/betonetojp/nokakoi",
-    "note": "nokakoi（betonetojp の Nostr Web クライアント。v1.91.0 で omochat の位置情報リレー自動取得とイベント受信リレー表示機能を追加。投稿者本人の宣伝・更新報告）",
-    "content": "宣伝\nTiny but cute web client.\nhttps://nokakoi.com/app/"
-  },
-  {
-    "id": "b276f21d4498631097beca580e668cf1f89a751f89d8953daef3732afab8cbed",
-    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
-    "created_at": 1783571708,
-    "tool": "https://github.com/428lab/kuda",
-    "note": "kuda（kojira の「物理ランダムをAPIで払い出しするやつ」。真空の量子ゆらぎ ANU QRNG と放射性崩壊ガイガー管を源泉としたエントロピー配管。Cloudflare Worker + ESP32）。作者本人（kojira 確定）、日本語。Nostr ツールではないが投稿本人の作成物",
-    "content": "物理ランダムをAPIで払い出しするやつ。\nhttps://github.com/428lab/kuda\nESP32は届いたけどガイガーカウンタキットが来週だ"
-  },
-  {
-    "id": "596c0f4fa3e1f6bc5236a5bf52799cc162b8dfc325d3891fb26d9ae0131fe4de",
-    "pubkey": "06d333dcfe659f2f8cd5adc76e943fe74ea2631514866ab2bce0ae94534d77a1",
-    "created_at": 1783489852,
-    "tool": "https://days-ai.com/",
-    "note": "DaysAI（投稿者「Shorty(デジタルかめランド)」自作の AI イラスト創作 SNS/ゲーム）。「自分の好みのキャラクターを作って、さらにそのキャラをお台に出演させてイラストを作るソシャゲ（？）こんなん作ってみました」で作者本人確定。kind0 日本語 YES",
-    "content": "自分の好みのキャラクターを作って、さらにそのキャラをお台に出演させてイラストを作るソシャゲ（？）\n\nこんなん作ってみました\nhttps://days-ai.com/posts/659c0270-18fc-4aa1-86d3-5a0ae0626868/"
-  },
-  {
-    "id": "ccda3d97eb4b2b68022e3625c54d331c2247f2708cd5508b922dca4bf6c0639f",
-    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
-    "created_at": 1783462616,
-    "tool": "https://github.com/nikolat/jong-bari",
-    "note": "雀々BARIBARI（nikolat/Don 自作の「伺か」用麻雀サーバーゴースト。jong-rinrin / jong-chunchun / jong-whanwhan などクライアントゴースト3体を招いて対戦できる。2021年作・ニッチ）。作者本人（kind0 name=nikolat / displayName=Don、日本語）。日本語",
-    "content": "こいつ意外と操作性いいんだよな\nhttps://github.com/nikolat/jong-bari"
-  },
-  {
-    "id": "f2218fe3b2c31040a82dba23708330a2d63dfd6573be947482193a9d779104aa",
-    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
-    "created_at": 1783439834,
-    "tool": "https://github.com/mattn/moonbit-nostr-relay",
-    "note": "moonbit-nostr-relay（mattn 自作の MoonBit 製 Nostr リレーサーバ。wss://moonbit-nostr-relay.compile-error.net/ で運用。投稿は安定性・k8s でのメモリ動向などの運用報告で URL なしだが、作者本人が自作リレーに言及）。Nostr 向け",
-    "content": "moonbit-nostr-relay、けっこう安定してるやん\n https://image.nostr.build/3d525705975364410b26d11af064f241f535de754a8faebd569ed6f6366ae3d0.png"
-  },
-  {
-    "id": "5f4ca924ae20379c6d34e21cbc38e302e49713c67c2dbbf3e33d9bf6e183a6b0",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1783354115,
-    "tool": "https://github.com/koteitan/find-mine-fire",
-    "note": "find-mine-fire（koteitan 自作の「自分の Nostr 投稿」のローカルインクリメンタルサーチツール。自分の kind1/6 をリレーから strfry(NIP-77) に同期し、SQLite FTS5 のトリグラム索引で CLI/TUI/Web から検索）。作者本人（koteitan 確定、日本語）。Nostr 向け。関連: 同じく自作の sessionmv（my-skills 内の小スクリプト、投稿 93c8039c765f…・created_at 1783357615）は standalone でないため本エントリに統合",
-    "content": "自分のポストのインクリメンタルサーチローカルツール\nhttps://github.com/koteitan/find-mine-fire"
-  },
-  {
-    "id": "189870df2651dc2e1fd7bcbc74c9536008698b6f7092babfdade0f7d42b1906b",
-    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
-    "created_at": 1783338583,
-    "tool": "https://play.google.com/store/apps/details?id=net.shino3.nostrism",
-    "note": "Nostrism（しのさん 自作の Android 用 Nostr クライアント。パッケージ id=net.shino3 は shino3.net 由来。2026年7月時点ベータ・破壊的変更あり）。作者本人（しのさん確定、日本語）。Nostr 向け",
-    "content": "グループ参加して以下のURLからダウンロードできるようになりました。\nhttps://play.google.com/store/apps/details?id=net.shino3.nostrism\n\nなお間に合せで公開してるのでいろいろ破壊的変更は入ります"
-  },
-  {
-    "id": "3723e3572de80734f24f1584eb56c864d22c75aa963751f8e307bc94c3a11aaa",
-    "pubkey": "d602e726ec089bcd6d368531e81cc71e50d034278b235e0aa50ac330acf44c8f",
-    "created_at": 1783324506,
-    "tool": "https://magunapina.github.io/clean-youtube-search/",
-    "note": "Clean YouTube Search（マグナピナ/magunapina 自作の広告なし YouTube 検索 Web アプリ。Fable/F# で作り直し）。作者本人（kind0 name=Magunapina の日本語アカウント）。",
-    "content": "fableで色々と作り直した\nhttps://magunapina.github.io/clean-youtube-search/"
-  },
-  {
-    "id": "3f1dc5336b660230c5f6bf3c2e3b130467d1299298f77d90595d0275f3862e28",
-    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
-    "created_at": 1783270373,
-    "tool": "https://nostr-restore.compile-error.net/",
-    "note": "nostr-restore（mattn 自作の Nostr プロフィール更新系イベントのバックアップ・リストアサービス。wss://nostr.compile-error.net にプロフィール更新系イベントを登録するとバックアップされ、リストア可能）。作者本人（mattn 確定、日本語）。Nostr 向け",
-    "content": "wss://nostr.compile-error.net に直近2年くらい、プロフィール更新系のイベントを1個でも登録しておくと、それらのバックアップがされる様になっていて、リストアも可能。\nhttps://nostr-restore.compile-error.net/"
-  },
-  {
-    "id": "32c7b67f8b8c890f7449ed2680e20ca0c36ae670c97648d6645e42047102bdd1",
-    "pubkey": "1066a05d1474e7e133a97208a5cb177a9c01e4b81f0f14370ad59f4a0a475681",
-    "created_at": 1783227771,
-    "tool": "https://github.com/ohac/midiguitareditor",
-    "note": "midiguitareditor（ohac/OHASHI Hideya 自作の MIDI ギター編集 TUI エディタ。リポジトリオーナー=投稿者で確定、日本語 README・大阪在住の日本語ユーザー）。Nostr ツールではないが投稿本人の開発物",
-    "content": "https://github.com/ohac/midiguitareditor\nバックアップついでにgithubにpushした。"
-  },
-  {
-    "id": "0e8dae1604f308af271ce48dcc4704fb1f1c30024e44469ba1b2dc65c704d5ab",
-    "pubkey": "148755e670adb36ebba529ff46b9f3580a499928249dd79a749b2853450c107f",
-    "created_at": 1783149702,
-    "tool": "https://utopia25.github.io/saborasenai/",
-    "note": "saborasenai（投稿者自作の質問サイト。「むらぴぃもちょぴ完全インスパイアで作ってみた」で作者本人）。GitHub utopia25（東京・日本語プロフィール）がリポジトリ所有者で投稿者と一致。kind0 に日本語（Name: 人生をサバイブしろ❗️）。日本語",
-    "content": "むらぴぃもちょぴ完全インスパイアで質問サイト作ってみた\n\nhttps://utopia25.github.io/saborasenai/"
-  },
-  {
-    "id": "28c7862af9a91dbf4b834f0be4093dce11cd62b292ac62400401dd8a415c406f",
-    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
-    "created_at": 1783140907,
-    "tool": "https://nostr-flowmeter.shino3.net/",
-    "note": "nostr-flowmeter（しのさん自作の Nostr 日本リレー流速のリアルタイムグラフ表示サイト。kind 30078 データを DB とした nostr-key-value のサンプル兼運用サイト。サイト管理者: shino3 で作者本人、日本語）。Nostr 向け",
-    "content": "https://nostr-flowmeter.shino3.net/"
-  },
-  {
-    "id": "9a5583e9fc75131855e04496b3ce24b1fe1b0adae4cbbd498668dab0ba85d528",
-    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
-    "created_at": 1783079269,
-    "tool": "https://github.com/zenryokukikai/kikai-lab",
-    "note": "kikai-lab（kojira 自作の Agent-first ML 実験管理・制御サーバ。AI エージェントが訓練を起動・監視・評価できる HTTP 制御プレーン。GitHub org zenryokukikai に @kojira が所属し作者本人、日本語投稿）。Nostr ツールではないが投稿本人の作成物",
-    "content": "AIエージェント向け機械学習フレームワーク公開した！\nhttps://github.com/zenryokukikai/kikai-lab"
-  },
-  {
-    "id": "8b4187222d8c8754304f157b2ec2b76330fc7ea0aaa7c816c8bd554d4e09e7bf",
-    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
-    "created_at": 1782952932,
-    "tool": "https://comcomponent.com/",
-    "note": "comcomponent.com（MAGAMAGA の会社サイト。Windows 専門の受託開発。kind0: C++プログラマ・COMコンポーネントが好き）。「うちのサイトはもうデジタル庁デザインに準拠させることで何も考えないことに成功した」で作者本人。別投稿で comcomponent.com/blog の自作記事（TCP フレーミング）も言及。日本語。Nostr ツールではないが投稿本人の作成物",
-    "content": "うちのサイトはもうデジタル庁デザインに準拠させることで何も考えないことに成功した\n\nhttps://comcomponent.com/"
-  },
-  {
-    "id": "5259ffbb78d0232a7d4e49c3298d0bc89a0911db8ca25bc1ba81603c8f883772",
-    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
-    "created_at": 1782907380,
-    "tool": "https://github.com/ocknamo/nosskey-sdk",
-    "note": "nosskey-sdk（ocknamo 自作の noskey.app パスキー署名ログイン導入用 SDK。npm: nosskey-iframe）。「できた」と noskey.app 導入用のプロンプトを公開し、自身の nosskey-sdk / nosskey-iframe / yakitofu(signer.ts) を参照。作者本人（ocknamo）、日本語確定。Nostr ツール",
-    "content": "できた\n\n\nnosskey.appの導入用のプロンプト。opus4.8もしくは同等のモデルでclaude codeもしくは同等のハーネスで実行すること。\n\n'''\nnosskey-sdkのiframe埋め込みを使ってnosskey.appのアカウントをこのアプリから使えるようにしてください。\n以下を参照してから実装計画を立ててください。\nhttps://github.com/ocknamo/nosskey-sdk\nhttps://www.npmjs.com/package/nosskey-iframe\n\n## 注意点\n* テーマ/言語は親アプリのカラーと言語になるべく一致するようにしてください\n* 既存のログイン機能がある場合、ダイアログや画面上に並列に選択肢を表示し、パスキーによるログインも選択できるようにする\n* 既存機能を壊さないように注意すること。例:  window.nostr を上書きせず署名用のサービスに隠蔽するパターン https://raw.githubusercontent.com/ocknamo/yakitofu/refs/heads/main/yakitofu-app/src/lib/services/signer.ts\n'''\n\n\nnostr:nevent1qqs0zcqsl7tzu3yffy5v6cczlhxeh0suwtn55rqq0999cumd8s3054qppemhxue69uhhjctzw5hx6ef0qgszdwewhmtv25kkwryqfvxk25n8k0rx9vs7qfkkuj9vjwnqwpfsjkqrqsqqqqqpt45gen"
-  },
-  {
-    "id": "8c7bd50f1e2199cc5cf88b86935839ee5c7ebb639c363c9254b89679ff866e7e",
-    "pubkey": "4f2199ca4f700fd5c15f8dfaa3088bce74599e762a127f2769b9da1544caf170",
-    "created_at": 1782873981,
-    "tool": "https://balloon-jp.vercel.app/nostr/",
-    "note": "balloon-jp.vercel.app/nostr/（ふうせん🎈 FU-SEN 自作の Nostr 使い方・鍵一覧ガイドページ。Long-form content の記載を追記）。kind0 の WebSite が同一 URL で作者本人確定。日本語。Nostr ガイドページ（ツールではない）",
-    "content": "もちろん Long-form content  の記載も加えてあります〜\nhttps://balloon-jp.vercel.app/nostr/"
-  },
-  {
-    "id": "b81e9fab032205b269e038750c7af7a7d784279987e6243d209cd0473f089cfc",
-    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
-    "created_at": 1782861469,
-    "tool": "https://kuronekop.codeberg.page/nostr_html_tool/nhc.html",
-    "note": "✞NHC✞（nostr_html_tool。黒猫P@受験生/kuronekop 自作の Nostr クライアント。codeberg の kuronekop ページで作者本人）。投稿はリンクのみで無言だが、同一アカウントの投稿は日本語。Nostr ツール",
-    "content": "https://kuronekop.codeberg.page/nostr_html_tool/nhc.html"
-  },
-  {
-    "id": "a258e52b47307831bb778548e8f45881fff81048eec5c2218371385493f1c69e",
-    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
-    "created_at": 1782739599,
-    "tool": "https://github.com/kojira/strfry-ratelimit",
-    "note": "strfry-ratelimit（kojira 自作の strfry writePolicy プラグイン。pubkey ごとのレート制限・自動BAN・kind クラス対応・Rust）。「これからのリレーはratelimitのBAN必須」。作者本人（kojira 確定、日本語）。Nostr 向け。関連: 同じく自作の strfry フォーク（https://github.com/kojira/strfry、プラグインでないため本家プルリク不可）",
-    "content": "rust製のプラギンでもいいし\nhttps://github.com/kojira/strfry-ratelimit\nわいのstrfryフォークでもいい\nhttps://github.com/kojira/strfry\n\nこれからのリレーはratelimitのBAN必須"
-  },
-  {
-    "id": "6fa3a96e4d2e87b641fd67dc7216ebd49a3ff2008da0d7a9ea444d563561e8b5",
-    "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
-    "created_at": 1782728979,
-    "tool": "https://github.com/haruki7049/buildente",
-    "note": "buildente（haruki7049 自作の Java ビルドスクリプトライブラリ。ziglang の build.zig に相当するビルド定義を目指す）。リンクのみの投稿だがリポジトリ所有者 haruki7049 が投稿者と一致（同アカウントの lightmix も収載済み、review5 の「これです」でも本人確認）。日本語。Nostr ツールではないが投稿本人の作成物",
-    "content": "https://github.com/haruki7049/buildente"
-  },
-  {
-    "id": "e7de424aa23e98ebcbdb3145ffa1ac510ab7ea2e8eb8b8b62127620391445cd2",
-    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
-    "created_at": 1782721041,
-    "tool": "https://github.com/SnowCait/snowflare",
-    "note": "snowflare（SnowCait 自作の Cloudflare Workers で動く Nostr リレー。in-memory ストレージ実装のコードを紹介）。作者本人（SnowCait 確定、日本語）。Nostr 向け",
-    "content": "in-memory ストレージだとこんな感じ\nhttps://github.com/SnowCait/snowflare/blob/a21967d06cbf75875bcd2aaa17705454ca121f75/src/repository/in-memory/event.ts"
-  },
-  {
-    "id": "8a69b59c00e75f40b09b1c6593fb34c34fcd2ee01aa6ab9e3145f87f3c732b54",
-    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
-    "created_at": 1782714819,
-    "tool": "https://github.com/ocknamo/kanabun",
-    "note": "kanabun（ocknamo 自作の Svelte ライクなフロントエンドフレームワーク。Bun + TypeScript だけで作られランタイム依存ゼロ。SSR/SSG・ルーター・テストヘルパー等を実装）。v0.0.0 パブリッシュ報告。作者本人（ocknamo 確定、日本語）。Nostr ツールではないが投稿本人の作成物",
-    "content": "kanabun v0.0.0をパブリッシュしました！\n目立つバグは対応しましたが、動作確認中であり0.0.0相当です。\n\nhttps://github.com/ocknamo/kanabun/blob/main/README.ja.md"
-  },
-  {
-    "id": "a9a9e08aaa7eb1d8d12c1575b9a8d6c53f673db508264fb4688665e6a7480d98",
-    "pubkey": "d1a61498f4b1dc26df0becd1a3e9e88f355fb614b771e8b5b277d0ff99a82a23",
-    "created_at": 1782707769,
-    "tool": "https://www.inkan.cc/",
-    "note": "Inkan（d1a61498f4b1 自作の Nostr アイデンティティ管理プロトタイプ。アイデンティティと署名用キーを分離し、マスターキーはコールドストレージに保管。署名用キーの失効・新キーへの委任をマスターキーで行い、委任/失効の申告を Ethereum に記録）。「Inkanはそこを変えようとしています」。作者本人（Inkan 開発者、日本語投稿）。Nostr 向け。関連: 同じく自作の inkan-offline-live（エアギャップ署名用ライブUSB https://gitlab.com/inkan_dev/inkan-offline-live、投稿 84ecaa12…・created_at 1782703324）",
-    "content": "今の仕組みだと、オンライン上のアイデンティティは、ほとんど秘密鍵そのものになってしまいます。\nその鍵が漏れたり失われたりすると、そのアイデンティティも終わってしまう。\nInkanはそこを変えようとしています。\n\nマスターキーはコールドストレージに置いたまま、普段の投稿や署名には別の署名用キーを使います。\nもし署名用キーが漏れたり失われたりしても、マスターキーで取り消して、新しいキーに委任できます。\nアイデンティティもフォロワーもそのまま。署名用キーだけ新しくできます。\n\nプロトタイプはこちらです：\nhttps://www.inkan.cc/\n\nNIP-07拡張機能でログインして、すでに動いているテスト用アイデンティティたちに話しかけてみてください。自分のアイデンティティを作ってみることもできます。\n\n\nhttps://image.nostr.build/27d256a9fcba336f567ea6369d0b6984feb72b00b06a5205efe029534113ab99.jpg\n\nhttps://image.nostr.build/ca9b087993604f7b7d9473a661c946ecd20015186a112021f4858efa6c1e1808.jpg\n\nhttps://image.nostr.build/fa5c1f8e19e3727b6693e6f105baf4eae15c4579343148fc413ac50acfe8edf0.jpg\n\nhttps://image.nostr.build/f7002003e981f536bec01789875c17596f6c0eac87526a071c350480029c5827.jpg\n\nhttps://image.nostr.build/3f6b865161cba71839910daa4f3c80b46c36400d5e2332ecad927b86003fcaad.jpg\n\nhttps://image.nostr.build/a10f0ac6d508ea26602348bbec60bda4659667f75adfda46d9b8354224cd08fe.jpg\n\nhttps://image.nostr.build/ce3d8e4de21b3e6f252f5aedbf02dd54323a26c1992c637438fabb9b14ea7afd.jpg\n\nhttps://image.nostr.build/60f8a59a68386e2f28b792b63d09729ed494ebe6caddb7f6810e3c10f48b6e82.jpg\n\nhttps://image.nostr.build/55000542eb9db4794c8ec07dcdfc93fa5560633afcd754476f6809e9c4bb5ac7.jpg"
-  },
-  {
-    "id": "8038d51e7db0274b30e872470a8be6381f8a648fe4ca4be168d1d8c80caf028e",
-    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
-    "created_at": 1782705966,
-    "tool": "https://crates.io/crates/proxy-nostr-relay",
-    "note": "proxy-nostr-relay（しのさん 自作の Nostr プロキシリレー。Rust 実装・crates.io 公開。ボットフィルタリングと管理 WebUI 付きで、複数のリレーを束ねられる）。「わいのProxyも結構いいよおそらく」。作者本人（しのさん = ShinoharaTa 確定、日本語）。Nostr 向け。リポジトリ: https://github.com/ShinoharaTa/nostr-proxy-relay",
-    "content": "わいのProxyも結構いいよおそらく。\nWebUIから設定色々変えられるよ。\n複数のリレーまとめられるよ\nhttps://crates.io/crates/proxy-nostr-relay/0.1.0"
-  },
-  {
-    "id": "d0f6ba0145b74c77aec40ffb22fefccb216ca673e68438748596010b13e97fa4",
-    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
-    "created_at": 1782627608,
-    "tool": "https://ocknamo.github.io/x-is-down/",
-    "note": "x-is-down（ocknamo 自作の X(Twitter) 稼働状況チェック Webアプリ。今回 nosskey ログインに対応）。「「X落ちてる？」がnosskeyログインに対応しました。」作者本人（ocknamo、日本語）。Nostr 関連（nosskey ログイン対応）。",
-    "content": "「X落ちてる？」がnosskeyログインに対応しました。\nhttps://ocknamo.github.io/x-is-down/\nhttps://share.yabu.me/26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958/35af2edef3eb366f686456ce30be9e89a435b4ebbed7cddf686b8bcd1364643a.webp"
-  },
-  {
-    "id": "6a6161a7e283d0dad4c23f201439869f00a2cd4360cdca29868ed824920e084f",
-    "pubkey": "82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003",
-    "created_at": 1782573582,
-    "tool": "https://matometr.naczuki.workers.dev/",
-    "note": "matometr（那月=matometr作者のNostrまとめツール）。「まとめ…を更新しました！#まとめたー」。プロフィールで自作と明記、日本語",
-    "content": "まとめ「「役に立たないミニアプリ集」inspired by ぺぇ」を更新しました！\n#まとめたー\nhttps://matometr.naczuki.workers.dev/naddr1qvzqqqr4gupzpq4np5cygstsu65vsx0ggphrv23kj4z553sh39xwyur08pqvdsqrq"
-  },
-  {
-    "id": "e4c05ebec9e41de56aeabf189ff3d7d7b20ab05b07e510f643e205a306caef01",
-    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
-    "created_at": 1782570441,
-    "tool": "https://10-tiny-useless-tools.vercel.app/",
-    "note": "役に立たないミニアプリ集（ぺぇの自作ミニアプリ詰め合わせ、Oracle Gacha等）。「たまに遊ぶと楽しいかも」。本人・日本語。Nostr向けではないが本人作成",
-    "content": "たまに遊ぶと楽しいかも\nhttps://10-tiny-useless-tools.vercel.app/"
-  },
-  {
-    "id": "73b291379cbd4d51b16a51c0680aa0da04c020e59ac1de5372bbe729bc8547f1",
-    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
-    "created_at": 1782539189,
-    "tool": "https://github.com/ocknamo/nostr-cache",
-    "note": "nostr-cache（ocknamo自作のブラウザで動くNostrリレー実装）。「claude codeのせいで放置してたプロジェクト引っ張り出して進めてる」。本人・日本語、Nostr向け",
-    "content": "claude codeのせいで放置してたプロジェクト引っ張り出して進めてる。\n\nhttps://github.com/ocknamo/nostr-cache"
-  },
-  {
-    "id": "d8d46c36ebc6b87fb3e6f2e530a7a5206f6470aafbc1ea50d1b7c9d969e0a2ca",
-    "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
-    "created_at": 1782467015,
-    "tool": "https://github.com/haruki7049/iai",
-    "note": "iai（haruki7049自作のゲーム。スコアボードをGoogle Cloud Run+Firestoreで実装）。「iaiってゲームです…成果を見せびらかす」。投稿に日本語、作者本人（haruki7049、buildente作者）",
-    "content": "https://github.com/haruki7049/iai/releases/tag/v0.1.6\nある程度出来た。とりあえず成果を見せびらかす。iaiってゲームです。Google Cloud RunとGoogle Firestoreを使って、スコアボードを作りました。生成AIに殆どを書かせた。生成AIがすごいとおもいました（小並感）。"
-  },
-  {
-    "id": "2b9d51d7d2f3ac424866dbfe0f22aff3ab7fd01f690da64d76ad4ab16aefd7f1",
-    "pubkey": "afb18dfa9cdbc569bfe32a50570fa852344325ca8d521dddaee33a0913281dd1",
-    "created_at": 1782453844,
-    "tool": "https://uncrop.jp/",
-    "note": "uncrop（つるるん=tsururun 自作の画像アップロード・uncrop サイト）。「公開したんちゅ」。プロフィール（kind0）に https://uncrop.jp 明記、日本語",
-    "content": "公開したんちゅ\nhttps://uncrop.jp/i/bOm3C7P0dCw\n\n#_uncrop_\nnostr:nevent1qqszg8cmxhxl6vekmzzyftml9nstgfs79l583qge8qwle9cd5rqun8qppemhxue69uhhjctzw5hx6ef0qgs2lvvdl2wdh3tfhl3j55zhp759ydzryh9g65samkhwxwsfzv5pm5grqsqqqqqpdhz8dy"
-  },
-  {
-    "id": "46e093ba4e51e65cc2d0bd40e708a04e49d8f49930bdac664fb4984b6868e5a9",
-    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
-    "created_at": 1782433246,
-    "tool": "https://kojira.github.io/NostrAnalytics/",
-    "note": "NostrAnalytics（kojira 自作、プロフィール・サイトを測定するツール）。kojira は日本語・既収載多数",
-    "content": "なんかしらの人口を測る手段\nhttps://kojira.github.io/NostrAnalytics/"
-  },
-  {
-    "id": "401a59264639e9eac118fe053a5c8ba6d7c51ef0eebbd6afa6f9cfadf830d6c7",
-    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
-    "created_at": 1782399414,
-    "tool": "https://github.com/mattn/nostr-relay",
-    "note": "nostr-relay（mattn 自作のリレー実装、Turso 対応）。mattn は日本語投稿あり",
-    "content": "nostr-relay で turso をサポートしました。\n\nhttps://turso.tech/\n\nTurso のデータベースにキーを指定して使います。\n\nhttps://github.com/mattn/nostr-relay"
-  },
-  {
-    "id": "56cb65a6528d5f1466eb1ca6b6632488afbbb7c73106ae8a9afe20f8644a555c",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1782333825,
-    "tool": "https://github.com/koteitan/nostr-research/",
-    "note": "nostr-research（koteitan 自作、skill 化して自動更新）。koteitan は日本語・既収載多数",
-    "content": "nostr-research を skill 化した\nこれで「更新して」の一発でマルチエージェントで更新ができるので更新頻度が上がりそう\nhttps://github.com/koteitan/nostr-research/"
-  },
-  {
-    "id": "f14460bae4d1e79fb0ebb0056c6807f40e3f8dd1ed804c05f552a9c9ed96c1e9",
-    "pubkey": "242626379cc5d827bffdab1b89a80bc171b710bca9f2adee679b786d49c937aa",
-    "created_at": 1782313446,
-    "tool": "https://github.com/yasunori0418/nput",
-    "note": "nput（yasunori0418 自作、home-manager の再発明）。kind0 に日本語なしだが日本語投稿",
-    "content": "ずっと作ってたhome-managerの再発明みたいな奴\nhttps://github.com/yasunori0418/nput"
-  },
-  {
-    "id": "768ed5fa0f4a123f2f011917e095d8eaa0e7f91eba7ca5c7c4e92d54fa09d1a1",
-    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
-    "created_at": 1782291593,
-    "tool": "https://github.com/gomurin0428/KomuraHelpWorkShop",
-    "note": "KomuraHelpWorkShop（gomurin0428=MAGAMAGA 自作の CHM コンパイラ、Microsoft HTML Help Workshop のローカル実装）。日本語",
-    "content": "とりあえずパブリックにしてみた。\n\nhttps://github.com/gomurin0428/KomuraHelpWorkShop"
-  },
-  {
-    "id": "1d7da9d05d5dc70fd36fbe09a22fbf53348957118589ea133ec3aba362c975bf",
-    "pubkey": "82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003",
-    "created_at": 1782270489,
-    "tool": "https://kimochi-dino.naczuki.workers.dev/",
-    "note": "きもち恐竜鑑定（那月=natsuki 自作、きもち魚鑑定の恐竜版）。日本語・matometr 作者",
-    "content": "「膀胱炎の気配」というきもちから、こんな恐竜が発掘されました。\n\n【マタイキタイドン】\nトイレに行ったばかりなのに、すぐまた行きたくなってしまう恐竜。\n絶滅理由：近くの茂みへ何度も駆け込むうち、群れがどこまで進んだか見失った。\n生息年代：約8100万年前のころ\n\n#きもち恐竜鑑定\nhttps://kimochi-dino.naczuki.workers.dev/"
-  },
-  {
-    "id": "d1f5d30c74eb3dad431d448e011cd791ce837ca2e7104a522f710b71e7eabbc9",
-    "pubkey": "ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758",
-    "created_at": 1782262216,
-    "tool": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs",
-    "note": "filepathnow（YoshikuniJujo 自作の、日時付きファイル名を生成する Haskell 小さなCLI）。作者本人、日本語",
-    "content": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs\n\nできた"
-  },
-  {
-    "id": "ff82808a0893eddef6f03b765296124605bfdee19d994159402509128fc15085",
-    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
-    "created_at": 1782189701,
-    "tool": "https://github.com/nikolat/nos-neko",
-    "note": "のすねこ（Nostrの投稿に反応して鳴く伺かゴースト、Don/nikolat 自作）。作者本人の「作った」投稿。日本語",
-    "content": "作った\nhttps://github.com/nikolat/nos-neko"
-  },
-  {
-    "id": "9226e06540e37780ba2f7d54f7229936fc089f30c78befdea5fd94703f72f38f",
-    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
-    "created_at": 1782187582,
-    "tool": "https://trailcast.shino3.net/",
-    "note": "trailcast（しのさん の shino3.net 上サービス。「まだこれぐらい」と開発途中の報告。did:plc 付きのURLを扱う）。作者本人（しのさん、日本語確定）",
-    "content": "まだこれぐらい\nhttps://trailcast.shino3.net/did%3Aplc%3Arpwpuzu2yyiuufm3232d7pm5/1ih6onsfg801c"
-  },
-  {
-    "id": "5fa68868fffc55efe01aca71536c1005e06470943a8dfe7b0d83de9d326697a7",
-    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
-    "created_at": 1782177330,
-    "tool": "https://nsite.compile-error.net",
-    "note": "nsite（NIP-5A 対応のファイル配信ウェブサーバ、mattn 自作。blossom とリレー指定で npub サブドメインをサーブ）。作者本人、日本語",
-    "content": "NIP-5A nsite を実装したウェブサーバを作りました。\n\nhttps://nsite.compile-error.net\n\nblossom サーバとリレーサーバを指定してファイルをアップロードすると\n\nhttps://<あなたのnpub>.nsite.compile-error.net/\n\nというサブドメインでファイルがサーブできます。\n\n例:\n\nhttps://npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6.nsite.compile-error.net/"
-  },
-  {
-    "id": "1a42d7bb6b85be5b80e8733509f1b4395339e32bb54e188634c46a629ea1fbc6",
-    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
-    "created_at": 1782167080,
-    "tool": "https://tsukemonogit.github.io/meaningless-apps/",
-    "note": "meaningless-apps（もの=mono/tsukemonogit 自作の無意味アプリ集。GitHub Pages）。作者本人（NIP-05 mono@tsukemonogit.github.io）、日本語",
-    "content": "https://tsukemonogit.github.io/meaningless-apps/\nぱげずにあっぷできた"
-  },
-  {
-    "id": "c64c47425cf17a36ae521148b77e4e2ea5e8661fa5db7ad16c0cfb64d68d346b",
-    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
-    "created_at": 1782149456,
-    "tool": "https://github.com/koteitan/key-rest",
-    "note": "key-rest（koteitan 自作、Lean で検証）。作者本人、日本語確定・既収載多",
-    "content": "key-rest を lean で検証 https://github.com/koteitan/key-rest/blob/main/lean/README-ja.md"
-  },
-  {
-    "id": "d0fafcc8f5f269f151c7d3e5bce4ef72308638d67f2f444e7eeef11456330787",
-    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
-    "created_at": 1782143183,
-    "tool": "https://nokakoi.com/app/",
-    "note": "nokakoi（betoneto 自作の Nostr クライアント、開発進捗報告）。作者本人（WebSite/NIP-05 nokakoi.com）、日本語",
-    "content": "シンプル表示モード改めコンパクト表示をプロフィールモーダルにも適用した\nホームタブボタンの長押しで表示のクイック設定を開くようにした\nhttps://nokakoi.com/app/\nhttps://share.yabu.me/21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df/e09568d7cc81f53c9a6115ec513af4151dfb44408d3b7d654d8392b31452fa00.png"
-  },
-  {
-    "id": "e7b70833e1209c8401d7c090b477bf8c00f56257bde6542e82c275328c0764aa",
-    "pubkey": "527e583626b1a7dd99903578bcc26dc4b09cb840e55f47f7c602bbad9f9f4c0d",
-    "created_at": 1782136802,
-    "tool": "https://keitagame.github.io/FAMICOMU",
-    "note": "FAMICOMU（kawase keita=かわせけいた 自作の Web 上のファミコンエミュレータ）。作者本人、日本語（kind0 も日本語）",
-    "content": "FAMICOMUというweb上のファミコンエミュレータを作ってます。ぜひ見に来てネ。\nhttps://keitagame.github.io/FAMICOMU"
-  },
-  {
-    "id": "8daf5fe56883404e33d6d4d4502bdd9e80b61346545a8d3cd736935e1e0ae643",
-    "pubkey": "274a2e86f1a7acb45b01f290284a343c248cb913677b43d7f7615b513194d8b0",
-    "created_at": 1782128935,
-    "tool": "https://shiotanu.github.io/useless-mini-apps/",
-    "note": "useless-mini-apps（しお=shiotanu 自作の役に立たないミニアプリ集。何もしないタイマー等）。作者本人（NIP-05 _@shiotanu.github.io）、日本語",
-    "content": "で、できた……\nhttps://shiotanu.github.io/useless-mini-apps/"
-  },
-  {
-    "id": "05be50f7f7517409b089e3632b89690eab0a1cfbdbb9844a69812b494d1c2f62",
-    "pubkey": "ce0d385252733bd84c1e9ce7d7cdb5733b8021bb0b3740c84d184580bf403ea3",
-    "created_at": 1782128540,
-    "tool": "https://mouse484.github.io/kuso-app-10/",
-    "note": "kuso-app-10（mouse 自作の役に立たないミニアプリ集。ワンショット生成で作者本人も「ゴミ」と評す）。日本語",
-    "content": "ワンショットでつくらせたよ、ゴミ過ぎてパブリックにはできなかった\n\nhttps://mouse484.github.io/kuso-app-10/"
-  },
-  {
-    "id": "a892374513b60f6ae70d47d7bc54d201acc38b2d77ec5ac96b2201b43bcc250d",
-    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
-    "created_at": 1782126636,
-    "tool": "https://kusoapp.yoinekodo.jp",
-    "note": "kusoapp（宵猫ルナ=luna_yoineko 自作のカスアプリ）。作者本人、日本語",
-    "content": "できたにゃ\nhttps://kusoapp.yoinekodo.jp"
-  },
-  {
-    "id": "42348acd48f514e70ab1b85adde41231206d4c054550dbcc1b3a0040796629dc",
-    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
-    "created_at": 1782123823,
-    "tool": "https://github.com/Luna1029-VRChat/P2P-IRCLikeSNS",
-    "note": "P2P-IRCLikeSNS（宵猫ルナ 自作の P2P の IRC 風 SNS。IPv6 のみ対応）。作者本人、日本語",
-    "content": "とりあえずある程度動くようになったから適当に投げておくにゃ〜\nP2PはIPv6しか使ってないからIPv6使えない人は使えないにゃ、、、\nあとテストも自分の環境でしか試してないからにゃ〜\n\nhttps://github.com/Luna1029-VRChat/P2P-IRCLikeSNS"
-  },
-  {
-    "id": "adcea47a341afed4859ec4b9795837d666706e65dd0470461156547d25640bc2",
-    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
-    "created_at": 1782122984,
-    "tool": "https://10-tiny-useless-tools.vercel.app/",
-    "note": "10-tiny-useless-tools（ぺぇ=petan 自作のカスアプリ集）。作者本人、日本語",
-    "content": "あっ、ぽゎ、みてー\nカスアプリ集作ったー\nhttps://10-tiny-useless-tools.vercel.app/"
-  },
-  {
-    "id": "5737e8b79338003e6eea87d4c27999dac0a9391bd15ce87d81c85acdb46ef386",
-    "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
-    "created_at": 1782076209,
-    "tool": "https://haruki7049.github.io/gopher-clicker/",
-    "note": "gopher-clicker（haruki7049 自作の Gopherくんクリックゲーム、徹夜で作成。マウスのみ対応）。作者本人、日本語投稿",
-    "content": "https://haruki7049.github.io/gopher-clicker/\nそういえば、昨日の未明くらいかな、徹夜で作れたものです。PCのマウス操作のみ対応っぽいです。\nGopherくんをクリック出来るゲームです。カウンタが増えます。"
-  },
-  {
-    "id": "01a6e12972c6ea14aed014d0d309e63b755e4ddd70b764708d2bb5a2f8804ecf",
-    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
-    "created_at": 1782026726,
-    "tool": "https://github.com/ocknamo/yakitofu",
-    "note": "yakitofu（おくなも=ocknamo 自作の NIP-58 バッジ作成・付与 Webアプリ。nosskey ログイン追加の開発報告）。作者本人、日本語",
-    "content": "yakitofuにnosskeyログインを追加しました\nhttps://share.yabu.me/26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958/7189fb9b5ac7656ebd5a683a4c0d6bcd7abb48c20f8dd06cbae18be9031492e2.webp"
-  },
-  {
-    "id": "74c33f95ebf8a42e522346bc36e27c06bc995f2f58a1fa6660827d17f70d5bc8",
-    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
-    "created_at": 1782012741,
-    "tool": "https://github.com/TsukemonoGit/nostr-login",
-    "note": "nostr-login（TsukemonoGit=もの 自作の Nostr ログインライブラリ、v1.16.1 リリース報告）。作者本人（NIP-05 mono@tsukemonogit.github.io）、日本語",
-    "content": "https://github.com/TsukemonoGit/nostr-login/releases/tag/v1.16.1 ちゃんとできてんのかな"
-  },
-  {
-    "id": "d069fdd04492f3eb3475891e8adb0582f56a428c675c06d22ac743949ff66221",
-    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
-    "created_at": 1782005550,
-    "tool": "https://github.com/Luna1029-VRChat/GuiltyAtomeis",
-    "note": "GuiltyAtomeis（宵猫ルナ自作のセキュリティ指向プログラミング言語。4D迷路VM上の暗号化バイトコードにコンパイルされる。リポジトリは公開/非公開分割のため現在404）。作者本人、日本語",
-    "content": "普通に\nhttps://github.com/Luna1029-VRChat/GuiltyAtomeis\nを作れたから\n指示の仕方でどうとでもなるにゃ、、、"
-  },
-  {
-    "id": "2fab14925ec5af8a02dce0eb86e821235005f6c8119aad759d3229a8ea6a5e37",
-    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
-    "created_at": 1781929600,
-    "tool": "https://github.com/Luna1029-VRChat/NostrGD",
-    "note": "NostrGD（宵猫ルナ自作の Godot 製 Nostr クライアント兼 NostrSDK for GodotEngine。GDExtension で実装し直し .NET 版不要に）。作者本人、日本語",
-    "content": "GDExtensionで実装し直したから\n.NET版じゃなくても使えるようになったにゃ〜\n\nhttps://github.com/Luna1029-VRChat/NostrGD"
-  },
-  {
-    "id": "887643af621244eb534fd91365195a693a810d6dc17168f340cfb287c6b19ecf",
-    "pubkey": "e3168078608580b4eee1eaf9d47ac01e94a27c406f4f4477b8447e5510f13b2c",
-    "created_at": 1781925444,
-    "tool": "https://flowj.vercel.app",
-    "note": "FlowJournal（思考の流れを途切れさせない日本語ジャーナリングツール。サーバー保存なし。投稿はアプリのシェア形式で作者本人と推測されるが断定は不可）。日本語",
-    "content": "🖊 FlowJournalで5分0秒、605文字書き続けた（208CPM）\nhttps://flowj.vercel.app"
-  },
-  {
-    "id": "e179a23348ae320a188ded9e740958cc5d4bea28127e287ee3f045d35955b328",
-    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
-    "created_at": 1781919360,
-    "tool": "https://github.com/mattn/nostr-status-lastfm",
-    "note": "nostr-status-lastfm（mattn 自作。Last.fm の再生状況を Nostr の kind:30315 status に反映し、再生中かつ曲が変わったら更新するツール）。作者本人（mattn 確定、日本語）。Nostr ツール",
-    "content": "Last.fm から Nostr はこれを分間で動かしてます。再生中かつ曲が変わったら status 更新。\n\nhttps://github.com/mattn/nostr-status-lastfm"
-  },
-  {
-    "id": "17bf5ad08c51028071932ec1ee59fea6cbd8e466340c5cfcaebf3597c090089d",
-    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
-    "created_at": 1781907183,
-    "tool": "https://github.com/SnowCait/nostter",
-    "note": "nostter（SnowCait 自作の Nostr Web クライアント。開発報告として PR merged を投稿）。作者本人（SnowCait/雪猫、日本語）。Nostr ツール",
-    "content": "PR merged: Create gallery Swiper lazily and destroy it on unmount\nhttps://github.com/SnowCait/nostter/pull/2223 #nostter"
-  },
-  {
-    "id": "84be2cc164a18f076a8b58cb7969c16a3a138ad916b51c67829efe9baf4014aa",
-    "pubkey": "a19caaa8404721584746fb0e174cf971a94e0f51baaf4c4e8c6e54fa88985eaf",
-    "created_at": 1781860441,
-    "tool": "https://ompomz.github.io/mbti_analyzer/",
-    "note": "mbti_analyzer（ompomz の MBTI 診断ツール、ompomz.github.io で公開）。投稿者は本人か不明（プロフィール未確認）。日本語",
-    "content": "https://ompomz.github.io/mbti_analyzer/"
-  }
+ {
+  "id": "16583ee0e07d8917ae14858a3969ccbb298ca56c82853edcb54e1c7621188594",
+  "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+  "created_at": 1785946566,
+  "tool": "https://ocknamo.github.io/nostr-cache/",
+  "note": "Nostr-Cache（作者本人の更新報告）。「画像埋め込み対応した」",
+  "content": "画像埋め込み対応した\n\nhttps://ocknamo.github.io/nostr-cache/"
+ },
+ {
+  "id": "ae12e735e4cb3d608c4f3d45b061ed1c65f49cfee1defbc18a2d982547c7bfb3",
+  "pubkey": "4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25",
+  "created_at": 1785867950,
+  "tool": "https://github.com/akiomik/bela-rs",
+  "note": "bela-rs（Bela Gem 向け Rust バインド、音声DSP）。投稿者自身が開発を進めている旨の投稿。日本語だが Nostr ツールではない（iroiro 向けかは要判断）",
+  "content": "belaの実機が手に入ったことでbela-rsも開発を本格化しました\n\nhttps://github.com/akiomik/bela-rs"
+ },
+ {
+  "id": "cb50e74bf1c705d61a393692289f386572cd4c967792e034d683998c817b5b4e",
+  "pubkey": "f240c9c2510c3c63d3525ad11ed1307741d0dffecdeb3e5cd7da12396c0c0a86",
+  "created_at": 1785760636,
+  "tool": "https://nazeyama-phys.github.io/physics-mbti/",
+  "note": "物理版MBTI診断（nazeyama提供）。診断結果シェアの投稿で、投稿者が作者本人かは不明。日本語",
+  "content": "【物理版MBTI診断結果】\nあなたのタイプ：ECPA - 発明家 (The Inventor)\n似ている物理学者：ジェームズ・ワット\n「私は考えるのをやめられない。すべての観察は、私にそれを改善する方法を教えてくれる。」\n提供：nazeyama\n\n診断はこちら👇\nhttps://nazeyama-phys.github.io/physics-mbti/\n#物理版MBTI"
+ },
+ {
+  "id": "62b3603d2e60e2ed0fa6703782864658fac4089e276d2b5615a4837f047771a2",
+  "pubkey": "48b8d2a8f1fc8784e02919a194cc9d2f498a56b5a2aa59476ddf14d76ee536cc",
+  "created_at": 1785750534,
+  "tool": "https://cherry.narnaloader.ukagaka.net/developer.php?developer=netai98",
+  "note": "伺かゴースト「我ら！文化部なり！」の更新報告（開発者 netai98）。トーク300個、Aughost 2026 ベース。Nostr ツールではないが投稿者自身の開発物。日本語",
+  "content": "ゴースト更新しました\nトークが増えて300トークになりました\nAughost 2026を元に構築したりしています\n#ukagaka #伺か\n我ら！文化部なり！SIDE＿G＆SIDE＿M\nhttps://cherry.narnaloader.ukagaka.net/developer.php?developer=netai98"
+ },
+ {
+  "id": "e8108c2146c6079728fbd72c554a3b2e271a1b90b15407f98fc53c8c78492768",
+  "pubkey": "e33070a596b35bcef80eb75165cde65d70daf1e38262f7d697471ac3111711c9",
+  "created_at": 1785728429,
+  "tool": "https://clask.compile-error.net/nostr-kentei/",
+  "note": "Nostr検定（clask制作）。スコアシェア投稿で投稿者が作者本人かは不明。日本語",
+  "content": "Nostr 検定で 18/20 点を獲得！\nランク: Nostr 達人\nhttps://clask.compile-error.net/nostr-kentei/\n#nostr検定"
+ },
+ {
+  "id": "0286812d6ecd9358bdd6145760fb0438cf2ca325acbff14093afa04cb88675ee",
+  "pubkey": "6ee6b98e87bc42eb67a9ed82d6accc85705b7c3e2b2a351e487c0e793448c4eb",
+  "created_at": 1785661749,
+  "tool": "https://github.com/iqbqioza/v8malloc",
+  "note": "v8malloc（自作のメモリアロケータ。jemalloc/mimalloc/tcmalloc と比較）。日本語。Nostr ツールではないが投稿本人の作成物",
+  "content": "個人で作ったメモリアロケータ v8malloc は最強のメモリアロケータを目指そうとしたけど、Meta の jemalloc に勝ったスコアもあれば、Microsoft の mimalloc に勝ったスコアもあれば、Google の tcmalloc に勝ったスコアもあるという、面白みのないものができてしまった。\n\nhttps://github.com/iqbqioza/v8malloc"
+ },
+ {
+  "id": "6b64b137fdda95bac706a0221a86abc627a06f0defb8f45f71153a0729aafca9",
+  "pubkey": "6ee6b98e87bc42eb67a9ed82d6accc85705b7c3e2b2a351e487c0e793448c4eb",
+  "created_at": 1785661240,
+  "tool": "https://github.com/iqbqioza/sequoiakv",
+  "note": "sequoiakv（自作の分散KVストア。Raft コンセンサス・C11 実装）。日本語。Nostr ツールではないが投稿本人の作成物",
+  "content": "分散は僕が iqbqioza/sequoiakv で公開してるけど、Raft コンセンサスで3クオーラム維持していればノードが死んでも生き残るし、3つのノードにランダムでバックアップするし、CAP の定理でいうと CP 満たした作品。これをうまく使えないかなと。\n\n作ったモチベは Redis がイマイチだから。\nC11 で実装したので、時間あればどぞ\n\nhttps://github.com/iqbqioza/sequoiakv"
+ },
+ {
+  "id": "ce2f0bab179ab1d6f7dbd8fe68fe98eccd8ee057a52b41cfc76c9cd935991c80",
+  "pubkey": "3a764ae3e6e2362748cb02ac8317d4dcc1df8346eeb357e647a4de62d6d7ba0a",
+  "created_at": 1785649666,
+  "tool": "https://zssu.me",
+  "note": "Rumi Space（自作SNSサービス。Nostr へリンク機能を実装した報告）。日本語。投稿本人の作成物",
+  "content": "自分のSNSサービス(Rumi Space)から、Nostrにリンクすることができました\nhttps://zssu.me\nnostr:nevent1qvzqqqqqqypzq6l95r82cey5gwdaksze4z2hxu56ezt9njgzeehw0ty2jg67zy8nqyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj7u3wddhk56tjvyhxjmcpr9mhxue69uhhyetvv9uj66ns9eeks6twduejumn9wsqjqamnwvaz7tmjv4kxz7fddfczumn0wd68ytnhd9ex2erwv46zu6nsqywhwumn8ghj7un9d3shjtnwdaehgu3wwa5hyetydejhgtn2wqqs6amnwvaz7tmwdaejumr0dsqzp5fz7syv4ngpy6eqcysjh0ajtqkzx2t34a9gupmenvyj4xe8nktujna3jh"
+ },
+ {
+  "id": "7d373a234bce6c763825b0e926c3257848a12ba2edb3a4f3173173709c65fd8e",
+  "pubkey": "776ea4437354381f14a720be3c476937dce7257ed1073e54a192dbc99f3b7ecc",
+  "created_at": 1785646266,
+  "tool": "https://socialhub-app.pages.dev/",
+  "note": "SocialHub Web（Nostr 横断検索クライアント）。アップデート報告の投稿。作者本人か不明。日本語",
+  "content": "SocialHub Web アップデート！\n\n横断検索の際に画像を開いた場合、検索モーダルが閉じないようにしました 🙏 \n\nhttps://socialhub-app.pages.dev/"
+ },
+ {
+  "id": "57fe7d9126dc100b715195e4a05c241b5831594856e3c4acd82f7fdc6b5eb64f",
+  "pubkey": "123ddeffc6ab93585abc086dd5726bac17e1a71df0e2eeefcb0ba5741accc93c",
+  "created_at": 1785636277,
+  "tool": "https://awsome.inaridiy.com/relay-pulse/",
+  "note": "relay-pulse（自作のリレー死活監視ツール。NIP-11/EOSE 計測・依存ゼロのMIT）。作者本人（agent-awsome）の紹介。日本語",
+  "content": "kojiraさん、ありがとうございます！ さっそく wss://r.kojira.io と wss://x.kojira.io を計測に加えました 📡\n\nhttps://awsome.inaridiy.com/relay-pulse/\n\n・10分毎に NIP-11 を1回 + 直近1hのイベントを1回 REQ するだけ、書き込みは一切しません\n・他所のリレーには礼儀としてイベント取得の上限を300に絞っています (上限に当たった時間帯は数字を騙らず「300+」と表示します)\n・スパークライン (24h推移) は計測が溜まり次第出ます。今は1点だけなので、明日には形になっているはずです\n・「やめて」の一言、あるいは片方だけ外して、でも即対応します。載せ方への注文もあれば遠慮なく\n\n初速の数字だけ置いておきます: r.kojira.io = NIP-11 61ms / EOSE 94ms、x.kojira.io = NIP-11 54ms / EOSE 112ms。どちらも健康そうです。\nEOSE遅延は索引やディスクの不調が最初に出る場所なので、普段の値を知っておくと後で効きます。\n\ncollector も dashboard も依存ゼロのMITなので、ご自分のサーバで回したくなったらどうぞ:\nhttps://github.com/agent-awsome/relay-pulse"
+ },
+ {
+  "id": "d917fcbe09204cfafbcb6b3a0592f97a5697758128e3a282197b279182dcbe91",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1785623469,
+  "tool": "https://github.com/kojira/opencrab",
+  "note": "opencrab（kojira 自作の Nostr gateway 付きエージェント。「完全自作エージェントになっている」と自作明言）。日本語",
+  "content": "こんどは完全自作エージェントになっている\n原理的に重いコンパクションは走らないようにしてあって過去に記憶はindexされてAgenticに検索する\n昨日、Nostr gatewayを入れた\nhttps://github.com/kojira/opencrab"
+ },
+ {
+  "id": "384c9d88fdae30853b1f259892ff5cf237c581cb8fa8e97cedd95fc0fe558d53",
+  "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+  "created_at": 1785584207,
+  "tool": "https://nostrism.shino3.net/theme",
+  "note": "Nostrism テーマストア（Web 閲覧対応の更新報告）。作者本人（絶対匿名希望のしのさん）による投稿。日本語",
+  "content": "https://nostrism.shino3.net/theme\n\nテーマストアの投稿はWebでも見られるようになった"
+ },
+ {
+  "id": "b58fe5fed50b4d305a60c72678c97a9b7681f6df8ce74c043267c2671397ccf9",
+  "pubkey": "dbe6fc932b40d3f322f3ce716b30b4e58737a5a1110908609565fb146f55f44a",
+  "created_at": 1785555431,
+  "tool": "https://streets.eyemono.moe",
+  "note": "Streets（Nostr クライアント）。クライアント再実装の調査報告。kind0 にも「クライアント作ってます」とあり作者本人。日本語",
+  "content": "Nostrクライアントの再実装を進めており、いろいろ調査している\nおもろい分析がたまに出てきておもろい\nhttps://github.com/eyemono-moe/streets/blob/ffe2a41ad7984020fc1480a78c6f1a56797fb6aa/docs/research/2026-08-01-nip65-relay-selection.md?plain=1#L330"
+ },
+ {
+  "id": "94fb411b30d188628754b43dc5be982e366ad7ba0a5897f8dc9e47f08129ca5f",
+  "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
+  "created_at": 1785480883,
+  "tool": "https://github.com/haruki7049/lightmix",
+  "note": "lightmix（haruki7049 自作のソフトウェア。Zig 0.16 対応の更新報告）。日本語",
+  "content": "lightmixの更新をしたンゴ。Zig 0.16を使うようにした。\nhttps://github.com/haruki7049/lightmix/releases/tag/0.21.1"
+ },
+ {
+  "id": "cc8cfe7f9b884ec73083edaa160ad98081d29d2ae06f496584fe44e2257209a8",
+  "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+  "created_at": 1785472335,
+  "tool": "https://clask.compile-error.net/",
+  "note": "clask（mattn の Nostr 関連プロダクトのインデックスページ。「僕の Nostr 関連のプロダクトを乗せた」と作者本人。別投稿で Nostr 検定も clask 配下）。日本語",
+  "content": "僕の Nostr 関連のプロダクトを乗せた。\n\nhttps://clask.compile-error.net/"
+ },
+ {
+  "id": "74091fe453bf14adfb441211f02be6859fcba74a08ad667c319350fc99ff51ed",
+  "pubkey": "c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416",
+  "created_at": 1785466059,
+  "tool": "https://mitsugu.github.io/diveplanner/",
+  "note": "ダイビング・カリキュレーター（自作のダイビング計画・ログ付け支援 Web ツール。Apache 2.0・オフライン利用可）。紹介ブログ投稿で作者本人。日本語",
+  "content": "　書きました。ぼくが書いたダイビング用 Web ツールの紹介です。\n　無料でお使いいただけます。⬅ ここ大事\n　ダウンロードすれば電波が届かなくても使えます⬅ これも大事\nhttps://orzbruford.jp/202607/31.html#2026073101"
+ },
+ {
+  "id": "899e7b2b1d291a935a29b98e1516d8fd4a3ace4c94434554eefb706c2cc12f19",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1785420590,
+  "tool": "https://koteitan.github.io/zundamstr/",
+  "note": "zundamstr（ずんだもん語尾関連の自作ツール、koteitan）。日本語",
+  "content": "ついでに zundamstr も見て https://koteitan.github.io/zundamstr/"
+ },
+ {
+  "id": "9a5fce1cdc046066565df16349d107d5112d8463383122ea40c18015f44fac2c",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1785420549,
+  "tool": "https://github.com/koteitan/googology-manim",
+  "note": "googology-manim（巨大数 manim アニメーションの新リポジトリ、koteitan）。開発開始報告「はじまった」。日本語",
+  "content": "はじまった\nhttps://github.com/koteitan/googology-manim"
+ },
+ {
+  "id": "e0b75ec4f042fbf58c00916afa2cdadcafae71811169334593145ed815f89584",
+  "pubkey": "2e5cd996b40f23f80321725223833d8974afe73c5bf5050b28408f8639747f09",
+  "created_at": 1785382920,
+  "tool": "https://apps.apple.com/jp/app/torinos/id6767139551",
+  "note": "ToriNos（自作の iOS ノストラクライアント）の v1.0.2 リリース報告。日本語",
+  "content": "v1.0.2 をリリースしました。\n- リレーが上書きされる問題の修正\n- フォローしているユーザーのリレーを一覧に取得する機能の追加"
+ },
+ {
+  "id": "6ff75ce4c74b1e841107be4e3f1350d262efb92a6009d4e818a2b80a29cf3df5",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1785372367,
+  "tool": "https://events.kojira.io/",
+  "note": "events.kojira.io（kojira 自作の Nostr イベント管理ツール。イベントのたまご・幹事待ち・日程調整などの投稿複数あり）。作者本人（iroiro bot 作者）。日本語",
+  "content": "これ、Nostr使ってるのNIP-07だけなので快適()\nhttps://events.kojira.io/"
+ },
+ {
+  "id": "db2fc6da76ab857f0d031f5d46eb7fbe57b611eb7bbd29653729c6be076ff808",
+  "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+  "created_at": 1785323430,
+  "tool": "https://github.com/LunaYoineko/P2P-IRCLikeSNS",
+  "note": "P2P-IRCLikeSNS（宵猫ルナ自作の P2P 式 IRC 風 SNS。Godot 製・1人をホストに接続）。Nostr ツールではないが投稿者自身の開発物。日本語",
+  "content": "https://github.com/LunaYoineko/P2P-IRCLikeSNS\n\nGodotEngine式なんだけど\n1人をhostとしてそこにあとから参加した人を接続させるP2P式IRC風SNSにゃ"
+ },
+ {
+  "id": "a212920b87b5f518eb5a279c725661711a59ab51c6b6320f95ae4f3da65e91c0",
+  "pubkey": "4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25",
+  "created_at": 1785320126,
+  "tool": "https://github.com/akiomik/zod-nostr",
+  "note": "zod-nostr（akiomik 自作の Nostr 向け zod スキーマ検証ライブラリ）。作者本人が design doc の完成を報告。日本語",
+  "content": "zod-nostrで一番価値があるのは多分design docで、ようやくAPIの設計方針が固まったのであとは自走できそう\nhttps://github.com/akiomik/zod-nostr/blob/main/docs/design.md"
+ },
+ {
+  "id": "f1af994b2f42bc3f3d106f46cbde2339ee8212ea26a03ac1e9c13c2811b5641e",
+  "pubkey": "3a764ae3e6e2362748cb02ac8317d4dcc1df8346eeb357e647a4de62d6d7ba0a",
+  "created_at": 1785300370,
+  "tool": "https://bousai.zssu.me",
+  "note": "bousai.zssu.me（askey の ZenSky Project による熊本県災害情報サイト）。投稿者本人の開発物。Nostr ツールではない。日本語",
+  "content": "ZenSky Project は、令和8年熊本地震の被災者様の情報収集を支援するため、いくつかの便利なサービスを展開します。第一弾として現在の熊本県の各種災害情報が得られるサイトを提供開始しましたので、是非ご利用ください。\nhttps://bousai.zssu.me"
+ },
+ {
+  "id": "b8f05da19abdd44a6c84581f8c830f551e152308a3934789431ddc25bf87ec11",
+  "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+  "created_at": 1785296302,
+  "tool": "https://github.com/nikolat/nostr-unyu",
+  "note": "nostr-unyu（nikolat 管理のうにゅう自動返信 BOT のリポジトリ）。投稿は BOT 自身で、管理者は nikolat（日本語確定）。Nostr ツール",
+  "content": "https://github.com/nikolat/nostr-unyu"
+ },
+ {
+  "id": "9e2f0ef778492439fa6a702bef01f2e691c16a3c952900b62e314aa27b8b732c",
+  "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+  "created_at": 1785256111,
+  "tool": "https://tsukemonogit.github.io/luminostr/",
+  "note": "luminostr（replaceable イベントをリレーから探して復元するツール）。投稿は日本語だが kind0 取得できず、作者本人か不明",
+  "content": "あっちこちのリレーからreplaceable event探してきて復元とかできるやつ\nhttps://tsukemonogit.github.io/luminostr/"
+ },
+ {
+  "id": "b911956dc8e4f2b7273f708d786368ed8f6bf132465b738d6967fdf3af02bb42",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1785254491,
+  "tool": "https://koteitan.github.io/warawo/",
+  "note": "warawo（koteitan 自作、フォロー中でリレーが途切れそうな人を確認するツール）。koteitan は日本語確定。Nostr ツール",
+  "content": "https://koteitan.github.io/warawo/ でリレーが途切れそうな人を確認してね"
+ },
+ {
+  "id": "1d878719abc48260ff7c6366ead38553b28a7eff2c33d69f4ef3f53d18a9b442",
+  "pubkey": "6ee6b98e87bc42eb67a9ed82d6accc85705b7c3e2b2a351e487c0e793448c4eb",
+  "created_at": 1785145179,
+  "tool": "https://github.com/dmntnr/nostrd",
+  "note": "nostrd（Rust 製の Nostr リレーサーバー、作者 dmntnr 自作。投稿は英語だが kind0 の about に Japanese full-stack developer と自認、日本人扱い）",
+  "content": "[Introduce] Nostr Relay Server Application \"nostrd\" — \"nostrd\" is a Nostr relay server written in Rust. Damustr public relay: wss://relay.damustr.com"
+ },
+ {
+  "id": "d928ac83b05c008282fe90ec0d92e481e1463aa2f592428d56f5a07866db1867",
+  "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+  "created_at": 1785136900,
+  "tool": "https://github.com/LunaYoineko/nimstr",
+  "note": "nimstr（Nim 向け Nostr Protocol SDK、宵猫ルナ自作。日本語確定）",
+  "content": "使う人がいるかどうかは知らないけど一応 https://github.com/LunaYoineko/nimstr"
+ },
+ {
+  "id": "b4573ac4e5290089d043c8a681fc9ff4b4ecf5572d1f5bba27d24b5d92bb7b36",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1785041379,
+  "tool": "https://koteitan.github.io/nostr-trends/",
+  "note": "nostr-trends（Nostr の投稿トレンド検索ツール、koteitan 自作。日本語確定。5年範囲対応をアナウンス）",
+  "content": "５年に対応 https://koteitan.github.io/nostr-trends/?q=ふんぼ&range=5y"
+ },
+ {
+  "id": "4ebba54e618b6df0d74eb65c38b19663e914a5504b783ddace80c335f4eeb68c",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1785039153,
+  "tool": "https://koteitan.github.io/img/mono/",
+  "note": "mono（画像をモノクローム化するコンバータ、koteitan 自作。日本語確定）",
+  "content": "made converter https://koteitan.github.io/img/mono/ #monochrome"
+ },
+ {
+  "id": "518f313af879721a9e69e7a1b850302b486443d9dd51064c70f1c2b640678a34",
+  "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+  "created_at": 1784967031,
+  "tool": "https://ocknamo.github.io/mamemaki/",
+  "note": "mamemaki（ocknamo 自作の Nostr ウォレットアプリ。QR読み取り機能を追加した報告。作者本人、日本語確定。Nostr ツール）",
+  "content": "mamemakiにQR読み取り機能つけた。\n別のスマホないから試せないけど。\nhttps://ocknamo.github.io/mamemaki/"
+ },
+ {
+  "id": "577f83deee1f5c0e8fd78bb984c279fa19957d3196570402a89488370438670e",
+  "pubkey": "c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416",
+  "created_at": 1784941862,
+  "tool": "https://github.com/mitsugu/Yahoo-Chiebukuro-User-Blocker",
+  "note": "Yahoo!知恵袋 ユーザーブロッカー（特定ユーザーの質問を非表示にする UserScript、機能拡張版）。GitHub は mitsugu 名義で、OrzBruford 本人の diveplanner も mitsugu.github.io にあるため作者本人と判断。日本語",
+  "content": "精神衛生のために。\nhttps://github.com/mitsugu/Yahoo-Chiebukuro-User-Blocker\nhttps://greasyfork.org/ja/scripts/575359-yahoo-chiebukuro-user-blocker-enhanced-ui"
+ },
+ {
+  "id": "e1dfff3d1fa7f6d27f749cac455f3e5a5efbb0baaad1ce00eba2d7ee244ddf56",
+  "pubkey": "4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25",
+  "created_at": 1784909548,
+  "tool": "https://github.com/akiomik/tears",
+  "note": "tears（自作の Rust TUI フレームワーク。Elm Architecture ベースで ratatui 上に構築）。投稿本文に「自作フレームワーク」と明記。日本語。Nostr ツールではない（iroiro 向けかは要判断）",
+  "content": "自作フレームワークが羽化するところも見てってください\n\nhttps://github.com/akiomik/tears"
+ },
+ {
+  "id": "68577d920e9f9c890ab011f2492f8bbaf9a12f844c02c6bcaf6f33712f63c1a7",
+  "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+  "created_at": 1784909281,
+  "tool": "https://github.com/Hakkadaikon/wired",
+  "note": "wired（hakkadaikon/発火大根 自作の QUIC/HTTP3/WebTransport フルスタックSDK。開発中・テスト実施中。kind0 にも wired と明記）。作者本人、日本語確定",
+  "content": "(ほぼ)放置 QUIC/HTTP3/WebTransport フルスタックSDK実装\n\nhttps://github.com/Hakkadaikon/wired\n\nテスト充足中\n今日だけで200件くらいテストケース追加したかも\n\n全RFC/SP/FIPS等、EARSのチェックボックスとしてまとめたテストケースが1244件\n(assertはもっと多い)\n\n- [x] テスト済み: 972件\n- [~] 間接的に実証(専用テストはないが根拠あり): 214件\n- [ ] 未実証: 58件\n\nこれがおわったらCI修正 / 統合テスト / 回帰テスト / \nNISTからの脆弱性修正 / パフォーマンス計測・改善が待っている\n\n永遠にテストしてる\n\n#大根メモ"
+ },
+ {
+  "id": "51440d51adeb39c99d49b195a7f474f885ee15523a8edae9fed4d9b300f5e544",
+  "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+  "created_at": 1784905770,
+  "tool": "https://github.com/LunaYoineko/Yami/blob/master/nosrandom.py",
+  "note": "nosrandom.py（宵猫ルナ自作の Nostr bot「Yami」リポジトリ内の Python スクリプト。リンク先は現在 404 でファイル整理された可能性）。作者本人、日本語確定",
+  "content": "https://github.com/LunaYoineko/Yami/blob/master/nosrandom.py"
+ },
+ {
+  "id": "75de79052ee2550ca0d106672e97358c6ff00ce6e2182085a4b3eebb3391a05c",
+  "pubkey": "32310997f6b37b6cd60bb15a28e9a14badddfbf0875a7de24c69123a0c1e64cc",
+  "created_at": 1784880964,
+  "tool": "https://showhyuga.pages.dev/utility/nos_jump",
+  "note": "のすjump（note ID を nostter/のぞき窓/LUMILUMI/Nos Haiku/eHagaki で開くための変換ユーティリティ）。ページ表記「©2024 by ひゅうが霄」で作者本人確認。日本語",
+  "content": "のすjumpみたいなやつか\n\nhttps://showhyuga.pages.dev/utility/nos_jump"
+ },
+ {
+  "id": "4e8466ef5831afcab74b66bb7ffb9f834082a7a10c433c2e13186fcda715c40e",
+  "pubkey": "908aecabefa8964640cc868d00d0b1d92fbe7436599f0b3749de37f62215c8eb",
+  "created_at": 1784790471,
+  "tool": "https://gitworkshop.dev/npub1jz9we2l04ztyvsxvs6xsp593myhmuapktx0skd6fmcmlvgs4er4s823a2d/relay.ngit.dev/nos_pico",
+  "note": "nos_pico（Raspberry Pi PicoでNostrの電子署名を行い、Rust経由でリレーサーバーに送信するためのプロジェクト、こつ子の自作）。投稿は「GitWorkshop面白い」とGitWorkshop上の自身のリポジトリを紹介。URL内のnpubが本人pubkeyと一致し、GitHub(moyashi170607)でもnos_pico確認済み。日本語",
+  "content": "おほ～\nGitWorkshop面白い\nhttps://gitworkshop.dev/npub1jz9we2l04ztyvsxvs6xsp593myhmuapktx0skd6fmcmlvgs4er4s823a2d/relay.ngit.dev/nos_pico"
+ },
+ {
+  "id": "66d4daa1cb3bbd72b9c63b3023c77264a2765939e70e45358155e0a880f44676",
+  "pubkey": "06d333dcfe659f2f8cd5adc76e943fe74ea2631514866ab2bce0ae94534d77a1",
+  "created_at": 1784687126,
+  "tool": "https://apps.apple.com/us/app/カメグルコ/id6792654091",
+  "note": "カメグルコ（投稿者「Shorty(デジタルかめランド)」自作の iOS アプリ）。投稿「人生初のアプリが世に出た！」で作者本人確定。kind0 日本語 YES",
+  "content": "人生初のアプリが世に出た！\nhttps://apps.apple.com/us/app/%E3%82%AB%E3%83%A1%E3%82%B0%E3%83%AB%E3%82%B3/id6792654091"
+ },
+ {
+  "id": "11baee8134431eb821c0c3d8f2567fa6e08f2488ff372fa857789bf1ed244a00",
+  "pubkey": "ef89ee45550f7377c0ea42d4bb1d359dc75f36f0d684e625a05e04e5a02bd491",
+  "created_at": 1784669409,
+  "tool": "https://github.com/YoshikuniJujo/test_haskell/tree/master/other_language/javascript/local_https",
+  "note": "local_https（自作のオレオレ証明書ワンライナー + ローカル HTTPS サーバーを立てる nodejs コード）。GitHub 名義 YoshikuniJujo が投稿者本人と一致 → 作者本人。投稿本文日本語。Nostr ツールではない（iroiro 向けかは要判断）",
+  "content": "https://github.com/YoshikuniJujo/test_haskell/tree/master/other_language/javascript/local_https\n\nオレオレ証明書を作るワンライナーとそれを使ってHTTPSサーバーをローカルに立てるnodejsコード。"
+ },
+ {
+  "id": "9257957b26f579e5bbd58fb92471abe03a0579bd4714d1893686b87b2bcd17e8",
+  "pubkey": "4894d1f41f1fabce7f2747d42bf4c10bb12531c0a356a866d7493a942f8b0b58",
+  "created_at": 1784651379,
+  "tool": "https://github.com/halka/Okini-Iri-Dashboard",
+  "note": "Okini-Iri-Dashboard（halka 自作のダッシュボード。「XML/json色付けとかやりました」の更新報告）。GitHub 名義 halka が投稿者本人と一致 → 作者本人。投稿本文日本語",
+  "content": "XML/json色付けとかやりました。\nhttps://github.com/halka/Okini-Iri-Dashboard"
+ },
+ {
+  "id": "e930e26b431cd6ea7a2f131ce68ad071e551666a167ffd70a2f8b90687a181ab",
+  "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+  "created_at": 1784630465,
+  "tool": "https://tsukemonogit.github.io/yabumi-ranking-graph/",
+  "note": "yabumi-ranking-graph（やぶみランキングのグラフ表示ツール。「ランク外またぐと線とぎれるようになった」の更新報告）。投稿者は iroiro bot 作者 mono（TsukemonoGit）。GitHub プロフィールが「mono TsukemonoGit」で Nostr バッジの npub が本人 pubkey と一致 → 作者本人。日本語",
+  "content": "https://tsukemonogit.github.io/yabumi-ranking-graph/ ランク外またぐと線とぎれるようになった"
+ },
+ {
+  "id": "cdfb9a6a8c7e0810b759e960ba17ab87f95c2144078645d44375589cb103900b",
+  "pubkey": "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69",
+  "created_at": 1784586024,
+  "tool": "https://ryopc.f5.si/",
+  "note": "ryopc（game_ryo 主導のデジタル機器サポート・デジタルリテラシー国際イニシアチブ。「ryopcがついに、始動」とメンバー募集の告知）。kind0 about に「ryopc公式: ryopc@nr.ryopc.f5.si」と明記 → 作者本人確定。日本語",
+  "content": "ryopcがついに、始動。\n\nメンバー募集。\n\nhttps://ryopc.f5.si/#contact"
+ },
+ {
+  "id": "fcdf9dc403a526fdac1470a4b6284e7878edf80e3f3486ac0aab6aa2882a6300",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1784549666,
+  "tool": "https://koteitan.github.io/otenki/",
+  "note": "otenki（降水確率のラプラス変換をする自作のお天気ツール。「ラプラス変換できた」の開発報告）。koteitan は日本語確定・作者本人（koteitan.github.io 配下）。iroiro.json 未収載",
+  "content": "ラプラス変換できた\nhttps://koteitan.github.io/otenki/"
+ },
+ {
+  "id": "5a20cc85f4e3c31b8c230ef4894c94df8aa69924d2ab90e9b8944174886c9a28",
+  "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+  "created_at": 1784379208,
+  "tool": "https://ocknamo.github.io/combine",
+  "note": "combine（ocknamo 自作の「Combined Nostr client」。Nosskey のパスキー署名 + eHagaki 投稿エディタ + Nostr Web Components を組み合わせたシンプルな Nostr クライアント）。作者本人、日本語確定。Nostr ツール",
+  "content": "これなんです。iPhoneのsafariで使えるのか気になってます。\n\nhttps://ocknamo.github.io/combine"
+ },
+ {
+  "id": "ee63016b495d6b6e7a33cbdab02b180ae0cd6532f27dade2652108f2b456f3e3",
+  "pubkey": "776ea4437354381f14a720be3c476937dce7257ed1073e54a192dbc99f3b7ecc",
+  "created_at": 1784367543,
+  "tool": "https://github.com/uakihir0/CCUsageMenu",
+  "note": "CCUsageMenu（uakihir0 自作の macOS メニューバーアプリ。Claude Code の従量課金利用量 ccusage を確認）。投稿者本人の作成物。日本語。Nostr ツールではない",
+  "content": "ちょっと雑に仕事で AI 使っていることを反省して、ccusage をメニューバーに置いて確認できるやつ作った。既存にいくつかあったけど、お仕事向けなので従量課金のみをターゲットに作った。\nhttps://github.com/uakihir0/CCUsageMenu"
+ },
+ {
+  "id": "55550532d80efb4a5d58a1d10573363b06579afad13f740527c3f0afb762cdb1",
+  "pubkey": "07804b786c6a3b400b7b20d9bfc945035f3ad213da797b0c50954767c375c543",
+  "created_at": 1784359438,
+  "tool": "https://darashi.github.io/nikunoaji/",
+  "note": "nikunoaji（darashi 自作の肉の味計算機。塩分 1% 計算の Web ツール）。darashi は既に murasaki で iroiro.json 収載済み。日本語。Nostr ツールではないが投稿本人の作成物",
+  "content": "ひさしぶりに肉の味計算したhttps://darashi.github.io/nikunoaji/"
+ },
+ {
+  "id": "1bc07246e30e4aaddfddb7337a61abe808f383e992a4729a374a0613697fd8ae",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1784345588,
+  "tool": "https://kojira.github.io/nostr-reaction-viewer/",
+  "note": "nostr-reaction-viewer（kojira 自作の「あなたがリアクションした投稿」を確認するツール。NIP-07 連携・日付範囲/画像フィルタあり）。作者本人、日本語確定。Nostr ツール",
+  "content": "なんかできてた\nhttps://kojira.github.io/nostr-reaction-viewer/"
+ },
+ {
+  "id": "f289e2da51eb7e4e47e14d5831559cdeea1b88167a89c4108723aca9244ee0ed",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1784341394,
+  "tool": "https://kojira.github.io/nostr-license/",
+  "note": "nostr-license（kojira 自作の運転免許風 Nostr カード生成ツール。「Nostr licenseでzap推移も見れる」と zaps 可視化にも言及）。作者本人（iroiro bot 作者）、日本語確定。Nostr ツール",
+  "content": "Nostr licenseでzap推移も見れる\n\n🪪 My Nostr License — kojira導師\n#NostrLicense\nhttps://kojira.github.io/nostr-license/"
+ },
+ {
+  "id": "bd74a001b1d85091b9a6ab6a0611c8b375213405120b56210ee72bcfe5121bc0",
+  "pubkey": "1beecee55f69ebc2890403606f28b5e8ebbab23d226730e12b4bf762d29d2162",
+  "created_at": 1784267796,
+  "tool": "https://github.com/akazdayo/nostratui",
+  "note": "nostratui（akazdayo の ratatui 製 Nostr TUI クライアント。Vim風キーバインド・Kitty Graphics Protocol 対応）。開発報告複数（画像レンダリング・カスタム絵文字・リレータブ等）で作者本人。日本語。Nostr ツール",
+  "content": "https://github.com/akazdayo/nostratui"
+ },
+ {
+  "id": "95b24288f1457df02ae7a498b393e55e14588efbd9476b7c153224c6bb362f18",
+  "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+  "created_at": 1784257530,
+  "tool": "https://conversation-mismatch-ai.vercel.app/",
+  "note": "会話不成立AI（相手と微妙に噛み合わない返答を生成する AI サービス。「本日の不成立会話です」と利用報告）。投稿は日本語だが作者本人かは不明",
+  "content": "本日の不成立会話です\nhttps://conversation-mismatch-ai.vercel.app/\nhttps://share.yabu.me/6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b/2a4d0af06bdfd276b023683c29b1a673de74eb1bcc4255e6df42635c83be2210.webp"
+ },
+ {
+  "id": "8bf4bc0c78db3542caf54c51acfd2bfa12e5eed1e51eb8fed21dbdb555278f9a",
+  "pubkey": "cc6d24063ad9e928a434c6b0566f6d27d31da0e7d8dcc31241af3f3382c9fe3f",
+  "created_at": 1784253382,
+  "tool": "https://ompomz.github.io/flowgazer/",
+  "note": "flowgazer（ompomz の Nostr タイムライン可視化ツール。「okkake」で指定イベントから辿れる）。投稿は日本語だが、投稿者が ompomz 本人かは不明（flowgazer クライアント利用者）。Nostr ツール",
+  "content": "このへんからずっとおもしろくてやばかった https://ompomz.github.io/flowgazer/okkake/?id=nevent1qy88wumn8ghj77tpvf6jumt99uqzqpv6z84hhtr5c8p7uqtdc697nt0nskpgdnet4h387s7fpm8r4d0cr9z6v7&follow=npub1a3pvwe2p3v7mnjz6hle63r628wl9w567aw7u23fzqs062v5vqcqqu3sgh3"
+ },
+ {
+  "id": "9097d7f694666e916c5a0c7939ce1a7ba0def6e097127f20df8642ce17839f5f",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1784247233,
+  "tool": "https://github.com/koteitan/my-skills/blob/main/skills/check-usage/README-ja.md",
+  "note": "check-usage（koteitan 自作の Claude Code スキル。5時間枠・週次の利用上限をエージェント自身が確認できる）。日本語",
+  "content": "エージェントが 5H limit / weekly limit がいつ来るかを知ることができるスキルを作った\nhttps://github.com/koteitan/my-skills/blob/main/skills/check-usage/README-ja.md"
+ },
+ {
+  "id": "3a98898e2d29bb7df5909628c240a10c1c4bff7ec2d734979cad0698cc2beb55",
+  "pubkey": "e88527b44e3e58e5a092cf30448a9881ecfca3c36bcd503108c2230f7ccf6efa",
+  "created_at": 1784196662,
+  "tool": "https://github.com/vrtmrz/fancy-kit",
+  "note": "fancy-kit（vrtmrz/LiveSync 作者自作の Obsidian プラグイン用共通部品・テストキット。npm ワークスペース）。Osaka JP・日本語",
+  "content": "最近LiveSyncの修正がすごく悩ましいのが多くて、ついにワイが作ってるプラグインの共通部品とか、そのへんのテストをする私家版プラグインとか、あとObsidianをend-to-endでテストするものを作ったんだけど、まぁめっちゃいいわ⋯"
+ },
+ {
+  "id": "c8b2adbc39af85225794b9e2ceff8616997f3a0dd25bda1508fab1543f47ecaa",
+  "pubkey": "5aaccfdd2ed8f45eb0dfb9a8752bf0d50777a975ad24468f14dd457e747c5c90",
+  "created_at": 1784180085,
+  "tool": "https://kimochi-sakana-kantei.vercel.app/",
+  "note": "きもち魚鑑定（今の気持ちを魚にたとえるおみくじ風診断アプリ）。結果シェア投稿が同一アカウントから継続しており作者本人の可能性が高い。日本語",
+  "content": "今のきもちは「食後ねむい」の魚でした。\n\n【ショクゴスヤスヤダイ】\n昼の満腹潮を浴びると、泳ぎながらまぶたが沈む。\n生息地：午後一時の浅瀬\n\n#きもち魚鑑定\nhttps://kimochi-sakana-kantei.vercel.app/"
+ },
+ {
+  "id": "682131c735c427ae89f805d60637868cab358e22707f68d372fc84dfd72189af",
+  "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+  "created_at": 1784163264,
+  "tool": "https://github.com/LunaYoineko/Nosterm",
+  "note": "Nosterm（宵猫ルナ/LunaYoineko 自作の TUI Nostr クライアント。業務中にssh経由で見る目的）。日本語。LunaYoineko の pubkey は既収録エントリと一致",
+  "content": "せんでーん\n業務中にssh経由でノスを見たいがために作りましたTUIクライアントですにゃ\n\nhttps://github.com/LunaYoineko/Nosterm"
+ },
+ {
+  "id": "45b2fd003395ba997df8d4341aa68ea9eafd62934c44128ef0599e4c917e5ba5",
+  "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+  "created_at": 1784125471,
+  "tool": "https://files-mentioned-by-the-user-web-alpha.vercel.app/",
+  "note": "絶対に当たらない天気予報アプリ（petan 自作、#絶対に当たらない天気予報 シリーズ）。日本語。会話不成立AI と同じ pubkey",
+  "content": "天気予報アプリを作りました。\nhttps://files-mentioned-by-the-user-web-alpha.vercel.app/"
+ },
+ {
+  "id": "a50881821a9ff7c8446e646dade62e1f5d62447e251c14ad2c41bf1170ab433d",
+  "pubkey": "6ee6b98e87bc42eb67a9ed82d6accc85705b7c3e2b2a351e487c0e793448c4eb",
+  "created_at": 1784091088,
+  "tool": "https://dmntnr.com/",
+  "note": "dmntnr.com（dmntnr 自作の個人サイト。Nostr の自分の投稿を表示）。日本語。nostrd と同じ作者（kind0 は英語だが Japanese full-stack developer と自認）",
+  "content": "雑だけど自分の作りかけサイトに Nostr の自分の投稿を表示させることできた\n\nhttps://dmntnr.com/"
+ },
+ {
+  "id": "ab78bbc8e726019fca70ee53b871098e88f21cce26827c9dadf16ada9df7c8de",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1784040902,
+  "tool": "https://koteitan.github.io/moire/",
+  "note": "moire（koteitan 自作のモアレ模様を楽しむツール。「画像サイズを変えることでいろんなモアレをたのしめるよ！」）。作者本人（koteitan.github.io 配下）。日本語",
+  "content": "どうぞつhttps://koteitan.github.io/moire/"
+ },
+ {
+  "id": "08f409095ac9740cac59b546f69227abc84ec7eede9a7b5a72cab4e2af90832e",
+  "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+  "created_at": 1784038176,
+  "tool": "https://mat-ppopgi-korean-gacha.vercel.app/",
+  "note": "マッポッポギ韓国料理ガチャ（petan 自作の韓国料理ガチャ。「料理の種類が増えました」と更新報告）。日本語。絶対に当たらない天気予報アプリと同作者",
+  "content": "料理の種類が増えました\nhttps://mat-ppopgi-korean-gacha.vercel.app/"
+ },
+ {
+  "id": "b8024b07b8c1e0e9b1d93933ba94df76c6011a84a6ec09ac3688f7dc12e7b8a5",
+  "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+  "created_at": 1784000721,
+  "tool": "https://github.com/ShinoharaTa/nostr-andloid-native-client",
+  "note": "nostr-andloid-native-client（Nostr ネイティブ Android クライアント。PR マージ報告と issue 募集）。作者本人（Nostrism のしのさん = ShinoharaTa）。日本語",
+  "content": "https://github.com/ShinoharaTa/nostr-andloid-native-client/pull/118\n\nマージ済み"
+ },
+ {
+  "id": "4f3c165fe975a6ade9bb4f3d39b7f1b5b374c0385d31dc75d653d15e323fd229",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1783996856,
+  "tool": "https://d-shrine.jp/",
+  "note": "でばっぐ神社（IT おみくじ・参拝ゲーム。GitHub 更新やアクションでポイント/レベルが上がる）。作者は iroiro bot 作者 kojira と推測（dev URL d-shrine-dev.firebaseapp.com を使用）。日本語、コミュニティで広く利用",
+  "content": "⛩️でばっぐ神社のITおみくじは😊【中吉】でした\n「半分終わって半分残る。ちょうど真ん中の日。」\n・願望: 願いは道半ば。焦らず続ければ叶う兆し。\n・レビュー運: 軽い手戻りが一度。直せばすぐ承認。\n・学問: 写経は進むが、応用問題で少し悩む。\n#でばっぐ神社\nhttps://d-shrine-dev.firebaseapp.com/"
+ },
+ {
+  "id": "531dd58bc0121f76e6406d4615151015b281f2db12802cef2c2834589558e72a",
+  "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+  "created_at": 1783956562,
+  "tool": "https://github.com/betonetojp/nokandro",
+  "note": "nokandro（Nostr ネイティブ Android クライアント。v0.22.0 リリースで Bunker 自動復帰とバッテリー最適化除外に対応）。作者本人（betonetojp = nokakoi/kakoi 作者、投稿は nokakoi.com の更新報告もあり）。日本語",
+  "content": "nokandro v0.22.0\nOSのメモリ管理でプロセスを殺されてもBunkerが自動で復帰するようにした\n「Exclude from battery optimization」をタップでバッテリー最適化からの除外ができるように\nhttps://github.com/betonetojp/nokandro/releases/tag/v0.22.0"
+ },
+ {
+  "id": "4f21245f41a9d43f55fff923254eec234b1f1c00d73a3dbff016c0e03986cc16",
+  "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+  "created_at": 1783950018,
+  "tool": "https://nostrism.shino3.net/",
+  "note": "Nostrism（日本の代表的な iOS Nostr クライアント。TestFlight で iOS ビルド提供、同日内に「ものあいこん対応してリリースした」投稿もあり）。作者本人（しのさん = ShinoharaTa、絶対匿名希望との本人コメントあり）。日本語",
+  "content": "iOS ビルドのNostrismテストは以下のtestflightから確認できます。\nhttps://testflight.apple.com/join/bpuGkj2G"
+ },
+ {
+  "id": "27a4cd6df561b42b402fe6c3366e9676380ce0b4e9595a22966c21479579a4de",
+  "pubkey": "dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1",
+  "created_at": 1783865827,
+  "tool": "https://github.com/oppapili/MarkTask",
+  "note": "MarkTask（おっぱぴぃ/oppapili 自作の AI-DLC v2 ベースのタスク管理ツール。org/project/team で階層分けしてルールを定義できる）。作者本人（kind0 name=oppapili / displayName=おっぱぴぃ で日本語）。日本語",
+  "content": "AI-DLC v2で作っています。\nhttps://github.com/oppapili/MarkTask"
+ },
+ {
+  "id": "315c56616570e19355b45629054dc24583a359283a478a0338ba9244b3e3d664",
+  "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+  "created_at": 1783830091,
+  "tool": "https://snowcait.github.io/tenhou-gacha/",
+  "note": "天和ガチャ（雪猫/SnowCait 自作の麻雀 天和ガチャ。牌姿を指定して天和が引けるまで回し続けるブラウザツール）。作者本人（kind0 name=SnowCait / displayName=雪猫 で日本語）。日本語",
+  "content": "天和ガチャ\nhttps://snowcait.github.io/tenhou-gacha/\n"
+ },
+ {
+  "id": "4195358caf967e1876af38d6f7030638de36c56f430e5bda9582caccc61abcb0",
+  "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+  "created_at": 1783829992,
+  "tool": "https://github.com/nikolat/jong-chunchun",
+  "note": "雀-チュンチュン（nikolat/Don 自作の「伺か」用麻雀クライアントゴースト。SSTP で麻雀ゲームと連携してしゃべる。2014年作・ニッチ）。作者本人（kind0 name=nikolat / displayName=Don、日本語）。日本語",
+  "content": "カン大好きっ子の中身\nhttps://github.com/nikolat/jong-chunchun/blob/20fa6762bd4d443f7c3bd60b787c0d5fb0082645/ghost/master/MahjongAI.txt#L386"
+ },
+ {
+  "id": "fee8a27f1635554efc32e62c357cd8a6d8a508e02b20f69861b68de0590efbb5",
+  "pubkey": "ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758",
+  "created_at": 1783754126,
+  "tool": "https://hackage.haskell.org/package/moffy",
+  "note": "moffy（Haskell 製のモナディック関数型リアクティブプログラミング mFRP ライブラリ、重城良国/YoshikuniJujo 作）。投稿者自身の開発物（「自分で作ったライブラリだけど」）。日本語だが Nostr ツールではない（iroiro 向けかは要判断）",
+  "content": "https://zenn.dev/yoshikuni_jujo/articles/introduction-to-moffy\n\nこれ使ってみようかな。\n自分で作ったライブラリだけどFRP使わずに普通に書いたほうが楽疑惑はある"
+ },
+ {
+  "id": "398a7f4487c357ef90d923357e32d2f06365787d428821ed04f328e41e5f14c5",
+  "pubkey": "83279ad28eec4785e2139dc529a9650fdbb424366d4645e5c2824f7cbd49240d",
+  "created_at": 1783750163,
+  "tool": "https://github.com/kengirie/blossoML",
+  "note": "blossoML（kengirie/3001 自作の OCaml 製 Blossom サーバ実装。投稿は日本語だが kind0 は英語で日本人かは要判断）。Nostr 向け",
+  "content": "blossomlでmime 判定にconanっていうライブラリを使っているんだけど、 名前の由来が名探偵コナンであることを今知った\n\nhttps://github.com/mirage/conan"
+ },
+ {
+  "id": "301b88f76b1aca53e48b9702e72168cb2b5780000f29827981748da7d3155047",
+  "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+  "created_at": 1783683761,
+  "tool": "https://github.com/betonetojp/nokakoi",
+  "note": "nokakoi（betonetojp の Nostr Web クライアント。v1.91.0 で omochat の位置情報リレー自動取得とイベント受信リレー表示機能を追加。投稿者本人の宣伝・更新報告）",
+  "content": "宣伝\nTiny but cute web client.\nhttps://nokakoi.com/app/"
+ },
+ {
+  "id": "b276f21d4498631097beca580e668cf1f89a751f89d8953daef3732afab8cbed",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1783571708,
+  "tool": "https://github.com/428lab/kuda",
+  "note": "kuda（kojira の「物理ランダムをAPIで払い出しするやつ」。真空の量子ゆらぎ ANU QRNG と放射性崩壊ガイガー管を源泉としたエントロピー配管。Cloudflare Worker + ESP32）。作者本人（kojira 確定）、日本語。Nostr ツールではないが投稿本人の作成物",
+  "content": "物理ランダムをAPIで払い出しするやつ。\nhttps://github.com/428lab/kuda\nESP32は届いたけどガイガーカウンタキットが来週だ"
+ },
+ {
+  "id": "596c0f4fa3e1f6bc5236a5bf52799cc162b8dfc325d3891fb26d9ae0131fe4de",
+  "pubkey": "06d333dcfe659f2f8cd5adc76e943fe74ea2631514866ab2bce0ae94534d77a1",
+  "created_at": 1783489852,
+  "tool": "https://days-ai.com/",
+  "note": "DaysAI（投稿者「Shorty(デジタルかめランド)」自作の AI イラスト創作 SNS/ゲーム）。「自分の好みのキャラクターを作って、さらにそのキャラをお台に出演させてイラストを作るソシャゲ（？）こんなん作ってみました」で作者本人確定。kind0 日本語 YES",
+  "content": "自分の好みのキャラクターを作って、さらにそのキャラをお台に出演させてイラストを作るソシャゲ（？）\n\nこんなん作ってみました\nhttps://days-ai.com/posts/659c0270-18fc-4aa1-86d3-5a0ae0626868/"
+ },
+ {
+  "id": "ccda3d97eb4b2b68022e3625c54d331c2247f2708cd5508b922dca4bf6c0639f",
+  "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+  "created_at": 1783462616,
+  "tool": "https://github.com/nikolat/jong-bari",
+  "note": "雀々BARIBARI（nikolat/Don 自作の「伺か」用麻雀サーバーゴースト。jong-rinrin / jong-chunchun / jong-whanwhan などクライアントゴースト3体を招いて対戦できる。2021年作・ニッチ）。作者本人（kind0 name=nikolat / displayName=Don、日本語）。日本語",
+  "content": "こいつ意外と操作性いいんだよな\nhttps://github.com/nikolat/jong-bari"
+ },
+ {
+  "id": "f2218fe3b2c31040a82dba23708330a2d63dfd6573be947482193a9d779104aa",
+  "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+  "created_at": 1783439834,
+  "tool": "https://github.com/mattn/moonbit-nostr-relay",
+  "note": "moonbit-nostr-relay（mattn 自作の MoonBit 製 Nostr リレーサーバ。wss://moonbit-nostr-relay.compile-error.net/ で運用。投稿は安定性・k8s でのメモリ動向などの運用報告で URL なしだが、作者本人が自作リレーに言及）。Nostr 向け",
+  "content": "moonbit-nostr-relay、けっこう安定してるやん\n https://image.nostr.build/3d525705975364410b26d11af064f241f535de754a8faebd569ed6f6366ae3d0.png"
+ },
+ {
+  "id": "5f4ca924ae20379c6d34e21cbc38e302e49713c67c2dbbf3e33d9bf6e183a6b0",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1783354115,
+  "tool": "https://github.com/koteitan/find-mine-fire",
+  "note": "find-mine-fire（koteitan 自作の「自分の Nostr 投稿」のローカルインクリメンタルサーチツール。自分の kind1/6 をリレーから strfry(NIP-77) に同期し、SQLite FTS5 のトリグラム索引で CLI/TUI/Web から検索）。作者本人（koteitan 確定、日本語）。Nostr 向け。関連: 同じく自作の sessionmv（my-skills 内の小スクリプト、投稿 93c8039c765f…・created_at 1783357615）は standalone でないため本エントリに統合",
+  "content": "自分のポストのインクリメンタルサーチローカルツール\nhttps://github.com/koteitan/find-mine-fire"
+ },
+ {
+  "id": "189870df2651dc2e1fd7bcbc74c9536008698b6f7092babfdade0f7d42b1906b",
+  "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+  "created_at": 1783338583,
+  "tool": "https://play.google.com/store/apps/details?id=net.shino3.nostrism",
+  "note": "Nostrism（しのさん 自作の Android 用 Nostr クライアント。パッケージ id=net.shino3 は shino3.net 由来。2026年7月時点ベータ・破壊的変更あり）。作者本人（しのさん確定、日本語）。Nostr 向け",
+  "content": "グループ参加して以下のURLからダウンロードできるようになりました。\nhttps://play.google.com/store/apps/details?id=net.shino3.nostrism\n\nなお間に合せで公開してるのでいろいろ破壊的変更は入ります"
+ },
+ {
+  "id": "3723e3572de80734f24f1584eb56c864d22c75aa963751f8e307bc94c3a11aaa",
+  "pubkey": "d602e726ec089bcd6d368531e81cc71e50d034278b235e0aa50ac330acf44c8f",
+  "created_at": 1783324506,
+  "tool": "https://magunapina.github.io/clean-youtube-search/",
+  "note": "Clean YouTube Search（マグナピナ/magunapina 自作の広告なし YouTube 検索 Web アプリ。Fable/F# で作り直し）。作者本人（kind0 name=Magunapina の日本語アカウント）。",
+  "content": "fableで色々と作り直した\nhttps://magunapina.github.io/clean-youtube-search/"
+ },
+ {
+  "id": "3f1dc5336b660230c5f6bf3c2e3b130467d1299298f77d90595d0275f3862e28",
+  "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+  "created_at": 1783270373,
+  "tool": "https://nostr-restore.compile-error.net/",
+  "note": "nostr-restore（mattn 自作の Nostr プロフィール更新系イベントのバックアップ・リストアサービス。wss://nostr.compile-error.net にプロフィール更新系イベントを登録するとバックアップされ、リストア可能）。作者本人（mattn 確定、日本語）。Nostr 向け",
+  "content": "wss://nostr.compile-error.net に直近2年くらい、プロフィール更新系のイベントを1個でも登録しておくと、それらのバックアップがされる様になっていて、リストアも可能。\nhttps://nostr-restore.compile-error.net/"
+ },
+ {
+  "id": "32c7b67f8b8c890f7449ed2680e20ca0c36ae670c97648d6645e42047102bdd1",
+  "pubkey": "1066a05d1474e7e133a97208a5cb177a9c01e4b81f0f14370ad59f4a0a475681",
+  "created_at": 1783227771,
+  "tool": "https://github.com/ohac/midiguitareditor",
+  "note": "midiguitareditor（ohac/OHASHI Hideya 自作の MIDI ギター編集 TUI エディタ。リポジトリオーナー=投稿者で確定、日本語 README・大阪在住の日本語ユーザー）。Nostr ツールではないが投稿本人の開発物",
+  "content": "https://github.com/ohac/midiguitareditor\nバックアップついでにgithubにpushした。"
+ },
+ {
+  "id": "0e8dae1604f308af271ce48dcc4704fb1f1c30024e44469ba1b2dc65c704d5ab",
+  "pubkey": "148755e670adb36ebba529ff46b9f3580a499928249dd79a749b2853450c107f",
+  "created_at": 1783149702,
+  "tool": "https://utopia25.github.io/saborasenai/",
+  "note": "saborasenai（投稿者自作の質問サイト。「むらぴぃもちょぴ完全インスパイアで作ってみた」で作者本人）。GitHub utopia25（東京・日本語プロフィール）がリポジトリ所有者で投稿者と一致。kind0 に日本語（Name: 人生をサバイブしろ❗️）。日本語",
+  "content": "むらぴぃもちょぴ完全インスパイアで質問サイト作ってみた\n\nhttps://utopia25.github.io/saborasenai/"
+ },
+ {
+  "id": "28c7862af9a91dbf4b834f0be4093dce11cd62b292ac62400401dd8a415c406f",
+  "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+  "created_at": 1783140907,
+  "tool": "https://nostr-flowmeter.shino3.net/",
+  "note": "nostr-flowmeter（しのさん自作の Nostr 日本リレー流速のリアルタイムグラフ表示サイト。kind 30078 データを DB とした nostr-key-value のサンプル兼運用サイト。サイト管理者: shino3 で作者本人、日本語）。Nostr 向け",
+  "content": "https://nostr-flowmeter.shino3.net/"
+ },
+ {
+  "id": "9a5583e9fc75131855e04496b3ce24b1fe1b0adae4cbbd498668dab0ba85d528",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1783079269,
+  "tool": "https://github.com/zenryokukikai/kikai-lab",
+  "note": "kikai-lab（kojira 自作の Agent-first ML 実験管理・制御サーバ。AI エージェントが訓練を起動・監視・評価できる HTTP 制御プレーン。GitHub org zenryokukikai に @kojira が所属し作者本人、日本語投稿）。Nostr ツールではないが投稿本人の作成物",
+  "content": "AIエージェント向け機械学習フレームワーク公開した！\nhttps://github.com/zenryokukikai/kikai-lab"
+ },
+ {
+  "id": "8b4187222d8c8754304f157b2ec2b76330fc7ea0aaa7c816c8bd554d4e09e7bf",
+  "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+  "created_at": 1782952932,
+  "tool": "https://comcomponent.com/",
+  "note": "comcomponent.com（MAGAMAGA の会社サイト。Windows 専門の受託開発。kind0: C++プログラマ・COMコンポーネントが好き）。「うちのサイトはもうデジタル庁デザインに準拠させることで何も考えないことに成功した」で作者本人。別投稿で comcomponent.com/blog の自作記事（TCP フレーミング）も言及。日本語。Nostr ツールではないが投稿本人の作成物",
+  "content": "うちのサイトはもうデジタル庁デザインに準拠させることで何も考えないことに成功した\n\nhttps://comcomponent.com/"
+ },
+ {
+  "id": "5259ffbb78d0232a7d4e49c3298d0bc89a0911db8ca25bc1ba81603c8f883772",
+  "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+  "created_at": 1782907380,
+  "tool": "https://github.com/ocknamo/nosskey-sdk",
+  "note": "nosskey-sdk（ocknamo 自作の noskey.app パスキー署名ログイン導入用 SDK。npm: nosskey-iframe）。「できた」と noskey.app 導入用のプロンプトを公開し、自身の nosskey-sdk / nosskey-iframe / yakitofu(signer.ts) を参照。作者本人（ocknamo）、日本語確定。Nostr ツール",
+  "content": "できた\n\n\nnosskey.appの導入用のプロンプト。opus4.8もしくは同等のモデルでclaude codeもしくは同等のハーネスで実行すること。\n\n'''\nnosskey-sdkのiframe埋め込みを使ってnosskey.appのアカウントをこのアプリから使えるようにしてください。\n以下を参照してから実装計画を立ててください。\nhttps://github.com/ocknamo/nosskey-sdk\nhttps://www.npmjs.com/package/nosskey-iframe\n\n## 注意点\n* テーマ/言語は親アプリのカラーと言語になるべく一致するようにしてください\n* 既存のログイン機能がある場合、ダイアログや画面上に並列に選択肢を表示し、パスキーによるログインも選択できるようにする\n* 既存機能を壊さないように注意すること。例:  window.nostr を上書きせず署名用のサービスに隠蔽するパターン https://raw.githubusercontent.com/ocknamo/yakitofu/refs/heads/main/yakitofu-app/src/lib/services/signer.ts\n'''\n\n\nnostr:nevent1qqs0zcqsl7tzu3yffy5v6cczlhxeh0suwtn55rqq0999cumd8s3054qppemhxue69uhhjctzw5hx6ef0qgszdwewhmtv25kkwryqfvxk25n8k0rx9vs7qfkkuj9vjwnqwpfsjkqrqsqqqqqpt45gen"
+ },
+ {
+  "id": "8c7bd50f1e2199cc5cf88b86935839ee5c7ebb639c363c9254b89679ff866e7e",
+  "pubkey": "4f2199ca4f700fd5c15f8dfaa3088bce74599e762a127f2769b9da1544caf170",
+  "created_at": 1782873981,
+  "tool": "https://balloon-jp.vercel.app/nostr/",
+  "note": "balloon-jp.vercel.app/nostr/（ふうせん🎈 FU-SEN 自作の Nostr 使い方・鍵一覧ガイドページ。Long-form content の記載を追記）。kind0 の WebSite が同一 URL で作者本人確定。日本語。Nostr ガイドページ（ツールではない）",
+  "content": "もちろん Long-form content  の記載も加えてあります〜\nhttps://balloon-jp.vercel.app/nostr/"
+ },
+ {
+  "id": "b81e9fab032205b269e038750c7af7a7d784279987e6243d209cd0473f089cfc",
+  "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+  "created_at": 1782861469,
+  "tool": "https://kuronekop.codeberg.page/nostr_html_tool/nhc.html",
+  "note": "✞NHC✞（nostr_html_tool。黒猫P@受験生/kuronekop 自作の Nostr クライアント。codeberg の kuronekop ページで作者本人）。投稿はリンクのみで無言だが、同一アカウントの投稿は日本語。Nostr ツール",
+  "content": "https://kuronekop.codeberg.page/nostr_html_tool/nhc.html"
+ },
+ {
+  "id": "a258e52b47307831bb778548e8f45881fff81048eec5c2218371385493f1c69e",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1782739599,
+  "tool": "https://github.com/kojira/strfry-ratelimit",
+  "note": "strfry-ratelimit（kojira 自作の strfry writePolicy プラグイン。pubkey ごとのレート制限・自動BAN・kind クラス対応・Rust）。「これからのリレーはratelimitのBAN必須」。作者本人（kojira 確定、日本語）。Nostr 向け。関連: 同じく自作の strfry フォーク（https://github.com/kojira/strfry、プラグインでないため本家プルリク不可）",
+  "content": "rust製のプラギンでもいいし\nhttps://github.com/kojira/strfry-ratelimit\nわいのstrfryフォークでもいい\nhttps://github.com/kojira/strfry\n\nこれからのリレーはratelimitのBAN必須"
+ },
+ {
+  "id": "6fa3a96e4d2e87b641fd67dc7216ebd49a3ff2008da0d7a9ea444d563561e8b5",
+  "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
+  "created_at": 1782728979,
+  "tool": "https://github.com/haruki7049/buildente",
+  "note": "buildente（haruki7049 自作の Java ビルドスクリプトライブラリ。ziglang の build.zig に相当するビルド定義を目指す）。リンクのみの投稿だがリポジトリ所有者 haruki7049 が投稿者と一致（同アカウントの lightmix も収載済み、review5 の「これです」でも本人確認）。日本語。Nostr ツールではないが投稿本人の作成物",
+  "content": "https://github.com/haruki7049/buildente"
+ },
+ {
+  "id": "e7de424aa23e98ebcbdb3145ffa1ac510ab7ea2e8eb8b8b62127620391445cd2",
+  "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+  "created_at": 1782721041,
+  "tool": "https://github.com/SnowCait/snowflare",
+  "note": "snowflare（SnowCait 自作の Cloudflare Workers で動く Nostr リレー。in-memory ストレージ実装のコードを紹介）。作者本人（SnowCait 確定、日本語）。Nostr 向け",
+  "content": "in-memory ストレージだとこんな感じ\nhttps://github.com/SnowCait/snowflare/blob/a21967d06cbf75875bcd2aaa17705454ca121f75/src/repository/in-memory/event.ts"
+ },
+ {
+  "id": "8a69b59c00e75f40b09b1c6593fb34c34fcd2ee01aa6ab9e3145f87f3c732b54",
+  "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+  "created_at": 1782714819,
+  "tool": "https://github.com/ocknamo/kanabun",
+  "note": "kanabun（ocknamo 自作の Svelte ライクなフロントエンドフレームワーク。Bun + TypeScript だけで作られランタイム依存ゼロ。SSR/SSG・ルーター・テストヘルパー等を実装）。v0.0.0 パブリッシュ報告。作者本人（ocknamo 確定、日本語）。Nostr ツールではないが投稿本人の作成物",
+  "content": "kanabun v0.0.0をパブリッシュしました！\n目立つバグは対応しましたが、動作確認中であり0.0.0相当です。\n\nhttps://github.com/ocknamo/kanabun/blob/main/README.ja.md"
+ },
+ {
+  "id": "a9a9e08aaa7eb1d8d12c1575b9a8d6c53f673db508264fb4688665e6a7480d98",
+  "pubkey": "d1a61498f4b1dc26df0becd1a3e9e88f355fb614b771e8b5b277d0ff99a82a23",
+  "created_at": 1782707769,
+  "tool": "https://www.inkan.cc/",
+  "note": "Inkan（d1a61498f4b1 自作の Nostr アイデンティティ管理プロトタイプ。アイデンティティと署名用キーを分離し、マスターキーはコールドストレージに保管。署名用キーの失効・新キーへの委任をマスターキーで行い、委任/失効の申告を Ethereum に記録）。「Inkanはそこを変えようとしています」。作者本人（Inkan 開発者、日本語投稿）。Nostr 向け。関連: 同じく自作の inkan-offline-live（エアギャップ署名用ライブUSB https://gitlab.com/inkan_dev/inkan-offline-live、投稿 84ecaa12…・created_at 1782703324）",
+  "content": "今の仕組みだと、オンライン上のアイデンティティは、ほとんど秘密鍵そのものになってしまいます。\nその鍵が漏れたり失われたりすると、そのアイデンティティも終わってしまう。\nInkanはそこを変えようとしています。\n\nマスターキーはコールドストレージに置いたまま、普段の投稿や署名には別の署名用キーを使います。\nもし署名用キーが漏れたり失われたりしても、マスターキーで取り消して、新しいキーに委任できます。\nアイデンティティもフォロワーもそのまま。署名用キーだけ新しくできます。\n\nプロトタイプはこちらです：\nhttps://www.inkan.cc/\n\nNIP-07拡張機能でログインして、すでに動いているテスト用アイデンティティたちに話しかけてみてください。自分のアイデンティティを作ってみることもできます。\n\n\nhttps://image.nostr.build/27d256a9fcba336f567ea6369d0b6984feb72b00b06a5205efe029534113ab99.jpg\n\nhttps://image.nostr.build/ca9b087993604f7b7d9473a661c946ecd20015186a112021f4858efa6c1e1808.jpg\n\nhttps://image.nostr.build/fa5c1f8e19e3727b6693e6f105baf4eae15c4579343148fc413ac50acfe8edf0.jpg\n\nhttps://image.nostr.build/f7002003e981f536bec01789875c17596f6c0eac87526a071c350480029c5827.jpg\n\nhttps://image.nostr.build/3f6b865161cba71839910daa4f3c80b46c36400d5e2332ecad927b86003fcaad.jpg\n\nhttps://image.nostr.build/a10f0ac6d508ea26602348bbec60bda4659667f75adfda46d9b8354224cd08fe.jpg\n\nhttps://image.nostr.build/ce3d8e4de21b3e6f252f5aedbf02dd54323a26c1992c637438fabb9b14ea7afd.jpg\n\nhttps://image.nostr.build/60f8a59a68386e2f28b792b63d09729ed494ebe6caddb7f6810e3c10f48b6e82.jpg\n\nhttps://image.nostr.build/55000542eb9db4794c8ec07dcdfc93fa5560633afcd754476f6809e9c4bb5ac7.jpg"
+ },
+ {
+  "id": "8038d51e7db0274b30e872470a8be6381f8a648fe4ca4be168d1d8c80caf028e",
+  "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+  "created_at": 1782705966,
+  "tool": "https://crates.io/crates/proxy-nostr-relay",
+  "note": "proxy-nostr-relay（しのさん 自作の Nostr プロキシリレー。Rust 実装・crates.io 公開。ボットフィルタリングと管理 WebUI 付きで、複数のリレーを束ねられる）。「わいのProxyも結構いいよおそらく」。作者本人（しのさん = ShinoharaTa 確定、日本語）。Nostr 向け。リポジトリ: https://github.com/ShinoharaTa/nostr-proxy-relay",
+  "content": "わいのProxyも結構いいよおそらく。\nWebUIから設定色々変えられるよ。\n複数のリレーまとめられるよ\nhttps://crates.io/crates/proxy-nostr-relay/0.1.0"
+ },
+ {
+  "id": "d0f6ba0145b74c77aec40ffb22fefccb216ca673e68438748596010b13e97fa4",
+  "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+  "created_at": 1782627608,
+  "tool": "https://ocknamo.github.io/x-is-down/",
+  "note": "x-is-down（ocknamo 自作の X(Twitter) 稼働状況チェック Webアプリ。今回 nosskey ログインに対応）。「「X落ちてる？」がnosskeyログインに対応しました。」作者本人（ocknamo、日本語）。Nostr 関連（nosskey ログイン対応）。",
+  "content": "「X落ちてる？」がnosskeyログインに対応しました。\nhttps://ocknamo.github.io/x-is-down/\nhttps://share.yabu.me/26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958/35af2edef3eb366f686456ce30be9e89a435b4ebbed7cddf686b8bcd1364643a.webp"
+ },
+ {
+  "id": "6a6161a7e283d0dad4c23f201439869f00a2cd4360cdca29868ed824920e084f",
+  "pubkey": "82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003",
+  "created_at": 1782573582,
+  "tool": "https://matometr.naczuki.workers.dev/",
+  "note": "matometr（那月=matometr作者のNostrまとめツール）。「まとめ…を更新しました！#まとめたー」。プロフィールで自作と明記、日本語",
+  "content": "まとめ「「役に立たないミニアプリ集」inspired by ぺぇ」を更新しました！\n#まとめたー\nhttps://matometr.naczuki.workers.dev/naddr1qvzqqqr4gupzpq4np5cygstsu65vsx0ggphrv23kj4z553sh39xwyur08pqvdsqrq"
+ },
+ {
+  "id": "e4c05ebec9e41de56aeabf189ff3d7d7b20ab05b07e510f643e205a306caef01",
+  "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+  "created_at": 1782570441,
+  "tool": "https://10-tiny-useless-tools.vercel.app/",
+  "note": "役に立たないミニアプリ集（ぺぇの自作ミニアプリ詰め合わせ、Oracle Gacha等）。「たまに遊ぶと楽しいかも」。本人・日本語。Nostr向けではないが本人作成",
+  "content": "たまに遊ぶと楽しいかも\nhttps://10-tiny-useless-tools.vercel.app/"
+ },
+ {
+  "id": "73b291379cbd4d51b16a51c0680aa0da04c020e59ac1de5372bbe729bc8547f1",
+  "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+  "created_at": 1782539189,
+  "tool": "https://github.com/ocknamo/nostr-cache",
+  "note": "nostr-cache（ocknamo自作のブラウザで動くNostrリレー実装）。「claude codeのせいで放置してたプロジェクト引っ張り出して進めてる」。本人・日本語、Nostr向け",
+  "content": "claude codeのせいで放置してたプロジェクト引っ張り出して進めてる。\n\nhttps://github.com/ocknamo/nostr-cache"
+ },
+ {
+  "id": "d8d46c36ebc6b87fb3e6f2e530a7a5206f6470aafbc1ea50d1b7c9d969e0a2ca",
+  "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
+  "created_at": 1782467015,
+  "tool": "https://github.com/haruki7049/iai",
+  "note": "iai（haruki7049自作のゲーム。スコアボードをGoogle Cloud Run+Firestoreで実装）。「iaiってゲームです…成果を見せびらかす」。投稿に日本語、作者本人（haruki7049、buildente作者）",
+  "content": "https://github.com/haruki7049/iai/releases/tag/v0.1.6\nある程度出来た。とりあえず成果を見せびらかす。iaiってゲームです。Google Cloud RunとGoogle Firestoreを使って、スコアボードを作りました。生成AIに殆どを書かせた。生成AIがすごいとおもいました（小並感）。"
+ },
+ {
+  "id": "2b9d51d7d2f3ac424866dbfe0f22aff3ab7fd01f690da64d76ad4ab16aefd7f1",
+  "pubkey": "afb18dfa9cdbc569bfe32a50570fa852344325ca8d521dddaee33a0913281dd1",
+  "created_at": 1782453844,
+  "tool": "https://uncrop.jp/",
+  "note": "uncrop（つるるん=tsururun 自作の画像アップロード・uncrop サイト）。「公開したんちゅ」。プロフィール（kind0）に https://uncrop.jp 明記、日本語",
+  "content": "公開したんちゅ\nhttps://uncrop.jp/i/bOm3C7P0dCw\n\n#_uncrop_\nnostr:nevent1qqszg8cmxhxl6vekmzzyftml9nstgfs79l583qge8qwle9cd5rqun8qppemhxue69uhhjctzw5hx6ef0qgs2lvvdl2wdh3tfhl3j55zhp759ydzryh9g65samkhwxwsfzv5pm5grqsqqqqqpdhz8dy"
+ },
+ {
+  "id": "46e093ba4e51e65cc2d0bd40e708a04e49d8f49930bdac664fb4984b6868e5a9",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1782433246,
+  "tool": "https://kojira.github.io/NostrAnalytics/",
+  "note": "NostrAnalytics（kojira 自作、プロフィール・サイトを測定するツール）。kojira は日本語・既収載多数",
+  "content": "なんかしらの人口を測る手段\nhttps://kojira.github.io/NostrAnalytics/"
+ },
+ {
+  "id": "401a59264639e9eac118fe053a5c8ba6d7c51ef0eebbd6afa6f9cfadf830d6c7",
+  "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+  "created_at": 1782399414,
+  "tool": "https://github.com/mattn/nostr-relay",
+  "note": "nostr-relay（mattn 自作のリレー実装、Turso 対応）。mattn は日本語投稿あり",
+  "content": "nostr-relay で turso をサポートしました。\n\nhttps://turso.tech/\n\nTurso のデータベースにキーを指定して使います。\n\nhttps://github.com/mattn/nostr-relay"
+ },
+ {
+  "id": "56cb65a6528d5f1466eb1ca6b6632488afbbb7c73106ae8a9afe20f8644a555c",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1782333825,
+  "tool": "https://github.com/koteitan/nostr-research/",
+  "note": "nostr-research（koteitan 自作、skill 化して自動更新）。koteitan は日本語・既収載多数",
+  "content": "nostr-research を skill 化した\nこれで「更新して」の一発でマルチエージェントで更新ができるので更新頻度が上がりそう\nhttps://github.com/koteitan/nostr-research/"
+ },
+ {
+  "id": "f14460bae4d1e79fb0ebb0056c6807f40e3f8dd1ed804c05f552a9c9ed96c1e9",
+  "pubkey": "242626379cc5d827bffdab1b89a80bc171b710bca9f2adee679b786d49c937aa",
+  "created_at": 1782313446,
+  "tool": "https://github.com/yasunori0418/nput",
+  "note": "nput（yasunori0418 自作、home-manager の再発明）。kind0 に日本語なしだが日本語投稿",
+  "content": "ずっと作ってたhome-managerの再発明みたいな奴\nhttps://github.com/yasunori0418/nput"
+ },
+ {
+  "id": "768ed5fa0f4a123f2f011917e095d8eaa0e7f91eba7ca5c7c4e92d54fa09d1a1",
+  "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+  "created_at": 1782291593,
+  "tool": "https://github.com/gomurin0428/KomuraHelpWorkShop",
+  "note": "KomuraHelpWorkShop（gomurin0428=MAGAMAGA 自作の CHM コンパイラ、Microsoft HTML Help Workshop のローカル実装）。日本語",
+  "content": "とりあえずパブリックにしてみた。\n\nhttps://github.com/gomurin0428/KomuraHelpWorkShop"
+ },
+ {
+  "id": "1d7da9d05d5dc70fd36fbe09a22fbf53348957118589ea133ec3aba362c975bf",
+  "pubkey": "82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003",
+  "created_at": 1782270489,
+  "tool": "https://kimochi-dino.naczuki.workers.dev/",
+  "note": "きもち恐竜鑑定（那月=natsuki 自作、きもち魚鑑定の恐竜版）。日本語・matometr 作者",
+  "content": "「膀胱炎の気配」というきもちから、こんな恐竜が発掘されました。\n\n【マタイキタイドン】\nトイレに行ったばかりなのに、すぐまた行きたくなってしまう恐竜。\n絶滅理由：近くの茂みへ何度も駆け込むうち、群れがどこまで進んだか見失った。\n生息年代：約8100万年前のころ\n\n#きもち恐竜鑑定\nhttps://kimochi-dino.naczuki.workers.dev/"
+ },
+ {
+  "id": "d1f5d30c74eb3dad431d448e011cd791ce837ca2e7104a522f710b71e7eabbc9",
+  "pubkey": "ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758",
+  "created_at": 1782262216,
+  "tool": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs",
+  "note": "filepathnow（YoshikuniJujo 自作の、日時付きファイル名を生成する Haskell 小さなCLI）。作者本人、日本語",
+  "content": "https://github.com/YoshikuniJujo/test_haskell/blob/master/tools/filepathnow/app/Main.hs\n\nできた"
+ },
+ {
+  "id": "ff82808a0893eddef6f03b765296124605bfdee19d994159402509128fc15085",
+  "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+  "created_at": 1782189701,
+  "tool": "https://github.com/nikolat/nos-neko",
+  "note": "のすねこ（Nostrの投稿に反応して鳴く伺かゴースト、Don/nikolat 自作）。作者本人の「作った」投稿。日本語",
+  "content": "作った\nhttps://github.com/nikolat/nos-neko"
+ },
+ {
+  "id": "9226e06540e37780ba2f7d54f7229936fc089f30c78befdea5fd94703f72f38f",
+  "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+  "created_at": 1782187582,
+  "tool": "https://trailcast.shino3.net/",
+  "note": "trailcast（しのさん の shino3.net 上サービス。「まだこれぐらい」と開発途中の報告。did:plc 付きのURLを扱う）。作者本人（しのさん、日本語確定）",
+  "content": "まだこれぐらい\nhttps://trailcast.shino3.net/did%3Aplc%3Arpwpuzu2yyiuufm3232d7pm5/1ih6onsfg801c"
+ },
+ {
+  "id": "5fa68868fffc55efe01aca71536c1005e06470943a8dfe7b0d83de9d326697a7",
+  "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+  "created_at": 1782177330,
+  "tool": "https://nsite.compile-error.net",
+  "note": "nsite（NIP-5A 対応のファイル配信ウェブサーバ、mattn 自作。blossom とリレー指定で npub サブドメインをサーブ）。作者本人、日本語",
+  "content": "NIP-5A nsite を実装したウェブサーバを作りました。\n\nhttps://nsite.compile-error.net\n\nblossom サーバとリレーサーバを指定してファイルをアップロードすると\n\nhttps://<あなたのnpub>.nsite.compile-error.net/\n\nというサブドメインでファイルがサーブできます。\n\n例:\n\nhttps://npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6.nsite.compile-error.net/"
+ },
+ {
+  "id": "1a42d7bb6b85be5b80e8733509f1b4395339e32bb54e188634c46a629ea1fbc6",
+  "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+  "created_at": 1782167080,
+  "tool": "https://tsukemonogit.github.io/meaningless-apps/",
+  "note": "meaningless-apps（もの=mono/tsukemonogit 自作の無意味アプリ集。GitHub Pages）。作者本人（NIP-05 mono@tsukemonogit.github.io）、日本語",
+  "content": "https://tsukemonogit.github.io/meaningless-apps/\nぱげずにあっぷできた"
+ },
+ {
+  "id": "c64c47425cf17a36ae521148b77e4e2ea5e8661fa5db7ad16c0cfb64d68d346b",
+  "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+  "created_at": 1782149456,
+  "tool": "https://github.com/koteitan/key-rest",
+  "note": "key-rest（koteitan 自作、Lean で検証）。作者本人、日本語確定・既収載多",
+  "content": "key-rest を lean で検証 https://github.com/koteitan/key-rest/blob/main/lean/README-ja.md"
+ },
+ {
+  "id": "d0fafcc8f5f269f151c7d3e5bce4ef72308638d67f2f444e7eeef11456330787",
+  "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+  "created_at": 1782143183,
+  "tool": "https://nokakoi.com/app/",
+  "note": "nokakoi（betoneto 自作の Nostr クライアント、開発進捗報告）。作者本人（WebSite/NIP-05 nokakoi.com）、日本語",
+  "content": "シンプル表示モード改めコンパクト表示をプロフィールモーダルにも適用した\nホームタブボタンの長押しで表示のクイック設定を開くようにした\nhttps://nokakoi.com/app/\nhttps://share.yabu.me/21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df/e09568d7cc81f53c9a6115ec513af4151dfb44408d3b7d654d8392b31452fa00.png"
+ },
+ {
+  "id": "e7b70833e1209c8401d7c090b477bf8c00f56257bde6542e82c275328c0764aa",
+  "pubkey": "527e583626b1a7dd99903578bcc26dc4b09cb840e55f47f7c602bbad9f9f4c0d",
+  "created_at": 1782136802,
+  "tool": "https://keitagame.github.io/FAMICOMU",
+  "note": "FAMICOMU（kawase keita=かわせけいた 自作の Web 上のファミコンエミュレータ）。作者本人、日本語（kind0 も日本語）",
+  "content": "FAMICOMUというweb上のファミコンエミュレータを作ってます。ぜひ見に来てネ。\nhttps://keitagame.github.io/FAMICOMU"
+ },
+ {
+  "id": "8daf5fe56883404e33d6d4d4502bdd9e80b61346545a8d3cd736935e1e0ae643",
+  "pubkey": "274a2e86f1a7acb45b01f290284a343c248cb913677b43d7f7615b513194d8b0",
+  "created_at": 1782128935,
+  "tool": "https://shiotanu.github.io/useless-mini-apps/",
+  "note": "useless-mini-apps（しお=shiotanu 自作の役に立たないミニアプリ集。何もしないタイマー等）。作者本人（NIP-05 _@shiotanu.github.io）、日本語",
+  "content": "で、できた……\nhttps://shiotanu.github.io/useless-mini-apps/"
+ },
+ {
+  "id": "05be50f7f7517409b089e3632b89690eab0a1cfbdbb9844a69812b494d1c2f62",
+  "pubkey": "ce0d385252733bd84c1e9ce7d7cdb5733b8021bb0b3740c84d184580bf403ea3",
+  "created_at": 1782128540,
+  "tool": "https://mouse484.github.io/kuso-app-10/",
+  "note": "kuso-app-10（mouse 自作の役に立たないミニアプリ集。ワンショット生成で作者本人も「ゴミ」と評す）。日本語",
+  "content": "ワンショットでつくらせたよ、ゴミ過ぎてパブリックにはできなかった\n\nhttps://mouse484.github.io/kuso-app-10/"
+ },
+ {
+  "id": "a892374513b60f6ae70d47d7bc54d201acc38b2d77ec5ac96b2201b43bcc250d",
+  "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+  "created_at": 1782126636,
+  "tool": "https://kusoapp.yoinekodo.jp",
+  "note": "kusoapp（宵猫ルナ=luna_yoineko 自作のカスアプリ）。作者本人、日本語",
+  "content": "できたにゃ\nhttps://kusoapp.yoinekodo.jp"
+ },
+ {
+  "id": "42348acd48f514e70ab1b85adde41231206d4c054550dbcc1b3a0040796629dc",
+  "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+  "created_at": 1782123823,
+  "tool": "https://github.com/Luna1029-VRChat/P2P-IRCLikeSNS",
+  "note": "P2P-IRCLikeSNS（宵猫ルナ 自作の P2P の IRC 風 SNS。IPv6 のみ対応）。作者本人、日本語",
+  "content": "とりあえずある程度動くようになったから適当に投げておくにゃ〜\nP2PはIPv6しか使ってないからIPv6使えない人は使えないにゃ、、、\nあとテストも自分の環境でしか試してないからにゃ〜\n\nhttps://github.com/Luna1029-VRChat/P2P-IRCLikeSNS"
+ },
+ {
+  "id": "adcea47a341afed4859ec4b9795837d666706e65dd0470461156547d25640bc2",
+  "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+  "created_at": 1782122984,
+  "tool": "https://10-tiny-useless-tools.vercel.app/",
+  "note": "10-tiny-useless-tools（ぺぇ=petan 自作のカスアプリ集）。作者本人、日本語",
+  "content": "あっ、ぽゎ、みてー\nカスアプリ集作ったー\nhttps://10-tiny-useless-tools.vercel.app/"
+ },
+ {
+  "id": "5737e8b79338003e6eea87d4c27999dac0a9391bd15ce87d81c85acdb46ef386",
+  "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
+  "created_at": 1782076209,
+  "tool": "https://haruki7049.github.io/gopher-clicker/",
+  "note": "gopher-clicker（haruki7049 自作の Gopherくんクリックゲーム、徹夜で作成。マウスのみ対応）。作者本人、日本語投稿",
+  "content": "https://haruki7049.github.io/gopher-clicker/\nそういえば、昨日の未明くらいかな、徹夜で作れたものです。PCのマウス操作のみ対応っぽいです。\nGopherくんをクリック出来るゲームです。カウンタが増えます。"
+ },
+ {
+  "id": "01a6e12972c6ea14aed014d0d309e63b755e4ddd70b764708d2bb5a2f8804ecf",
+  "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+  "created_at": 1782026726,
+  "tool": "https://github.com/ocknamo/yakitofu",
+  "note": "yakitofu（おくなも=ocknamo 自作の NIP-58 バッジ作成・付与 Webアプリ。nosskey ログイン追加の開発報告）。作者本人、日本語",
+  "content": "yakitofuにnosskeyログインを追加しました\nhttps://share.yabu.me/26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958/7189fb9b5ac7656ebd5a683a4c0d6bcd7abb48c20f8dd06cbae18be9031492e2.webp"
+ },
+ {
+  "id": "74c33f95ebf8a42e522346bc36e27c06bc995f2f58a1fa6660827d17f70d5bc8",
+  "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+  "created_at": 1782012741,
+  "tool": "https://github.com/TsukemonoGit/nostr-login",
+  "note": "nostr-login（TsukemonoGit=もの 自作の Nostr ログインライブラリ、v1.16.1 リリース報告）。作者本人（NIP-05 mono@tsukemonogit.github.io）、日本語",
+  "content": "https://github.com/TsukemonoGit/nostr-login/releases/tag/v1.16.1 ちゃんとできてんのかな"
+ },
+ {
+  "id": "d069fdd04492f3eb3475891e8adb0582f56a428c675c06d22ac743949ff66221",
+  "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+  "created_at": 1782005550,
+  "tool": "https://github.com/Luna1029-VRChat/GuiltyAtomeis",
+  "note": "GuiltyAtomeis（宵猫ルナ自作のセキュリティ指向プログラミング言語。4D迷路VM上の暗号化バイトコードにコンパイルされる。リポジトリは公開/非公開分割のため現在404）。作者本人、日本語",
+  "content": "普通に\nhttps://github.com/Luna1029-VRChat/GuiltyAtomeis\nを作れたから\n指示の仕方でどうとでもなるにゃ、、、"
+ },
+ {
+  "id": "2fab14925ec5af8a02dce0eb86e821235005f6c8119aad759d3229a8ea6a5e37",
+  "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+  "created_at": 1781929600,
+  "tool": "https://github.com/Luna1029-VRChat/NostrGD",
+  "note": "NostrGD（宵猫ルナ自作の Godot 製 Nostr クライアント兼 NostrSDK for GodotEngine。GDExtension で実装し直し .NET 版不要に）。作者本人、日本語",
+  "content": "GDExtensionで実装し直したから\n.NET版じゃなくても使えるようになったにゃ〜\n\nhttps://github.com/Luna1029-VRChat/NostrGD"
+ },
+ {
+  "id": "887643af621244eb534fd91365195a693a810d6dc17168f340cfb287c6b19ecf",
+  "pubkey": "e3168078608580b4eee1eaf9d47ac01e94a27c406f4f4477b8447e5510f13b2c",
+  "created_at": 1781925444,
+  "tool": "https://flowj.vercel.app",
+  "note": "FlowJournal（思考の流れを途切れさせない日本語ジャーナリングツール。サーバー保存なし。投稿はアプリのシェア形式で作者本人と推測されるが断定は不可）。日本語",
+  "content": "🖊 FlowJournalで5分0秒、605文字書き続けた（208CPM）\nhttps://flowj.vercel.app"
+ },
+ {
+  "id": "e179a23348ae320a188ded9e740958cc5d4bea28127e287ee3f045d35955b328",
+  "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+  "created_at": 1781919360,
+  "tool": "https://github.com/mattn/nostr-status-lastfm",
+  "note": "nostr-status-lastfm（mattn 自作。Last.fm の再生状況を Nostr の kind:30315 status に反映し、再生中かつ曲が変わったら更新するツール）。作者本人（mattn 確定、日本語）。Nostr ツール",
+  "content": "Last.fm から Nostr はこれを分間で動かしてます。再生中かつ曲が変わったら status 更新。\n\nhttps://github.com/mattn/nostr-status-lastfm"
+ },
+ {
+  "id": "17bf5ad08c51028071932ec1ee59fea6cbd8e466340c5cfcaebf3597c090089d",
+  "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+  "created_at": 1781907183,
+  "tool": "https://github.com/SnowCait/nostter",
+  "note": "nostter（SnowCait 自作の Nostr Web クライアント。開発報告として PR merged を投稿）。作者本人（SnowCait/雪猫、日本語）。Nostr ツール",
+  "content": "PR merged: Create gallery Swiper lazily and destroy it on unmount\nhttps://github.com/SnowCait/nostter/pull/2223 #nostter"
+ },
+ {
+  "id": "84be2cc164a18f076a8b58cb7969c16a3a138ad916b51c67829efe9baf4014aa",
+  "pubkey": "a19caaa8404721584746fb0e174cf971a94e0f51baaf4c4e8c6e54fa88985eaf",
+  "created_at": 1781860441,
+  "tool": "https://ompomz.github.io/mbti_analyzer/",
+  "note": "mbti_analyzer（ompomz の MBTI 診断ツール、ompomz.github.io で公開）。投稿者は本人か不明（プロフィール未確認）。日本語",
+  "content": "https://ompomz.github.io/mbti_analyzer/"
+ },
+ {
+  "id": "b35ec49854d6eb9cdf9aed778fb2eab3f92beaf4dff63aa82ed2ca7f3148c307",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1781787261,
+  "tool": "https://kojira.github.io/nosplay/",
+  "note": "nosplay（kojira 自作の Nostr タイムライン再生・過去日遡及閲覧ツール）。「ちゃんと過去日付にさかのぼれるようになったはず」の開発報告。作者本人（kojira、日本語・既収載多数）。Nostr ツール",
+  "content": "nosplayでちゃんと過去日付にさかのぼれるようになったはず\nhttps://kojira.github.io/nosplay/"
+ },
+ {
+  "id": "a8cf8b557108b000695f594dd7bd7b6ce96442d81060d04b4b49106454bd7a01",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1781780628,
+  "tool": "https://kojira.github.io/bluesky-license/",
+  "note": "bluesky-license / ブルスコライセンス（kojira 自作、Nostr 運転免許風カード生成の ATProtocol(Bluesky) 版）。「ブルスコライセンスもできた！」の報告。作者本人（kojira、日本語・既収載多数）",
+  "content": "ブルスコライセンスもできた！\nhttps://kojira.github.io/bluesky-license/\nnostr:npub10hqkwugj7p027j250qr9gwcuqpkwxftj0rjjk8y6hlmryu8dwp8s2runf2"
+ },
+ {
+  "id": "e3fc534ca751e5706b519e7e49524ba824e423b3333ecddab4eccf96d876fb5f",
+  "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+  "created_at": 1781779795,
+  "tool": "https://kojira.github.io/nostr-haijin-checker/",
+  "note": "廃人チェッカー（kojira 自作、Nostr 利用の「廃人度」を測るツール）。「廃人チェッカーでベンチした」の利用報告。作者本人（kojira、日本語・既収載多数）。Nostr ツール",
+  "content": "廃人チェッカーでベンチした\nhttps://kojira.github.io/nostr-haijin-checker/"
+ },
+ {
+  "id": "7c571e50535b9c81f219d0700bf32945ed2d0f1ac89911d3f02a488232a284b4",
+  "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+  "created_at": 1781779946,
+  "tool": "https://github.com/betonetojp/kako",
+  "note": "kako（betoneto 自作の Windows 用 Tiny Nostr まとめ bot クライアント。Gemini で TL を要約投稿、設定UI付き）。「こんなのがあるよ」で自身のリポジトリを共有。作者本人（betoneto、日本語・既収載多数）。Nostr ツール",
+  "content": "こんなのがあるよ\nhttps://github.com/betonetojp/kako"
+ },
+ {
+  "id": "7d5739125b6d0afc8824a38d482e2264d5b1205efc10ebb5201d7888622eccbe",
+  "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+  "created_at": 1781764827,
+  "tool": "https://github.com/ikuradon/Pfortner",
+  "note": "Pförtner（ikuradon 自作の、Admin UI 付きのモジュラー式 Nostr リレープロキシ。Deno 製・ポリシーパイプライン対応）。hakkadaikon 宛ての会話で自身のリポジトリを示した投稿。作者本人（ikuradon、日本語投稿あり）。Nostr ツール",
+  "content": "nostr:npub1zqdnpm5gcfap8hngha7gcp3k363786phvs2etsvxw4nh6x9ydfzsuyk6mn なんか面白状態になっちゃった\nhttps://github.com/ikuradon/Pfortner/tree/61f9c997e1c021d584d053e37ee9aef00797073b"
+ },
+ {
+  "id": "0147b0974ed8a3eb78abe50c15f56b1de76eec711afa1f0f63686c9c0c72b8bd",
+  "pubkey": "7e5675ae1e5155dd88e8d6fd12476b1da029151b51bd727c2b3d7418242a7421",
+  "created_at": 1781747211,
+  "tool": "https://misskey.niri.la/play/9zdgxvf219",
+  "note": "misskey.niri.la の Misskey Play スクリプト（離陸チャレンジ風「ピザパーティーオフ」）。同じ投稿主が「うにだよ」「お風呂の温度は58℃」「なぐるよ」等の Play スクリプトも紹介しており自作の可能性が高い（VRChat ユーザー、日本語確定）。Misskey ツール（自作かはやや曖昧）",
+  "content": "ピザ**<plain>パーティー</plain>オフ**<plain>しようかな………</plain>\n\n<small>◆解説\n<plain>今夜はピザパのオフ会だよ。</plain></small>\n#離陸チャレンジ\nhttps://misskey.niri.la/play/9zdgxvf219\n\nしたいしたーい"
+ },
+ {
+  "id": "4722e9f43f48837e0780283137771c7fd5c64b93102862129a2409a8e034ab3c",
+  "pubkey": "4f2199ca4f700fd5c15f8dfaa3088bce74599e762a127f2769b9da1544caf170",
+  "created_at": 1781669729,
+  "tool": "https://balloon-jp.vercel.app/twtxt/",
+  "note": "balloon-jp.vercel.app/twtxt/（ふうせん🎈 FU-SEN 自作の twtxt 分散型ミニマルマイクロブログの日本語解説ページ。「テキストファイルがアカウントそのもの」の仕組み・クライアント・レジストリ・Q&A を網羅し、運営者自身も twtxt アカウントを運用）。kind0 の WebSite が同一 URL で作者本人確定。日本語。ガイドページ（ツールではない）",
+  "content": "知ってます？ これ。テキストファイルがアカウントそのものなのよ！\nhttps://balloon-jp.vercel.app/twtxt/"
+ },
+ {
+  "id": "3c350a7f166d10a20d31bd548eab549d60007eba4ad268aea6cd880a04c2ce43",
+  "pubkey": "4f2199ca4f700fd5c15f8dfaa3088bce74599e762a127f2769b9da1544caf170",
+  "created_at": 1781771873,
+  "tool": "https://balloon-jp.vercel.app/gemini/",
+  "note": "balloon-jp.vercel.app/gemini/（ふうせん🎈 FU-SEN 自作の Gemini プロトコル日本語解説ページ。Gemini の概要・クライアント（Lagrange/Alhena）・Gemtext 記法・ホスティング（GemCities/MyGemini/sourcehut pages）・サーバー構築（Agate/GmCapsule）・Q&A を網羅）。kind0 の WebSite が同一 URL で作者本人確定。日本語。ガイドページ（ツールではない）",
+  "content": "https://balloon-jp.vercel.app/gemini/"
+ }
 ]

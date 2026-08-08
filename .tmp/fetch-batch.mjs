@@ -135,6 +135,9 @@ const EXCLUDED_PUBKEYS = new Set([
   "9cb53e080594", // g1.globo.com ポルトガル語ニュース bot
   "501f27ec1321", // soap21.com 商品スパム bot（重複投稿）
   "ce643487280a", // redstate/americanthinker 右派政治スパム bot（計43バッチ）
+  "3ffac3a6c859", // Girino Vey!（Facebook 転載 bot・英語/ポルトガル語、blossom-espelhator 画像）
+  "deab79dafa1c", // Ryan（英語・haven.downisontheup.ca 画像投稿、外人）
+  "1ea4ae8405ad", // celosia/the_moving_sands（英語・地政学コメント、外人）
 ]);
 
 const configPath = process.env.ALGIA_CONFIG || join(homedir(), ".config", "algia", "config.json");
