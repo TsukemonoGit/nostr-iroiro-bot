@@ -638,5 +638,37 @@
     "tool": "https://nostr-flowmeter.shino3.net/",
     "note": "nostr-flowmeter（しのさん自作の Nostr 日本リレー流速のリアルタイムグラフ表示サイト。kind 30078 データを DB とした nostr-key-value のサンプル兼運用サイト。サイト管理者: shino3 で作者本人、日本語）。Nostr 向け",
     "content": "https://nostr-flowmeter.shino3.net/"
+  },
+  {
+    "id": "9a5583e9fc75131855e04496b3ce24b1fe1b0adae4cbbd498668dab0ba85d528",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1783079269,
+    "tool": "https://github.com/zenryokukikai/kikai-lab",
+    "note": "kikai-lab（kojira 自作の Agent-first ML 実験管理・制御サーバ。AI エージェントが訓練を起動・監視・評価できる HTTP 制御プレーン。GitHub org zenryokukikai に @kojira が所属し作者本人、日本語投稿）。Nostr ツールではないが投稿本人の作成物",
+    "content": "AIエージェント向け機械学習フレームワーク公開した！\nhttps://github.com/zenryokukikai/kikai-lab"
+  },
+  {
+    "id": "8b4187222d8c8754304f157b2ec2b76330fc7ea0aaa7c816c8bd554d4e09e7bf",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1782952932,
+    "tool": "https://comcomponent.com/",
+    "note": "comcomponent.com（MAGAMAGA の会社サイト。Windows 専門の受託開発。kind0: C++プログラマ・COMコンポーネントが好き）。「うちのサイトはもうデジタル庁デザインに準拠させることで何も考えないことに成功した」で作者本人。別投稿で comcomponent.com/blog の自作記事（TCP フレーミング）も言及。日本語。Nostr ツールではないが投稿本人の作成物",
+    "content": "うちのサイトはもうデジタル庁デザインに準拠させることで何も考えないことに成功した\n\nhttps://comcomponent.com/"
+  },
+  {
+    "id": "5259ffbb78d0232a7d4e49c3298d0bc89a0911db8ca25bc1ba81603c8f883772",
+    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+    "created_at": 1782907380,
+    "tool": "https://github.com/ocknamo/nosskey-sdk",
+    "note": "nosskey-sdk（ocknamo 自作の noskey.app パスキー署名ログイン導入用 SDK。npm: nosskey-iframe）。「できた」と noskey.app 導入用のプロンプトを公開し、自身の nosskey-sdk / nosskey-iframe / yakitofu(signer.ts) を参照。作者本人（ocknamo）、日本語確定。Nostr ツール",
+    "content": "できた\n\n\nnosskey.appの導入用のプロンプト。opus4.8もしくは同等のモデルでclaude codeもしくは同等のハーネスで実行すること。\n\n'''\nnosskey-sdkのiframe埋め込みを使ってnosskey.appのアカウントをこのアプリから使えるようにしてください。\n以下を参照してから実装計画を立ててください。\nhttps://github.com/ocknamo/nosskey-sdk\nhttps://www.npmjs.com/package/nosskey-iframe\n\n## 注意点\n* テーマ/言語は親アプリのカラーと言語になるべく一致するようにしてください\n* 既存のログイン機能がある場合、ダイアログや画面上に並列に選択肢を表示し、パスキーによるログインも選択できるようにする\n* 既存機能を壊さないように注意すること。例:  window.nostr を上書きせず署名用のサービスに隠蔽するパターン https://raw.githubusercontent.com/ocknamo/yakitofu/refs/heads/main/yakitofu-app/src/lib/services/signer.ts\n'''\n\n\nnostr:nevent1qqs0zcqsl7tzu3yffy5v6cczlhxeh0suwtn55rqq0999cumd8s3054qppemhxue69uhhjctzw5hx6ef0qgszdwewhmtv25kkwryqfvxk25n8k0rx9vs7qfkkuj9vjwnqwpfsjkqrqsqqqqqpt45gen"
+  },
+  {
+    "id": "8c7bd50f1e2199cc5cf88b86935839ee5c7ebb639c363c9254b89679ff866e7e",
+    "pubkey": "4f2199ca4f700fd5c15f8dfaa3088bce74599e762a127f2769b9da1544caf170",
+    "created_at": 1782873981,
+    "tool": "https://balloon-jp.vercel.app/nostr/",
+    "note": "balloon-jp.vercel.app/nostr/（ふうせん🎈 FU-SEN 自作の Nostr 使い方・鍵一覧ガイドページ。Long-form content の記載を追記）。kind0 の WebSite が同一 URL で作者本人確定。日本語。Nostr ガイドページ（ツールではない）",
+    "content": "もちろん Long-form content  の記載も加えてあります〜\nhttps://balloon-jp.vercel.app/nostr/"
   }
 ]

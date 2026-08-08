@@ -120,6 +120,11 @@ const EXCLUDED_PUBKEYS = new Set([
   "7febe2a59aa8", // GitHub Pages リソース集 宣伝 bot
   "a3c13ef4c9ec", // リレー流速計測 bot
   "88a26d85b87c", // 暗号資産ニュース bot
+  "1e67de375417", // 外人（フランス語 #nostrfr）
+  "08d49d7a6900", // 中国語 音楽スパム bot（#音乐 大量投稿）
+  "8f1b628ef24c", // AWS whats-new スパム bot（英語・同刻大量投稿）
+  "71ecabd8b6b3", // The Meme Bay（英語ミーム bot・smartflow.social プロモ）
+  "d735231e8eeb", // クラスメソッド記事共有 bot
 ]);
 
 const configPath = process.env.ALGIA_CONFIG || join(homedir(), ".config", "algia", "config.json");
@@ -159,7 +164,7 @@ for await (const ev of iter) {
   total++;
   if (total % 10000 === 0) console.error(`scanned ${total} events...`);
   if (seen.has(ev.id)) continue;
-  if (EXCLUDED_PUBKEYS.has(ev.pubkey)) {
+  if (EXCLUDED_PUBKEYS.has(ev.pubkey.slice(0, 12))) {
     excluded++;
     continue;
   }
