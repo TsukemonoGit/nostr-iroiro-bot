@@ -89,4 +89,17 @@ export const EXCLUDED_PUBKEYS = new Set([
   "4a82bd5f227e", // AWS News Bot JP（aws.amazon.com/jp/new/ の翻訳転載 bot、about に Bot と明記）
   "6bc6e6dabd4d", // 学習リンク集 bot（y-history/gifu-net/kiuchi.jpn.org 等の wiki リンクを同一時刻に連投、kind0 なし）
   "bacd113c9ad7", // jornal-extra（ブラジル紙）ニュース転載 bot（dlvr.it + bsky、ポルトガル語・同一時刻連投）
+  "42ae5db5fe31", // 複数メディア転載ニュース bot（tass.com / faktanasional.net の記事全文転載、同一 pubkey で6件）
+  "960fcd3760bb", // ledevoir.com カナダ仏語新聞転載 bot（同一 pubkey で14件、自動投稿の決まり文句）
+  "97c0571018ac", // forums.macrumors.com スレッド転載 bot（同一 pubkey で14件）
+  "f648d9238a45", // 网易新聞（c.m.163.com）転載 bot（中国語・記事全文コピペ）
+  "eaae798bef03", // republika.co.id インドネシア語ニュース転載 bot
+  "0ef0ea1288cc", // mediaindonesia.com インドネシア語ニュース転載 bot
+  "e0c279d6cf1f", // n1info.si スロベニア語ニュース転載 bot
+  "591082e1768a", // tempo.co インドネシア語ニュース転載 bot
+  "f00a87a666dd", // express.co.uk 英ニュース転載 bot
+  "cab418d67811", // correiobraziliense ポルトガル語ニュース転載 bot（bsky ミラー含む）
+  "264fa2461fce", // sputniknews.cn 中国語ニュース転載 bot（簡体字）
+  "6bb81407878e", // sputniknews.cn 中国語ニュース転載 bot（簡体字・別アカウント）
+  "a4132de3f6fe", // aljazeera.com ニュース転載 bot
 ]);
