@@ -1,14 +1,8 @@
 import { NostrFetcher } from "nostr-fetch";
 import WebSocket from "ws";
-import { readFileSync } from "fs";
-import { homedir } from "os";
-import { join } from "path";
+import { RELAYS } from "./relays.mjs";
 
-const configPath = process.env.ALGIA_CONFIG || join(homedir(), ".config", "algia", "config.json");
-const cfg = JSON.parse(readFileSync(configPath, "utf8"));
-const relayUrls = Object.entries(cfg.relays)
-  .filter(([, v]) => v.read)
-  .map(([u]) => u);
+const relayUrls = RELAYS;
 
 const pubkeys = process.argv.slice(2);
 

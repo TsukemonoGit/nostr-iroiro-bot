@@ -19,7 +19,6 @@
 - wss://x.kojira.io
 - wss://yabu.me
 
-- 実行時は `ALGIA_CONFIG` 環境変数でパスを上書き可能（例: `ALGIA_CONFIG=/tmp/config.json`）
 - NIP-50 search は使わない。kind1 REQ → URL フィルター方式のみ
 
 ## ファイル構成（.tmp/ 内）
@@ -36,11 +35,14 @@
 | `batches/batchN-24h.jsonl.bak` | 取得直後の原本（URL 付き全件）。**再フィルターは必ず .bak から行う**。git に追跡                                    |
 | `batches/batchN-24h.meta.json` | 各バッチの取得範囲メタ（fetch-batch.mjs が自動書き出し。next-batch.mjs が参照）。git に追跡                         |
 | `batches/batchN-24h.jsonl`     | フィルター済み（レビュー対象）。`.gitignore` で除外（`re-filter.mjs` で .bak から再生成可能）                       |
-| `reviewN.txt`                  | レビュー用テキスト（`[i] MM-DD HH:MM pubkey12 id12 pubkey全文` + content）                                          |
-| `algia.md`                     | algia の使い方メモ                                                                                                  |
-| `memo.md`                      | 元の作業指示メモ                                                                                                    |
+| `reviewN.txt`                 | レビュー用テキスト（`[i] MM-DD HH:MM pubkey12 id12 pubkey全文` + content）                                          |
+| `profile.mjs`                 | kind0取得（`algia profile -u` 代替）。pubkey は npub / hex どちらでも可。nip05 / website も表示                              |
+| `timeline.mjs`                | 対象pubkey の kind1 投稿一覧取得（`algia timeline` 代替）。`--limit N` で件数指定                                 |
+| `relays.mjs`                  | リレー定義（x.kojira.io / yabu.me）。fetch-batch.mjs ほかが import する                                          |
+| `nostr-common.mjs`            | 共通ヘルパ（`--relay` 引数解析 / npub⇔hex 変換 / 日本語判定 / UTC時刻表示）                                     |
+| `memo.md`                     | 元の作業指示メモ                                                                                                    |
 
-`candidates.mjs` / `dump.mjs` / `dump2.mjs` は最初の試行時のスクリプトで、現在の手順では使わない。
+`candidates.mjs` / `dump.mjs` / `dump2.mjs` / `fetch-profiles.mjs` は最初の試行時のスクリプトで、現在の手順では使わない。
 
 ## 手順
 
@@ -108,7 +110,7 @@ node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8'
 
 #### 実行時の運用ルール
 
-- 日本語判定・本人作成判定に必要な確認作業（`algia profile` によるkind0取得、他のkind1投稿の確認等）は、レビュー中に都度ユーザーに「確認しますか？」と聞かず、手順書の判定基準に従って自動で実行する
+- 日本語判定・本人作成判定に必要な確認作業（`kind0取得、他のkind1投稿の確認等）は、レビュー中に都度ユーザーに「確認しますか？」と聞かず、手順書の判定基準に従って自動で実行する
 - 投稿本文が英語等で日本語が無い場合も、ピックアップ候補になりうる投稿（本人作成ツールへの言及と読めるもの）は判定を保留せず、その場でkind0・他kind1を確認して日本人か判定する
 - 判定の結果「日本人か不明」であれば、その時点でリストに入れない（除外）。ユーザーへの確認は不要
 - 日本語投稿でない、かつ日本人と判定できない投稿（例: 非日本語圏ユーザーによる本人作成ツール言及）は、そのままピックアップ対象外とする。個別にユーザーへ「ピックアップするか」を問い合わせない
@@ -121,7 +123,7 @@ node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8'
 
 判断が難しい場合、以下を確認する。いずれも補助材料であり、単独では確定としない。
 
-- **NIP-05 とドメインの一致**: `algia profile -u <pubkey全文>` で取得した `nip05` のドメインと、投稿中のツールURLのドメインが一致する場合、本人作成の可能性が高い（例: nip05が`user@example.com`でツールURLが`https://example.com/tool`）
+- **NIP-05 とドメインの一致**: `node profile.mjs <pubkey>` で取得した `nip05` のドメインと、投稿中のツールURLのドメインが一致する場合、本人作成の可能性が高い（例: nip05が`user@example.com`でツールURLが`https://example.com/tool`）
 - **profileのwebsiteフィールド**: profileの `website` フィールドがツールURLまたはそのリポジトリと一致するか確認する
 - **GitHubでの記載確認**:
   - ツールがGitHubリポジトリを持つ場合、README等にnpub/pubkeyの記載があるか確認する
@@ -153,12 +155,12 @@ GitHubのREADME等でnpub形式のみ記載されているケース（本人作�
 
 - 投稿本文に日本語がある → 日本人。ピックアップ対象
 - 投稿に日本語がなければ kind0（プロフィール）を取得し、プロフィールに日本語がある → 日本人。ピックアップ対象
-- 投稿・kind0のどちらにも日本語がなければ、そのpubkeyの他のkind1投稿も確認する（1投稿がURLのみ・英語のみ等でも、他の投稿に日本語があれば日本人と判定できる可能性があるため）。algiaのtimelineコマンドで対象pubkeyの投稿一覧を取得する（オプション詳細は `algia timeline --help` で確認）
+- 投稿・kind0のどちらにも日本語がなければ、そのpubkeyの他のkind1投稿も確認する（1投稿がURLのみ・英語のみ等でも、他の投稿に日本語があれば日本人と判定できる可能性があるため）。`node timeline.mjs <pubkey>` で対象pubkeyの投稿一覧を取得する（`--limit N` で表示件数を指定可、既定20件）
   他投稿に日本語があれば日本人。ピックアップ対象
 - **投稿・kind0・他のkind1のいずれにも日本語がなければ「日本人か不明」としてピックアップしない（リストに入れない）**
-- kind0 の取得は **algia** を使う（`fetch-profiles.mjs` 等のスクリプトは使わない）:
+- kind0 の取得は **profile.mjs** を使う（nostr-tools ベース。npub / hex どちらでも可）:
   ```bash
-  algia profile -u <pubkey全文>
+  node profile.mjs <pubkey>
   ```
   `name` / `displayName` / `about` に日本語（ひらがな・カタカナ・漢字）があるかで判定する。同時に `nip05` / `website` フィールドも確認し、本人作成判定（上記）に利用する。
 - この判定基準は今後も適用する
@@ -230,4 +232,3 @@ GitHubのREADME等でnpub形式のみ記載されているケース（本人作�
 - **リレー接続失敗時のリトライ**: 接続エラー時の再試行手順が未記載
 - **review.mjs出力の拡張**: nip05・websiteをreviewN.txtに表示すれば、本人作成判定の作業効率が上がる可能性がある。未実装
 - **excludedCountの内訳分離（re-filter.mjs）**: pubkey起因の除外とURL起因の除外が同一カウンタに合算されている。fetch-batch.mjsは分離済み。未実装
-- **algia timelineコマンドのオプション仕様未確認**: 「日本人かどうかの判定」内の他kind1投稿確認手順で `algia timeline --help` を参照する記載のみに留めている。オプション詳細（対象pubkey指定方法等）は algia.md に記載が無く未確認

@@ -1,10 +1,9 @@
 import { NostrFetcher } from "nostr-fetch";
 import WebSocket from "ws";
-import { readFileSync, writeFileSync } from "fs";
-import { homedir } from "os";
-import { join } from "path";
+import { writeFileSync } from "fs";
 import { excludedUrl, isMediaUrl } from "./excluded-domains.mjs";
 import { EXCLUDED_PUBKEYS } from "./excluded-pubkeys.mjs";
+import { RELAYS } from "./relays.mjs";
 
 const urlRe = /https?:\/\/[^\s<>"')\]]+/;
 const SCAN_LOG_INTERVAL = 10000;
@@ -16,14 +15,7 @@ function deriveMetaFilePath(outFile) {
     : outFile.replace(/\.bak$/, "") + ".meta.json";
 }
 
-const configPath =
-  process.env.ALGIA_CONFIG ||
-  join(homedir(), ".config", "algia", "config.json");
-const cfg = JSON.parse(readFileSync(configPath, "utf8"));
-
-const relayUrls = Object.entries(cfg.relays)
-  .filter(([, v]) => v.read)
-  .map(([u]) => u);
+const relayUrls = RELAYS;
 
 const since = Number(process.argv[2]);
 const until = Number(process.argv[3]);
