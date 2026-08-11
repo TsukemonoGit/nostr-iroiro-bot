@@ -12,7 +12,7 @@ const fmt = (ts) => {
 };
 
 const outLines = events.map((e, i) => {
-  const header = `[${i}] ${fmt(e.created_at)} ${e.pubkey.slice(0, 12)} ${e.id.slice(0, 12)} ${e.pubkey}`;
+  const header = `[${i}] ${fmt(e.created_at)} ${e.id} ${e.pubkey}`;
   const content = e.content.replace(/\n/g, "\\n");
   return `${header}\n${content}\n---`;
 });

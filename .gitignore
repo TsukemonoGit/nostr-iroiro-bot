@@ -2,6 +2,7 @@
 /node_modules
 postlog.json
 .hintrc
-# バッチデータ（.bak と .meta.json は追跡、.jsonl は再生成可能なので除外）
+# バッチデータ（.meta.json は追跡、.jsonl と .jsonl.bak は除外）
 .tmp/batches/*.jsonl
+.tmp/batches/*.jsonl.bak
 .tmp/node_modules

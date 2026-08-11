@@ -2,7 +2,7 @@
   "type": "module",
   "dependencies": {
     "dotenv": "^16.4.1",
-    "nostr-tools": "^2.1.5",
+    "nostr-tools": "^2.24.1",
     "websocket-polyfill": "^0.0.3"
   }
 }

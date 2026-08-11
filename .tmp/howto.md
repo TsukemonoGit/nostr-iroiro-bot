@@ -82,7 +82,7 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt
 `reviewN.txt` を開く前に、まずpubkeyの出現順位を調べる。
 
 ```bash
-node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8');const map=new Map();for(const line of lines.split('\n')){const m=line.match(/^\[(\d+)\] (\d+-\d+ \d+:\d+) (\w+) (\w+)/);if(m)map.set(m[3],(map.get(m[3])||0)+1)}const sorted=[...map.entries()].sort((a,b)=>b[1]-a[1]);for(const [pk,c] of sorted)console.log(c+' '+pk)"
+node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8');const map=new Map();for(const line of lines.split('\n')){const m=line.match(/^\[(\d+)\] (\d+-\d+ \d+:\d+) (\w{64}) (\w{64})/);if(m)map.set(m[4].slice(0,12),(map.get(m[4].slice(0,12))||0)+1)}const sorted=[...map.entries()].sort((a,b)=>b[1]-a[1]);for(const [pk,c] of sorted)console.log(c+' '+pk)"
 ```
 
 出現頻度上位のpubkeyを**上から3つ**レビューし、明らかにbotまたは外国人であれば `EXCLUDED_PUBKEYS` に追加する。
@@ -92,13 +92,13 @@ node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8'
 `reviewN.txt` を全部読む。書式:
 
 ```
-[0] 08-06 01:50 abcdef123456 0123456789ab abcdef1234567890...（64文字）
+[0] 08-06 01:50 0123456789ab...（id全文64文字） abcdef1234567890...（pubkey全文64文字）
 投稿内容（改行は \n に変換）
 ---
 ```
 
-- `[i]` = エントリ番号、`MM-DD HH:MM` = UTC 時刻、`pubkey12` / `id12` = 先頭12文字、末尾は pubkey 全文（64文字）
-- 各エントリの完全データ（id 全文・created_at・content）は `batches/batchN-24h.jsonl.bak` から引ける
+- `[i]` = エントリ番号、`MM-DD HH:MM` = UTC 時刻、id・pubkeyともに全文（64文字）を表示
+- 各エントリの完全データ（created_at・content含む）はこの行と本文からすべて取得できる。`batches/batchN-24h.jsonl.bak` の参照は不要
 
 #### 判断基準
 
@@ -114,6 +114,7 @@ node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8'
 - 日本語投稿でない、かつ日本人と判定できない投稿（例: 非日本語圏ユーザーによる本人作成ツール言及）は、そのままピックアップ対象外とする。個別にユーザーへ「ピックアップするか」を問い合わせない
 - レビュー中に生じるのは判定作業であり、方針判断ではない。方針判断（除外リストへの追加要否等、手順書に基準が無い新規のケース）が生じた場合のみユーザーに確認する
 - 全件の判定を終えたうえで、最終候補リストを `irerukamo.json` に追加し、追加したツール、除外・不明の内訳を1回でまとめて報告する（手順5「集計報告と継続確認」の通り）
+- **件数が多いことを理由に、grep・正規表現・スクリプト等で「日本語を含む行」「URLを含む行」等を機械的に抽出して選別対象を絞り込むことをしない。件数の多さは効率化の理由にならない。reviewN.txtは冒頭から末尾まで全件を人間が読むのと同じように目視で確認する。この制約は既存の「投稿本文の日本語を自動抽出するフィルタを絶対に追加しない」という禁止事項の適用範囲であり、恒久的なスクリプトへの組み込みだけでなく、レビュー中の一時的なコマンド一発の抽出（grep等）にも及ぶ**
 
 #### 本人作成かどうかの判定
 
@@ -127,6 +128,25 @@ node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8'
   - commit履歴の主要な著者と投稿者が一致するか確認する（判断材料の一つ。確定情報ではない）
 - **投稿文言による一次判定**: 「作った」「公開しました」「リリースしました」等は本人作成を示唆。「紹介します」「共有します」「見つけました」等は他人のツールの共有を示唆
 - 上記いずれも決定打がない場合は「作者本人か不明」と note に明記した上でピックアップする（除外しない）
+
+#### npub/hex 変換
+
+pubkeyのnpub形式⇔hex形式の相互変換や、その他nostr関連のエンコード/デコードが必要な場合、`nostr-tools`（`npm install`済み）を使う。手動変換や自作の変換ロジックは書かない。
+
+```javascript
+import { nip19 } from "nostr-tools";
+
+// hex pubkey → npub
+const npub = nip19.npubEncode(hexPubkey);
+
+// npub → hex pubkey
+const { data: hexPubkey } = nip19.decode(npub);
+
+// event id (hex) → note1形式
+const note = nip19.noteEncode(hexEventId);
+```
+
+GitHubのREADME等でnpub形式のみ記載されているケース（本人作成判定時）や、逆にhex形式のみ記載されているケースの照合時に使う。
 
 #### 日本人かどうかの判定（厳格）
 
@@ -149,17 +169,8 @@ node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8'
 #### スパム発見時の除外追加
 
 - `excluded-pubkeys.mjs` の `EXCLUDED_PUBKEYS` に **pubkey 先頭12文字** + コメント（bot の種別）を追加
-- 既存バッチも `.bak` から再フィルターして同期する:
-
-```bash
-node re-filter.mjs batches/batch1-24h.jsonl.bak batches/batch1-24h.jsonl  # .bak があるもののみ
-node re-filter.mjs batches/batch2-24h.jsonl.bak batches/batch2-24h.jsonl
-node re-filter.mjs batches/batch3-24h.jsonl.bak batches/batch3-24h.jsonl
-node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
-```
-
-- 注: batch1 は .bak が無い（フィルター前データは失われている）。batch1 は除外リスト追加前の内容のまま。過去バッチとの整合を取るため、必要なら batch1 だけ再取得してもよい
-- ピックアップ済みのエントリが除外で消えないこと（irerukamo.json に追加済みの id は残る）
+- 過去バッチへの再フィルター適用は不要（バッチ作成→レビューを1バッチずつ完結させる運用のため、未レビューの過去バッチは存在しない）
+- ピックアップ済みのエントリは除外リストに影響されない（irerukamo.json に追加済みの id は残る）
 
 ### 5. irerukamo.json に追記
 
