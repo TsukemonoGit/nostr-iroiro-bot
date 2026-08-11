@@ -86,4 +86,5 @@ export const EXCLUDED_PUBKEYS = new Set([
   "c6716205cf41", // チェコ語ニュース bot（idnes.cz 転載）
   "eb78d17ec0cc", // ロシア語AIエージェント crypto スパム（AEP Protocol）
   "197d83ddbf99", // yakihonne.com プロフィール宣伝 bot（同一URL繰り返し）
+  "4a82bd5f227e", // AWS News Bot JP（aws.amazon.com/jp/new/ の翻訳転載 bot、about に Bot と明記）
 ]);

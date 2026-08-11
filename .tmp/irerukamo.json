@@ -1222,5 +1222,13 @@
     "tool": "https://invertedtriangle358.github.io/Nosame/",
     "note": "野雨-Nosame-（triangle358 自作の縦書きNostrクライアント。作者本人、日本語）",
     "content": "てすと\n#テスト\n#test\nhttps://invertedtriangle358.github.io/Nosame/"
+  },
+  {
+    "id": "97326741fc81601cb328d2bff99c3a62c0ef31a3d553ded8f53cbc2f0a84fe70",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1781343395,
+    "tool": "https://kojira.github.io/nostr-brainmaker/",
+    "note": "Nostr脳内メーカー（kojira 自作の Nostr 脳内変換ツール。「Nostr脳内メーカーでけた」の完成報告）。作者本人、日本語",
+    "content": "なんかバグありそうな気配だけどNostr脳内メーカーでけた\nhttps://kojira.github.io/nostr-brainmaker/"
   }
 ]
