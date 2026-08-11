@@ -105,4 +105,11 @@ export const EXCLUDED_PUBKEYS = new Set([
   "25658dd3bb20", // ビットコインテストネットマイニング通知 bot（Block found! 連投）
   "ad49832d5a2a", // ニコニコアニメ新着配信 bot（nicoanime.com）
   "2bb2abbfc589", // うにゅう(ぼっと)
+  "b40ea0357125", // jserinfo RSS feed bot（kind0 に「非公式」と明記）
+  "36a48177fa2f", // スペイン語疑似科学/陰謀論スパム bot（歯医者・テレグラム誘導）
+  "36b2e156ae97", // ニュース速報 bot（Google News RSS 転載「皆さんはどう思いますか？」）
+  "0e6d283ae35c", // ニュース速報 bot（Google News RSS 転載）
+  "b0e1d3f1af34", // ニュース速報 bot（Google News RSS 転載）
+  "d42822e9961a", // Five-Dollar Toolkit（英語セールス連投・外人）
+  "2efaa715bbb4", // vinney cavallo（grantless/catallax・英語・外人）
 ]);
