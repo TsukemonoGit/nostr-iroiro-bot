@@ -26,10 +26,6 @@
 - 投稿に日本語がなければ kind0（プロフィール）を取得し、プロフィールに日本語がある → 日本人。ピックアップ対象
 - 投稿・kind0のどちらにも日本語がなければ、そのpubkeyの他のkind1投稿も確認する（1投稿がURLのみ・英語のみ等でも、他の投稿に日本語があれば日本人と判定できる可能性があるため）:
 
-```bash
-  algia timeline -u <pubkey全文>
-```
-
 他投稿に日本語があれば日本人。ピックアップ対象
 
 - **投稿・kind0・他のkind1のいずれにも日本語がなければ「日本人か不明」としてピックアップしない（リストに入れない）**
@@ -61,6 +57,15 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
 
 - 注: batch1 は .bak が無い（フィルター前データは失われている）。batch1 は除外リスト追加前の内容のまま。過去バッチとの整合を取るため、必要なら batch1 だけ再取得してもよい
 - ピックアップ済みのエントリが除外で消えないこと（irerukamo.json に追加済みの id は残る）
+
+## 除外 URL リストの管理
+
+`excluded-domains.mjs` に `EXCLUDED_DOMAINS`（ドメイン単位の除外）と `isImageUrl`（画像拡張子判定。jpg/jpeg/png/gif/webp/avif/bmp/svg/heic/heif が対象）がある。`fetch-batch.mjs` と `re-filter.mjs` 両方がここから import して使う。投稿中の全URLが画像URLのみの場合は自動的に除外される（画像以外のURLが1つでも含まれていれば除外されない）。レビュー中に「また同じ関係ない URL が出てきた」と思ったら `excluded-domains.mjs` の `EXCLUDED_DOMAINS` に適宜追加する。
+
+- ドメイン指定（`blossom.primal.net`）またはサブドメインマッチ（`*.loca.lt`）に対応
+- SNS系（x.com, instagram.com, youtube.com 等）、画像共有系（catbox, blossom 等）、スパム系（headlines-world.com 等）をまず除外
+- 画像URLのみが含まれる投稿は拡張子判定で自動除外（`isImageUrl`）
+- ツールURLが直接含まれる投稿だけが残るように調整
 
 ### 4. irerukamo.json に追記
 

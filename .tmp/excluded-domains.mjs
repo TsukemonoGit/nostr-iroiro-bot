@@ -57,3 +57,23 @@ export function excludedUrl(url) {
   }
   return false;
 }
+
+// excluded-domains.mjs に追加
+const IMAGE_EXTENSIONS = new Set([
+  "jpg",
+  "jpeg",
+  "png",
+  "gif",
+  "webp",
+  "avif",
+  "bmp",
+  "svg",
+  "heic",
+  "heif",
+]);
+
+export function isImageUrl(url) {
+  const m = url.match(/\.([a-zA-Z0-9]+)(?:[?#]|$)/);
+  if (!m) return false;
+  return IMAGE_EXTENSIONS.has(m[1].toLowerCase());
+}

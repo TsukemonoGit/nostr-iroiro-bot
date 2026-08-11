@@ -5,6 +5,7 @@ import { homedir } from "os";
 import { join } from "path";
 import { excludedUrl } from "./excluded-domains.mjs";
 import { EXCLUDED_PUBKEYS } from "./excluded-pubkeys.mjs";
+import { excludedUrl, isImageUrl } from "./excluded-domains.mjs";
 
 const urlRe = /https?:\/\/[^\s<>"')\]]+/;
 const SCAN_LOG_INTERVAL = 10000;
@@ -75,7 +76,7 @@ for await (const ev of iter) {
   const allUrls = ev.content.match(urlRe) || [];
   if (allUrls.length === 0) continue;
 
-  const goodUrls = allUrls.filter((u) => !excludedUrl(u));
+  const goodUrls = allUrls.filter((u) => !excludedUrl(u) && !isImageUrl(u));
   if (goodUrls.length === 0) urlExcluded++;
 
   seen.add(ev.id);
