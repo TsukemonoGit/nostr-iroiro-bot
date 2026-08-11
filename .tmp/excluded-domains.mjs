@@ -59,7 +59,8 @@ export function excludedUrl(url) {
 }
 
 // excluded-domains.mjs に追加
-const IMAGE_EXTENSIONS = new Set([
+const MEDIA_EXTENSIONS = new Set([
+  // 画像
   "jpg",
   "jpeg",
   "png",
@@ -70,10 +71,26 @@ const IMAGE_EXTENSIONS = new Set([
   "svg",
   "heic",
   "heif",
+  // 動画
+  "mp4",
+  "mov",
+  "webm",
+  "avi",
+  "mkv",
+  "m4v",
+  "3gp",
+  // 音声
+  "mp3",
+  "wav",
+  "ogg",
+  "m4a",
+  "flac",
+  "aac",
+  "opus",
 ]);
 
-export function isImageUrl(url) {
+export function isMediaUrl(url) {
   const m = url.match(/\.([a-zA-Z0-9]+)(?:[?#]|$)/);
   if (!m) return false;
-  return IMAGE_EXTENSIONS.has(m[1].toLowerCase());
+  return MEDIA_EXTENSIONS.has(m[1].toLowerCase());
 }

@@ -202,11 +202,11 @@ GitHubのREADME等でnpub形式のみ記載されているケース（本人作�
 
 ## 除外 URL リストの管理
 
-`excluded-domains.mjs` に `EXCLUDED_DOMAINS`（ドメイン単位の除外）と `isImageUrl`（画像拡張子判定。jpg/jpeg/png/gif/webp/avif/bmp/svg/heic/heif が対象）がある。`fetch-batch.mjs` と `re-filter.mjs` 両方がここから import して使う。投稿中の全URLが画像URLのみの場合は自動的に除外される（画像以外のURLが1つでも含まれていれば除外されない）。レビュー中に「また同じ関係ない URL が出てきた」と思ったら `excluded-domains.mjs` の `EXCLUDED_DOMAINS` に適宜追加する。
+`excluded-domains.mjs` に `EXCLUDED_DOMAINS`（ドメイン単位の除外）と `isMediaUrl`（メディア拡張子判定。画像: jpg/jpeg/png/gif/webp/avif/bmp/svg/heic/heif、動画: mp4/mov/webm/avi/mkv/m4v/3gp、音声: mp3/wav/ogg/m4a/flac/aac/opus が対象）がある。`fetch-batch.mjs` と `re-filter.mjs` 両方がここから import して使う。投稿中の全URLがメディアURL（画像・動画・音声）のみの場合は自動的に除外される（メディア以外のURLが1つでも含まれていれば除外されない）。レビュー中に「また同じ関係ない URL が出てきた」と思ったら `excluded-domains.mjs` の `EXCLUDED_DOMAINS` に適宜追加する。
 
 - ドメイン指定（`blossom.primal.net`）またはサブドメインマッチ（`*.loca.lt`）に対応
 - SNS系（x.com, instagram.com, youtube.com 等）、画像共有系（catbox, blossom 等）、スパム系（headlines-world.com 等）をまず除外
-- 画像URLのみが含まれる投稿は拡張子判定で自動除外（`isImageUrl`）
+- 画像・動画・音声URLのみが含まれる投稿は拡張子判定で自動除外（`isMediaUrl`）
 - ツールURLが直接含まれる投稿だけが残るように調整
 
 ## 注意点

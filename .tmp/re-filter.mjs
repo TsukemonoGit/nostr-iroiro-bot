@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from "fs";
-import { excludedUrl, isImageUrl } from "./excluded-domains.mjs";
+import { excludedUrl, isMediaUrl } from "./excluded-domains.mjs";
 import { EXCLUDED_PUBKEYS } from "./excluded-pubkeys.mjs";
 
 const urlRe = /https?:\/\/[^\s<>"')\]]+/;
@@ -17,7 +17,7 @@ for (const l of lines) {
   }
   const urls = e.content.match(urlRe) || [];
   if (urls.length === 0) continue;
-  const goodUrls = urls.filter((u) => !excludedUrl(u) && !isImageUrl(u));
+  const goodUrls = urls.filter((u) => !excludedUrl(u) && !isMediaUrl(u));
   if (goodUrls.length === 0) {
     excludedCount++;
     continue;
