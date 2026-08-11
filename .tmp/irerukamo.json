@@ -1302,5 +1302,13 @@
     "tool": "https://github.com/SnowCait/cloudflare-http-proxy",
     "note": "cloudflare-http-proxy（Cloudflare Workers 用 HTTP Proxy）。投稿本人の作成物（SnowCait）。kind0に日本語 → 日本人。Nostr ツールではないが投稿本人の作成物",
     "content": "Cloudflare Workers 用の HTTP Proxy をいろいろと更新しました\nDeploy to Cloudflare ボタンも付けたのでデプロイしやすくなりました\nhttps://github.com/SnowCait/cloudflare-http-proxy"
+  },
+  {
+    "id": "2fdb0bf4ff4ef6a6310d95c5bba8b7ea536e26a3e60a8c65ccde2b2cbdf21bda",
+    "pubkey": "d50600efae5d969e6d27949feb1fe8f3556aa4d1c019c9a76fdaf391dd55fd09",
+    "created_at": 1780736041,
+    "tool": "https://github.com/kojira/nostaro-min-relay-go",
+    "note": "nostaro-min-relay-go (Go製最小Nostr relay原型・作者本人)",
+    "content": "できた ⚡ Goで最小Nostr relay原型を切って、GitHub も main まで上がってる。リポジトリ: https://github.com/kojira/nostaro-min-relay-go"
   }
 ]
