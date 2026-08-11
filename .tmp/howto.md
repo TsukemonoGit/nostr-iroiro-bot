@@ -23,26 +23,27 @@
 
 ## ファイル構成（.tmp/ 内）
 
-| ファイル                       | 役割                                                                                                                |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| `fetch-batch.mjs`              | バッチ取得 + 範囲メタ書き出し                                                                                       |
-| `re-filter.mjs`                | 既存 jsonl に除外リストを再適用 + URL フィルター + 降順ソート + 重複除去                                            |
-| `review.mjs`                   | jsonl → 人間可読な txt 変換（`node review.mjs <src.jsonl> <out.txt>`）                                              |
-| `next-batch.mjs`               | 進捗把握と次バッチ計算（どこまで実施済みか + 次バッチの番号・範囲・実行例を表示）                                   |
-| `excluded-pubkeys.mjs`         | `EXCLUDED_PUBKEYS`（除外pubkeyリスト集約。**必ずここに追加**）。fetch-batch.mjs / re-filter.mjs が import           |
-| `excluded-domains.mjs`         | `EXCLUDED_DOMAINS`（除外ドメインリスト）+ `isImageUrl`（画像拡張子判定）。fetch-batch.mjs / re-filter.mjs が import |
-| `irerukamo.json`               | ピックアップ候補の最終成果物                                                                                        |
-| `batches/batchN-24h.jsonl.bak` | 取得直後の原本（URL 付き全件）。**再フィルターは必ず .bak から行う**。git に追跡                                    |
-| `batches/batchN-24h.meta.json` | 各バッチの取得範囲メタ（fetch-batch.mjs が自動書き出し。next-batch.mjs が参照）。git に追跡                         |
-| `batches/batchN-24h.jsonl`     | フィルター済み（レビュー対象）。`.gitignore` で除外（`re-filter.mjs` で .bak から再生成可能）                       |
-| `reviewN.txt`                 | レビュー用テキスト（`[i] MM-DD HH:MM pubkey12 id12 pubkey全文` + content）                                          |
-| `profile.mjs`                 | kind0取得（`algia profile -u` 代替）。pubkey は npub / hex どちらでも可。nip05 / website も表示                              |
-| `timeline.mjs`                | 対象pubkey の kind1 投稿一覧取得（`algia timeline` 代替）。`--limit N` で件数指定                                 |
-| `relays.mjs`                  | リレー定義（x.kojira.io / yabu.me）。fetch-batch.mjs ほかが import する                                          |
-| `nostr-common.mjs`            | 共通ヘルパ（`--relay` 引数解析 / npub⇔hex 変換 / 日本語判定 / UTC時刻表示）                                     |
-| `memo.md`                     | 元の作業指示メモ                                                                                                    |
-
-`candidates.mjs` / `dump.mjs` / `dump2.mjs` / `fetch-profiles.mjs` は最初の試行時のスクリプトで、現在の手順では使わない。
+| ファイル                       | 役割                                                                                                                                                                                                                                   |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | -------- | ------------------------------------------------ |
+| `fetch-batch.mjs`              | バッチ取得 + 範囲メタ書き出し                                                                                                                                                                                                          |
+| `re-filter.mjs`                | 既存 jsonl に除外リストを再適用 + URL フィルター + 降順ソート + 重複除去                                                                                                                                                               |
+| `review.mjs`                   | jsonl → 人間可読な txt 変換（`node review.mjs <src.jsonl> <out.txt>`）                                                                                                                                                                 |
+| `next-batch.mjs`               | 進捗把握と次バッチ計算（どこまで実施済みか + 次バッチの番号・範囲・実行例を表示）                                                                                                                                                      |
+| `excluded-pubkeys.mjs`         | `EXCLUDED_PUBKEYS`（除外pubkeyリスト集約。**必ずここに追加**）。fetch-batch.mjs / re-filter.mjs が import                                                                                                                              |
+| `excluded-domains.mjs`         | `EXCLUDED_DOMAINS`（除外ドメインリスト）+ `isImageUrl`（画像拡張子判定）。fetch-batch.mjs / re-filter.mjs が import                                                                                                                    |
+| `irerukamo.json`               | ピックアップ候補の最終成果物                                                                                                                                                                                                           |
+| `batches/batchN-24h.jsonl.bak` | 取得直後の原本（URL 付き全件）。**再フィルターは必ず .bak から行う**。git に追跡                                                                                                                                                       |
+| `batches/batchN-24h.meta.json` | 各バッチの取得範囲メタ（fetch-batch.mjs が自動書き出し。next-batch.mjs が参照）。git に追跡                                                                                                                                            |
+| `batches/batchN-24h.jsonl`     | フィルター済み（レビュー対象）。`.gitignore` で除外（`re-filter.mjs` で .bak から再生成可能）                                                                                                                                          |
+| `reviewN.txt`                  | レビュー用テキスト（`[i] MM-DD HH:MM pubkey12 id12 pubkey全文` + content）                                                                                                                                                             |
+| `profile.mjs`                  | kind0取得（`algia profile -u` 代替）。pubkey は npub / hex どちらでも可。nip05 / website も表示                                                                                                                                        |
+| `timeline.mjs`                 | 対象pubkey の kind1 投稿一覧取得（`algia timeline` 代替）。`--limit N` で件数指定                                                                                                                                                      |
+| `relays.mjs`                   | リレー定義（x.kojira.io / yabu.me）。fetch-batch.mjs ほかが import する                                                                                                                                                                |
+| `nostr-common.mjs`             | 共通ヘルパ（`--relay` 引数解析 / npub⇔hex 変換 / 日本語判定 / UTC時刻表示）                                                                                                                                                            |
+| `add-pickup.mjs`               | ピックアップ追記（`node add-pickup.mjs reviewN.txt <エントリ番号> <toolURL> <note>`。.bak から id/pubkey/created_at/content を取得して irerukamo.json に追記。既存書式・末尾構造を保持。同一 tool URL は id が違っても追記をブロック） |
+| `check-duplicate.mjs`          | 既収載チェック（`node check-duplicate.mjs <toolURL                                                                                                                                                                                     | キーワード | npub | pubkey12 | hex64>`。irerukamo.json を検索してヒットを表示） |
+| `validate-irerukamo.mjs`       | irerukamo.json の構造検証（必須フィールド欠落 / id・pubkey の hex 形式 / created_at 整数 / tool の URL 形式 / tool URL 重複を検出）                                                                                                    |
+| `memo.md`                      | 元の作業指示メモ                                                                                                                                                                                                                       |
 
 ## 手順
 
@@ -190,8 +191,13 @@ GitHubのREADME等でnpub形式のみ記載されているケース（本人作�
 }
 ```
 
-- `id` / `pubkey` / `created_at` / `content` は .bak から正確にコピーする（内容を省略しない）
-- 最後に `python3 -c "import json; json.load(open('irerukamo.json'))"` で妥当性確認
+- `id` / `pubkey` / `created_at` / `content` は **add-pickup.mjs 経由で .bak から正確に取得する**（手動コピー・内容省略の防止）。エントリ番号は reviewN.txt の `[i]` を使う
+  ```bash
+  node add-pickup.mjs reviewN.txt <エントリ番号> <toolURL> <note...>
+  # 例: node add-pickup.mjs review51.txt 114 https://kazaguruma-transit.nawashiro.dev/ "風ぐるま乗換案内（作者本人）"
+  ```
+- 追記前に同一 tool URL（id が異なっていても）は既収載なら **add-pickup.mjs がブロック**する。同一 id の別 tool は警告のみ（1投稿に複数URLがある場合の正当な別収録）。判定を迷ったら `node check-duplicate.mjs <toolURL|npub|pubkey12>` で事前検索する
+- 最後に `node validate-irerukamo.mjs` で妥当性確認（必須フィールド欠落・型・hex形式・id+tool重複を検出）
 
 ### 6. 集計報告と継続確認
 
@@ -224,11 +230,11 @@ GitHubのREADME等でnpub形式のみ記載されているケース（本人作�
 
 以下は未実装。手順への組み込みはユーザー判断待ち。
 
-- **重複チェック**: 同一ツールURL・pubkeyがirerukamo.jsonに既に存在するかを事前検索する仕組みが未整備
 - **iroiro.json との突合せ自動化**: 「既収載のツール」判定は現状手動。自動照合スクリプトが未整備
 - **batch1の.bak欠如への恒久対応**: 現状は「必要なら再取得」の記載のみ。方針未確定
 - **EXCLUDED_PUBKEYSのコメント書式統一**: bot種別のカテゴリ表記が統一されているか未確認
-- **JSON必須フィールドの型検証**: 現状の妥当性確認は構文チェック（json.load）のみ。フィールド欠落・型不一致は検出されない
 - **リレー接続失敗時のリトライ**: 接続エラー時の再試行手順が未記載
 - **review.mjs出力の拡張**: nip05・websiteをreviewN.txtに表示すれば、本人作成判定の作業効率が上がる可能性がある。未実装
 - **excludedCountの内訳分離（re-filter.mjs）**: pubkey起因の除外とURL起因の除外が同一カウンタに合算されている。fetch-batch.mjsは分離済み。未実装
+
+（実施済み: 重複チェック → check-duplicate.mjs / add-pickup.mjs の警告。JSON必須フィールドの型検証 → validate-irerukamo.mjs）

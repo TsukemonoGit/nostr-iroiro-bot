@@ -920,14 +920,6 @@
     "content": "とりあえずある程度動くようになったから適当に投げておくにゃ〜\nP2PはIPv6しか使ってないからIPv6使えない人は使えないにゃ、、、\nあとテストも自分の環境でしか試してないからにゃ〜\n\nhttps://github.com/Luna1029-VRChat/P2P-IRCLikeSNS"
   },
   {
-    "id": "adcea47a341afed4859ec4b9795837d666706e65dd0470461156547d25640bc2",
-    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
-    "created_at": 1782122984,
-    "tool": "https://10-tiny-useless-tools.vercel.app/",
-    "note": "10-tiny-useless-tools（ぺぇ=petan 自作のカスアプリ集）。作者本人、日本語",
-    "content": "あっ、ぽゎ、みてー\nカスアプリ集作ったー\nhttps://10-tiny-useless-tools.vercel.app/"
-  },
-  {
     "id": "5737e8b79338003e6eea87d4c27999dac0a9391bd15ce87d81c85acdb46ef386",
     "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
     "created_at": 1782076209,
