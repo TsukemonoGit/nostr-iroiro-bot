@@ -24,7 +24,15 @@
 
 - 投稿本文に日本語がある → 日本人。ピックアップ対象
 - 投稿に日本語がなければ kind0（プロフィール）を取得し、プロフィールに日本語がある → 日本人。ピックアップ対象
-- **どちらにも日本語がなければ「日本人か不明」としてピックアップしない（リストに入れない）**
+- 投稿・kind0のどちらにも日本語がなければ、そのpubkeyの他のkind1投稿も確認する（1投稿がURLのみ・英語のみ等でも、他の投稿に日本語があれば日本人と判定できる可能性があるため）:
+
+```bash
+  algia timeline -u <pubkey全文>
+```
+
+他投稿に日本語があれば日本人。ピックアップ対象
+
+- **投稿・kind0・他のkind1のいずれにも日本語がなければ「日本人か不明」としてピックアップしない（リストに入れない）**
 - kind0 の取得は **algia** を使う（`fetch-profiles.mjs` 等のスクリプトは使わない）:
 
 ```bash
@@ -34,14 +42,14 @@
 `name` / `displayName` / `about` に日本語（ひらがな・カタカナ・漢字）があるかで判定する。同時に `nip05` / `website` フィールドも確認し、本人作成判定（上記）に利用する。
 
 - この判定基準は今後も適用する
-- 判定結果は注記にも残す（「日本語」or「kind0に日本語 → 日本人」等）
+- 判定結果は注記にも残す（「日本語」or「kind0に日本語 → 日本人」or「他のkind1投稿に日本語 → 日本人」等）
 - **除外**: スパム、bot（天気・ニュース・漫画・政治・感謝bot等）、ポルノ、他人のツールの共有、iroiro.json に既収載のツール、Nostr と無関係
 - Nostr ツールでなくても「投稿本人の作成物」なら候補に入れて良い（判断はユーザー任せ）
 - **禁止事項**: 投稿本文の日本語を自動抽出するフィルタ（スクリプト）を**絶対に追加しない**。手動で reviewN.txt を読むこと。urlのみ投稿した日本人ユーザーが除外されてしまうため。
 
 #### スパム発見時の除外追加
 
-- `fetch-batch.mjs` の `EXCLUDED_PUBKEYS` に **pubkey 先頭12文字** + コメント（bot の種別）を追加
+- `excluded-pubkeys.mjs` の `EXCLUDED_PUBKEYS` に **pubkey 先頭12文字** + コメント（bot の種別）を追加
 - 既存バッチも `.bak` から再フィルターして同期する:
 
 ```bash
@@ -84,7 +92,7 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
 
 ## 除外 URL リストの管理
 
-`fetch-batch.mjs` と `re-filter.mjs` に `EXCLUDED_DOMAINS` がある。レビュー中に「また同じ関係ない URL が出てきた」と思ったら適宜追加する。
+`excluded-domains.mjs` に `EXCLUDED_DOMAINS` があり、`fetch-batch.mjs` と `re-filter.mjs` 両方がここから import して使う。レビュー中に「また同じ関係ない URL が出てきた」と思ったら `excluded-domains.mjs` に適宜追加する。
 
 - ドメイン指定（`blossom.primal.net`）またはサブドメインマッチ（`*.loca.lt`）に対応
 - SNS系（x.com, instagram.com, youtube.com 等）、画像共有系（catbox, blossom 等）、スパム系（headlines-world.com 等）をまず除外
@@ -109,3 +117,4 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
 - **JSON必須フィールドの型検証**: 現状の妥当性確認は構文チェック（json.load）のみ。フィールド欠落・型不一致は検出されない
 - **リレー接続失敗時のリトライ**: 接続エラー時の再試行手順が未記載
 - **review.mjs出力の拡張**: nip05・websiteをreviewN.txtに表示すれば、本人作成判定の作業効率が上がる可能性がある。未実装
+- **excludedCountの内訳分離（re-filter.mjs）**: pubkey起因の除外とURL起因の除外が同一カウンタに合算されている。fetch-batch.mjsは分離済み。未実装
