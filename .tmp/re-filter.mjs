@@ -1,7 +1,6 @@
 import { readFileSync, writeFileSync } from "fs";
-import { excludedUrl } from "./excluded-domains.mjs";
-import { EXCLUDED_PUBKEYS } from "./excluded-pubkeys.mjs";
 import { excludedUrl, isImageUrl } from "./excluded-domains.mjs";
+import { EXCLUDED_PUBKEYS } from "./excluded-pubkeys.mjs";
 
 const urlRe = /https?:\/\/[^\s<>"')\]]+/;
 

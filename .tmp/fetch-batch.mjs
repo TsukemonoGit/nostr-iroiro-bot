@@ -3,9 +3,8 @@ import WebSocket from "ws";
 import { readFileSync, writeFileSync } from "fs";
 import { homedir } from "os";
 import { join } from "path";
-import { excludedUrl } from "./excluded-domains.mjs";
-import { EXCLUDED_PUBKEYS } from "./excluded-pubkeys.mjs";
 import { excludedUrl, isImageUrl } from "./excluded-domains.mjs";
+import { EXCLUDED_PUBKEYS } from "./excluded-pubkeys.mjs";
 
 const urlRe = /https?:\/\/[^\s<>"')\]]+/;
 const SCAN_LOG_INTERVAL = 10000;

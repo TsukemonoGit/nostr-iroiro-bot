@@ -83,4 +83,7 @@ export const EXCLUDED_PUBKEYS = new Set([
   "0f0db1c9352e", // DOH.MONEY crypto/金融ニュース bot
   "f549a5f7d891", // Alephium プロモーション bot
   "7949809730b8", // invinoveritas spam bot
+  "c6716205cf41", // チェコ語ニュース bot（idnes.cz 転載）
+  "eb78d17ec0cc", // ロシア語AIエージェント crypto スパム（AEP Protocol）
+  "197d83ddbf99", // yakihonne.com プロフィール宣伝 bot（同一URL繰り返し）
 ]);
