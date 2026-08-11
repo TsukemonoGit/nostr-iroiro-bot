@@ -1,101 +1,3 @@
-# いろいろボット追加候補ピックアップ 手順書
-
-.tmp/内で作業すること
-
-日本人ノスターユーザーの投稿から「いろいろボットのリストに追加したほうがいいやつ」= **投稿本人が作成したツール** に言及している投稿をピックアップして `irerukamo.json` に追加する。
-
-この手順書は既に batch1〜batch7（2026-07-30 01:50 UTC 〜 2026-08-06 01:50 UTC）まで実施済みの内容をもとに、引き続き同じ手順で過去へ遡るためのもの。
-
-> **2026-08-06 追記**: 「日本人か不明」のエントリはリストに入れない方針へ変更（下記「日本人かどうかの判定」）。irerukamo.json はこの方針で 19 件に整理済み。
-
-## 概要
-
-1. nostr-fetch で kind1 を 24h ごとのバッチで取得 → URL 付き投稿のみに自動フィルター
-2. 各バッチを手動レビューし、ピックアップ候補を `irerukamo.json` に追加
-3. スパム/bot を見つけたら `EXCLUDED_PUBKEYS` に追加し、既存バッチも再フィルター
-4. 各バッチ終了時に集計を報告し、「さらに遡るか」をユーザーに確認
-
-## リレー
-
-- wss://x.kojira.io
-- wss://yabu.me
-
-- 実行時は `ALGIA_CONFIG` 環境変数でパスを上書き可能（例: `ALGIA_CONFIG=/tmp/config.json`）
-- NIP-50 search は使わない。kind1 REQ → URL フィルター方式のみ
-
-## ファイル構成（.tmp/ 内）
-
-| ファイル | 役割 |
-|---|---|
-| `fetch-batch.mjs` | バッチ取得 + `EXCLUDED_PUBKEYS`（除外リスト集約。**必ずここに追加**）+ 範囲メタ書き出し |
-| `re-filter.mjs` | 既存 jsonl に除外リストを再適用 + URL フィルター + 降順ソート + 重複除去。除外リストは fetch-batch.mjs から自動読込 |
-| `review.mjs` | jsonl → 人間可読な txt 変換（`node review.mjs <src.jsonl> <out.txt>`） |
-| `next-batch.mjs` | 進捗把握と次バッチ計算（どこまで実施済みか + 次バッチの番号・範囲・実行例を表示） |
-| `irerukamo.json` | ピックアップ候補の最終成果物 |
-| `batches/batchN-24h.jsonl.bak` | 取得直後の原本（URL 付き全件）。**再フィルターは必ず .bak から行う**。git に追跡 |
-| `batches/batchN-24h.meta.json` | 各バッチの取得範囲メタ（fetch-batch.mjs が自動書き出し）。next-batch.mjs が参照。git に追跡 |
-| `batches/batchN-24h.jsonl` | フィルター済み（レビュー対象）。`.gitignore` で除外（`re-filter.mjs` で .bak から再生成可能） |
-| `batches/batchN-24h.meta.json` | 各バッチの取得範囲メタ（fetch-batch.mjs が自動書き出し。next-batch.mjs が読む） |
-| `reviewN.txt` | レビュー用テキスト（`[i] MM-DD HH:MM pubkey12 id12` + content） |
-| `algia.md` | algia の使い方メモ |
-| `memo.md` | 元の作業指示メモ |
-
-`candidates.mjs` / `dump.mjs` / `dump2.mjs` は最初の試行時のスクリプトで、現在の手順では使わない。
-
-## 手順
-
-### 1. バッチ取得
-
-```bash
-cd .tmp
-node fetch-batch.mjs <sinceUnix> <untilUnix> batches/batchN-24h.jsonl.bak
-```
-
-- レンジは UTC の 24h で、`since = 前回の until - 86400`、`until = 前回の since`（過去へ遡る）
-- **進捗管理は手動でしない。`batches/batchN-24h.meta.json` と `next-batch.mjs` で自動把握する**:
-  - `fetch-batch.mjs` は取得時に `batches/batchN-24h.meta.json`（取得した since/until と日時）を自動書き出しする
-  - `node next-batch.mjs` で「どこまで実施済みか + 次のバッチ番号と取得範囲・実行例」を表示する
-  - つまり `batches/` にある `.bak` ファイルが最新なら next-batch.mjs が正しい次レンジを出す。手動で表を更新する必要はない
-  - （参考: 最新バッチの `.meta.json` が無い場合にだけ次バッチが確定できない。取得は必ず fetch-batch.mjs 経由で行うこと）
-- 例（次バッチの取得〜レビュー）:
-  ```bash
-  node next-batch.mjs   # 次バッチの番号・範囲・実行例を確認
-  node fetch-batch.mjs <since> <until> batches/batchN-24h.jsonl.bak
-  node re-filter.mjs batches/batchN-24h.jsonl.bak batches/batchN-24h.jsonl
-  node review.mjs batches/batchN-24h.jsonl reviewN.txt
-  ```
-- 出力は原本ファイル（.bak）。イベントは kind1 のみ
-
-### 2. フィルター
-
-```bash
-node re-filter.mjs batches/batchN-24h.jsonl.bak batches/batchN-24h.jsonl
-node review.mjs batches/batchN-24h.jsonl reviewN.txt
-```
-
-- `re-filter.mjs` が除外リスト適用 + URL 付き判定 + 重複除去 + created_at 降順ソートを行う
-- 取得直後は fetch-batch.mjs 側にも同じ除外があるので re-filter と結果は一致するはず
-
-### 3. pubkey頻出度チェックと除外
-
-`reviewN.txt` を開く前に、まずpubkeyの出現順位を調べる。
-
-```bash
-node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8');const map=new Map();for(const line of lines.split('\n')){const m=line.match(/^\[(\d+)\] (\d+-\d+ \d+:\d+) (\w+) (\w+)/);if(m)map.set(m[3],(map.get(m[3])||0)+1)}const sorted=[...map.entries()].sort((a,b)=>b[1]-a[1]);for(const [pk,c] of sorted)console.log(c+' '+pk)"
-```
-
-出現頻度上位のpubkeyを**上から3つ**レビューし、明らかにbotまたは外国人であれば `EXCLUDED_PUBKEYS` に追加する。
-
-### 4. レビュー
-
-`reviewN.txt` を全部読む。書式:
-
-```
-[0] 08-06 01:50 abcdef123456 0123456789ab
-投稿内容（改行は \n に変換）
----
-```
-
 - `[i]` = エントリ番号、`MM-DD HH:MM` = UTC 時刻、`pubkey12` / `id12` = 先頭12文字
 - 各エントリの完全データ（pubkey 全文・id 全文・created_at・content）は `batches/batchN-24h.jsonl.bak` から引ける
 
@@ -105,21 +7,37 @@ node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8'
   - 外部ツールをただ引用・共有しているだけの投稿は除外
   - あいまいでもピックアップ（もれより多すぎがよい）。注釈で「作者本人か不明」等を書く
 
+#### 本人作成かどうかの判定
+
+判断が難しい場合、以下を確認する。いずれも補助材料であり、単独では確定としない。
+
+- **NIP-05 とドメインの一致**: `algia profile -u <pubkey全文>` で取得した `nip05` のドメインと、投稿中のツールURLのドメインが一致する場合、本人作成の可能性が高い（例: nip05が`user@example.com`でツールURLが`https://example.com/tool`）
+- **profileのwebsiteフィールド**: profileの `website` フィールドがツールURLまたはそのリポジトリと一致するか確認する
+- **GitHubでの記載確認**:
+  - ツールがGitHubリポジトリを持つ場合、README等にnpub/pubkeyの記載があるか確認する
+  - リポジトリのowner名・GitHubプロフィール名とnostrのprofile name/displayNameが一致するか確認する
+  - commit履歴の主要な著者と投稿者が一致するか確認する（判断材料の一つ。確定情報ではない）
+- **投稿文言による一次判定**: 「作った」「公開しました」「リリースしました」等は本人作成を示唆。「紹介します」「共有します」「見つけました」等は他人のツールの共有を示唆
+- 上記いずれも決定打がない場合は「作者本人か不明」と note に明記した上でピックアップする（除外しない）
+
 #### 日本人かどうかの判定（厳格）
 
 - 投稿本文に日本語がある → 日本人。ピックアップ対象
 - 投稿に日本語がなければ kind0（プロフィール）を取得し、プロフィールに日本語がある → 日本人。ピックアップ対象
 - **どちらにも日本語がなければ「日本人か不明」としてピックアップしない（リストに入れない）**
 - kind0 の取得は **algia** を使う（`fetch-profiles.mjs` 等のスクリプトは使わない）:
-  ```bash
+
+```bash
   algia profile -u <pubkey全文>
-  ```
-  `name` / `displayName` / `about` に日本語（ひらがな・カタカナ・漢字）があるかで判定する。
+```
+
+`name` / `displayName` / `about` に日本語（ひらがな・カタカナ・漢字）があるかで判定する。同時に `nip05` / `website` フィールドも確認し、本人作成判定（上記）に利用する。
+
 - この判定基準は今後も適用する
 - 判定結果は注記にも残す（「日本語」or「kind0に日本語 → 日本人」等）
 - **除外**: スパム、bot（天気・ニュース・漫画・政治・感謝bot等）、ポルノ、他人のツールの共有、iroiro.json に既収載のツール、Nostr と無関係
 - Nostr ツールでなくても「投稿本人の作成物」なら候補に入れて良い（判断はユーザー任せ）
-- **禁止事項**: 投稿本文の日本語を自動抽出するフィルタ（スクリプト）を**絶対に追加しない**。手動で reviewN.txt を読むこと。日本語判定は kind0 も確認する必要があるため
+- **禁止事項**: 投稿本文の日本語を自動抽出するフィルタ（スクリプト）を**絶対に追加しない**。手動で reviewN.txt を読むこと。urlのみ投稿した日本人ユーザーが除外されてしまうため。
 
 #### スパム発見時の除外追加
 
@@ -178,3 +96,16 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
 - URL 正規表現は `fetch-batch.mjs` の `urlRe`（`/https?:\/\/[^\s<>"')\]]+/`）。これにマッチしないと除外される
 - バッチのイベント総数・URL 付き数・除外数は fetch-batch.mjs / re-filter.mjs のログに出すので、報告の参考にする
 - 判断はテキストベースではなく内容で行う（memo.md）
+  投稿本文の日本語を自動抽出するフィルタ（スクリプト）を**絶対に追加しない**。urlのみ投稿した日本人ユーザーが除外されてしまうため。
+
+## 未実施の改善検討事項
+
+以下は未実装。手順への組み込みはユーザー判断待ち。
+
+- **重複チェック**: 同一ツールURL・pubkeyがirerukamo.jsonに既に存在するかを事前検索する仕組みが未整備
+- **iroiro.json との突合せ自動化**: 「既収載のツール」判定は現状手動。自動照合スクリプトが未整備
+- **batch1の.bak欠如への恒久対応**: 現状は「必要なら再取得」の記載のみ。方針未確定
+- **EXCLUDED_PUBKEYSのコメント書式統一**: bot種別のカテゴリ表記が統一されているか未確認
+- **JSON必須フィールドの型検証**: 現状の妥当性確認は構文チェック（json.load）のみ。フィールド欠落・型不一致は検出されない
+- **リレー接続失敗時のリトライ**: 接続エラー時の再試行手順が未記載
+- **review.mjs出力の拡張**: nip05・websiteをreviewN.txtに表示すれば、本人作成判定の作業効率が上がる可能性がある。未実装

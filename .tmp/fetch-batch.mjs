@@ -3,144 +3,22 @@ import WebSocket from "ws";
 import { readFileSync, writeFileSync } from "fs";
 import { homedir } from "os";
 import { join } from "path";
+import { excludedUrl } from "./excluded-domains.mjs";
+import { EXCLUDED_PUBKEYS } from "./excluded-pubkeys.mjs";
 
 const urlRe = /https?:\/\/[^\s<>"')\]]+/;
+const SCAN_LOG_INTERVAL = 10000;
 
-const EXCLUDED_DOMAINS = new Set([
-  // SNS系
-  "x.com", "twitter.com",
-  "www.instagram.com",
-  "www.facebook.com",
-  "www.youtube.com", "youtu.be",
-  "www.tiktok.com",
-  "discord.gg",
-  "mastodon.social",
-  "threads.net",
-  "bsky.app",
-  "t.me",
-  // 画像・メディア系
-  "files.catbox.moe", "litter.catbox.moe",
-  "image.nostr.build", "i.nostr.build",
-  "23img.com",
-  "blossom.primal.net", "blossom.yakihonne.com",
-  "cdnt-preview.dzcdn.net",
-  "serveousercontent.com",
-  "blossom.band",
-  // スパム系
-  "headlines-world.com",
-  "allgraph.ro",
-  "aepiot.com", "aepiot.ro",
-  "24hhotnewsai.com",
-  "rwatimes.io",
-  "searchcelebrityhd.com",
-  "loca.lt",
-  "blogspot.com",
-  "coinup.io",
-  "proxy.bostr.online",
-  "imgbox.com",
-  "img.toto.im",
-  "img.wangmoyu.com",
-  "shorturl.at",
-  "projekto-epekto.netlify.app", // フィリピン政治キャンペーン bot ネットワーク
-  "nadezhda.netlify.app", // 政治キャンペーン bot ネットワーク
-]);
-
-function excludedUrl(url) {
-  const m = url.match(/^https?:\/\/([^/\s]+)/);
-  if (!m) return false;
-  const domain = m[1];
-  for (const d of EXCLUDED_DOMAINS) {
-    if (domain === d || domain.endsWith("." + d)) return true;
-  }
-  return false;
+function deriveMetaFilePath(outFile) {
+  const m = outFile.match(/^(?:.*\/)?batch(\d+)-24h\.jsonl(?:\.bak)?$/);
+  return m
+    ? `batches/batch${m[1]}-24h.meta.json`
+    : outFile.replace(/\.bak$/, "") + ".meta.json";
 }
 
-const EXCLUDED_PUBKEYS = new Set([
-  "1aff749bcecf", // ニュース速報 bot
-  "53efc19ec1e2", // 下半身露出ニュース bot
-  "47f97d4e0a64", // birobela 動画転載 bot
-  "8ae7965af1b6", // ロシア語暗号スパム
-  "483a687b18cd", // Amazon アフィリエイトスパム
-  "ce6cad02ffb8", // IPTV スパム
-  "0403c86a1bb4", // PREDYX 漫画 bot
-  "416442609f5a", // stspg.io ステータス bot
-  "c558c7cc69bb", // URL クリーナー bot
-  "3cfb52d250e1", // 台風・天気 bot
-  "7202985c7e34", // いろいろボット自身の紹介投稿
-  "7febe2a59aa8", // GitHub コミットミラー bot
-  "a3c13ef4c9ec", // 流速計測 bot
-  "431fa2f340f0", // Midjourney 画像 bot
-  "5f468793f9a7", // MiniMax 動画生成 bot
-  "18905d0a5d62", // klipy GIF 転載 bot
-  "0c45d7d45edb", // klipy GIF 転載 bot
-  "fc37f163f4a1", // reddit 転載 bot
-  "5e5fc1434c92", // sovbit 画像転載 bot
-  "5d1d83de3ee5", // PDF/リンクスパム
-  "3ea210ca7717", // X 転載 bot
-  "fe5915e97c59", // nostrmag ニュースレター bot
-  "aee9d7ac9343", // nostrmag ニュースレター bot
-  "a8eeb2053dad", // nostrmag ニュースレター bot
-  "e4dd796a3c78", // nostrmag ニュースレター bot
-  "d9c2ec976548", // nostrmag ニュースレター bot
-  "9f59d9117ce4", // nostrmag ニュースレター bot
-  "7a21b98084ea", // nostrmag ニュースレター bot
-  "794833e538ff", // nostrmag ニュースレター bot
-  "12e11290983d", // nostrmag ニュースレター bot
-  "34d2619e6872", // nostrmag ニュースレター bot
-  "3185c2e56ed0", // nostrmag ニュースレター bot
-  "d49a9023a21d", // ニュース/リンクスパム
-  "7b31d1ff8134", // 大道師神 ブログスパム
-  "ae2df40f39a3", // ポルノ/リファラルスパム
-  "3c1e1de0c67d", // 投資詐欺スパム
-  "4d7842051782", // azzamo.media ニュース bot
-  "67a8ed7e76c7", // reddit r/golang 転載 bot
-  "e85ed75286cb", // APOD bot
-  "d95514886855", // キンマweb クイズ bot
-  "e0ca1e9e2be7", // nekora 漫画スパム bot
-  "5a54abdc84a5", // 反移民政治スパム
-  "a723805cda67", // 感謝の言葉 bot (gratefulday.space)
-  "3828b339214c", // 天気予報 bot
-  "9ce936615b0a", // 英語ループ投稿（USA250/GM Fren）
-  "34f2e819da2a", // Al Jazeera ニュース転載
-  "877fb7cfc478", // 室温報告 bot
-  "1634e999c5fc", // Microsoft Office 鍵販売スパム
-  "3170406792be", // nostrmag ニュースレター bot
-  "343cf71f28c6", // nostrmag ニュースレター bot
-  "e6bef2fc320d", // 外人
-  "08c6657385c5", // 外人
-  "c239c0f994c4", // 外人
-  "ae1bbe3a1fe7", // 外人
-  "d981591e0ea6", // 外人
-  "ee35b535d48d", // 外人
-  "4e62f14445cc", // bot
-  "4f7e61faeb06", // bot
-  "a6259c888ca8", // bot
-  "3fdf8b43d2e6", // bot
-  "996e2d213612", // bot
-  "2d0154e14033", // bot
-  "7fd3d6c88899", // bot
-  "7febe2a59aa8", // GitHub Pages リソース集 宣伝 bot
-  "a3c13ef4c9ec", // リレー流速計測 bot
-  "88a26d85b87c", // 暗号資産ニュース bot
-  "1e67de375417", // 外人（フランス語 #nostrfr）
-  "08d49d7a6900", // 中国語 音楽スパム bot（#音乐 大量投稿）
-  "8f1b628ef24c", // AWS whats-new スパム bot（英語・同刻大量投稿）
-  "71ecabd8b6b3", // The Meme Bay（英語ミーム bot・smartflow.social プロモ）
-  "d735231e8eeb", // クラスメソッド記事共有 bot
-  "4fc2e3f74d5e", // Furry Art AI画像スパム bot（trycloudflare 生成画像 + BTC tips）
-  "6c792fd0fc84", // Pinterest/ストック画像転載 bot（無テキスト 15連投）
-  "4eb88310d6b4", // ミーム動画転載 bot（ROCKY trains DANIEL 等 #IKITAO）
-  "096ec6d4c8be", // poder360 ポルトガル語ニュース bot
-  "09fbf8f3be5a", // 中国語ポルノ/政治スパム bot（#黄播 #台湾）
-  "9cb53e080594", // g1.globo.com ポルトガル語ニュース bot
-  "501f27ec1321", // soap21.com 商品スパム bot（重複投稿）
-  "ce643487280a", // redstate/americanthinker 右派政治スパム bot（計43バッチ）
-  "3ffac3a6c859", // Girino Vey!（Facebook 転載 bot・英語/ポルトガル語、blossom-espelhator 画像）
-  "deab79dafa1c", // Ryan（英語・haven.downisontheup.ca 画像投稿、外人）
-  "1ea4ae8405ad", // celosia/the_moving_sands（英語・地政学コメント、外人）
-]);
-
-const configPath = process.env.ALGIA_CONFIG || join(homedir(), ".config", "algia", "config.json");
+const configPath =
+  process.env.ALGIA_CONFIG ||
+  join(homedir(), ".config", "algia", "config.json");
 const cfg = JSON.parse(readFileSync(configPath, "utf8"));
 
 const relayUrls = Object.entries(cfg.relays)
@@ -152,7 +30,9 @@ const until = Number(process.argv[3]);
 const outFile = process.argv[4];
 
 if (!since || !until || !outFile) {
-  console.error("usage: node fetch-batch.mjs <sinceUnix> <untilUnix> <outFile>");
+  console.error(
+    "usage: node fetch-batch.mjs <sinceUnix> <untilUnix> <outFile>",
+  );
   process.exit(1);
 }
 
@@ -162,36 +42,48 @@ const seen = new Set();
 const events = [];
 
 console.error(`relays: ${relayUrls.join(", ")}`);
-console.error(`range: ${new Date(since * 1000).toISOString()} ~ ${new Date(until * 1000).toISOString()}`);
+console.error(
+  `range: ${new Date(since * 1000).toISOString()} ~ ${new Date(until * 1000).toISOString()}`,
+);
 
 const iter = fetcher.allEventsIterator(
   relayUrls,
   { kinds: [1] },
   { since, until },
-  { skipVerification: true, skipFilterMatching: true, enableBackpressure: true }
+  {
+    skipVerification: true,
+    skipFilterMatching: true,
+    enableBackpressure: true,
+  },
 );
 
 let total = 0;
-let excluded = 0;
+let pubkeyExcluded = 0;
+let urlExcluded = 0;
+
 for await (const ev of iter) {
   total++;
-  if (total % 10000 === 0) console.error(`scanned ${total} events...`);
+  if (total % SCAN_LOG_INTERVAL === 0)
+    console.error(`scanned ${total} events...`);
   if (seen.has(ev.id)) continue;
+
   if (EXCLUDED_PUBKEYS.has(ev.pubkey.slice(0, 12))) {
-    excluded++;
+    pubkeyExcluded++;
     continue;
   }
+
   const allUrls = ev.content.match(urlRe) || [];
   if (allUrls.length === 0) continue;
-  const goodUrls = allUrls.filter(u => !excludedUrl(u));
-  if (goodUrls.length === 0) excluded++;
+
+  const goodUrls = allUrls.filter((u) => !excludedUrl(u));
+  if (goodUrls.length === 0) urlExcluded++;
+
   seen.add(ev.id);
   events.push({
     id: ev.id,
     pubkey: ev.pubkey,
     created_at: ev.created_at,
     content: ev.content,
-    tags: ev.tags,
   });
 }
 
@@ -207,9 +99,10 @@ const meta = {
   eventsWithURL: events.length,
   fetchedAt: new Date().toISOString(),
 };
-const m = outFile.match(/^(?:.*\/)?batch(\d+)-24h\.jsonl(?:\.bak)?$/);
-const metaFile = m ? `batches/batch${m[1]}-24h.meta.json` : outFile.replace(/\.bak$/, "") + ".meta.json";
+const metaFile = deriveMetaFilePath(outFile);
 writeFileSync(metaFile, JSON.stringify(meta, null, 2) + "\n");
 
-console.error(`scanned ${total} events total, ${excluded} excluded by pubkey, ${events.length} with URL`);
+console.error(
+  `scanned ${total} events total, ${pubkeyExcluded} excluded by pubkey, ${urlExcluded} had URL(s) but all domain-excluded, ${events.length} written with URL`,
+);
 console.error(`meta written to ${metaFile}`);
