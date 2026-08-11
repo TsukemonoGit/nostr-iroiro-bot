@@ -3,16 +3,19 @@ export const EXCLUDED_DOMAINS = new Set([
   // SNS系
   "x.com",
   "twitter.com",
-  "www.instagram.com",
-  "www.facebook.com",
+  "instagram.com",
+  "facebook.com",
   "youtube.com", // サブドメイン全体（shorts.youtube.com / www.youtube.com 等）を除外
   "youtu.be",
-  "www.tiktok.com",
+  "tiktok.com",
   "discord.gg",
   "mastodon.social",
   "threads.net",
   "bsky.app",
   "t.me",
+  "htn.to", //はてぶ
+  "hatenablog.com", // はてブログ
+  "reddit.com",
   // 診断・クイズ系（診断結果シェアが頻出。ツールではない）
   "shindanmaker.com",
   "otherstuff.ai", // WORD5 ワードルゲーム結果シェアが頻出（外国サイト）
@@ -49,6 +52,7 @@ export const EXCLUDED_DOMAINS = new Set([
   "shorturl.at",
   "projekto-epekto.netlify.app", // フィリピン政治キャンペーン bot ネットワーク
   "nadezhda.netlify.app", // 政治キャンペーン bot ネットワーク
+  "amzn.to", //アマゾン
 ]);
 
 export function excludedUrl(url) {

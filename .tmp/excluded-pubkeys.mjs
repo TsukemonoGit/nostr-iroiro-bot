@@ -112,4 +112,5 @@ export const EXCLUDED_PUBKEYS = new Set([
   "b0e1d3f1af34", // ニュース速報 bot（Google News RSS 転載）
   "d42822e9961a", // Five-Dollar Toolkit（英語セールス連投・外人）
   "2efaa715bbb4", // vinney cavallo（grantless/catallax・英語・外人）
+  "e41b93762c26",
 ]);
