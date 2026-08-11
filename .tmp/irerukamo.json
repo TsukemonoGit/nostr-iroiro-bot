@@ -1230,5 +1230,53 @@
     "tool": "https://kojira.github.io/nostr-brainmaker/",
     "note": "Nostr脳内メーカー（kojira 自作の Nostr 脳内変換ツール。「Nostr脳内メーカーでけた」の完成報告）。作者本人、日本語",
     "content": "なんかバグありそうな気配だけどNostr脳内メーカーでけた\nhttps://kojira.github.io/nostr-brainmaker/"
+  },
+  {
+    "id": "9eedfbeeaedea9809e51ba0c192670ea04af37e02d1a543c76a8b5aafabacab0",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1781306453,
+    "tool": "https://github.com/TsukemonoGit/moto-log",
+    "note": "moto-log（もの=mono/TsukemonoGit 自作のログツール。Nostr リレーをデータベースとして使用。「まったくnostr関係なくて30078をデータベースに使ってるだけ」の本人説明）。作者本人、日本語",
+    "content": "https://github.com/TsukemonoGit/moto-log これはまったくnostr関係なくて30078をでーたべーすにつかってるだけのやつ"
+  },
+  {
+    "id": "a7fb08518f1d653dec5cedaef7d2c7eacb3e3de8a9005fc32e6835821930b336",
+    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+    "created_at": 1781257981,
+    "tool": "https://nos-haiku.vercel.app/",
+    "note": "nos-haiku（nikolat 自作の Sudo Haiku 風ミニブログを Nostr で構築した Nostr クライアント。「リレー外した」の運用報告での言及）。作者本人、日本語",
+    "content": "5/19 に外したからほぼ1ヶ月前からかな\nしばらく観測した後だから(いい加減ウザかったのでリレー外した)\nhttps://github.com/nikolat/nos-haiku/commit/2659a037ffdd92671494ea94f54d4e0253bf84f9"
+  },
+  {
+    "id": "bc59f31f9db36fe9b1bfc869ecb5733a711d8509aeea08d03fbe6aeebc9f1c89",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1781307728,
+    "tool": "https://github.com/TsukemonoGit/nostr-share-component",
+    "note": "nostr-share-component（もの=mono/TsukemonoGit 自作の Nostr 共有ボタン用コンポーネント。自サイトに置く提案としての言及）。作者本人、日本語",
+    "content": "それやったら共有ぼたんのところに これもおいてくださいでもいいかも\nhttps://github.com/TsukemonoGit/nostr-share-component"
+  },
+  {
+    "id": "cc4e0a1d81398eb7f8a836b79cf2253010a08eadd211a3a77bd1f70eae17def6",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1781307861,
+    "tool": "https://chromewebstore.google.com/detail/eomkdgmgkbcpkbmofmkmefgmcbnbcppf",
+    "note": "Post for nostter（nostter にワンクリックで投稿できる Chrome 拡張機能。閲覧中ページのURLとタイトルを nostter 投稿する拡張）。作者は maretol（github.com/maretol/post-for-nostter）。投稿者 SnowCait（83d52b4363d2=nostter 作者）による紹介。日本語",
+    "content": "Post for nostter 便利だよ\nhttps://chromewebstore.google.com/detail/post-for-nostter/abifdocleldfpalofpbjlndgmojmijab\n"
+  },
+  {
+    "id": "3dd2708c1f89c94ac297761b15596657800044c5baf9fc7597eda80638a89ded",
+    "pubkey": "5f468793f907165a97d145407e824c5f6ee82ab9884d070229ac67eff17e29c0",
+    "created_at": 1781265615,
+    "tool": "https://nighthawk.sabotenism.cc/nostr/",
+    "note": "Yodaka（targoyle（たーごいる）自作の軽量 Nostr クライアント。通信量削減を目的とする。「通信量が（おそらく）節約できる Yodaka をよろしくお願いします」の宣伝投稿）。作者本人（GitHub Targoyle/Yodaka に該当リポジトリ）、日本語",
+    "content": "通信量が（おそらく）節約できる Yodaka をよろしくお願いします \nhttps://nighthawk.sabotenism.cc/nostr/"
+  },
+  {
+    "id": "768aead012bee746acc903f0db8fb56ade45c1123e10515a4589f5b58c65f50e",
+    "pubkey": "a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909",
+    "created_at": 1781142800,
+    "tool": "https://github.com/haruki7049/RIFF.zig",
+    "note": "RIFF.zig（haruki7049 自作の Zig 音声波形ライブラリ。自作ライブラリ lightmix 用で、Zig 0.16.0 対応の build.zig.zon 更新リリース報告）。作者本人（GitHub haruki7049 と一致）、日本語（Nostr 無関係）",
+    "content": "拙作音声波形ライブラリであるlightmixに使っている、これまた自作ZigライブラリのRIFF.zigってライブラリ、今Zig0.16.0をサポートしてますよとbuild.zig.zonをアップデートした。個人的に偉業だと思っている。私は私自身を褒め称える。\nhttps://github.com/haruki7049/RIFF.zig/releases/tag/1.1.2"
   }
 ]

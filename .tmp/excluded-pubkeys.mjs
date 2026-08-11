@@ -87,4 +87,6 @@ export const EXCLUDED_PUBKEYS = new Set([
   "eb78d17ec0cc", // ロシア語AIエージェント crypto スパム（AEP Protocol）
   "197d83ddbf99", // yakihonne.com プロフィール宣伝 bot（同一URL繰り返し）
   "4a82bd5f227e", // AWS News Bot JP（aws.amazon.com/jp/new/ の翻訳転載 bot、about に Bot と明記）
+  "6bc6e6dabd4d", // 学習リンク集 bot（y-history/gifu-net/kiuchi.jpn.org 等の wiki リンクを同一時刻に連投、kind0 なし）
+  "bacd113c9ad7", // jornal-extra（ブラジル紙）ニュース転載 bot（dlvr.it + bsky、ポルトガル語・同一時刻連投）
 ]);

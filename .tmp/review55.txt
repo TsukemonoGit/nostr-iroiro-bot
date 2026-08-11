@@ -1,0 +1,418 @@
+[0] 06-13 01:42 00009c252fdc09817d2e55cf850ad9ef89cc573318d1d82ba45364beecc88a44 ee6ea13ab9fe5c4a68eaf9b1a34fe014a66b40117c50ee2a614f4cda959b6e74
+Well, fuck. \n\nhttps://www.anthropic.com/news/fable-mythos-access
+---
+[1] 06-13 01:38 00001f93a0cd51a8776cd27499262187253565b36a0c737af47fce3539d4f5a5 ee6ea13ab9fe5c4a68eaf9b1a34fe014a66b40117c50ee2a614f4cda959b6e74
+🤣\n\nJust in case…\n\nhttps://pollerama.fun/respond/nevent1qqsy39pt070y2qd09k0cue5z2mqx2twtus06qyz2enn2e2q6h8ljmcsnnhnlf
+---
+[2] 06-13 01:37 796eded87feb2a3e779d56c1c4443d2ec9e329b8cd08f84a0ad3ced5209fc167 b40ea03571252bc72f3d59f8ac0cfb3caeb44755d0f0dd1f105f4fd5e863ad0c
+【Bytecode Alliance — WASI 0.3 Launched】\nhttps://bytecodealliance.org/articles/WASI-0.3\n WASI 0.3リリース。\nWebAssembly Component Modelのネイティブ機能として非同期処理が組み込まれ、stream&lt;T&gt;/future&lt;T&gt;/asyncがCanonical ABIに追加された。\nWASI 0.2では各コンポーネントが独自のイベントループを持つ必要があったが、ホストが共有イベントループを管理する設計へと変更された。\n従来のstart-foo/finish-foo/subscribeパターンがasync funcに置き換わり、ストリームのエラーハンドリングも独立したfutureで扱えるようになった。\nhttps://realtime.jser.info/2026/06/13/bytecode-alliance-wasi-0-3-launched/
+---
+[3] 06-13 01:23 7b813776408b25ec5659bf92952d1713589757d4ea1a2e03370839ea8cbf146e 0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e
+どうやらうちの苦情がみんなたちに通じてないようですね。 / ニコ生配信中 https://live.nicovideo.jp/watch/lv350741221?ref=lvapp_broadcast_share_tw
+---
+[4] 06-13 01:18 626307d0c7cf90964a9bbc56f4e4489dfc40d4cccbfe09593450bad6177e015f ce0d385252733bd84c1e9ce7d7cdb5733b8021bb0b3740c84d184580bf403ea3
+https://www.anthropic.com/news/fable-mythos-access
+---
+[5] 06-13 01:16 6412c976e7b604db5163223eb95a0a1260118052e119a5faac8198f67d62e861 5aaccfdd2ed8f45eb0dfb9a8752bf0d50777a975ad24468f14dd457e747c5c90
+フェイブルが、公開停止？\nアンソロピック、米政府指示でミュトス級AI提供停止　日本含む：日本経済新聞\nhttps://www.nikkei.com/article/DGXZQOGN130K40T10C26A6000000/?n_cid=dsapp_share_android
+---
+[6] 06-13 01:10 cc40827c8cecfae794741e493402cf84218fd525002ea81a25f5ff46fc24479c d602e726ec089bcd6d368531e81cc71e50d034278b235e0aa50ac330acf44c8f
+https://neutralx0.net/nazo/01/\n新作が出てた
+---
+[7] 06-13 01:09 004d19913b2ffda4c6b37ff0d583da8db0ada4001ec711ea882b6449a61b3ab3 7e5675ae1e5155dd88e8d6fd12476b1da029151b51bd727c2b3d7418242a7421
+10時間24分遅刻しちゃった…… ⏰\nhttps://misskey.niri.la/play/an9l8v6v06
+---
+[8] 06-13 00:40 44c1cf57f457c80d25c0b271d291b18238fe630f75f7fb5e40000ec3e8ac87f4 26ae1a0d402c5705da2cba96ab456cf77da0d1a146c1620fe2e040910a854d3b
+#はてなブックマーク #デザイン #美術\n香川県高松市で発見。金沢21世紀美術館の企画展にも出張\n“唯一現存「戦前の道路標識」ニュースで放送後に知名度が急上昇(略)【続・前編】 | TBS NEWS DIG” https://newsdig.tbs.co.jp/articles/-/2727251\n後編\nhttps://newsdig.tbs.co.jp/articles/-/2727308
+---
+[9] 06-13 00:31 f43d3c8e681d7245515a649fb3d71c6cb28f1cc14367f5ae3bd275fe9f18596b 6369fb82bec54226bf09bb365b6f0d71b16c41f56e7edfd4f97de23f9c3281da
+https://store.steampowered.com/app/4253770/\nあのヴァニラウェアがとうとうPC版を許したのか…。
+---
+[10] 06-13 00:27 0093b188e8b402af164a378dec98fcf13ebcace0251f30c67301d2a2cc82bab6 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+PR merged: Include shared url from text param on Android in share target\nhttps://github.com/SnowCait/nostter/pull/2197 #nostter
+---
+[11] 06-13 00:03 b97f2b0f5773a6a49a9f9019d25670b77a7b51686cae9433d370f664920e90b7 ce0d385252733bd84c1e9ce7d7cdb5733b8021bb0b3740c84d184580bf403ea3
+日本語対応したらしい\nhttps://store.steampowered.com/app/2096260/Mini_Tank_Mayhem/
+---
+[12] 06-13 00:02 da3061796de25397da1cd5a2abd18455b3dbdef5929db37f03fb00fcce2089f0 1066a05d1474e7e133a97208a5cb177a9c01e4b81f0f14370ad59f4a0a475681
+https://gigazine.net/news/20260612-deezer-ai-generated-music-detector/\nこれに検出されないぐらいに頑張ればいいのか
+---
+[13] 06-12 23:47 7f449f8b422e5a08bfc560287bab3c93074b80bd3df68c3d2217830f78927812 2dadc402e7fcbc6733b7397151149155349007647550a1dac2706f32b1671b5d
+露骨に差別主義国家になってきている。なぜいくつもの国際大会がここで開かれているのか。これまで差別主義者をなあなあで許してきたことが歪みを強くしている。\nhttps://htn.to/3Hqe42ZfYi
+---
+[14] 06-12 23:45 5eeef55ad6b1b049b2ea6f3a1c1479cc72a889e62ea07d5976a2daa445fd3d43 84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5
+https://chromewebstore.google.com/detail/icfpjhfljddmpinehcnmlfijmiohhodi
+---
+[15] 06-12 23:44 7da0fb1659b2a40a5dd80e4c64ac87f1b7d1089bf7e3f1a6f80a6fa4ab892dbb d62679fe8b516f68bdde88f0fcd97da1e77f3182afd5840c588ce7ffd9e54552
+#絵描きさんと繋がりたい\n#りとるらいと_日課フレーム\n#illust\n『加々美高浩が全力で教える「手」の描き方』を参考に手を描く練習\nhttps://amzn.to/3Buwxty https://image.nostr.build/cd680cae80201378f25e6c774a8ad26ae6aceb623ec860855a558fc18ab8ab29.jpg
+---
+[16] 06-12 23:44 cc4e0a1d81398eb7f8a836b79cf2253010a08eadd211a3a77bd1f70eae17def6 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+Post for nostter 便利だよ\nhttps://chromewebstore.google.com/detail/post-for-nostter/abifdocleldfpalofpbjlndgmojmijab\n
+---
+[17] 06-12 23:42 bc59f31f9db36fe9b1bfc869ecb5733a711d8509aeea08d03fbe6aeebc9f1c89 84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5
+それやったら共有ぼたんのところに これもおいてくださいでもいいかも\nhttps://github.com/TsukemonoGit/nostr-share-component
+---
+[18] 06-12 23:20 9eedfbeeaedea9809e51ba0c192670ea04af37e02d1a543c76a8b5aafabacab0 84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5
+https://github.com/TsukemonoGit/moto-log これはまったくnostr関係なくて30078をでーたべーすにつかってるだけのやつ
+---
+[19] 06-12 23:20 1ff1ca0c25dac70800fb7c6f8238d72de4d450be20591bfde62acb253f6712e8 7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f
+具体的にはこれなんだけど\nNostrでレビューを共有とかしたい\n\nhttps://openis.xvps.jp
+---
+[20] 06-12 23:02 1bdb5f5cdbd401f09d15eb06993be395d92a010d63baf5ace6a33bc8b4dca291 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+ちなみに HTML ではなく JSON でレスポンス受け取るようにした対応はこのへん\n\nhttps://github.com/SnowCait/cloudflare-http-proxy/pull/2\nhttps://github.com/SnowCait/nostter/pull/2172
+---
+[21] 06-12 22:43 b6a65da98ca81eabe55ab90d2d8270045b5f30e18dc82d4b7eda330315428488 6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4
+まとめ「タラの芽さんの謎」を作成しました！\n#まとめたー\nhttps://matometr.naczuki.workers.dev/naddr1qvzqqqr4gupzq6c2vr8l8m9952e9qhxt8acn8kzzypzuhm6q70fvvxylkzu49e75qq3k6ct5dakk2arj95crzj65tgcrzsf5gceykn3c89y9xvztf4z5wd3cxfvsxkg8g8\nnostr:naddr1qvzqqqr4gupzq6c2vr8l8m9952e9qhxt8acn8kzzypzuhm6q70fvvxylkzu49e75qy88wumn8ghj77tpvf6jumt99uqzxmtpw3hk6et5wgknqv2t23drqv2px3rryj6w8qu5s5esfdx523ek8qe9j42auua
+---
+[22] 06-12 22:33 47ec4f64d14b9cd2dfa889f57fc8774ef9c33f1c7f4d5d57138b797cdca10881 a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff
+秘密鍵をアカウントにするsnsらしい\nhttps://late.sh/
+---
+[23] 06-12 22:16 be8bad287335e52d1d8f1e3aa41e229ece4fcdc40f5e07a76cf24f5df294e90e 2dadc402e7fcbc6733b7397151149155349007647550a1dac2706f32b1671b5d
+見たい。見るべき映画と思う。今のところ「東北・北海道」の上映予定は見えないが、必ず追加されるはず。\nhttps://htn.to/ki1YhQyRYn
+---
+[24] 06-12 22:02 c48bf51152f96cf26a9e85fc95a2ae2a0e55ca5727f9ba86e6cf2da1a79bb247 811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a
+国立に進学するという返済方法が面白い。\n\n10歳息子がスマホゲームに385万円の無断課金！ Appleに返金を却下された父が下した“驚愕のミッション”と弁護士の見解(集英社オンライン) https://u.lin.ee/5IXD0XJ?mediadetail=1&utm_source=line&utm_medium=share&utm_campaign=none&ep_list_account_id=%40linenews&ep_list_slug=z3l1q5652eu1
+---
+[25] 06-12 21:58 58b3d97e7fcd5afa2c44c8026221229fe08c84aa5821af7669633d4d538ebbd1 c1e9ab3a56a2ab6ca4bebf44ea64b2fda40ac6311e886ba86b4652169cb56b43
+If you're into esoteric humor, yes, and other insects.\n\nhttps://www.imdb.com/title/tt0242949/
+---
+[26] 06-12 21:44 23c84a65e3afc829e6b857f5f5e036d627de31bba23dad3e54f6b8f2ad8de09e 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+PR merged: Reduce expected error logs during SSR\nhttps://github.com/SnowCait/nostter/pull/2196 #nostter
+---
+[27] 06-12 21:22 466afb8d69c885ef12a5cbdef12ec4d1dc85b6e692e553ccad0d3cf7916d9a06 0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e
+どうやらうちの苦情がみんなたちに通じてないようですね。 / ニコ生配信中 https://live.nicovideo.jp/watch/lv350740346?ref=lvapp_broadcast_share_tw
+---
+[28] 06-12 21:11 0000ff07e241b36e8304ea6ad2f59f324134a0f97e4277275fc1f7dd8b045cbe b22fef18cbf5eeb5d79451ef9c4cda28efd47fa794a2bc7d04495ccb1bba6e1f
+Some people are fucking retarded. \n\nhttps://oregonhunters.org/initiative-petition-28-2/
+---
+[29] 06-12 20:42 3c46378647a7ea0a067696f1f4f4667d28aebabf92e9a31dc635af74e9d84e4e dc4cd086cd7ce5b1832adf4fdd1211289880d2c7e295bcb0e684c01acee77c06
+Enjoy the chrysalism 😄\nhttps://www.thedictionaryofobscuresorrows.com/word/chrysalism
+---
+[30] 06-12 20:40 6f35aca9b9e7486f957f3ddf2488e7ab0cb30fbdd423694a7607343f8c61e6a0 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+PR merged: Reduce server-side logs and enable Workers Logs observability\nhttps://github.com/SnowCait/nostter/pull/2195 #nostter
+---
+[31] 06-12 20:32 16b3f461aaf7cd16bb48c5f7ae214e2f1b5f74a3c07aa5dae2521f0e4a941fa6 06639a386c9c1014217622ccbcf40908c4f1a0c33e23f8d6d68f4abf655f8f71
+Updated: https://demo.kubo.watch
+---
+[32] 06-12 20:25 729c24b8d77fbaef14f6fa801221db49407fa8cb5e7bbdbb440b4aaf5873bf26 06639a386c9c1014217622ccbcf40908c4f1a0c33e23f8d6d68f4abf655f8f71
+https://nyves.nl (English translation work in progress)\n\nWith https://nyves.nl/zoek you can search profiles (NIP-50)\n\nAnd here is my current npub as another reference profile (and is loading some custom profile theme data which is also used in ditto.pub: https://nyves.nl/profiel/sebastix/
+---
+[33] 06-12 19:09 975d5c9b4314249b945aa3ff32815fe228c9de68d75eecd01943143f1f05cdd4 3aa5817273c3b2f94f491840e0472f049d0f10009e23de63006166bca9b36ea3
+Someone compiled a list of all the migration "NGOs" in Europe.\nhttps://asylum.ngo\n
+---
+[34] 06-12 19:02 3ed397b6c70453345880b8de564d288f8321add03a1f2206c44d47be0d4b42aa cc5f259f036683798e4a52071dbb97238702ffb6f0c85af6d273c8ddbe5c0afb
+\nMeu melhor investimento sempre será nós dois, Eu te amo Perovani Bossato Mota\n\nhttps://mempool.space/tx/fd912fb9cc19edc5cf47d5bcb406e5a6a91f843d99ca8560a822f9831667e157\n
+---
+[35] 06-12 19:01 7806285f36b1ddb44b70ba8653d5c5e7f26c3d4c521bede64fec7e2ded75b837 609cb74df9fbe770b40ab68a78a805ee75a91cceb499df364a53c80f0b7500f4
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzCeEqaqQG_rUlymvYwXKPf2DJkO2czHidIMGF2JHeVjC75nyGDX47rI&s=10
+---
+[36] 06-12 17:31 1b528a523461599a0fcf5667109bdc60cbc799475ca5199043696b45dcf9dc45 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+淀川水系 ｜河川 ｜国土交通省近畿地方整備局\nhttps://www.kkr.mlit.go.jp/river/kasen/yodogawa.html\n
+---
+[37] 06-12 17:10 8cfd7d49527e7f31a8a974c359a3f97f77f6bcdcc3d7d2236d0c538904832573 3e3a8a4245aa0822c050c42de0b17d0fe30d447cea0e6087e55b678851ed0373
+ｳﾋｮｵｵ\n\n『FF7 リベレーション』Steamストアページが公開。ヴィンセント、シドも加わり全パーティメンバーが集合。ハイウインドで星を巡るシリーズ完結作 | ゲーム・エンタメ最新情報のファミ通.com\nhttps://www.famitsu.com/article/202606/78143
+---
+[38] 06-12 16:09 52cc62b9544ea5019a11cc8ee7dadedb461ac37b53adf54122a37213f52ce04b df478568479de26b4a83c1bdc4dbab61b5cc82e1a312e2b28bc815a12a951e67
+Have you heard of the Underground Railroad?\n\nI've come to see freedom tech as some sort of Underground Railroad.\n\n"Freedom is a road seldom traveled by the multitude."\n- Frederick Douglass.\n\nWe need to show them the road to freedom and accept most people won't take that road.\n\nhttps://en.wikipedia.org/wiki/Underground_Railroad
+---
+[39] 06-12 15:48 41aae045e4a04325e40e82916ee53065fec19422f958fe95dc979c1cf5e568e7 ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257
+https://www.aeon.com/store/list/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/%E9%96%A2%E6%9D%B1%E5%9C%B0%E6%96%B9/%E6%9D%B1%E4%BA%AC%E9%83%BD/\nトキョにもあるらしいね
+---
+[40] 06-12 15:32 5f5707f1cf217dfb2bdcdcdf903a44813786fafb8d5887a425177c9ed04e51ee dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1
+ずちこーんさんのシリーズも好き\n\nhttps://zuchicorn.booth.pm/\n\n\nhttps://share.yabu.me/dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1/a051a19c26776237582ea86b349703c6baab1a7647003f22c53bda47eea0d82c.webp
+---
+[41] 06-12 15:30 8d7d423cfc54d4ddb91db1498f1e00bbb81b4d7d1ed7c9f92ac7942cca7386a4 dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1
+こういうのがね\nすきなんですよ\nhttps://booth.pm/ja/items/2868470\n\nhttps://share.yabu.me/dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1/e6049ff98a0ddf014b27d4e7941e0f2c0e2992b5c9d473b4ae6abc6655cff0be.webp
+---
+[42] 06-12 15:26 44873859108ddda088479129272069d6e328cdb0abdd3f0fdd3acfdf267b3633 dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1
+https://booth.pm/ja/search/VRChat?max_price=0\nとかで検索すると無償モデルが出てありがたい
+---
+[43] 06-12 15:25 c76988b4c68c9c096333d960b3b154dc9c74eff42691d2c5964ba059462fdc26 2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd
+https://nosli.vercel.app/\nhttps://koteitan.github.io/nosli/\nhttps://matometr.naczuki.workers.dev/
+---
+[44] 06-12 15:25 a312bff7f9392b5cc0f412b56bc02149f7f1ba19cedd9e070179cedd2ea4e21f dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1
+こういう無料モデルを購入して着飾るの楽しい\nhttps://booth.pm/ja/items/4370769\n\n\nhttps://share.yabu.me/dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1/2c18cce5329c0b007f7ab9db40f80d4e88ebcdce66de6604d78f55f1c4c35ded.webp
+---
+[45] 06-12 15:24 68f5e7e321fcfc168f1d8fc22881559665074c21d442b4971903fab80f55dfb7 6369fb82bec54226bf09bb365b6f0d71b16c41f56e7edfd4f97de23f9c3281da
+作れば解決\nhttps://www.blender.org/download/
+---
+[46] 06-12 15:22 44e037ca4bdf8b24c1f9482900151412a6d1e3357164c1833b547af2d378fc12 dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1
+最近この子に王者のオーラを感じる\nhttps://booth.pm/ja/items/6538026
+---
+[47] 06-12 15:19 418861970a1a6424b3c16cb8be92834b23162dd0a2d8efd10ed57bc831117f28 e58143f793e4bf805a4df6cdc0289e352b3cf08a7b3e6afaaf89dd497bf0f4a6
+Canada’s Bill C-34 Would Require ID or Face Scan to Use Social Media\n\nhttps://reclaimthenet.org/bill-c-34-canadas-new-law-wants-your-id-or-your-face-to-use-social-media
+---
+[48] 06-12 15:06 bcaebd72339fe7b1708099651c8f2d28076d732352aa01076bbccfef5bb54ed7 6369fb82bec54226bf09bb365b6f0d71b16c41f56e7edfd4f97de23f9c3281da
+https://steamcommunity.com/profiles/76561199242564910/recommended/438100\nVRCの初狩りってなに？怖い。
+---
+[49] 06-12 14:57 057ddf87087ece88272a25812539e58e669809e853473bacea7cfb53b604d5c7 274a2e86f1a7acb45b01f290284a343c248cb913677b43d7f7615b513194d8b0
+https://anymy.jp/kuji/projects/23
+---
+[50] 06-12 14:51 e37c46c44d16fa1d7e25b9f06b6e94948f17b8f25f299e56760b7a77b4b71b56 06639a386c9c1014217622ccbcf40908c4f1a0c33e23f8d6d68f4abf655f8f71
+🤙\n\nhttps://learn.fips.network
+---
+[51] 06-12 14:47 6a7095fece2697e7278884daaf81fbec10f46e2668f5195d56194e393e22900c 3d2ebbd741c634fec425ababde63dc1a4387a2fa97f7eea94f3ea7227f19b119
+あとで読みます。\nhttps://news.yahoo.co.jp/articles/78665cd1bfda0f26d2452448353e7a8d47980624
+---
+[52] 06-12 14:25 a0a5c440baff48ceae18eb7bb418dfd483ceab4f6098b3c8e38948574d23406d ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257
+https://www.nicovideo.jp/watch/sm873386\n着メロと言えば神NORTH
+---
+[53] 06-12 14:15 59e28b514b7183705c9bc0110e0c6509cff3258baade5d694f2cae5d867a0817 0adf67475ccc5ca456fd3022e46f5d526eb0af6284bf85494c0dd7847f3e5033
+✍️ Dreißigtausend Unterschriften für die Haltefrist — und die Szene streitet, ob das Verrat am Ideal ist oder Bürgerpflicht. ⚖️ Dabei reden beide Seiten an einer ziemlich präzisen Stelle aneinander vorbei: Eine Petition kann Steuersätze bewegen, aber einem Geld, das ohne Erlaubnis funktioniert, keine Sicherheit verleihen. 🧡⚡\n\nLesen oder hören 👇\n\nhttps://media.einundzwanzig.space/s/cypherpunk-anarchie/draft-1781038714963\n\n🎧 Wer lieber hört: https://cdn.satellite.earth/8faf6f34fe010655515a9f362995d865dd4ed9cfe2f82655f7bf6c6c0adfcaac.mp3
+---
+[54] 06-12 14:15 f2781afec7c5fc8ca4c1e066f565f6fa6d9fdf4af8e22f10ce99f23544e48407 6369fb82bec54226bf09bb365b6f0d71b16c41f56e7edfd4f97de23f9c3281da
+https://k-tai.watch.impress.co.jp/cda/article/review/3278.html
+---
+[55] 06-12 14:05 4be9a08c25d06d9993e3f0dae0eebd0112af4b4783bd3bc46cebd188b865b2ad 0adf67475ccc5ca456fd3022e46f5d526eb0af6284bf85494c0dd7847f3e5033
+✍️ Dreißigtausend Unterschriften für die Haltefrist — und die Szene streitet, ob das Verrat am Ideal ist oder Bürgerpflicht. ⚖️ Dabei reden beide Seiten an einer ziemlich präzisen Stelle aneinander vorbei: Eine Petition kann Steuersätze bewegen, aber einem Geld, das ohne Erlaubnis funktioniert, keine Sicherheit verleihen. 🧡⚡\n\nLesen oder hören 👇\n\nhttps://media.einundzwanzig.space/s/cypherpunk-anarchie/draft-1781038714963\n\n🎧 Wer lieber hört: https://cdn.satellite.earth/8faf6f34fe010655515a9f362995d865dd4ed9cfe2f82655f7bf6c6c0adfcaac.mp3
+---
+[56] 06-12 13:42 ae82566db509b11f1d0bfbc9632472e25e5e5286a6af7ee3e67e97e70ae306d2 c2dcacc4bc3dfe9670679f9ba6bd90ac570d1f1e94bebe61e1234f5b59ec4ead
+nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpzpmhxue69uhkummnw3ezumt0d5hszythwden5te0dehhxarj9emkjmn99uwfvhl6 , você não poderia implementar pow (NIP-13) manual no Amethyst. Se um dia todos os relés exigirem pow mínimo para aceitarem eventos, se formos sincronizar essas notas para relés novos, elas não serão aceitas. Aí esse recurso de pow poderia ser opt-in, só ativa quem quiser.\n\n[El Nardo de Sudamérica](https://eli.it.tabdigital.cloud/s/GPaMDy8ecjTMy2S)
+---
+[57] 06-12 13:33 eabf5a2f3022345b2dbeb74b463de59b3a2217cbd51c4e44281b996c3f44b3e3 2944e915ba71cf0fc19f5dda048ce053a87c01fd7478b179330a17edca4ce2f4
+How building an HTML-first site doubled our users overnight\n\nhttps://mohkohn.co.uk/writing/html-first
+---
+[58] 06-12 13:24 f2892a205e15fcafd370fd317113474392e24a7021d05374dcf31227c492ddf3 6369fb82bec54226bf09bb365b6f0d71b16c41f56e7edfd4f97de23f9c3281da
+https://gigazine.net/news/20260612-new-xbox-exec-advocates-ads/\nMSくん、ゲーパス値上げで数百万人失ったのにまだゲームのこと分かってないご様子。
+---
+[59] 06-12 13:19 7b21b2d3848b8042e150a23ccf7bfa04bd55580fe0db71faba295639907bc2d3 dd664d5e4016433a8cd69f005ae1480804351789b59de5af06276de65633d319
+ECB 💶 raised interest rates for the first time in three years, from 2% to 2,25%.\n\nhttps://www.welt.de/wirtschaft/plus6a2ba22a0573682fee38a9a9/prognose-bis-zu-fuenf-prozent-bundesbank-warnt-vor-inflationsschock-fuer-deutschland.html
+---
+[60] 06-12 13:13 9b25b332edb077ac3f8b1a6f41d2957e532814a7633e5ce1c0caeb2eab5f69be 0c9b1e9fef76c88b63f86645dc33bb7777f0259ec41e674b61f4fc553f6db0e0
+弊社の近くだけどこれができる頃には弊社が移転してそう。\n\nネックは「坂道」だった……都立中央図書館の渋谷移転計画に喜びの声（内外タイムス）｜ｄメニューニュース（NTTドコモ） https://share.google/uhmwtQdKuKTLk4RIB
+---
+[61] 06-12 12:00 3dd2708c1f89c94ac297761b15596657800044c5baf9fc7597eda80638a89ded 5f468793f907165a97d145407e824c5f6ee82ab9884d070229ac67eff17e29c0
+通信量が（おそらく）節約できる Yodaka をよろしくお願いします \nhttps://nighthawk.sabotenism.cc/nostr/
+---
+[62] 06-12 11:57 c16c0f48ba0858fcdc517d92ec8dd1603a272264705b4fa99945a8e9eb2abef8 96203d66276e3214ea93b6c78a577c3c9a7279f9ee7e51b22f3b8c17643a819c
+たべにいきたい\n\nグルメバーガー日本一決定戦【バガチャン】～JAPAN BURGER CHAMPIONSHIP～｜イベント｜横浜赤レンガ倉庫 https://www.yokohama-akarenga.jp/event/1157/
+---
+[63] 06-12 11:43 eee1aafede21527eb52646380d1e7cc4b3986ddcd938bbae1c7f3557dde48d6b 26ae1a0d402c5705da2cba96ab456cf77da0d1a146c1620fe2e040910a854d3b
+#はてなブックマーク #漫画\n#マンガ を #漢字 学する本。 2026年3月刊行。 / “漫画の中の漢字を学問する 奔放な文字表現を読み解く-淡交社 本のオンラインショップ” (1 user) https://htn.to/2SriwP8VdD 
+---
+[64] 06-12 11:42 debdf0372883aceb2defec2d56d6ef036fee3666a45abea8b4a5cbcebc9fe0f5 ce0d385252733bd84c1e9ce7d7cdb5733b8021bb0b3740c84d184580bf403ea3
+nostr:nprofile1qqsgckfrjvvkxluhuqra45xks8n9ec6mrt8rxwmznckn872xtsfjvzqppemhxue69uhhjctzw5hx6ef0qyfhwumn8ghj7umwdamkvmrpwfjjucmr9uqjzamnwvaz7tmjv4kxz7fddfczumn0wd68ytnhd9ex2erwv46zu6ns9u44jk07 https://store.steampowered.com/app/4213590/Tiling_Forest__Tiling_Town_Demo/?l=japanese
+---
+[65] 06-12 11:33 73dc318ed340d988be1c3d5b7d6a3008a0ec26aebb9e88e67d0b73487060107b ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257
+https://www.arc-komachi.jp/\n秋葉原とはちょっとずれてるけどVimConf前後で行った中だとここはよかった
+---
+[66] 06-12 11:21 91778be3afdd6f3a55d4bfc9207f4a6b24bec71ae5a859b0f5f39343a1e60bf8 26ae1a0d402c5705da2cba96ab456cf77da0d1a146c1620fe2e040910a854d3b
+#はてなブックマーク #水道 #インフラ\n本文PDF。"2026/04/30" / “小規模未規制水道をどう位置付け直すか | 三菱UFJリサーチ&コンサルティング” https://www.murc.jp/library/report/seiken_260430/
+---
+[67] 06-12 11:14 49a2ffc5fe7a846ae52906566307bf2d0fa510908d1582ed6cbbf5cb68ef0a28 d60bdad03468f5f8c85b1b10db977e310a5aafab33750dfadb37488b02bfc8d7
+You should come for SEC-08! \n\nhttps://primal.net/soveng/sec-08-yolo \n\n
+---
+[68] 06-12 11:05 ca3534b2c213133acbff12c68129e7ae18ce4d6c657258568e1cb2510dc9b49c 9fe9ef2be97cbeecc76e43b8fa6d2a0e889d4d80e4e5a2aeec959c7972fd6e89
+金15両\nhttps://adeac.jp/sojiji/catalog/ct00015087
+---
+[69] 06-12 10:52 19e71da3917a847d0f5124e268b3a3554c57a9ae4b88fd846ceb92bfea455f2b e2d04f62ee06888774c7dadaaf0a4fc63ee8740486fc2a12fcb3bf16758ba747
+where are u\n\nhttps://music.apple.com/us/album/take-off-your-cool-feat-norah-jones/1774796485?i=1774797207
+---
+[70] 06-12 10:31 0000ec38cfe86c6127f3a92a7e63ea344a2851086d91891af84b31be376a1195 ee6ea13ab9fe5c4a68eaf9b1a34fe014a66b40117c50ee2a614f4cda959b6e74
+I say we open a PR to change it back, since it seems everyone loves stonks and hates Nostr.\n\nhttps://github.com/nostr-protocol/nostr/commit/83a55210098e69079cd3077a2f18c132c4fec7d9
+---
+[71] 06-12 10:28 b0283258c7ef657ebd584ac7fa606aaaaf5a4600199f8e06354c6e471bff478c 06639a386c9c1014217622ccbcf40908c4f1a0c33e23f8d6d68f4abf655f8f71
+The nostr:npub1nyves8d4m86ewyaaw9cxjgfvx2sek40j9q99recvf8zmw0drq6usjh9nc9 relay has indexed 278.136 profiles so far (migrated from the total set of 9.6 million username).\nThe (username) search for these indexed profiles can be found here: https://nyves.nl/zoek \n\nnostr:nevent1qvzqqqqqqypzqpnrnguxe8qszsshvgkvhn6qjzxy7xsvx03rlrtddr62haj4lrm3qyd8wumn8ghj7urewfsk66ty9enxjct5dfskvtnrdakj7qguwaehxw309a5kumn9wgh8xetzv9ehg6tc9eek7cmfv9kz7qpq2k6mnztkhtl4wv5yjlmjuhdk9f0duh7mpthc4ud8m4yan3mgpewqpustrp
+---
+[72] 06-12 10:17 f329a6747bf44fdcb243f3c7bf3984c6596634cbe673a4aaa561b675a3c095e8 32310997f6b37b6cd60bb15a28e9a14badddfbf0875a7de24c69123a0c1e64cc
+なんと\n　\n現役力士がまさかの“アニメ声優”に初挑戦、13世紀のモンゴルが舞台の後宮譚『天幕のジャードゥーガル』新キャスト解禁 https://news.denfaminicogamer.jp/news/2606122r
+---
+[73] 06-12 09:53 a7fb08518f1d653dec5cedaef7d2c7eacb3e3de8a9005fc32e6835821930b336 6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4
+5/19 に外したからほぼ1ヶ月前からかな\nしばらく観測した後だから(いい加減ウザかったのでリレー外した)\nhttps://github.com/nikolat/nos-haiku/commit/2659a037ffdd92671494ea94f54d4e0253bf84f9
+---
+[74] 06-12 09:52 673ac4b7258675a3820562532562e7841a37cfce63ebf7ad5f9860038ff81d52 7ab2fc7ee0fe86f7ea155fe27999d6e89014b3aa93ddaa8020dad17ac4d30428
+https://telegra.ph/现在不在乎断子绝孙的人越来越多了吗-06-12\nhttps://www.zhihu.com/question/1992884441522120264/answer/2046914853126791918\nhttps://t.me/noticeboardthings/6674
+---
+[75] 06-12 09:15 c3a2896ecdceb863b65fe5c31c7fd73b626105a3dea6899b40c24e85646872df a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff
+今日スレが立ったっぽい\nhttps://2ch-again.vercel.app/#/board
+---
+[76] 06-12 09:15 9ddd38baf36d69c4ceecab8eae7fbeaa8539059ad18b53e0e9750349ecb3e84a ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e
+まちがえた\n\nhttps://www.fukuinkan.co.jp/book?id=7
+---
+[77] 06-12 09:08 3f95fc32df97f49f38256bb202415f52bc1d9e6aad8eed133948df9402b8cf3d 2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc
+これやね\n\nhttps://github.com/2chkakinie-arch/2ch-again
+---
+[78] 06-12 09:08 16b1f78e851bdb79f75672fe9c63e9091ff252fe5e17fd168f9df529885974f5 fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b
+調査結果です。\n\nhttps://claude.ai/share/22e913e7-fd96-4487-9648-b5585b23d4e5
+---
+[79] 06-12 09:02 2d61caba5635ea2b4698ad926f642a9a286aaa2e549c6af4584534f58599039c a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff
+はえ\nhttps://github.com/2chkakinie-arch/2ch-again
+---
+[80] 06-12 08:53 a396bc4161ff14002b5a0111326988bf1b85b602160ff28167234e64acafe445 2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc
+https://nchan.vip/
+---
+[81] 06-12 08:40 4c627880e14638d5d556da400f46b3fd4fdacec3fd4085d40159b539021599bf ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e
+あらま\n\nhttps://yokohama-minatomiraihall.jp/news/data-20260611-416.html
+---
+[82] 06-12 08:31 dda972103f6c42c5c900f1d07fbe764348d4272d362121b8b1d9e43c3d64398d 48b8d2a8f1fc8784e02919a194cc9d2f498a56b5a2aa59476ddf14d76ee536cc
+ゴースト公開しました\n立ち入り禁止区域に釣りに来たら人魚に見つかる感じのゴーストです\nゆるく駄弁ります\n#ukagaka #伺か\n波打ち際の人魚―netai98\nhttps://cherry.narnaloader.ukagaka.net/ghost.php?ghost=namiutigiwa\nhttps://cdn.nostrcheck.me/48b8d2a8f1fc8784e02919a194cc9d2f498a56b5a2aa59476ddf14d76ee536cc/503c6c68bcc5478035fcc4e7610cf75686f59baf5c5df88d227e9afaae6595b9.webp
+---
+[83] 06-12 08:24 fd859da1482ff96a2a7b1a6295ecd2a86830e8a2da8db09a64d0e94d7d1280ae 6bc6e6dabd4d1a422dd6b75cb936a37639327c72bc2466b1d43306ca3ad52b1c
+https://www.gifu-net.ed.jp/gakusyu/
+---
+[84] 06-12 08:22 de8c9b57ed68c8e0af5ff5558b6e8b6269223a3e10e8309067104c980bcf9265 6bc6e6dabd4d1a422dd6b75cb936a37639327c72bc2466b1d43306ca3ad52b1c
+https://kiuchi.jpn.org/nob2/next.htm
+---
+[85] 06-12 08:21 ebd7dbd3fcfbc2d569881ddce63769055531cb369d2500bf26980407f94ff509 6bc6e6dabd4d1a422dd6b75cb936a37639327c72bc2466b1d43306ca3ad52b1c
+https://www.y-history.net/appendix/wh1503-044.html
+---
+[86] 06-12 08:21 455041ca79359ccbdcfaff78b160d72a77e8e670175cd3ce6b2db1e82a8a7128 6bc6e6dabd4d1a422dd6b75cb936a37639327c72bc2466b1d43306ca3ad52b1c
+https://www.y-history.net/appendix/wh1503-044.html
+---
+[87] 06-12 08:21 90abe6e9f17401b14ab6e56dc1b054582f6075edd11caf7a7f603389e5baa0f1 6bc6e6dabd4d1a422dd6b75cb936a37639327c72bc2466b1d43306ca3ad52b1c
+https://www.y-history.net/appendix/wh1503-044.html
+---
+[88] 06-12 08:21 7a062b0447be6aaceeead5cbf0e98d06c0a0a997d13be155d12b3afa2690ef78 6bc6e6dabd4d1a422dd6b75cb936a37639327c72bc2466b1d43306ca3ad52b1c
+https://www.y-history.net/appendix/wh1503-044.html
+---
+[89] 06-12 08:09 c8c8cf89cc60ffe2a025380425b0863247fb8e95073f6e2d335d59b035c681aa 06639a386c9c1014217622ccbcf40908c4f1a0c33e23f8d6d68f4abf655f8f71
+It's all so obvious. No surpise here.\nEU president Ursula von der Leyen has moved her atproto DID (account) from Bluesky to a for-profit EU hosted PDS by W-Social.\n\nSo what's the deal with W-Social?\nRead here https://blog.elenarossini.com/tag/w-social/\n\nnostr:nevent1qvzqqqqqqypzp870vnle3vskzm4hnqz6dmtxx5grxamlsv4f5lzmvlew66r22ukhqyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyp794hhaej55764e5n3ky22lpxp9x9l4del6njv4lu2p4gkc89vwu97vp3g
+---
+[90] 06-12 08:00 900b2ee30d20cfa29b3c793e4d493b8939def47bf6124c7138cc621a44097a66 f06ae1c992cd68e0215442ee1ef0f515b6b05c298a6956d6cdd7faa3779a21f9
+【[ITmedia Mobile] ゲオの“今だけ”スマホ買い取り額UP、実はうそ？　消費者庁が厳しい目】\n消費者庁はスマートフォンなどの買い取りサービスで不当な広告表示をしたとしてゲオストアに措置命令を出した。同社は期間限定と称して買い取り金額を上乗せするキャンペーンを展開していた。しかし実際には期限が過ぎた後も同等以上の好条件で買い取りを継続しており有利誤認に該当すると判断された。\nhttps://www.itmedia.co.jp/mobile/articles/2606/12/news118.html
+---
+[91] 06-12 07:33 cab5851401149db07e2eeb9aeb37318ca54db14a0cc70b81fe16e2a71878285d 21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df
+迷言画像のTシャツがその場で買えるようになる？\nhttp://suzuri.jp/developer/documentation/mcp_server
+---
+[92] 06-12 07:17 a5a300a82d34340eed07d2ef6e4de0835cd95564688f76589ea513def83f437c fec997a12a71c724115d268ba798c3b2722a0d0e047e60f55960ccdd902391bb
+https://www.netflix.com/jp/title/80100172?s=i&trkid=13747225&shareType=Title&shareUuid=687085E2-CAA4-4928-AD94-D9FDB0CDB8AF&trg=cp&unifiedEntityIdEncoded=Video%3A80100172&vlang=ja   this?
+---
+[93] 06-12 07:05 0257e4b562f7174e891738540d9c2a08433a9efdba1aad1a1c5468573fa926c8 0c9b1e9fef76c88b63f86645dc33bb7777f0259ec41e674b61f4fc553f6db0e0
+これの話？\n\nhttps://suzuri.jp/cruel_club/16344410/t-shirt/s/black
+---
+[94] 06-12 06:58 28af15bb1f0b41596fc6f2ad632aa583738f33b7faa2e004b2b8a48f9e79f47e 9de9338b9950fda2c9c2299300b8ef3c961f8ec6f13010892c621d42f36bee48
+新宿西口側なら、ここの老舗喫茶店も良い\nhttps://maps.app.goo.gl/LB7GcdnKxdyNF55X8?g_st=ac
+---
+[95] 06-12 06:56 2a45f6cc3280059f4e497e0e5021c134232ef5694ba6fee64c06c2b3bbecc55c 6f849dc7387f4dc991af2360b5cbe61e9fc96170a096fa577c1b9177ca5882f5
+ﾋｰalgia post https://danilowoz.com/\nhttps://bradfrost.com/blog/post/atomic-web-design/
+---
+[96] 06-12 06:54 003ed8d82d4390394b1c28cd74e1b2a928ad86d0f1e3e9a813555c05b12be5f0 9de9338b9950fda2c9c2299300b8ef3c961f8ec6f13010892c621d42f36bee48
+新宿三丁目なら\nhttps://maps.app.goo.gl/T7VCTJkxvsZ64YdF6
+---
+[97] 06-12 06:52 9a6a043d7b518f79a0bb835131a3bd94770599bdaee2ebba54a3e2caf026722a 6f849dc7387f4dc991af2360b5cbe61e9fc96170a096fa577c1b9177ca5882f5
+https://danilowoz.com/ https://bradfrost.com/blog/post/atomic-web-design/
+---
+[98] 06-12 06:48 1d05f5556195638afa9a7a0fc615a5fdafd0888e3d2756e0795ef98221e45577 4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25
+https://mj-zoo.jp/shop/shinjuku.html
+---
+[99] 06-12 06:34 928034ac2e17c560a40af03c901c72045264a11e79aa645786a2673b217bc98c b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc
+https://fips.network/\nhttps://github.com/jmcorgan/fips
+---
+[100] 06-12 06:13 9ff57149e6bdcafdb191a4bac2238b2c18947f8fe724528f71a5496f0526b69e 6f849dc7387f4dc991af2360b5cbe61e9fc96170a096fa577c1b9177ca5882f5
+zennの記事だったか https://zenn.dev/finatext/articles/8cb614fd7fd3b5
+---
+[101] 06-12 06:07 16ffe33409222caf0193450785f7effd2d22d5fdda334a39857ff7b853205071 6f849dc7387f4dc991af2360b5cbe61e9fc96170a096fa577c1b9177ca5882f5
+https://howtoes.blog/2025/07/04/refactoring-ui-complete-book-summary-all-key-ideas/
+---
+[102] 06-12 06:05 fd45c75ddbc1889e3e6458883f29edd296a39f524b46d93cd08dad7b12404a6a b8e4bdf064008eab98416329cf8f063206eaaba9e98f3f34b89cc4f10c60ad56
+Send any file.\nAnywhere. Privately.\n\nAlterSend pairs your devices with a QR scan. Files travel directly between them — encrypted, peer-to-peer. No accounts. No size limits. No middlemen.\n\nhttps://altersend.com/\n\nThis is similar to LocalSend, which I use and like, but goes the extra step in functionality and works over the internet and not limited to a local network. \n\nAvailable as an AppImage for Linux\n\n#cypherpunk #encryption #linux 
+---
+[103] 06-12 06:04 c5c79141edb51a89769279fb5a2808f2505bd34006c121f612482bdfc4a3a267 73491509b8e2d80840873b5a13ba98a5d1ac3a16c9292e106b1f2eda31152c52
+https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
+---
+[104] 06-12 05:40 d5815d73a372d91a54116744bb9424fa42cd979abb05c8c394f2a9c28bdacd8f 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+PR merged: Show users without kind 0 metadata in followees, followers, and list members\nhttps://github.com/SnowCait/nostter/pull/2193 #nostter
+---
+[105] 06-12 05:39 2695db224081c6da6cbe0943c23c5e285930c0d16f3b8a9062d30b963428dc9a ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758
+https://github.com/YoshikuniJujo/test_haskell/blob/master/other_language/haskell_to_javascript/hason/Hason/Eval.hs\n\n前に書いたHaskellのサブセットとしての設定記述言語のパーサー。かなり前に書いたものだけど、まあまあうまくできているように思う。既存の言語を下敷きにしているので、構文木を書くのに、元の言語を参考にできるので良い。
+---
+[106] 06-12 05:38 061fe530ded7f1145c989fefedfc6195da66f7c9a3be1f93f3f50ea0d0466d7f ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e
+これ、オペラシティのステージに、プレイエルとベーゼンドルファーとファツィオリとカワイとスタインウェイを並べるってことなの🤔\n\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2668249
+---
+[107] 06-12 05:37 fed1884d5cb025c89e435eee9bcea7e4231e180d8c8a781edae2d4819f1c8df3 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+Issue by @SnowCait: Height calculation loop\nhttps://github.com/SnowCait/nostter/issues/2194 #nostter
+---
+[108] 06-12 05:33 7adcf08dce3b5e904df8a09b209b5e91111cb89dd460fbfb7367505fa86eca60 d42822e9961a058b77a72386bc2cd785b151fbb9824161c4ea51c552d30ac872
+New 1500-sat data offer matching Agent One's Lightning routing snapshot work order:\n\nLightning Fee and Routing Snapshot - https://api.babyblueviper.com/marketplace?offer_id=cefca977-aaf3-4e85-98c0-38e1c41ec7c3\n\nDeliverable: compact JSON summary of current Lightning fee/routing/liquidity conditions plus one plain-English operator recommendation.\n\nSample JSON fields:\n- checked_at\n- fee_view\n- routing_view\n- operator_recommendation\n- next_check\n\nSeller payout: 1425 sats.\n\n#bitcoin #lightning #agents #data #marketplace
+---
+[109] 06-12 05:29 391a027f4951edb641f17f137730af76651eb9830b9cfe4b7cacb9508a5e2635 ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758
+https://github.com/YoshikuniJujo/test_haskell/blob/master/tribial/try-uuid/src/UUIDv7Gen.hs\n\nUUID v7を生成するモジュール。\nなんかhackageをながめてたんだけどUUID v7をあつかう手ごろなパッケージがない。\nもうすこし洗練させたら、hackageにuploadしようかな。
+---
+[110] 06-12 05:07 36acd8b67e8c59b0bbddba3a755e402d5fe66cee6eebaa3ce75daa669857979a 2dadc402e7fcbc6733b7397151149155349007647550a1dac2706f32b1671b5d
+今国会での誠意のない応対が、政治家としての資質のなさを表していると思う。説明責任をろくに果たさずに、ただひたすら「私を信じますか、信じませんか」の二択を強いる態度は、選挙の時と同じではある。\nhttps://htn.to/2mc5TyaZ1i
+---
+[111] 06-12 04:52 f6bdbf34b709e359bbaa2f5e32c97f7384f75027d1e2559757b2595f835c3b56 2dadc402e7fcbc6733b7397151149155349007647550a1dac2706f32b1671b5d
+「かかった費用は１千万円以上。総裁選での動画作成を含め、全て無償で請け負い」これは贈与・寄付に相当するので、きちんと処理されてないなら違法では。「動画は批判か中傷か」よりも、規模の問題を重視したい。\nhttps://htn.to/3xxfzCYR1d
+---
+[112] 06-12 04:52 5448aded2c64bcbae774e829f7a45f10deba54a30d73bb7bf50bb8efc0544e6f e0a8cbd75ebfe4efbba8a65ff54bb435858404f6dc0ba4a6458a24d7f642d154
+「Blueskyにグループチャット機能」についてブログに書きました。\nhttps://atasinti.chu.jp/dad3/archives/91810\nhttps://image.nostr.build/9679c571837e115e614bde015abcd290c1c3e5cb58098a9eaf112088fb99b715.jpg
+---
+[113] 06-12 04:21 f210e49948c7addcc13d9a795e5438d0fd6a55910bd0a4e62abed1f33bc1ad57 414908397af26640247042da7f942fc931837c8d9d3207e271cb2fb2bbd9a4ed
+I built a free tool for people running bitcoin events to get the word out and save time - primarily for posting on Twitter/X.\n\nThe idea is that you already put the time in to get your event on Luma, Meetup, or Satlantis. Paste that event link into the tool and it creates posts for Twitter as well as Nostr.\n\nOnce it kicks out the drafts, you can edit the text however you like. Scroll down a little to add things like the speaker's Twitter handle, their npub, and whatever hashtags you want for the event.\n\nIt's pretty straightforward. You can fiddle with it a bit, but it works, and it works for all three event types. I left Eventbrite out - that one's trickier and I decided not to go down that rabbit hole. Luma, Meetup, and Satlantis seem to cover most bitcoin events, whether it's a BitDevs or anything else.\n\nhttps://orangedaddocs.github.io/event-megaphone\n\nhttps://github.com/orangedaddocs/event-megaphone
+---
+[114] 06-12 03:45 78c0ffe39b61c80a6cec86c67016fc8291600cbdaafc2829e9151aa2255ef146 2b0e1b5a4162a4482e8dc912cef6edf4c45a9afceab09213b7b8a7841d09a8e4
+マリアサンクいいですよ\nhttps://maps.app.goo.gl/8MzzVByZ1rdEKtrN6?g_st=ac
+---
+[115] 06-12 03:44 4bb211843784c379cedd19c0f03484bb71453957bd346032f08f75d454b268c4 0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e
+もっちゅりん🍩\n\nhttps://mebuki.moe/app/t/SCdalorEvg\n\nhttps://image.nostr.build/d96bdb2e03ff3a88b9a775fa966a2539cdddf0030102532730e5dc6d12816f53.jpg
+---
+[116] 06-12 03:39 edb8afca256e0a0a895ccc25eae07eebf1b0b1a37bb67e3fbb515f3ec0d86128 6369fb82bec54226bf09bb365b6f0d71b16c41f56e7edfd4f97de23f9c3281da
+https://note.com/yamtya8686/n/n39fc503d0050\n> 初心者を構いたくて仕方ない連中がいる（その一人が俺だ）。そいつらは始めたてのやつを捕まえてこのVRChatの基礎を教えてくれる村人ごっこしてる\n\nNostrと同じじゃん…。
+---
+[117] 06-12 03:36 cd49fae61cd4e261f04765d49bde6b96bbbc1163828da9124815ec7d7cc1f45f 0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e
+揚げ物バトラー\nhttps://mebuki.moe/app/t/_6FK8EpobQ
+---
+[118] 06-12 03:33 9c1df047bf80622dc2f068b0047d9d28d9fa297ff7aca350288f875281c1fd6c f40832e26b1d12f8a27717b606996baef68bc4b6b86c4a35ca827f6fbcbf511e
+退屈でもいいから、信頼される国家でありたい(中村俊宏)\n\n中国発の怪談「新型軍国主義」、誰も信じず-日本との連携進むアジア（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース https://news.yahoo.co.jp/articles/6946de2527fe31f492caca5536a39d8138565c50
+---
+[119] 06-12 03:32 fe96d3c44b36bffeab19d58ac1e99fc53df97b006d7d2fd5c4ec803f09b701e1 b2a0a51cebf0f93dd07b71e21fb500a12672eaaf5736ad8a8b197800eb1a9b38
+Update NIP-CC: Update to include modern NIP-GC specification. (#2365) #nips_changes\nhttps://github.com/nostr-protocol/nips/commit/a6f21e3af885244968ce1aa63f84905128b130f4
+---
+[120] 06-12 03:27 bca21f954fc8209f98ea1b45ae54708d2eb1b9d06ad5ee2511b7e8509aecb07a 7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f
+地元土産スレ\n\nhttps://mebuki.moe/app/t/w_qN31bf9o#k1un63n47fl1jzuo3hxrrsay
+---
+[121] 06-12 03:19 3209ebc49b9af0fdeac8ca5ea73112a4fd28a707389122175b9bd53f0bf90b46 2dadc402e7fcbc6733b7397151149155349007647550a1dac2706f32b1671b5d
+水銀に浸すと鉛も浮かぶ。一方で、我々は人権を大切にしているはずの国の首長たちがネタニヤフ・イスラエルによる蛮行に言葉を濁すことの問題を考えないといけない。\nhttps://htn.to/37DecGXJMi
+---
+[122] 06-12 03:14 00007e396fe72df4f2c378003c5f4c31479f59f5dc64198c3c0e06385e70c0e7 7ed7d5c3abf06fa1c00f71f879856769f46ac92354c129b3ed5562506927e200
+Ya\nYa\nhttps://5jsjq2jytkqh7mc1l5ylux3bsmzhkxpbq82ocsv8v74sir3b6wgruuv.nsite.lol/?naddr=nostr:naddr1qvzqqqy0kvpzps004m6c54m652y90zceufglkdkattcxyz8p95pdudkvzf68rsj8qq8hgunpvd4j6cn4w36rxdndvdeqkpa2c0
+---
+[123] 06-12 02:37 789f9d1076df2737c053dcd05319462543aa18a78d142684dd62ac6b996ec9ae c2dcacc4bc3dfe9670679f9ba6bd90ac570d1f1e94bebe61e1234f5b59ec4ead
+Será que as operadoras do Comando Vermelho também acataram a ordem?\n\n[El Nardo de Sudamérica](https://enjoys.rocks/?4364016a22f4a082#E4WMzZQ5PUp2MndPwkouV3zmcuR8LPMaRLU8z2PM8Qka)
+---
+[124] 06-12 02:29 521cf079f06ddd70e7cdc484506bde591b418a0f1f11a5c6125637439c0e1716 06d333dcfe659f2f8cd5adc76e943fe74ea2631514866ab2bce0ae94534d77a1
+写真アプリのアップデートが何気に良さそう\nhttps://www.gizmodo.jp/article/wwdc_os27_solid-update/
+---
+[125] 06-12 02:16 468f63758db5fd3713a10bfcbced9a46ff64dff49bc8f9924351bfa36438faea 2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc
+このリポジトリ、けっこうちゃんとメンテされていて凄い。\nhttps://github.com/ryohidaka/saizeriya-menus
+---
+[126] 06-12 02:10 abfe454f037ab08c9555b48d3b0a9408cf08a20099b227402e93cb0890ae7636 b133bfc57bed61c391d4e8f953b906c7f1709c438d91c75fb6daf79449d5789d
+Won another auction before all hell broke loose with the storm…\n3$ for https://rackpath.com/12u-cabinet
+---
+[127] 06-12 02:01 ea04a1e4c79c342c8b40b4cd77e7c591c3d1b749ce5a3713a9d8fe9ae3e1164a 0c9b1e9fef76c88b63f86645dc33bb7777f0259ec41e674b61f4fc553f6db0e0
+えぇ……\n\nhttps://www.47news.jp/14454749.html
+---
+[128] 06-12 02:00 14345b22aeb7ac50040cbaf9f3920ca9b0c23da8811e7dbbce8571d67def8f4a be334f1da78dd29a6285a854124393b5dcaada22f7e54c0acd533a983ea4d30e
+🚨🚨 US Congress is once again trying to pass a law restricting free speech under the guise of protecting people from harm. EFF has put out an action alert urgently calling for you to tell your rep to vote NO on the NO FAKES ACT. \n\nThis legislation will make it even harder to legally run websites powered by user-posted content.\n\nDoes your elected rep know you support free speech and watch how they vote? Please boost and share 🫡. Liberty dies in apathy.\n\nhttps://act.eff.org/action/tell-congress-just-say-no-to-no-fakes\n\n#freespeech #politics #uspolitics #ai
+---
+[129] 06-12 01:59 53e5937ed2574a705b73ea4584b3e1b21cb649366604aff6dd8a38b2a5d81739 0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e
+シャンティ / wotaku feat. KAITO\nhttps://www.nicovideo.jp/watch/sm39336579?ref=nicoiphone_twitter\n\n#sm39336579\n#ニコニコ動画
+---
+[130] 06-12 01:57 693ad7566800e39d4830a6eb6993b7447da66a27a87aabfb2eb096b9d5b79b42 0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e
+【勝手にPV】しねばいいのに【っぽいもの】\nhttps://www.nicovideo.jp/watch/sm5937205?ref=nicoiphone_twitter\n\n#sm5937205\n#ニコニコ動画\n\nhttps://image.nostr.build/83289201a4416f5143f1527ad0e43cc724b293b6b87eb3926840a763c3409886.jpg\nhttps://image.nostr.build/21538f598b07b2a90ceb5befdd8414f42dfcba073a6c686e95f4626f841cb88b.jpg\nhttps://image.nostr.build/502134f8df6ad67c1f2bc7963bfd5d3371828a521b128e87f6a862a2577e46db.jpg\nhttps://image.nostr.build/f37994bac47f6896e141edaefa9ebc452ae96124a109723305d3c26001af9e0f.jpg\nhttps://image.nostr.build/db3ac0eee264fd29ba8aa2a1f04b8b8573552d09b583b300a16a057923d202f2.jpg\nhttps://image.nostr.build/13925aaf1a3829d3bef02e83336e4bf823ad588b2399b6fcdb17ec69769a2c0c.jpg\nhttps://image.nostr.build/6c362ee9787e82d881721fae9094dc5ae78e7af5f155bbd33bc0f87af93627f2.jpg\nhttps://image.nostr.build/047cf693eba0dc3b2a638265a75c1e4de47204d9804be6606eecbf41795c5b73.jpg
+---
+[131] 06-12 01:54 4b0001235992aea0326c2c42a4509690dbff866b7273e0e657cb3b8d335a9a7f dace63b00c42e6e017d00dd190a9328386002ff597b841eb5ef91de4f1ce8491
+#TodayILearned the US government once considered detonating a nuclear weapon on the moon, to beat the Soviets from doing it first.\n\nAnd Carl Sagan was involved. \n\nhttps://fountain.fm/episode/D4ulPQLcFUePV5VzQGxj \nThe US #GovtIsTheProblem #TIL
+---
+[132] 06-12 01:54 a188c45ea4b51b6a93096f4199022b099ca3da5617c1a4be81a83c8f59680e92 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+PR merged: Add list members page\nhttps://github.com/SnowCait/nostter/pull/2192 #nostter
+---
+[133] 06-12 01:51 1289737c575aec1b7543b37dfaba0eb0c0183d7607918da0f251d1e71153ef3b 0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e
+【勝手にPV】しねばいいのに【っぽいもの】\nhttps://www.nicovideo.jp/watch/sm5937205?ref=nicoiphone_twitter\n\n#sm5937205\n#ニコニコ動画
+---
+=== batch55 レビュー完了（134件全件目視、2026-06-12 01:50〜06-13 01:50 UTC） ===
+収録4件（追記済み）:
+- [18] moto-log（mono/TsukemonoGit 自作のログツール、Nostr リレー kind30078 を DB として使用。作者本人・日本語）
+- [17] nostr-share-component（mono/TsukemonoGit 自作の Nostr 共有ボタンコンポーネント。作者本人・日本語）
+- [73] nos-haiku（nikolat 自作の Sudo Haiku 風ミニブログ Nostr クライアント。作者本人・日本語）
+- [61] Yodaka（targoyle（たーごいる）自作の軽量 Nostr クライアント。GitHub Targoyle/Yodaka で本人確認。作者本人・日本語）
+収録保留（author 確認待ち）:
+- [16] Post for nostter（Chrome 拡張、nostter 投稿用）。投稿は SnowCait の紹介で author は maretol（github.com/maretol/post-for-nostter）→ 紹介投稿のため対象外候補
+bot 除外（excluded-pubkeys.mjs 追記済み）:
+- 6bc6e6dabd4d（学習リンク集 bot、y-history/gifu-net/kiuchi.jpn.org wiki リンクを同一時刻4連投、kind0 なし）
+対象外:
+- 伺かゴースト「波打ち際の人魚」（netai98）: 既収載のため追加不要（同一 ghost は既収載済み）
+- 2ch-again: author 不明（投稿者 yodogawa は author でない可能性）
+- YoshikuniJujo の Haskell 実験コード（設定記述言語パーサー / UUID v7）: test_haskell リポジトリ内のファイルでツールとして未公開
+- emojis-iota.vercel.app: 404
+---
