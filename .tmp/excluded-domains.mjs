@@ -5,7 +5,7 @@ export const EXCLUDED_DOMAINS = new Set([
   "twitter.com",
   "www.instagram.com",
   "www.facebook.com",
-  "www.youtube.com",
+  "youtube.com", // サブドメイン全体（shorts.youtube.com / www.youtube.com 等）を除外
   "youtu.be",
   "www.tiktok.com",
   "discord.gg",
@@ -13,6 +13,9 @@ export const EXCLUDED_DOMAINS = new Set([
   "threads.net",
   "bsky.app",
   "t.me",
+  // 診断・クイズ系（診断結果シェアが頻出。ツールではない）
+  "shindanmaker.com",
+  "otherstuff.ai", // WORD5 ワードルゲーム結果シェアが頻出（外国サイト）
   // 画像・メディア系
   "files.catbox.moe",
   "litter.catbox.moe",

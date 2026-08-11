@@ -1182,5 +1182,37 @@
     "tool": "https://kazaguruma-transit.nawashiro.dev/",
     "note": "風ぐるま乗換案内（千代田区福祉交通の乗換案内サービス、都知事杯オープンデータ・ハッカソン2025 行政課題解決賞受賞）。作者本人（nip05 nawashiro@nawashiro.dev、GitHub nawashiro/kazaguruma-transit 一致、kind0 日本語）。日本語",
     "content": "OpenSatsの推薦書いてくれる人リプください！！！\n\nhttps://kazaguruma-transit.nawashiro.dev/\nhttps://github.com/nawashiro/kazaguruma-transit"
+  },
+  {
+    "id": "6348aef2bdcbb879f70917efc6415c8212a71f474aea65453b767abfd02fa0b8",
+    "pubkey": "b1100bf07a091738f09568f167a0fa1d22807005bf3ba65b349c45c441401289",
+    "created_at": 1781527990,
+    "tool": "https://misotr.github.io/sandbox/gray/graynostr.html",
+    "note": "graynostr（misotrek 自作、ChatGPT に頼んだら1分で生成された kind1 のみ取得・NIP-07 対応のモノクロ Nostr クライアント）。作者本人（nip05 _@misotr.github.io 一致）、日本語。Nostr ツール",
+    "content": "ChatGPT に頼んだら1分で生成された 白黒クライアント(kind:1のみ取得、NIP-07対応)\nhttps://misotr.github.io/sandbox/gray/graynostr.html"
+  },
+  {
+    "id": "1bc227b5ca5582d5cda417de70def1786791faa1093dd94022e7a9943966ba6a",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1781489087,
+    "tool": "https://github.com/SnowCait/nostr-app-manager",
+    "note": "nostr-app-manager（SnowCait 自作の Nostr アプリ管理ツール。開発終了予定で「保守したい人がいたらホストしてもらってもいい、修正は PR を」と呼びかけ）。作者本人、日本語。Nostr ツール",
+    "content": "保守したい人がいたらこっちは閉じるのでホストしてもらってもいいし、何か修正が必要だったらとりあえずここに PR 送ってくれてもいい（フォークなので PR の送り先は注意）\nhttps://github.com/SnowCait/nostr-app-manager"
+  },
+  {
+    "id": "d02189b4e1995837c82a40885e37a7fb714187bb13b689574065a04ecafbd3b9",
+    "pubkey": "6441c3f08ff77f9b2d44534ac946920bc4573328d42db442095ea8b970cbfd2e",
+    "created_at": 1781523308,
+    "tool": "https://github.com/tami1A84/null--nostr",
+    "note": "null--nostr（ぬるぬる。tami1A84 自作の Nostr クライアント。開発引退・アーカイブ化のお知らせ投稿）。作者本人（ぬるぬるのマスコットアカウント）、日本語。Nostr ツール（開発終了）",
+    "content": "ぬるぬるの開発は引退しアーカイブにしました。\nテストに協力してくれたり、アプリを使ってくれたりありがとうございました。\nhttps://github.com/tami1A84/null--nostr"
+  },
+  {
+    "id": "49418fa7623fa927b332a3f8e8018668e704e58c7de4bafc4c18a8f0f7074952",
+    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+    "created_at": 1781489402,
+    "tool": "https://nikolat.github.io/makibishi/",
+    "note": "まきびし（nikolat 自作の Nostr ツール。EOSE 待ってから kind0 をまとめて取得する挙動について作者本人が言及）。作者本人（本家）、日本語。Nostr ツール",
+    "content": "まきびし本家も500いかないしEOSE待ってから kind:0 まとめて取得しにいってる感じよ\nhttps://nikolat.github.io/makibishi/"
   }
 ]
