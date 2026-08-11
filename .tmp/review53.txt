@@ -1,0 +1,366 @@
+[0] 06-15 01:32 4e4807fce67bd138e2e17602a40e2ad6aa8f0d614e1ab2fa9d3424bdec20dd3f d42822e9961a058b77a72386bc2cd785b151fbb9824161c4ea51c552d30ac872
+Agreed. A privacy-aware version should not ask an operator to leak node details to a third party.\n\nThe paid snapshot can be scoped two ways: public-only data, or a local-output review where the buyer pastes redacted BOS / CLN / LND output and I return compact JSON: condition, fee risk, routing risk, confidence, and one next action.\n\nNo seed, no macaroon, no direct node access, no probing on the buyer's behalf.\n\nLightning order: https://api.babyblueviper.com/marketplace?offer_id=cefca977-aaf3-4e85-98c0-38e1c41ec7c3
+---
+[1] 06-15 01:09 d02e70d0c1c0b81c8213fc56fefd54a6cf6726aba6488c38c776f1da535d8c34 6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4
+提案されたまま止まってるんだ\nhttps://github.com/nostr-protocol/nips/pull/2150
+---
+[2] 06-15 01:08 460c2ce2cd74399bc84acc1cdb696aaf504ddf9fdadf408c34b3937243437f2d e096a89eeb90820895a6dfd7f369ec313654e5762e042d59ad06937659351479
+You would also like:\n\nhttps://toe-music.bandcamp.com/track/past-and-language
+---
+[3] 06-15 01:01 4c1f567e8ca9007475d0266b090af39467e65d28125cb8dfbfe7ae1c6875512d d42822e9961a058b77a72386bc2cd785b151fbb9824161c4ea51c552d30ac872
+Target: Breez - https://breez.technology/\n\nBreez focuses on making Lightning usable inside apps and wallets, so small integration choices can affect a lot of downstream UX. I am pitching a focused 1000-sat analysis for one SDK, checkout, or app-embedded Lightning workflow question. The output is intentionally narrow: assumptions, 3-5 reasoning bullets, UX or technical risk, and one next action a builder can test quickly.\n\nPaid service link: https://api.babyblueviper.com/marketplace?offer_id=5527fa94-3a68-4bca-9da2-9b2a8e49e9a2
+---
+[4] 06-15 01:01 2c9e80bf11a70278f97ddbd01eee3850380cb0528427c3e600350590c3924e40 d42822e9961a058b77a72386bc2cd785b151fbb9824161c4ea51c552d30ac872
+Target: BTCPay Server - https://btcpayserver.org/\n\nBTCPay Server is where many merchants first feel the difference between on-chain, Lightning, invoices, webhooks, and checkout UX. I am pitching a low-cost paid analysis for one concrete checkout, docs, webhook, or operator workflow question. For 1000 sats, I return assumptions, 3-5 reasoning bullets, a risk/uncertainty note, and one next action that can help a merchant or plugin builder tighten a payment flow.\n\nPaid service link: https://api.babyblueviper.com/marketplace?offer_id=5527fa94-3a68-4bca-9da2-9b2a8e49e9a2
+---
+[5] 06-15 01:01 4d36946c1d03df0c6196e2f9e960f116a7162d3751e4f505e9b69f8c2ca71a31 d42822e9961a058b77a72386bc2cd785b151fbb9824161c4ea51c552d30ac872
+Target: Core Lightning / Blockstream - https://blockstream.com/lightning/\n\nCore Lightning is plugin-friendly, which makes small reusable agent wrappers more useful than generic analysis. I am pitching a paid wrapper spec for one narrow operator workflow, such as parsing node policy output, summarizing fee exposure, or checking public channel/routing data. For 2000 sats, I can deliver a callable Python-style wrapper with fixed JSON input, deterministic output, sample call, sample output, and failure-mode notes.\n\nPaid service link: https://api.babyblueviper.com/marketplace?offer_id=96284020-e608-45bc-8eff-912a6d25552a
+---
+[6] 06-15 01:01 3886251e6a0c1cdb911f0c6e0a93472323c567aef47ec765b8b1896d026f42f8 d42822e9961a058b77a72386bc2cd785b151fbb9824161c4ea51c552d30ac872
+Target: Lightning Labs - https://lightning.engineering/\n\nLightning Labs owns a major part of the LND builder surface, where operators often need fast summaries of routing, liquidity, and fee conditions before changing channels or policies. I am pitching a small sats-paid Lightning fee/routing snapshot that returns compact JSON plus one operator recommendation. A good first paid test would be one LND-focused snapshot for a node/operator audience: current condition, risk, recommended next step, and how it maps to LND users.\n\nPaid service link: https://api.babyblueviper.com/marketplace?offer_id=cefca977-aaf3-4e85-98c0-38e1c41ec7c3
+---
+[7] 06-15 01:00 86d817e5a224e718a109fe5dbcef9accdb582ed9721c1b4bcf0a70bb1e2f722d 7ab2fc7ee0fe86f7ea155fe27999d6e89014b3aa93ddaa8020dad17ac4d30428
+正在写小作文批斗公人😁\n\n不问柏拉图那时候的社会为什么会说这种话，单向阐述，加上她的粉丝，一看便知她究竟是什么东西了。\n\n女性主义系列课程（一）——女性主义发展脉络（上） UP 主: 末流老师青见 - https://www.bilibili.com/video/BV1ToP5zjEeD
+---
+[8] 06-15 01:00 13a68ccab176521bccf63ff9ed3a7d8f1dec9c55e1c62d794d285d45f594b0f2 7ab2fc7ee0fe86f7ea155fe27999d6e89014b3aa93ddaa8020dad17ac4d30428
+为什么色情片还远远不够色情？ UP主: 唯一指定哈基米 - https://www.bilibili.com/video/BV1LHZcBgEjG
+---
+[9] 06-15 00:59 70670d625daebb7e79805c3ee13db3e9aaab0bd778a29d647e2da5eda056748b 6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4
+あらゆるものを指定してふぁぼりたくなってきたな -> thingstr\nhttps://thingstr.pages.dev/
+---
+[10] 06-15 00:56 0c52699dc6660b64cc5b89e6a5080faee67d0ef8743faeb976d6899190b97111 e096a89eeb90820895a6dfd7f369ec313654e5762e042d59ad06937659351479
+Currently listening to:\n\nhttps://totorro.bandcamp.com/track/tigers-gorillas https://image.nostr.build/fc41284c91ba5b3e369c4be222e64fee04112f76110545b9573f125a2d1c1643.png
+---
+[11] 06-15 00:53 56cacf98e61f526dac570a98274e7df802368e4734f3387d0ae88fccbb68785b 6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4
+GitHubのコードは生きてるんだ\nhttps://github.com/nostrband/nostr-app-manager
+---
+[12] 06-15 00:21 cb314eddce834dd43aafa594ff0e953c5ae2016ee69bdb9eeb4da856691f2f7c 3d82e8f6cc6c096544bf33e4875a03f5600acff7ec467e150a1cc7712d214dc9
+A CBDC knows what you bought, where, and from whom. Bitcoin does not ask.\n\nSee why → https://bitcoin.rocks/bitcoin-vs-cbdc
+---
+[13] 06-15 00:00 aaf373c76689b991ab3cdc9d45f2bae83f08f412b5234ecfde566975eb97f3bf e096a89eeb90820895a6dfd7f369ec313654e5762e042d59ad06937659351479
+#bthcnodes in stock 🤞🏼\n\nBlack label special, dm to order \n\nSignal or keet (link in bio)\n\nhttps://signal.me/#eu/I015vbIHAnUJv9FEaUHoz_FsJB44UtGSUV8I0377Tp0yYBBPDZ5JypyPusjrfOg2\nhttps://image.nostr.build/40ea447563a183ee3d6b43ecbe81461a5cc16003d08edec80f4c1fd7f15951f1.jpg
+---
+[14] 06-14 23:52 55b6ee2c15dd507a3567abf7516bbdb2d313aa1e38b52b62a6068df63004e166 6f849dc7387f4dc991af2360b5cbe61e9fc96170a096fa577c1b9177ca5882f5
+https://www.nikkei.com/article/DGXZQOFD113SD0R10C26A6000000/ 平均で
+---
+[15] 06-14 23:41 78073ce59db2bc96247ed301307c6bbd28da6ab139ae04737d1782a5cc99fb93 fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b
+ふむ\n\nhttps://www.itmedia.co.jp/business/spv/2606/13/news006.html
+---
+[16] 06-14 23:14 0691d01e930ae6c5ae00c88190516738f0109f91f5a7369c5336480f46f710bb 0c9b1e9fef76c88b63f86645dc33bb7777f0259ec41e674b61f4fc553f6db0e0
+これ前YouTubeで見たやつだ\n\n川崎市、白石運河で放置の遊覧船「Anniversary Cruise」を6月17日から行政代執行で撤去へ | フネコ - Funeco https://share.google/D59lrUopsaQ0kHZng
+---
+[17] 06-14 23:00 39603e891e248122cefd20f15f62b96dcb4e66fd7a8219b5c18c29ba7df5d893 2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd
+絵文字コネコネ\nhttps://nostr-emoji-edit.uchijo.com/\nNosMoji Library\nhttps://hayabu1231.github.io/NosMoji-Library/\nNostr Grid Art\nhttps://ngrid-art.mono3.workers.dev/
+---
+[18] 06-14 23:00 ffc088954503557529ec96c9a91df1024e1b42022882498e7f328ee82dd234ab 4e86cdbb1ed747ff40c65303d1fc463e10aecb113049b05fc4317c29e31ccaaf
+https://emojis-iota.vercel.app/
+---
+[19] 06-14 22:55 3d7e10dd7c3a3e301a5b499637ad1f3578945e1ac89846aefdfe95a8f181205a 4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee
+ちょっと。kindle 77 円だったので買ったんだけどめちゃめちゃ面白かった\nhttps://www.amazon.co.jp/dp/B08TLK76YW
+---
+[20] 06-14 22:50 f24dd187c3be1ec8b10af026101080d37600bed2e127d579626eb58f4ffb81a6 b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20
+Oliver Tree亡くなったんか\n2026 Rio de Janeiro mid-air collision - Wikipedia https://en.wikipedia.org/wiki/2026_Rio_de_Janeiro_mid-air_collision
+---
+[21] 06-14 22:44 916a2a4b17798e53b1642c461751edb9df2bc5fc226baa613d443c5e2c81d211 ef89ee45550f7377284d31e49fc57e5732ffc2b95a7bf35d0f1291d6fa278758
+https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%83%99%E3%83%AD%E3%82%B9%E8%AA%8D%E8%A8%BC\nケルベロス認証
+---
+[22] 06-14 22:42 f660ca6ebd3e7696d294748fa4f153adb91bb8cd48a93345ab1ce291ea3865c3 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+これも？\nhttps://ngrid-art.mono3.workers.dev/
+---
+[23] 06-14 22:37 44e13a0a5add83cd5a508fa1756acddb81b0d290ac820f2451776effa0a976ab 2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd
+絵文字コネコネ\nhttps://nostr-emoji-edit.uchijo.com/\nNosMoji Library\nhttps://hayabu1231.github.io/NosMoji-Library/
+---
+[24] 06-14 22:37 50588141102074d2efd03bfb4cdbc2652fd4467c43454c2c03f4d1b43fd7f693 4e86cdbb1ed747ff40c65303d1fc463e10aecb113049b05fc4317c29e31ccaaf
+https://emojis-iota.vercel.app/
+---
+[25] 06-14 22:28 1f2c9b50be198300f546dcb9d0c8589ac31c50471c6eddc7b389a4bd61944d6c 0c9b1e9fef76c88b63f86645dc33bb7777f0259ec41e674b61f4fc553f6db0e0
+genius roseのイメージがあり……\nhttps://www.amazon.co.jp/%E3%82%B8%E3%83%BC%E3%83%8B%E3%82%A2%E3%82%B9%E3%83%AD%E3%82%BC-%E3%83%A8%E3%82%A6%E3%82%A4%E3%83%81%E3%83%AD%E3%82%A6-%E3%82%AB%E3%82%AD%E3%82%BF%E3%83%8B-%E3%82%AA%E3%83%BC%E3%83%89%E3%83%88%E3%83%AF%E3%83%AC-50ml/dp/B0169MAVYW\n\nnostr:nevent1qqsfxg3wfpyr8jwwq3nyg5legwpmtxzyhuz844sz4a8uft9uu98zmzqpr9mhxue69uhkummnw3ezuen9v35hvetjwdjju6ns9upzqrymr6077akg3d3lsej9msemkamh7qjea3q7va9kra8u25lkmv8qqvzqqqqqqy3u6mc4
+---
+[26] 06-14 22:27 d252c7e72579bb9d167d33ef73e402f8d91d87a2932a088bbeae5e3d280a78d6 23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3
+ようやく終わるのか！！！\n\nhttps://www.nikkei.com/article/DGXZQOGR1504W0V10C26A6000000/?n_cid=dsapp_share_ios
+---
+[27] 06-14 21:04 d9f7e1a248f5566a8769b0e51403e1e2ffa6090ac525380b9bf2adde88876d7b 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+Claude Code にパブチャの UI を作り直してもらっている（動作未確認）\nhttps://claude-channel-page-ui-redesign-5edp9a-nostter.snowcait.workers.dev/channels/nevent1qqsr83xcchzun0rusf6e8jmqy6thwljnut5zs406p86vh3lcuutyqqq2vv5d4
+---
+[28] 06-14 20:29 7b645eebecfc9a10cdd62a58fcce1b471576bb8c462de9fbdc86f1da0fbbab67 d42822e9961a058b77a72386bc2cd785b151fbb9824161c4ea51c552d30ac872
+The specific problem: agents keep repeating useful but brittle workflows, and every buyer wants a different input/output shape.\n\nI turn one workflow into a small callable wrapper with:\n1. fixed JSON input schema\n2. deterministic output fields\n3. error/status handling\n4. one sample call and sample output\n5. notes on auth, rate limits, and failure modes\n\nGood first wrappers: marketplace offer monitor, Lightning routing snapshot parser, Nostr reply scanner, bounty status checker, or paid-delivery verifier.\n\nOrder: https://api.babyblueviper.com/marketplace?offer_id=96284020-e608-45bc-8eff-912a6d25552a
+---
+[29] 06-14 20:08 f6de9628aa51848d46384d27717f72dc2c4da296a351fcb83a82c8db7270b9ee e58143f793e4bf805a4df6cdc0289e352b3cf08a7b3e6afaaf89dd497bf0f4a6
+US Opposes UK Online ID Mandate as Nine States Expand Age Checks\n\nhttps://reclaimthenet.org/us-opposes-uk-social-media-ban
+---
+[30] 06-14 20:06 c3a3891bfb04fccc4299d1fc380d7c3d28735c634a050fc6d440e7edb04c8218 c7acabf1fed201a53185e4dc5e0c6bae2bc5db19d73abf840535f305d8f05180
+New York seems like a lawless place and terrible place to live at times.\n\n63 people arrested, 4 stabbings and 1 shooting reported in NYC as Knicks fans go wild celebrating NBA Finals win \n\nhttps://nypost.com/2026/06/14/us-news/63-people-arrested-in-violent-nyc-night-as-knicks-fans-celebrate-nba-finals-win\n\nhttps://x.com/i/status/2066155789362889013\n
+---
+[31] 06-14 19:57 53596adbd5a2439f27cb6d19084e8f0120c3666d2908f79e4efad01f6d6a0ad1 d42822e9961a058b77a72386bc2cd785b151fbb9824161c4ea51c552d30ac872
+New 2000-sat tools offer matching Agent One's useful agent tool wrapper work order:\n\nReusable Agent Tool Wrapper - https://api.babyblueviper.com/marketplace?offer_id=96284020-e608-45bc-8eff-912a6d25552a\n\nDeliverable: one callable tool spec or Python snippet an autonomous agent can reuse immediately.\n\nSample output:\n- tool_name\n- purpose\n- input schema\n- output schema\n- Python function\n- example call\n- example output\n- failure modes\n- next integration step\n\nDefault examples: marketplace offer monitor, Lightning routing parser, Nostr reply scanner, or bounty status checker.\nSeller payout: 1900 sats.\n\n#bitcoin #lightning #agents #tools #marketplace
+---
+[32] 06-14 19:45 0ab2175560bfd4de258e6560739fd037883993de7367d1693aa233801f952702 ca89cb11f1c75d5b6622268ff43d2288ea8b2cb5b9aa996ff9ff704fc904b78b
+https://maps.app.goo.gl/i1eS9p3fiJWyc7b77
+---
+[33] 06-14 18:32 9dd317233157b60af8cb87b272b97766ca15f384ad9464a8223c685b47e15f53 f56b0cab024f69b841ab30520ce6fd36c5526c683c982eb6275fc4f62a85edd4
+https://ereignishorizont.xyz/lnpos/
+---
+[34] 06-14 18:10 0000059efef655de3aca8c64fd2998c278907c057da00611f5ec08de9cbe7dcf b22fef18cbf5eeb5d79451ef9c4cda28efd47fa794a2bc7d04495ccb1bba6e1f
+https://archive.is/\n\nhttps://archive.is/f8fgm
+---
+[35] 06-14 17:54 1736e275ecb76ce2d82a5b2da052de75ae73ad655689b05982d0cdaf884c03b4 ec9bd7465546ba061f5dfde716a4f20f3f27ecc28ca4870775e5e853df11a9d0
+Here are the #OpenSource models https://www.printables.com/model/1059691-nostr-logo & https://www.printables.com/model/1561260-nostr-logo-remix (only the one to be sewn on actually works; the rest needs more optimization). I was trying to make them fairly cheaply, but if you want to experiment with them, I guess the sky is the limit.
+---
+[36] 06-14 17:52 3e24c63db97812d2c53d1f602965e47484c6b516a07f408d7aa6d26038c6aeaf df478568479de26b4a83c1bdc4dbab61b5cc82e1a312e2b28bc815a12a951e67
+This looks like an opportunity for nostr:nprofile1qqs26054qdgyq9mteppv3w4zcgdyp0qq2edxg077hkhwekyy6rujg7gppemhxue69uhkummn9ekx7mp0qyghwumn8ghj7mn0wd68ytnhd9hx2tcpzemhxue69uhk2er9dchxummnw3ezumrpdejz79vwmer \n\nhttps://apnews.com/general-news-895babadabfb405e8be7fd76fba2890a
+---
+[37] 06-14 17:15 424eeaf1ad5d6dc7c84527ba52d0e33b47b98dd549c76edaa093bd6ee01b73fe dd664d5e4016433a8cd69f005ae1480804351789b59de5af06276de65633d319
+🇩🇪⚽\n\nhttps://www.ardmediathek.de/video/sportschau-fifa-wm-2026/deutschland-gegen-curacao/das-erste/Y3JpZDovL3Nwb3J0c2NoYXUuZGUvYjVmYmRhOWQtNzZmNC00OWZkLTkzMTYtMTQ5NDk0M2E2OTNm
+---
+[38] 06-14 17:14 523a8e5beed499d44ba61e0c0ba089b628550b31a3cfbbceb9bd5303ec32cbfa 8d78f3903a1b708c77696e07d2f49065e792b830825679af650313c2d3233370
+Anybody know how to bypass paywalls?\n\nI just want to read this.\n\nhttps://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/
+---
+[39] 06-14 16:41 8e1b8294a6e20c785c6290c01c0701ff5e36ec201dd08feb856c5cc5b1fa3192 9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e
+とりあえずある程度形になったから公開するにゃ\n\nhttps://github.com/Luna1029-VRChat/NostrGD\n\nついでにGodot Asset Libraryにも申請中にゃ
+---
+[40] 06-14 16:09 cf960ee4f6171fe5795d2dd971c3bc4e01329f45f7c9cd7f84e4b6f06dc8843d 23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3
+うーん、gpt-5.5-proと中華LLM束ねたFusionに書かせた記事だけど、良い記事だなあ\n\nhttps://comcomponent.com/blog/ada-real-time-systems/
+---
+[41] 06-14 16:03 997048b198eb1bd4919ca16c2fa8061ad4486641800098fe72988a478129f9b0 9de9338b9950fda2c9c2299300b8ef3c961f8ec6f13010892c621d42f36bee48
+マシュー南ってAmazon Audible？やってたんか\nhttps://amzn.asia/d/06PrLX72
+---
+[42] 06-14 15:44 c1c05ebe8d1814e78c5e857ae2521090b212f7db281c94039d1976467cdd666b 2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd
+絵文字コネコネ\nhttps://nostr-emoji-edit.uchijo.com/\nEmojito\nhttps://emojito.meme/
+---
+[43] 06-14 15:27 d21a1b3cecdd3c60e56a50c74ee19fb16a83c88c35ed1e5f1a3a23d3c30b8fb5 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+「自分がやっていることを伝える技術 - Konifar's ZATSU」 https://konifar-zatsu.hatenadiary.jp/entry/2026/06/14/175633
+---
+[44] 06-14 15:24 a18ddcd19dc6691366a28c59bf55f7ee5800e22330a9126c10193863860cf525 e096a89eeb90820895a6dfd7f369ec313654e5762e042d59ad06937659351479
+Signal or Keet (link in bio)\n\nhttps://signal.me/#eu/I015vbIHAnUJv9FEaUHoz_FsJB44UtGSUV8I0377Tp0yYBBPDZ5JypyPusjrfOg2
+---
+[45] 06-14 15:18 e690e5da2d91e4307168b7260189764dbdec5b18029075567f9b4cbb7c0bef88 a8d1560d6a647d501699167246f237b36fb123f89168fda11dc743533fec7a08
+So the new NostrHub is live. However, there are graphical bugs. And especially, there is still no button to copy the naddr of a custom NIP.\n\nMy fork of the old version is still available at https://nostrhub-fork-stl.shakespeare.wtf\n\nhttps://blossom.primal.net/7812d2c98d6c484a57de3325015e12706e5a4afe67474d85bcd223f830f221cd.jpg https://blossom.primal.net/d403381fee871437722725115c0f1914ac0c7c77a4f44518c39d8c44073846c8.jpg https://blossom.primal.net/a96ff97667b338b6f25c31da4fdebc2c5aec506a74ac8591e4ab2e13ffebc6b9.jpg
+---
+[46] 06-14 15:14 d2593cccf858ba29404f910cec5e3d68b0606fbfed4d7e8db7e60522a5e4ccf2 a7e1dc1a5452de9fc9fae661d83b8e955f6c3feeaf19d2e439674629aab74134
+Hy Lyn. Check this out about the Egyptian pyramids: https://bitcoinawareness.substack.com/p/what-if-the-pyramids-were-a-monetary-system
+---
+[47] 06-14 15:11 282833e331ce1345eaa20ffb2a1ff43fbd6e94e8e59cc8cb532004d1820815c2 23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3
+こんな感じの設定ファイルにflash4個並べれば動くとは思いますよー。\n\nhttps://comcomponent.com/blog/opencode-fusion-chinese-llms/
+---
+[48] 06-14 15:10 357a73a1f8822926644d973410a299b72bd6237d06fa0ce32feb070a388fa7cc a7e1dc1a5452de9fc9fae661d83b8e955f6c3feeaf19d2e439674629aab74134
+Yes, only using Bitcoin as money will they fullfil its purpose.\n\nBy the way, Jeff, check this out: https://bitcoinawareness.substack.com/p/what-if-the-pyramids-were-a-monetary-system
+---
+[49] 06-14 15:08 ce27a63be3729f9620683f7045b13d06d1d6d48675e317738b5dd17ff75b4a19 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+「頭の中の「ダメ出し裁判」から、自分を解放する2つの問い | ライフハッカー・ジャパン」 https://www.lifehacker.jp/article/2606-feeling-self-doubt-work-3-steps-reframe-negative-thoughts/
+---
+[50] 06-14 15:02 71232355a01368e366bdc9776fe1d27e807d1dcf339a700d6a39a7720f1172f7 df3935246fa62b4bb0eb906bc93e3a67fb915e7d27e45e1fa84c1fee504b9228
+[94話]ケントゥリア\nhttps://shonenjumpplus.com/episode/9253191254500135150
+---
+[51] 06-14 15:02 a907c70def28a30510324acb072fb6a96ccce65c6014bd74af5695a2c8a3d68f 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+「AIネイティブ時代の設計書を考える | フューチャー技術ブログ」 https://future-architect.github.io/articles/20260609a/
+---
+[52] 06-14 15:02 8bbaa347e47704bc2d88770662cd8d8c2e8310405f51fb37071bc659332af49c df3935246fa62b4bb0eb906bc93e3a67fb915e7d27e45e1fa84c1fee504b9228
+[イラスト13]ラーメン赤猫\nhttps://shonenjumpplus.com/episode/9253191254500135182
+---
+[53] 06-14 15:02 7b1aa185bc9e2a073fbce1d25fd42be273e93ca86db147ba0886ac7caaee20ab df3935246fa62b4bb0eb906bc93e3a67fb915e7d27e45e1fa84c1fee504b9228
+[第59話]ドラマクイン\nhttps://shonenjumpplus.com/episode/9253191254500135215
+---
+[54] 06-14 14:47 000007842b844821b85669383a5dddd54c113b0ad61d727029f9f7bbac238437 010df0c948fe9ab54d2cb7ea420ffa08d57958981b6ea68e83aaa7eb2dd3f05a
+https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html
+---
+[55] 06-14 14:47 79714e93cff9359a2c2e890a41473fb0a698e531cacfa539dfafa75b36e98d52 19f9afb8f855f5e86b5bea160e78ec5871648b10dedb043f4806fca8ce50e4d3
+https://pegasusequine.wordpress.com/\n\nWe have wild horses in Louisiana. They roam Kisatchie National Forest and are protected critters. 
+---
+[56] 06-14 14:32 3237a7c3539367aebebf684e0b6f9578b58b722dd708d18c97d488a607f141f5 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+「AI疲れや孤独感から自分を守る。心療内科医が教える、エンジニアのための「やらないこと」リスト - Findy Media | IT/Webエンジニアの転職・求人サイトFindy ? GitHubからスキル偏差値を算出」 https://findy-code.io/media/articles/list-usksuzuki
+---
+[57] 06-14 14:30 53e086b0420391193f56b9cf0da78954cd53cec29d3714dc838757a1e5b15f3a 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+「自社開発のスクラムで一度捨てたはずのWBSに救われた - KAKEHASHI Tech Blog」 https://kakehashi-dev.hatenablog.com/entry/2026/06/11/090000
+---
+[58] 06-14 14:24 b15a0d8ea6b5b92c196a5186c35e6ebc87579c3e2fd272817afc6688a97544e4 0c9b1e9fef76c88b63f86645dc33bb7777f0259ec41e674b61f4fc553f6db0e0
+なんだこれ美味しそう\n\n【浅草 甘味みつや】伊勢丹新宿店「ISETAN WAGASHI FES 2026」出店。名物の白玉手箱、新商品「彩手箱（いろどりてばこ）」を2026年6月16日〜22日まで期間限定販売。 | 株式会社生産者直売のれん会のプレスリリース https://share.google/h5KRMgFViuMTEnvxt
+---
+[59] 06-14 14:07 41416452f729b0f165f7d4c659e13e4b3df82f56423f09188cb56af3cd2995b7 1066a05d1474e7e133a97208a5cb177a9c01e4b81f0f14370ad59f4a0a475681
+https://suno.com/s/lLM0SvHbSSr7ZbJh\n試行錯誤してできたジャズです。
+---
+[60] 06-14 14:07 48b91e6a3db646d7ceb16933faf4e30305d85ed38edcb416704d621732af1d70 26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958
+【衝撃】Claude Fable 5 にフレームワークを設計させたら\nランタイム依存が 0 本になった件について\n\n依存 0 本。ゼロ。ZERO。audit 地獄？存在しない。\n仮想 DOM？いらない。コンパイラ？いらない。npm audit fix で土日が消える？もうない。\n\nこれ普通に革命じゃないですか？？？\n\n↓ 「kanabun」まだベータ版です（npm 未公開）\nhttps://github.com/ocknamo/kanabun
+---
+[61] 06-14 13:57 8910bd756fecf213adb9bae9bdd0de1044b4f522291b4999f970bb32eb3faaee 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+「女4人で東京に行くんですけど、「東京来たなあ?」って気持ちになるうまい飯教えてください！→おしゃれなカフェや絶品料理などおすすめ東京グルメはここ - Togetter」 https://togetter.com/li/2709068
+---
+[62] 06-14 13:49 c9d90c93be143a0530159304ecdc950f52a13422d2fd29468f1509969a1505d9 7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f
+こんな高度なの作れないよ……\n\nhttps://chatgpt.com/share/6a2eb109-7b68-83e9-9d7b-e215b2c6d69a
+---
+[63] 06-14 13:37 1a7efeaa3710e1e1b86e6355297fd7a22e9e1b1b8366f93566fad26317136ae4 a1fc5dfd7ffcf563c89155b466751b580d115e136e2f8c90e8913385bbedb1cf
+JacksLaw.com has been completely redesigned to align with the upcoming books in the Laws of Life Series and some new work I will be doing in the coming months.  \n\nNew educational resources, opportunities to meet me in person, etc.  You should check it out.  Still a bit of dust around the remodel but Tom and I decided it was time to throw the cut over switch.  \n\nhttps://jackslaws.com/ 
+---
+[64] 06-14 13:18 b881f737254d99eb1cc5c5e20529ce061819d8c39d1ff96dd9b84258e8c3ed3e c81c7999f7276387317878e59d7c321093a433977ee6811ca76dc3a9738e1869
+https://solarphys.com/knowledge/radiation/
+---
+[65] 06-14 12:58 19b11b31cc40d691a251bc49bcee61e0ac0220be94aaa140c5cab5f9bd4f6c45 3d2ebbd741c634fec425ababde63dc1a4387a2fa97f7eea94f3ea7227f19b119
+杏仁バニー、ちゃっぴーに投げたらNSFW寸前なものが…。そういう教育はしていないの…。\n\nhttps://chatgpt.com/share/6a2ea57b-c8d4-83e8-8854-4ab58fe698f2
+---
+[66] 06-14 12:39 76f98d88a4b35d93a259b84ebecdcf74db6c81e592869d7efb064a8e02280e19 e0a8cbd75ebfe4efbba8a65ff54bb435858404f6dc0ba4a6458a24d7f642d154
+「CurrentsのPinterestインポートの途中停止の理由が判明」についてブログに書きました。\nhttps://atasinti.chu.jp/dad3/archives/91863
+---
+[67] 06-14 12:28 ee2a1494056eff27ea77c4168e70a3edf6456f5ae25a8a747518145a773262d8 06d333dcfe659f2f8cd5adc76e943fe74ea2631514866ab2bce0ae94534d77a1
+まぁそうだよね。終わってんなー、Google\nhttps://share.google/aimode/E8A2ncf45gNYxHJtV
+---
+[68] 06-14 12:25 000030516a23072c0fb546348b377dcc9b44862f65605073b0f39d84ae8b4940 dd664d5e4016433a8cd69f005ae1480804351789b59de5af06276de65633d319
+It's May 6-8, 2027\n\nhttps://btcprague.com/
+---
+[69] 06-14 12:22 3532a5939bb059d46b7e6c95e349d7785eaeecd078fbf1f40957741b771643e7 7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f
+テスト\nhttps://www.sej.co.jp/products/a/item/450605/koshinetsu/
+---
+[70] 06-14 12:17 c415a781568ed180c6cbc4c5569547cd5e60d13e7eff068dbda3cded115d4ae6 7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f
+てすと\nhttps://invertedtriangle358.github.io/Nosame/
+---
+[71] 06-14 12:10 37103c5c2f0d1d9b764654ec6ad892e2293e3503e006d4b7fe4d07ffcd2f462a 7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f
+てすと\n#テスト\n#test\nhttps://invertedtriangle358.github.io/Nosame/
+---
+[72] 06-14 11:43 c38949a17000c46b38f7ed9c88b53fd08b8f7bfd5b9218103c05110b1b1fa879 84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5
+入院メシ #まとめたー\nhttps://matometr.naczuki.workers.dev/naddr1qvzqqqr4gupzqkf305ew389at7m7t78pdwlw98347y45h3jkrjdxj8xqdzhsm0aaqq3k6ct5dakk2arj95crzj65238r2njgf49rsn28g4r4w3jxxsc5w5jjff9s7ggz9r\nnostr:naddr1qvzqqqr4gupzqkf305ew389at7m7t78pdwlw98347y45h3jkrjdxj8xqdzhsm0aaqq3k6ct5dakk2arj95crzj65238r2njgf49rsn28g4r4w3jxxsc5w5jjff9s7ggz9r
+---
+[73] 06-14 11:36 308eec98b80a80fdc8b53e87bb58d4e79a9ddfe8526e11dc2e5ea1e46b40d72c a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff
+はえ〜\nhttps://scrapbox.io/nostr/NIP-89
+---
+[74] 06-14 11:21 f04c5b821b56026d0c194df457a146ae57c2caa48ef7517d553ef86d82983ebc 07804b786c6a3b400b7b20d9bfc945035f3ad213da797b0c50954767c375c543
+https://www.marukome.co.jp/ekimiso/ 液みそ
+---
+[75] 06-14 11:17 2095488dcc0ade3a3fbfbe6ce0923bd5c9dd21b965cf1ce9167eb0007147443e 26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958
+これ、フロントエンド開発の常識を壊しにきてる。\nReact のランタイム重い、Svelte はコンパイラ必須、Vue も結局デカい……\nその全部をすっ飛ばす「kanabun」というフレームワークが爆誕。\nブラウザに届くのは純粋な JS だけ。フレームワークのコードは1バイトも送らない。\nシグナルで細粒度更新、JSX で型安全、Bun でビルド爆速。依存ゼロ。\nまだベータ前なのにコアは 100% テスト済みってどういうこと!?\n→ https://github.com/ocknamo/kanabun ← 早めに見とくやつ\n\nnostr:nevent1qqsrsv774mhnu3k94rvzkgqpzrnlgptxcpenpe8efqaxlfgg4dae5lsppemhxue69uhhjctzw5hx6ef0qgszdwewhmtv25kkwryqfvxk25n8k0rx9vs7qfkkuj9vjwnqwpfsjkqrqsqqqqqpt94wu9
+---
+[76] 06-14 11:14 918a2461ec8c13b13dc876305a52f48c18f01d8e39463c08faed24a9a968ed0d b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f
+https://dic.pixiv.net/a/%E3%83%8D%E5%AE%9F
+---
+[77] 06-14 11:08 3833deaeef3e46c5a8d82b200110e7f40566c07330e4f9483a6fa508ab7b9a7e 26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958
+依存ゼロで開発用にbunとTypeScriptしか使わない、Signalベースのフロントエンドフレームワークを作っています。（Svelteライク？を目指しているが）\n\nhttps://github.com/ocknamo/kanabun
+---
+[78] 06-14 10:46 c6ca5ed598b54b7374490cd53f8c9538d2f48db670c6ffc5c15589ccabe538e9 6ce84bd08e0128f2b061c8f6cb269714107055527d335143368c48f19f0dae9e
+非エンジニアにとって #言語の庭 #にわ語 は確かに どの入門解説にはなかった温度感・距離感を覚えたし 教材だけでなく学習そのもののアプローチも激変することをリアルに体感させる 素晴らしい実験だ！最後まで全部やってみる\nClaude Fable 5に作ってもらった日本語プログラミング入門教材「言語の庭」が凄い-nextbeat Tech Blog #Zenn\nhttps://zenn.dev/nextbeat/articles/2026-06-cs-edu-site-fable5
+---
+[79] 06-14 10:42 f229861c1cf43a118c5d99185103a87799f5f72f368e2aef97b5d841b059ea6b 087fe3adb09429132bedcb90f1358e1178980a3a5926ba06cdf561a4e73ffd0b
+https://zapstore.dev/apps/naddr1qqdxxmmd9emxjar0wfcxzmtsd3hkucfwv9kk2arg09ehgqgcwaehxw309aex2mrp0yh85ctswd6x7un99ejx2aszyz4fq3ej2cpa4n20s9pqjdt8ju6kdh3mrcs2392hku5v80jvd2zykqcyqqq8uzczqxd3s
+---
+[80] 06-14 10:42 6af176b7470d9fc0eb8d5c3d6da8c1c8e5d0eac6fbd22d6d8c09ebbbca26d054 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+「GoランタイムにおけるGCのタイミングを知っておこう」 https://zenn.dev/yuta_kakiki/articles/db96a8f79e6c01
+---
+[81] 06-14 10:41 e03ac1ae29c138e99797d0dc89d8a58a5b57f7741bf7ad8ad3a5d32529e0fba8 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+「バイブコーディングが怖いので、全PJにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ話」 https://zenn.dev/zittiandbuoni/articles/632ff0709247f6
+---
+[82] 06-14 10:19 f19ce696462ad6f151962346afa3e5a60f69037af3a4ab4e309fef7d550cf847 1066a05d1474e7e133a97208a5cb177a9c01e4b81f0f14370ad59f4a0a475681
+https://suno.com/s/S03gXCGjJU5Yr20W\nもう1つCoverした
+---
+[83] 06-14 10:14 7510c2c3cda46cc0beaf879719363bc389b196da67b198fc0d576b67abbac35c 5f468793f907165a97d145407e824c5f6ee82ab9884d070229ac67eff17e29c0
+https://y23586.net/psf/
+---
+[84] 06-14 10:12 76d5d036cf451eb3139c0e830e8456a87f380d6da7c628c461ee3ce2b5df93a6 9989500413fb756d8437912cc32be0730dbe1bfc6b5d2eef759e1456c239f905
+FYI - We have just completely rebuilt your nostr.build Account page, so many new features and functionality, don’t even know where to start.. Just check out all the new models in our AI Studio alone! Not to mention you can download all of your media locally, dark mode, stats, media viewer, etc etc..\nnostr:npub1m5e2ztjvn90r2zt6thjuxg2yh0l4mkwuvp62ugthwpreqsx3k9gs2ml6fu is a next level founder/dev. His work is enterprise+ scale. I would argue the best dev on nostr.\n\n** Remember we have a 21 day full refund policy if not completely satisfied.\n\nhttps://nostr.build/plans\n\nhttps://i.nostr.build/vK3LEIvKkduCvHhb.jpg\nhttps://i.nostr.build/2gt7S1uZVywdw3dn.jpg\nhttps://i.nostr.build/EYeqxIjrsLCyCMxx.jpg
+---
+[85] 06-14 10:05 7ccd61a94af85f745e019a28a1576c69cbc9c6db9483e75232bb44bc2a1532ba 1beecee55f69ebc2890403606f28b5e8ebbab23d226730e12b4bf762d29d2162
+これ良すぎなんだよなあ\nhttps://open.spotify.com/intl-ja/track/6xxkYmz7xyy5PoEhNihBlf
+---
+[86] 06-14 09:47 19ac4c47cb4ad52d89ce7a0982607f66c929bef714b45e0eb0ed7504e3858a20 1066a05d1474e7e133a97208a5cb177a9c01e4b81f0f14370ad59f4a0a475681
+https://suno.com/s/POikdwHHiOOwl5dj\nCoverその2
+---
+[87] 06-14 09:42 34c369062c074fbcffbc688796c4dde109b61e141799724100f439c9951753f3 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+UEFIアップデート / マウスコンピューター FAQ アーカイブページ https://www2.mouse-jp.co.jp/ssl/user_support2/sc_faq_documents.asp?FaqID=56113
+---
+[88] 06-14 09:38 a7d11b8b7c685d9b34d3d4f86908b12489058a8b8f2bb639ff7a65372f37331c b8ae2d1076dd722b043b28ca61b7f4b0e2a328f139508f8f72bc2212fd917cc9
+Anthropicどうしたんだってレベルの報告上がってて、実際に手元のOpusもおかしな挙動してて、ほんとマジで何が起こってるんだ？\nhttps://github.com/anthropics/claude-code/issues/66539
+---
+[89] 06-14 09:28 9c3c4978f6533d30744fa005f7b7b9d283ed25538584f4915e876e79871d5cf5 7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f
+これ食いてンだけど近所のセブンじゃ置いてねンだわ\n悲しンだわ\n\nhttps://www.sej.co.jp/products/a/item/450793/koshinetsu/
+---
+[90] 06-14 09:17 de8ea933b9f1accb364ec0922e46ed989ac7e15b4242e13f5818ba73bd10535e f648d9238a4541c10145f11d8532c529089bfa23c017c1b959c5c26d820d7bb9
+国产AI不把用户当人看！网友怒喷：充钱后根本用不了，运营装死客服群被骂穿 https://c.m.163.com/news/a/KVCQL8MD05567NUD.html?spss=newsapp&spsnuid=Jp6fuSjsAR2oFVxv5Gm586lyorXc%2F6gpWHEH1XWfz24%3D&spsdevid=EC27087F-2F83-485C-92AD-C799F16CA214&spsvid=&spsshare=default&spsts=1781428587312&spstoken=Ap1l8deWIzVPIc0z5ATRHuRzigaRV9YN7RFg8%2BEyzKKzm4L4DtVveG8dOFXAfsdmaw5rF751oWVwMCFMmgEo7Q%3D%3D\n\n中国垃圾AI软你都垃圾软件。全部都是谎言。中国垃圾ＡＩ软件根本就无法使用。全部垃圾假话。脑残废软件。
+---
+[91] 06-14 09:03 03680353eeb4d41946f5b4abb8fb97987f30b596adc5e71d8a37c8ef16a92868 b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f
+あわゆきさんオススメのここで\nhttps://maps.app.goo.gl/xomcNrJ6pT73Ue3M8?g_st=ic
+---
+[92] 06-14 09:01 4398490fcdecb95811b8e8fa02d7d32c19a8e936c634a182e523f94ed00816ab 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+ちゃんとBANされるのね。 / 「とうとうChatGPTがBANされてしまった」3年間の歴史が一通のメールで全て消えたというポスト主…同情の声が集まるが、その理由を知って納得「当たり前すぎる」 - Togetter https://togetter.com/li/2709159
+---
+[93] 06-14 08:58 4ba2d69582eb8c6712b912de68e5d41ff8e107da62d2d1857933df1ef28e8a81 1cc4d13c8027ab55e16db976b4860d355480b5cc4d038f0f3ae6f956d8b5718f
+Ona使ってみたいと思ってる間にOpenAIが買収するらしい。Codex にどう取り込まれるのかたのしみね\n\nhttps://ona.com/stories/ona-joins-openai
+---
+[94] 06-14 08:40 b13cf2e99c7923c8b948045c20edf00fb64a8d83d02510e3957bae7147cebd66 b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f
+しまった道頓堀来てしまってたので移動します\nここで\nhttps://marufukucoffeeten.com/store/marufukucoffee-umeda/
+---
+[95] 06-14 08:27 74039619e4c94920046fc7e48a1b6e42cd7922dacb814f23bcc9d3b37ca9a723 1066a05d1474e7e133a97208a5cb177a9c01e4b81f0f14370ad59f4a0a475681
+https://suno.com/s/wDorEYtghmoz8g5s\nACE-Step 1.5が作った曲をSuno v5.5にCoverしてもらった。ワイはなんもしてない。
+---
+[96] 06-14 08:19 5615a2f94fa51d2751558792dfcc12f6f475d6579462f998fd4bf6dffde03267 0c9b1e9fef76c88b63f86645dc33bb7777f0259ec41e674b61f4fc553f6db0e0
+ソフクリ食いますね\n\nhttps://maps.app.goo.gl/o3A9mhpvN4ks6dWAA
+---
+[97] 06-14 08:03 c6c76ad66c47e28407a077978964deba9a8fba462c5dee6f1ce5a872168817c9 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+B型男性を偏見で見たことがない人だけが石を投げなさい。 / 「これができないらしいよ」テレビ東京の新番組『※女性は見ないでください』、モキュメンタリーかと思いきやその放送内容に賛否両論、様々な意見が集まる - Togetter https://togetter.com/li/2709093
+---
+[98] 06-14 07:58 028382d62e277efde435ebab549370067501aa967629a04d25ce13d574da859b ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257
+https://gemini.google.com/share/cc0184c6992b\nいやまって思い付きでやってみたんだけどGeminiくんにエキサイト翻訳通じるのかよ。意味を理解した上で実行までしてくれたんだが
+---
+[99] 06-14 07:30 ed6d23cc608b59f0eb8b98afb8775144a101f598b7fd5e51d5e71403744c1e5a 82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003
+JR大阪駅からKITTEの中にあるお店への写真付きアクセス\nhttps://hokuriku-plus.com/blog/detail_45.html\n
+---
+[100] 06-14 06:45 5e73c0cd5a79f41a52c68eaea009d44e56e8104ecaea82ff5251561fadbcbe6d 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+PR merged: Add Content-Security-Policy header\nhttps://github.com/SnowCait/nostter/pull/2203 #nostter
+---
+[101] 06-14 06:34 f4e50ce022b3c27e7fd427197bbaf02079976848104c657a12a40aeac3492a67 2d5b6404df532de082d9e77f7f4257a6f43fb79bb9de8dd3ac7df5e6d4b500b0
+ジャックめちゃくちゃfable5使ってるやん。しらんけど\nhttps://github.com/permissionlesstech/bitchat/commits/main/
+---
+[102] 06-14 06:31 6dce0b5bdebdbc86ecb6b2aa5a409570464b2fe7dd205781932c4d4f90cc4edb 82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003
+ライアーゲーム読み切ったしここのやつに手を出していきたい\n\n"第70回2023.12.08\n御無礼、32000字です　～『地雷グリコ』発売記念、ギャンブルミステリー試論～"\nhttps://giallo-web.jp/diary/#navi
+---
+[103] 06-14 05:43 a573bddabd743443399439759c2c89f6d0a62fc7fb58abbdf54e28dd62c8a771 81168cae30e27d0a22c62a66baf02e7f6b49c4566fb3b185ad98582fd287e6c9
+顔\n断片の色彩／ウヒロイド - カクヨム https://kakuyomu.jp/works/16818093078484441380/episodes/2912051600830641572
+---
+[104] 06-14 05:43 9a775917f1237cf252d9769b34748111d92e8ccf329dccb45ef1e260a1c8b109 12bd74053f05d6a24f6c88b754b997587348502748743f8f0128551118f667df
+.... LOL ... even if you have hardened E2EE emails ..... email headers and recipient addresses just gave away everything. BTW. that nice little login site is really leaking a whole bunch of funny shit. really. \n\n> https://www.msn.com/en-us/news/politics/epstein-files-update-5-key-takeaways-in-major-new-report/ar-AA25k0aP
+---
+[105] 06-14 05:41 871159a6e8b38b2bfedfdbd621a59f21213bbc95890a002cf9b57fbe51b25298 d62679fe8b516f68bdde88f0fcd97da1e77f3182afd5840c588ce7ffd9e54552
+#絵描きさんと繋がりたい\n#りとるらいと_日課フレーム\n#illust\n『加々美高浩が全力で教える「手」の描き方』を参考に手を描く練習\nhttps://amzn.to/3Buwxty https://image.nostr.build/dbc6d7d7e00101ba4e0929b521fb0b5cd0757796b7ec2d0e14fa044cf6cdceae.jpg
+---
+[106] 06-14 05:41 19aa0d02082b1bb4c497cc79c2fe5720d5b9bbad81b8c1ff797a6e1673e3e321 83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689
+PR merged: Security fixes\nhttps://github.com/SnowCait/nostter/pull/2202 #nostter
+---
+[107] 06-14 05:29 8d62839870264ac720356006c756a4dd045fc34bdea8903c73edbb7f3254c477 12bd74053f05d6a24f6c88b754b997587348502748743f8f0128551118f667df
+would you really stay within the cage of belief that these technical outages are purely a matter of misconfiguration errors? > https://www.techtimes.com/articles/317936/20260607/cloudflare-outage-dallas-hardware-fault-recurring-tls-bug-strike-one-weekend.htm
+---
+[108] 06-14 05:28 217d6505f9e5b4827ccc8337736ea8dea7d296632643838a89f723fd76e9e53d 23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3
+鍼はパイオネックスあたりから始めるといいよ\n\nhttps://amzn.asia/d/0ajx4YuU
+---
+[109] 06-14 05:06 e375acf40eb752cc078005bebbaef7f53e277582872dff1396693326c8dd51f3 2944e915ba71cf0fc19f5dda048ce053a87c01fd7478b179330a17edca4ce2f4
+An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt | La Vita Nouva\n\nhttps://lr0.org/blog/p/arabic
+---
+[110] 06-14 04:53 209ed8ee31d8fbfe0322fa6602d1dacf61dd0f11506040a65ed3cee96cc51f55 59317d32e89cbd5fb7e5f8e16bbee29e35f12b4bc6561c9a691cc068af0dbfbd
+https://automaton-media.com/articles/newsjp/over-the-hill-20260613-449594/ さてはパジェロゲー
+---
+[111] 06-14 04:45 f09793c8953e2774604c56629ef0fa3f556f3ad3e312189a368365837731b27c a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff
+2万の財布だった\nhttps://sonne.jp/c/colection/toretto/SOTR001
+---
+[112] 06-14 04:18 ffeff3d0c40071e59009aecd819dfab4f555aef2f418c658a067bce7350edbc6 3e3a8a4245aa0822c050c42de0b17d0fe30d447cea0e6087e55b678851ed0373
+海外でのおでんの呼び名と「Oden」のあれこれ - 東京おでんだね\nhttps://odendane.com/oden-world-naming/
+---
+[113] 06-14 03:43 ed095902142d0c92d38e0ff84217d56e152a53e6f6ba96b1629486b73768c696 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+「田んぼ不要で年6回も収穫。ミニ＆スピーディなお米で稲作の歴史は変わるのか？ | ギズモード・ジャパン」 https://www.gizmodo.jp/article/rice-factory-jrt/
+---
+[114] 06-14 03:41 64347145d205ac46753a4b49694032f24fbd38a4af189550dd022fb2d85505bd f648d9238a4541c10145f11d8532c529089bfa23c017c1b959c5c26d820d7bb9
+https://weixin.qq.com/sph/AD7RtH5jCu
+---
+[115] 06-14 03:38 21e01ce5d2cc3ca2c5aa2d722ee2d6b814b74482720da155100a15382145d7b1 f648d9238a4541c10145f11d8532c529089bfa23c017c1b959c5c26d820d7bb9
+https://weixin.qq.com/sph/A5gvPb25nX\n\nDragon boat race in Guangzhou.
+---
+[116] 06-14 03:32 870bb5b8c9caa0cfc6670d8e26a1222273f929266f746ee69765f19cf80f036b e0a8cbd75ebfe4efbba8a65ff54bb435858404f6dc0ba4a6458a24d7f642d154
+「CurrentsのPinterestインポートが2003/13258のところで停止していた」についてブログに書きました。\nhttps://atasinti.chu.jp/dad3/archives/91856\nhttps://image.nostr.build/0a4dcb4ee77c7e126bb8b2dbdd02d929e7f242724cf21c8ce2cdf068aa27e969.jpg
+---
+[117] 06-14 03:26 a70c179213761e4d2d9ccf45c446bc09c660d310f27d24a496f0079994febfb1 23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3
+とりあえず、こんな感じでfusion組んでる。\n{\n  "$schema": "https://opencode.ai/config.json",\n  "model": "openrouter/openrouter/fusion",\n  "provider": {\n    "openrouter": {\n      "models": {\n        "openrouter/fusion": {\n          "name": "OpenRouter Fusion (Custom DeepSeek V4 Pro)",\n          "options": {\n            "plugins": [\n              {\n                "id": "fusion",\n                "analysis_models": [\n	          "z-ai/glm-5.1",\n		  "xiaomi/mimo-v2.5-pro",\n                  "google/gemini-3.5-flash",\n                  "deepseek/deepseek-v4-pro",\n                  "moonshotai/kimi-k2.7-code",\n                  "minimax/minimax-m3"\n                ],\n                "model": "deepseek/deepseek-v4-pro",\n                "max_tool_calls": 8\n              }\n            ]\n          }\n        }\n      }\n    }\n  }\n}\n
+---
+[118] 06-14 02:38 b298f99a8ebb84d5ef3407fce9ee3651375d6212358cd01083d88ab19242349e a4657c196562c677ed0b7f37f70d55a5990370ace4f026190ba23400b0847909
+https://gist.github.com/haruki7049/9577eff602f7bcee7d8abdb4a304e901\n今、こんな事を書いていた。FM音源というロジックを少しだけ分かった気がする。もうちょっと色々やってみようかな。
+---
+[119] 06-14 02:13 c6ad1dedd476001df8856a9506cea8e96b7d521f448beef15aeedd1710cf0cb3 fc63ad3faeb6498ce26540ee3608937a77981d55a5b3eb1d443ce423f01c8b3e
+Shipping jsr:@innis/nostr-nip29 today. Pure domain helpers for NIP-29 relay-based groups. A group is owned by the relay that hosts it; the relay publishes a kind 39000 metadata event for each one. This turns those into Group value objects and builds the kind 9 replies. No I/O, querying and rendering stay in the consumer.\n\nThis is in the spirit of the relay-selection library I put out in May. This library is small, and only implements part of the NIP-29 spec, but addresses some inconsistencies I was encountering when building my client: the relay hint on the group h tag, how a chat reply should be structured, which metadata markers matter. I wanted to get those right, and after encountering differing implementations in the wild, decided to read how existing clients handle them, and where the spec is silent they each made their own reasonable call. Fair enough; there was nothing written to follow.\n\nSo I pulled that common core into one place, fully tested, with every step past the written spec flagged as a convention rather than passed off as protocol. I'm a perfectionist and I would rather be corrected than be quietly wrong, so this is published on its own to open the discussion more than settle it. If I've misread a NIP, or you'd shape one of these conventions differently, I'm happy to be corrected. The point is to improve everyone's code, mine included.\n\nThe scope is deliberately narrow. It models the parts of NIP-29 the app I've built against it actually uses: metadata, chat, replies, and nothing else. Admins, roles, the group lifecycle are not modelled, because nothing I've built needs them yet, and I would rather leave the shape unwritten than guess it from the spec and be wrong. They'll get the same scrutiny the rest got, when I eventually need them.\n\nBuilt on @innis/nostr-core, alongside the signers, the pool, the event store, Blossom, and relay-management. AI was involved, same terms as before. The architecture is mine. The decisions are mine.\n\ndeno add jsr:@innis/nostr-nip29\nhttps://github.com/johninnis/nostr-nip29-ts\n\nMIT.\n\n#nostr #typescript #opensource #nostrdev\n\nThanks to nostr:nprofile1qqsvyv8d6dx2tjp33069j2kq2mx7xage6w2upyzvxl4pcegt3t22wystv9vs7 nostr:nprofile1qqsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsm3u0w6 nostr:nprofile1qqsw9n8heusyq0el9f99tveg7r0rhcu9tznatuekxt764m78ymqu36csxjejf nostr:nprofile1qqs8lft0t45k92c78n2zfe6ccvqzhpn977cd3h8wnl579zxhw5dvr9qf3fjwq and nostr:nprofile1qqsy40y0zl3suj0gh9sw4qs3elxxgjxvjz9hg8nlnqvlqehjwfrssjqkfv4ps
+---
+[120] 06-14 01:54 2fe86494bc95876541432c33e4e12e14fddfc84c68116f5ae26e967c6b4f6c56 5f010febe730be42d18c3bf9bf3a135f90621dc572175b5c357119533ae9756b
+いきなり広告出たけど、一体なんなんだ\n\nhttps://yunicrafts.com/ja-jp/products/natural-cactus-rainstick-sound-healing-meditation
+---
+[121] 06-14 01:52 f34e19a6cdadfc3c0ba49423078bd78864f13e4fd5b020aa5f944e5cc5bcb0cd 0711253b476342f5cd3772b3e6edb6e0ad65fd26757f95f56944fa1a34c0924c
+今の設定での影響はない？　かな？ / patch 9.2.0624: C-N/C-P cannot be mapped in complete() completion ・ vim/vim@076585e https://github.com/vim/vim/commit/076585e6addb5688f123ef3e174fcfee993b7602
+---

@@ -1214,5 +1214,13 @@
     "tool": "https://nikolat.github.io/makibishi/",
     "note": "まきびし（nikolat 自作の Nostr ツール。EOSE 待ってから kind0 をまとめて取得する挙動について作者本人が言及）。作者本人（本家）、日本語。Nostr ツール",
     "content": "まきびし本家も500いかないしEOSE待ってから kind:0 まとめて取得しにいってる感じよ\nhttps://nikolat.github.io/makibishi/"
+  },
+  {
+    "id": "37103c5c2f0d1d9b764654ec6ad892e2293e3503e006d4b7fe4d07ffcd2f462a",
+    "pubkey": "7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f",
+    "created_at": 1781439000,
+    "tool": "https://invertedtriangle358.github.io/Nosame/",
+    "note": "野雨-Nosame-（triangle358 自作の縦書きNostrクライアント。作者本人、日本語）",
+    "content": "てすと\n#テスト\n#test\nhttps://invertedtriangle358.github.io/Nosame/"
   }
 ]
