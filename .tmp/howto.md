@@ -1,5 +1,104 @@
-- `[i]` = エントリ番号、`MM-DD HH:MM` = UTC 時刻、`pubkey12` / `id12` = 先頭12文字
-- 各エントリの完全データ（pubkey 全文・id 全文・created_at・content）は `batches/batchN-24h.jsonl.bak` から引ける
+# いろいろボット追加候補ピックアップ 手順書
+
+.tmp/内で作業すること
+
+投稿本文の日本語を自動抽出するフィルタ（スクリプト）を**絶対に追加しない**。urlのみ投稿した日本人ユーザーが除外されてしまうため。
+日本人ノスターユーザーの投稿から「いろいろボットのリストに追加したほうがいいやつ」= **投稿本人が作成したツール** に言及している投稿をピックアップして `irerukamo.json` に追加する。
+
+この手順書は既に batch1〜batch7（2026-07-30 01:50 UTC 〜 2026-08-06 01:50 UTC）まで実施済みの内容をもとに、引き続き同じ手順で過去へ遡るためのもの。
+
+## 概要
+
+1. nostr-fetch で kind1 を 24h ごとのバッチで取得 → URL 付き投稿のみに自動フィルター
+2. 各バッチを手動レビューし、ピックアップ候補を `irerukamo.json` に追加
+3. スパム/bot を見つけたら `EXCLUDED_PUBKEYS` に追加し、既存バッチも再フィルター
+4. 各バッチ終了時に集計を報告し、「さらに遡るか」をユーザーに確認
+
+## リレー
+
+- wss://x.kojira.io
+- wss://yabu.me
+
+- 実行時は `ALGIA_CONFIG` 環境変数でパスを上書き可能（例: `ALGIA_CONFIG=/tmp/config.json`）
+- NIP-50 search は使わない。kind1 REQ → URL フィルター方式のみ
+
+## ファイル構成（.tmp/ 内）
+
+| ファイル                       | 役割                                                                                                                |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| `fetch-batch.mjs`              | バッチ取得 + 範囲メタ書き出し                                                                                       |
+| `re-filter.mjs`                | 既存 jsonl に除外リストを再適用 + URL フィルター + 降順ソート + 重複除去                                            |
+| `review.mjs`                   | jsonl → 人間可読な txt 変換（`node review.mjs <src.jsonl> <out.txt>`）                                              |
+| `next-batch.mjs`               | 進捗把握と次バッチ計算（どこまで実施済みか + 次バッチの番号・範囲・実行例を表示）                                   |
+| `excluded-pubkeys.mjs`         | `EXCLUDED_PUBKEYS`（除外pubkeyリスト集約。**必ずここに追加**）。fetch-batch.mjs / re-filter.mjs が import           |
+| `excluded-domains.mjs`         | `EXCLUDED_DOMAINS`（除外ドメインリスト）+ `isImageUrl`（画像拡張子判定）。fetch-batch.mjs / re-filter.mjs が import |
+| `irerukamo.json`               | ピックアップ候補の最終成果物                                                                                        |
+| `batches/batchN-24h.jsonl.bak` | 取得直後の原本（URL 付き全件）。**再フィルターは必ず .bak から行う**。git に追跡                                    |
+| `batches/batchN-24h.meta.json` | 各バッチの取得範囲メタ（fetch-batch.mjs が自動書き出し。next-batch.mjs が参照）。git に追跡                         |
+| `batches/batchN-24h.jsonl`     | フィルター済み（レビュー対象）。`.gitignore` で除外（`re-filter.mjs` で .bak から再生成可能）                       |
+| `reviewN.txt`                  | レビュー用テキスト（`[i] MM-DD HH:MM pubkey12 id12 pubkey全文` + content）                                          |
+| `algia.md`                     | algia の使い方メモ                                                                                                  |
+| `memo.md`                      | 元の作業指示メモ                                                                                                    |
+
+`candidates.mjs` / `dump.mjs` / `dump2.mjs` は最初の試行時のスクリプトで、現在の手順では使わない。
+
+## 手順
+
+### 1. バッチ取得
+
+```bash
+cd .tmp
+node fetch-batch.mjs <sinceUnix> <untilUnix> batches/batchN-24h.jsonl.bak
+```
+
+- レンジは UTC の 24h で、`since = 前回の until - 86400`、`until = 前回の since`（過去へ遡る）
+- **進捗管理は手動でしない。`batches/batchN-24h.meta.json` と `next-batch.mjs` で自動把握する**:
+  - `fetch-batch.mjs` は取得時に `batches/batchN-24h.meta.json`（取得した since/until と日時）を自動書き出しする
+  - `node next-batch.mjs` で「どこまで実施済みか + 次のバッチ番号と取得範囲・実行例」を表示する
+  - つまり `batches/` にある `.bak` ファイルが最新なら next-batch.mjs が正しい次レンジを出す。手動で表を更新する必要はない
+  - （参考: 最新バッチの `.meta.json` が無い場合にだけ次バッチが確定できない。取得は必ず fetch-batch.mjs 経由で行うこと）
+- 例（次バッチの取得〜レビュー）:
+  ```bash
+  node next-batch.mjs   # 次バッチの番号・範囲・実行例を確認
+  node fetch-batch.mjs <since> <until> batches/batchN-24h.jsonl.bak
+  node re-filter.mjs batches/batchN-24h.jsonl.bak batches/batchN-24h.jsonl
+  node review.mjs batches/batchN-24h.jsonl reviewN.txt
+  ```
+- 出力は原本ファイル（.bak）。イベントは kind1 のみ
+
+### 2. フィルター
+
+```bash
+node re-filter.mjs batches/batchN-24h.jsonl.bak batches/batchN-24h.jsonl
+node review.mjs batches/batchN-24h.jsonl reviewN.txt
+```
+
+- `re-filter.mjs` が除外リスト適用 + URL 付き判定 + 重複除去 + created_at 降順ソートを行う
+- 取得直後は fetch-batch.mjs 側にも同じ除外があるので re-filter と結果は一致するはず
+  投稿本文の日本語を自動抽出するフィルタ（スクリプト）を**絶対に追加しない**。urlのみ投稿した日本人ユーザーが除外されてしまうため。
+
+### 3. pubkey頻出度チェックと除外
+
+`reviewN.txt` を開く前に、まずpubkeyの出現順位を調べる。
+
+```bash
+node -e "const fs=require('fs');const lines=fs.readFileSync('reviewN.txt','utf8');const map=new Map();for(const line of lines.split('\n')){const m=line.match(/^\[(\d+)\] (\d+-\d+ \d+:\d+) (\w+) (\w+)/);if(m)map.set(m[3],(map.get(m[3])||0)+1)}const sorted=[...map.entries()].sort((a,b)=>b[1]-a[1]);for(const [pk,c] of sorted)console.log(c+' '+pk)"
+```
+
+出現頻度上位のpubkeyを**上から3つ**レビューし、明らかにbotまたは外国人であれば `EXCLUDED_PUBKEYS` に追加する。
+
+### 4. レビュー
+
+`reviewN.txt` を全部読む。書式:
+
+```
+[0] 08-06 01:50 abcdef123456 0123456789ab abcdef1234567890...（64文字）
+投稿内容（改行は \n に変換）
+---
+```
+
+- `[i]` = エントリ番号、`MM-DD HH:MM` = UTC 時刻、`pubkey12` / `id12` = 先頭12文字、末尾は pubkey 全文（64文字）
+- 各エントリの完全データ（id 全文・created_at・content）は `batches/batchN-24h.jsonl.bak` から引ける
 
 #### 判断基準
 
@@ -33,19 +132,14 @@
 
 - 投稿本文に日本語がある → 日本人。ピックアップ対象
 - 投稿に日本語がなければ kind0（プロフィール）を取得し、プロフィールに日本語がある → 日本人。ピックアップ対象
-- 投稿・kind0のどちらにも日本語がなければ、そのpubkeyの他のkind1投稿も確認する（1投稿がURLのみ・英語のみ等でも、他の投稿に日本語があれば日本人と判定できる可能性があるため）:
-
-他投稿に日本語があれば日本人。ピックアップ対象
-
+- 投稿・kind0のどちらにも日本語がなければ、そのpubkeyの他のkind1投稿も確認する（1投稿がURLのみ・英語のみ等でも、他の投稿に日本語があれば日本人と判定できる可能性があるため）。algiaのtimelineコマンドで対象pubkeyの投稿一覧を取得する（オプション詳細は `algia timeline --help` で確認）
+  他投稿に日本語があれば日本人。ピックアップ対象
 - **投稿・kind0・他のkind1のいずれにも日本語がなければ「日本人か不明」としてピックアップしない（リストに入れない）**
 - kind0 の取得は **algia** を使う（`fetch-profiles.mjs` 等のスクリプトは使わない）:
-
-```bash
+  ```bash
   algia profile -u <pubkey全文>
-```
-
-`name` / `displayName` / `about` に日本語（ひらがな・カタカナ・漢字）があるかで判定する。同時に `nip05` / `website` フィールドも確認し、本人作成判定（上記）に利用する。
-
+  ```
+  `name` / `displayName` / `about` に日本語（ひらがな・カタカナ・漢字）があるかで判定する。同時に `nip05` / `website` フィールドも確認し、本人作成判定（上記）に利用する。
 - この判定基準は今後も適用する
 - 判定結果は注記にも残す（「日本語」or「kind0に日本語 → 日本人」or「他のkind1投稿に日本語 → 日本人」等）
 - **除外**: スパム、bot（天気・ニュース・漫画・政治・感謝bot等）、ポルノ、他人のツールの共有、iroiro.json に既収載のツール、Nostr と無関係
@@ -67,16 +161,7 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
 - 注: batch1 は .bak が無い（フィルター前データは失われている）。batch1 は除外リスト追加前の内容のまま。過去バッチとの整合を取るため、必要なら batch1 だけ再取得してもよい
 - ピックアップ済みのエントリが除外で消えないこと（irerukamo.json に追加済みの id は残る）
 
-## 除外 URL リストの管理
-
-`excluded-domains.mjs` に `EXCLUDED_DOMAINS`（ドメイン単位の除外）と `isImageUrl`（画像拡張子判定。jpg/jpeg/png/gif/webp/avif/bmp/svg/heic/heif が対象）がある。`fetch-batch.mjs` と `re-filter.mjs` 両方がここから import して使う。投稿中の全URLが画像URLのみの場合は自動的に除外される（画像以外のURLが1つでも含まれていれば除外されない）。レビュー中に「また同じ関係ない URL が出てきた」と思ったら `excluded-domains.mjs` の `EXCLUDED_DOMAINS` に適宜追加する。
-
-- ドメイン指定（`blossom.primal.net`）またはサブドメインマッチ（`*.loca.lt`）に対応
-- SNS系（x.com, instagram.com, youtube.com 等）、画像共有系（catbox, blossom 等）、スパム系（headlines-world.com 等）をまず除外
-- 画像URLのみが含まれる投稿は拡張子判定で自動除外（`isImageUrl`）
-- ツールURLが直接含まれる投稿だけが残るように調整
-
-### 4. irerukamo.json に追記
+### 5. irerukamo.json に追記
 
 書式（既存エントリに合わせる）:
 
@@ -94,7 +179,7 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
 - `id` / `pubkey` / `created_at` / `content` は .bak から正確にコピーする（内容を省略しない）
 - 最後に `python3 -c "import json; json.load(open('irerukamo.json'))"` で妥当性確認
 
-### 5. 集計報告と継続確認
+### 6. 集計報告と継続確認
 
 各バッチ終了時:
 
@@ -106,10 +191,11 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
 
 ## 除外 URL リストの管理
 
-`excluded-domains.mjs` に `EXCLUDED_DOMAINS` があり、`fetch-batch.mjs` と `re-filter.mjs` 両方がここから import して使う。レビュー中に「また同じ関係ない URL が出てきた」と思ったら `excluded-domains.mjs` に適宜追加する。
+`excluded-domains.mjs` に `EXCLUDED_DOMAINS`（ドメイン単位の除外）と `isImageUrl`（画像拡張子判定。jpg/jpeg/png/gif/webp/avif/bmp/svg/heic/heif が対象）がある。`fetch-batch.mjs` と `re-filter.mjs` 両方がここから import して使う。投稿中の全URLが画像URLのみの場合は自動的に除外される（画像以外のURLが1つでも含まれていれば除外されない）。レビュー中に「また同じ関係ない URL が出てきた」と思ったら `excluded-domains.mjs` の `EXCLUDED_DOMAINS` に適宜追加する。
 
 - ドメイン指定（`blossom.primal.net`）またはサブドメインマッチ（`*.loca.lt`）に対応
 - SNS系（x.com, instagram.com, youtube.com 等）、画像共有系（catbox, blossom 等）、スパム系（headlines-world.com 等）をまず除外
+- 画像URLのみが含まれる投稿は拡張子判定で自動除外（`isImageUrl`）
 - ツールURLが直接含まれる投稿だけが残るように調整
 
 ## 注意点
@@ -132,3 +218,4 @@ node review.mjs batches/batchN-24h.jsonl reviewN.txt   # 再生成
 - **リレー接続失敗時のリトライ**: 接続エラー時の再試行手順が未記載
 - **review.mjs出力の拡張**: nip05・websiteをreviewN.txtに表示すれば、本人作成判定の作業効率が上がる可能性がある。未実装
 - **excludedCountの内訳分離（re-filter.mjs）**: pubkey起因の除外とURL起因の除外が同一カウンタに合算されている。fetch-batch.mjsは分離済み。未実装
+- **algia timelineコマンドのオプション仕様未確認**: 「日本人かどうかの判定」内の他kind1投稿確認手順で `algia timeline --help` を参照する記載のみに留めている。オプション詳細（対象pubkey指定方法等）は algia.md に記載が無く未確認
