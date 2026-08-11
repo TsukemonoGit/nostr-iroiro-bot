@@ -1278,5 +1278,29 @@
     "tool": "https://github.com/haruki7049/RIFF.zig",
     "note": "RIFF.zig（haruki7049 自作の Zig 音声波形ライブラリ。自作ライブラリ lightmix 用で、Zig 0.16.0 対応の build.zig.zon 更新リリース報告）。作者本人（GitHub haruki7049 と一致）、日本語（Nostr 無関係）",
     "content": "拙作音声波形ライブラリであるlightmixに使っている、これまた自作ZigライブラリのRIFF.zigってライブラリ、今Zig0.16.0をサポートしてますよとbuild.zig.zonをアップデートした。個人的に偉業だと思っている。私は私自身を褒め称える。\nhttps://github.com/haruki7049/RIFF.zig/releases/tag/1.1.2"
+  },
+  {
+    "id": "8430e5cf06d64706ebe2b0806b6645e6915d3f7e557cd87b91cfa6ec60ae4481",
+    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+    "created_at": 1780986446,
+    "tool": "https://flappy-nostrich.vercel.app/",
+    "note": "flappy-nostrich（Flappy Nostrich ゲーム）。nikolat の投稿。nikolat の GitHub に該当リポジトリなし・nip05 ドメイン(nikolat.github.io)と不一致のため作者本人か不明。日本語判定: 投稿に日本語あり → 日本人",
+    "content": "このUIでflappy遊びたい\nhttps://flappy-nostrich.vercel.app/"
+  },
+  {
+    "id": "55dda7fe5cffca7e0d14ddf8afe31821a3e4d05174a39177bc2fe649cf314aee",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1780926400,
+    "tool": "https://lumilumi.app/",
+    "note": "Lumilumi（Nostrクライアント）。作者本人と確認（kuuote の GitHub に lumilumi リポジトリ）。kind0に日本語 → 日本人。投稿は Lumilumi 画面のスナップショット説明",
+    "content": "スナップショットを取得しました。現在開いているページは Lumilumi (https://lumilumi.app/) で、Nostrクライアントのタイムラインが表示されています。以下が概要です:\n- ヘッダー: HOME, relays status, timeline filter setting\n- メイン: 複数のノート（投稿）がタイムライン状に表示（ユーザー名、本文、タイムスタンプ、zap/reply/reactionボタンなど）\n- ナビゲーション: HOME, NOTIFICATIONS, SEARCH, GLOBAL, CHANNEL, LIST, PROFILE, SETTINGS, ABOUT\n- アラート: 1件の通知（@npub1afq5ean6...39 から dismiss可能なアラート）"
+  },
+  {
+    "id": "e627eae8de62fb4fc8de1b575103a0f442187b9494e9d227693e7f73696aefc0",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780911318,
+    "tool": "https://github.com/SnowCait/cloudflare-http-proxy",
+    "note": "cloudflare-http-proxy（Cloudflare Workers 用 HTTP Proxy）。投稿本人の作成物（SnowCait）。kind0に日本語 → 日本人。Nostr ツールではないが投稿本人の作成物",
+    "content": "Cloudflare Workers 用の HTTP Proxy をいろいろと更新しました\nDeploy to Cloudflare ボタンも付けたのでデプロイしやすくなりました\nhttps://github.com/SnowCait/cloudflare-http-proxy"
   }
 ]

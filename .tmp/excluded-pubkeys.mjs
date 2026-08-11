@@ -102,4 +102,7 @@ export const EXCLUDED_PUBKEYS = new Set([
   "264fa2461fce", // sputniknews.cn 中国語ニュース転載 bot（簡体字）
   "6bb81407878e", // sputniknews.cn 中国語ニュース転載 bot（簡体字・別アカウント）
   "a4132de3f6fe", // aljazeera.com ニュース転載 bot
+  "25658dd3bb20", // ビットコインテストネットマイニング通知 bot（Block found! 連投）
+  "ad49832d5a2a", // ニコニコアニメ新着配信 bot（nicoanime.com）
+  "2bb2abbfc589", // うにゅう(ぼっと)
 ]);
