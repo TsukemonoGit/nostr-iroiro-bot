@@ -1182,5 +1182,13 @@
     "tool": "https://koteitan.github.io/nostr-post-checker/",
     "note": "nostr-post-checker（koteitan 自作の Nostr 投稿チェッカー。ダークモードを追加。同日に findmine も更新だが findmine は既収録の find-mine-fire と同一視）。koteitan は日本語確定・既収載多数",
     "content": "https://koteitan.github.io/findmine/\nhttps://koteitan.github.io/nostr-post-checker/\nにダークモードを追加"
+  },
+  {
+    "id": "6a6b82f22c8d6057c721807bd7012a8fc6348a77a285feb87e61f3c6324664c7",
+    "pubkey": "04c4089f9e54c3883355a6739141e54376f7aabd7a8565e7483e8173dfd1a512",
+    "created_at": 1781584840,
+    "tool": "https://kazaguruma-transit.nawashiro.dev/",
+    "note": "風ぐるま乗換案内（千代田区福祉交通の乗換案内サービス、都知事杯オープンデータ・ハッカソン2025 行政課題解決賞受賞）。作者本人（nip05 nawashiro@nawashiro.dev、GitHub nawashiro/kazaguruma-transit 一致、kind0 日本語）。日本語",
+    "content": "OpenSatsの推薦書いてくれる人リプください！！！\n\nhttps://kazaguruma-transit.nawashiro.dev/\nhttps://github.com/nawashiro/kazaguruma-transit"
   }
 ]
