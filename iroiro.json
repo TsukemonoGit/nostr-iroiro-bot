@@ -1231,5 +1231,71 @@
     "title": "emoemo",
     "url": "https://koteitan.github.io/emoemo/",
     "description": "Nostrのカスタム絵文字（NIP-30）を管理できるやつ。絵文字リスト(kind:10030)と絵文字セット/パック(kind:30030)を作成・編集・閲覧できる。NIP-07ログイン・nostr.buildアップロード対応。なくなったemojito/emojis-iotaの後継"
+  },
+  "207": {
+    "category": "",
+    "title": "Nostr-Cache",
+    "url": "https://ocknamo.github.io/nostr-cache/",
+    "description": "ブラウザ内で Nostr リレーを起動し、上流の実リレーの手前に透過キャッシュとして 挟みます。クライアントは素の new WebSocket() を使うだけで、対象 URL への接続は ネットワークに出ずにページ内のリレーへ届きます（リードスルー / ライトスルー）。"
+  },
+  "208": {
+    "category": "",
+    "title": "Nostr 検定",
+    "url": "https://clask.compile-error.net/nostr-kentei/",
+    "description": "あなたの Nostr 理解度を測定します"
+  },
+  "209": {
+    "category": "",
+    "title": "SocialHub",
+    "url": "https://socialhub-app.pages.dev/",
+    "description": "マルチ SNS クライアント\nマルチ SNS クライアント SocialHub の Web 版をリリースしました！ 🎉🎉\nNostr Bluesky Mastodon など複数の SNS を同時に閲覧、投稿することができます！ Web 版は TweetDeck like UI で閲覧性が高くて使いやすいので是非！ モバイル PWA にも対応しています！ 🙌"
+  },
+  "210": {
+    "category": "",
+    "title": "relay-pulse",
+    "url": "https://awsome.inaridiy.com/relay-pulse/",
+    "description": "依存ゼロのNostrリレー監視ダッシュボード"
+  },
+  "211": {
+    "category": "",
+    "title": "nostrism",
+    "url": "https://nostrism.shino3.net/",
+    "description": "タイムライン、ハッシュタグ、通知、チャット。見たいものを横に並べたまま追える Nostr クライアント。"
+  },
+  "212": {
+    "category": "",
+    "title": "Streets",
+    "url": "https://streets.eyemono.moe/",
+    "description": "Nostr用のWebクライアントアプリケーション"
+  },
+  "213": {
+    "category": "",
+    "title": "zundamstr",
+    "url": "https://koteitan.github.io/zundamstr/",
+    "description": "日本語の文末を「〜のだ」に変える純関数なのだ"
+  },
+  "214": {
+    "category": "",
+    "title": "ToriNos",
+    "url": "https://apps.apple.com/jp/app/torinos/id6767139551",
+    "description": "iPhone向けNostrアプリ"
+  },
+  "215": {
+    "category": "",
+    "title": "event lab",
+    "url": "https://events.kojira.io/",
+    "description": "イベント日程調整、イベントのたまご、ビンゴなど様々な機能があります"
+  },
+  "216": {
+    "category": "",
+    "title": "zod-nostr",
+    "url": "https://github.com/akiomik/zod-nostr",
+    "description": "Spec-faithful, tunable Zod schemas & codecs for Nostr — strict by default, loosen deliberately. Classic + zod/mini."
+  },
+  "217": {
+    "category": "",
+    "title": "warawo",
+    "url": "https://koteitan.github.io/warawo/",
+    "description": "\nフォロイーwrite リレー → 自分read リレーのつながりが少ないフォロイーをランキングで表します。\n\n「この人フォローしてるのに読めてるリレーないじゃん...」を検出できるKAGENUIの亜種みたいな機能です。（outbox modelがあればこれは要らないんだけど）\n\n※全フォロイーの全10002リレーに繋ぐのでモバイルは通信料かさむので注意"
   }
 }
